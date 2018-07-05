@@ -1,0 +1,708 @@
+#AREADATA
+Name Twil'Fanor~
+Builders Ulsicor~
+VNUMs 25700 25799
+Credits { 70+ } Ulsicor Twil'Fanor~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 25700
+Name mountain creature troll~
+Short a mountain troll~
+Long A seething, grotesque creature looks hungrliy in your direction.
+~
+Description From the deepest caves comes the hideous mountain troll.  Its matted
+grey-white hair and sickly pale skin are only off-set by its dull black
+eyes, black within black, empty and soulless.  It covers the mountainous
+terrain here with ease upon sinouos limbs to tear and rend the flesh from
+its prey with the razor sharp efficiency of talon-like claws.  
+~
+Race troll~
+Act_flags ABGP
+Aff FJPc
+Aff2 0
+Align 0
+Group 0
+Level 70
+Hitroll 3
+Hit_dice 10d10+1500
+Mana_dice 0d0+0
+Dam_dice 3d10+12
+Dam_type claw
+Armor -50 -55 -60 -50
+Off DJ
+Teach A
+Imm 0
+Res I
+Vuln HK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1
+Form ABHMV
+Parts ABCDEFGHIJKUVZ
+Size medium
+Material unknown
+Fres BE
+EndMob
+
+#MOB
+Vnum 25760
+Name old dwarf Gloin Copperanger~
+Short A grisled and scarred old dwarf is here, ready to hand out implements of war to those in need.~
+Long (no long description)
+~
+Description ~
+Race dwarf~
+Act_flags AGP
+Aff HJNZc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach C
+Imm 0
+Res LQ
+Vuln R
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 25786
+Name quasi being dragon Thrordsgwar~
+Short the {MP{mh{Ma{mn{Mt{ma{Ms{mm{Ma{md{Mr{ma{Mg{mo{Mn{x {RT{ch{Yr{ro{Mr{Dd{Rs{cg{Yw{ra{Mr{x~
+Long A shimmering quasi-being of darkness and light is here in the form of a massive winged dragon.
+~
+Description ~
+Race dragon~
+Act_flags ABQRST
+Aff HJTc
+Aff2 AGHIO
+Align 0
+Group 0
+Level 100
+Hitroll 500
+Hit_dice 500d2+1000
+Mana_dice 250d4+250
+Dam_dice 750d2+500
+Dam_type claw
+Armor -150 -220 -200 -200
+Off CDFGHIJKMNO
+Teach A
+Imm ACHJKMNP
+Res BGHZ
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form CHc
+Parts ACDEFGHIJKPQUVXZ
+Size giant
+Material unknown
+Fres E
+Ffor AZ
+EndMob
+
+#MOB
+Vnum 25787
+Name clone evil twin ullssiccorr doppleganger~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags ABGRS
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 600
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type blast
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 25796
+Name deadwood~
+Short a dead tree~
+Long A {Dgreyish{x dead tree lies here, uprooted and bare.
+~
+Description ~
+Race plant~
+Act_flags ABO
+Aff H
+Aff2 0
+Align 0
+Group 0
+Level 99
+Hitroll 0
+Hit_dice 2d10+2
+Mana_dice 0d0+0
+Dam_dice 3d6+2
+Dam_type thwack
+Armor 0 0 0 0
+Off CEJKN
+Teach A
+Imm ABIRX
+Res CLP
+Vuln GHJN
+Start_pos stand
+Default_pos sit
+Sex none
+Wealth 1000
+Form EHM
+Parts ABCGHI
+Size large
+Material unknown
+Faff1 J
+Ffor AV
+Fpar DEFJKZ
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 25700
+Name muddied heavy boots~
+Short {Da pair of {ymu{Dddi{yed {Dheavy boots{x~
+Orig_short {Da pair of {ymu{Dddi{yed {Dheavy boots{x~
+Desc {Da pair of {ymu{Dddi{yed {Dheavy boots{x~
+Material unknown~
+Item_type armor
+Extra CGJK
+Wear AG
+Values BDEFGH BDEFGH BDEFGH BDEFGH 0
+Level 106
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25701
+Name tarnished gothic field plate~
+Short {ca t{yar{cni{yshed pl{ca{yte of g{yoth{cic {yfie{cld ar{ymor{x~
+Orig_short {ca t{yar{cni{yshed pl{ca{yte of g{yoth{cic {yfie{cld ar{ymor{x~
+Desc {ca t{yar{cni{yshed pl{ca{yte of g{yoth{cic {yfie{cld ar{ymor{x~
+Material unknown~
+Item_type armor
+Extra ABGIY
+Wear AD
+Values CEFGHI CEFGHI CEFGHI CEFGHI 0
+Level 106
+Weight 10
+Cost 100000000
+Condition P
+AffectObj
+18 50
+AffectObj
+13 500
+AffectObj
+102 25
+AffectObj
+106 25
+AffectObj
+113 25
+AffectObj
+24 50
+EndObj
+
+#OBJ
+Vnum 25702
+Name stag horn battle~
+Short {ya battle-trumpet of stag horn~
+Orig_short {ya battle-trumpet of stag horn~
+Desc A horn of crude craftsmanship is here resonating with the sound of battle.~
+Material unknown~
+Item_type weapon
+Extra ABCGJKY
+Wear AN
+Values exotic 1000 666 blast G
+Level 106
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 100
+AffectObj
+19 100
+EndObj
+
+#OBJ
+Vnum 25703
+Name victorious silk sash ~
+Short {ra bl{Roodi{red s{Rilk s{rash{x~
+Orig_short {ra bl{Roodi{red s{Rilk s{rash{x~
+Desc {ra gift of blood awarded to the victorious in battle...worthy of a {Rgod{r.{x~
+Material unknown~
+Item_type armor
+Extra ABSY
+Wear AL
+Values CFG CFG CFG CFG 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+12 1500
+AffectObj
+19 20
+AffectObj
+18 10
+AffectObj
+13 3000
+EndObj
+
+#OBJ
+Vnum 25704
+Name vial glowing liquid angels tears~
+Short {wa vial of {Wglowing{x clear liquid~
+Orig_short {wa vial of {Wglowing{x clear liquid~
+Desc A small vial of crystal clear liquid glows with a holy light like tears shed by angels.  ~
+Material unknown~
+Item_type potion
+Extra AKU
+Wear A
+Values 101 'bless' 'sanctuary' 'holy armor' ''
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25705
+Name concealing hood~
+Short {ya c{gonc{Dealin{gg ho{yod{x~
+Orig_short {ya c{gonc{Dealin{gg ho{yod{x~
+Desc {ya c{gonc{Dealin{gg ho{yod{x~
+Material wool~
+Item_type armor
+Extra CGIY
+Wear AE
+Values CFG BCEH CFG CFG 0
+Level 106
+Weight 1
+Cost 50000
+Condition P
+EndObj
+
+#OBJ
+Vnum 25706
+Name robe hooded~
+Short {ya w{gell-{Dworn hood{ged ro{ybe~
+Orig_short {ya w{gell-{Dworn hood{ged ro{ybe~
+Desc {ya w{gell-{Dworn hood{ged ro{ybe~
+Material wool~
+Item_type armor
+Extra CGIJY
+Wear AK
+Values CFG CFG CFG CFG 0
+Level 106
+Weight 2
+Cost 10000
+Condition P
+EndObj
+
+#OBJ
+Vnum 25707
+Name box tele~
+Short an ACME television set~
+Orig_short an ACME television set~
+Desc A simulated wood grain box showing strange pictures {Wg{Cl{Wo{Cw{Ws{X {Wbrightly{x~
+Material plastic~
+Item_type portal
+Extra AB
+Wear 0
+Values ABFGHKLQRVYZbe 0 0 ADEFHIJL 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25708
+Name no name~
+Short {Ca {gd{yr{gu{yn{gk{ye{gn{C, {cg{Dri{Wnn{Din{cg {Csprite{x~
+Orig_short {Ca {gd{yr{gu{yn{gk{ye{gn{C, {cg{Dri{Wnn{Din{cg {Csprite{x~
+Desc (no description)~
+Material unknown~
+Item_type armor
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 20
+EndObj
+
+#OBJ
+Vnum 25709
+Name chalice kindred hunger blood~
+Short {wa chalice of {Ddark {rblood{x~
+Orig_short {wa chalice of {Ddark {rblood{x~
+Desc A tarnished chalice filled with dark blood was once known to quench the hunger of the Kindred.~
+Material unknown~
+Item_type potion
+Extra CJU
+Wear A
+Values 101 'frenzy' 'haste' 'giant strength' 'reserved'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25710
+Name acorn natures embrace~
+Short {wa tiny acorn {Chums{x with an ancient magic~
+Orig_short {wa tiny acorn {Chums{x with an ancient magic~
+Desc This tiny acorn has been magicked with Nature's elemental embrace.~
+Material unknown~
+Item_type pill
+Extra BGU
+Wear A
+Values 101 'stone skin' 'fireshield' 'elemental shield' 'reserved'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25711
+Name tattered scroll of protection mixed blessing~
+Short {wa tattered old scroll of protection...{x~
+Orig_short {wa tattered old scroll of protection...{x~
+Desc A tattered old scroll hurriedly scrawled with mismatched spells of protection and other blessings...~
+Material unknown~
+Item_type scroll
+Extra GY
+Wear AO
+Values 101 'armor' 'shield' 'fly' 'pass door'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25712
+Name dimensional rift~
+Short {Da dimensional rift{x~
+Orig_short {Da dimensional rift{x~
+Desc A tear in the fabric of space-time seems to pull at everything around it~
+Material unknown~
+Item_type container
+Extra FGY
+Wear AQ
+Values 1000000 0 0 1000 0
+Level 106
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25784
+Name portal black sphere void~
+Short a dark spherical void~
+Orig_short a dark spherical void~
+Desc A {Ddark{x spherical void hovers nearby.~
+Material darkness~
+Item_type portal
+Extra CG
+Wear 0
+Values GIJLOSTW G AB BDEFHKNO 0
+Level 107
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25786
+Name glimmering pool~
+Short a black, glimmering pool~
+Orig_short a black, glimmering pool~
+Desc An {Dobsidian{x {xpool glimmers with a reflection of moonlight.~
+Material obsidian~
+Item_type portal
+Extra G
+Wear 0
+Values IKNOQSTWXYabc G A CGHKNO 0
+Level 107
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25796
+Name plush satin couch~
+Short {Ra {rs{Ra{rt{Ri{rn {Rc{ro{Ru{rc{Rh{x~
+Orig_short {Ra {rs{Ra{rt{Ri{rn {Rc{ro{Ru{rc{Rh{x~
+Desc A plush {Rs{ra{Rt{ri{Rn{x couch beckons you to rest upon its cushions.~
+Material Celestial Satin~
+Item_type furniture
+Extra AGSY
+Wear A
+Values AB DHIJM EHK DFGHIJ DFGHIJ
+Level 0
+Weight 100
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25797
+Name fountain midnight ale~
+Short a sculptured fountain~
+Orig_short a sculptured fountain~
+Desc A fountain filled with a strong {Dm{bi{Dd{bn{Di{bg{Dh{bt{x {Da{bl{De{x quietly gurgles here.~
+Material unknown~
+Item_type fountain
+Extra 0
+Wear 0
+Values 50000000 50000000 'dark ale' 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25798
+Name shadow of fear~
+Short {RF{De{Ra{Dr{x~
+Orig_short {RF{De{Ra{Dr{x~
+Desc To look upon this face is to know its true form...that of {RF{De{Ra{Dr{x.~
+Material darkness~
+Item_type armor
+Extra CEGY
+Wear AW
+Values DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+Level 106
+Weight 0
+Cost 1
+Condition P
+AffectObj
+20 -20
+AffectObj
+18 100
+AffectObj
+19 100
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 25700
+Name An ancient mountain trail~
+Desc Nearly hidden among the fallen boulders and withered underbrush, this old
+trail winds precariously around the mountain cliffside, steeply rising
+westward.  
+~
+Room_flags 0
+Sector_type 5
+Exit
+3
+~
+~
+0
+0
+25701
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25701
+Name A mountain trail~
+Desc An unnatural cry from something close-by pricks at your ears as a light
+haze descends from the harsh, cold rocks about you.  This ancient trail
+bends northward through the thickening gloom and to the east towards more
+appealing looking ground.  
+~
+Room_flags 0
+Sector_type 5
+Exit
+0
+~
+~
+0
+0
+25702
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25700
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25702
+Name A mountain trail~
+Desc Turning that last bend in this mist has become quite perilous as you
+cling to an almost sheer rock face.  The trail you had been following seems
+to have disappeared outright from under your feet as you inch along.  
+~
+Room_flags 0
+Sector_type 5
+Exit
+0
+~
+~
+0
+0
+25704
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25703
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25701
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25703
+Name A Niche in the Rock~
+Desc ~
+Room_flags 0
+Sector_type 5
+Exit
+3
+~
+~
+0
+0
+25702
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25705
+Name A mountain trail~
+Desc The thin mountain air makes breathing somewhat more difficult and the
+mist denser as you wearily step for a foothold.  The mist feels so unnatural
+for the area's clime, but you must dredge on.  The mountain trail continues
+east.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25743
+leaves east~
+Exit
+3
+~
+~
+0
+0
+25704
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 25700 3 25703 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,11880 @@
+#AREADATA
+Name The Grey Wastes~
+Builders None~
+VNUMs 16600 16799
+Credits { 101 } Darion  The Planes~
+Security 9
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 16600
+Name belmonte~
+Short Belmonte, my trusty sidekick.~
+Long Belmonte, the trusted sidekick of Darion
+~
+Description ~
+Race elf~
+Act_flags ABJKLab
+Aff CDEFGHJP
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 9999
+Hit_dice 32000d32000+32000
+Mana_dice 32000d100+32000
+Dam_dice 0d0+0
+Dam_type slap
+Armor -100 -100 -100 -100
+Off 0
+Teach A
+Imm ABDOP
+Res BHN
+Vuln JZ
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16601
+Name gigi~
+Short {YG{Wi{YG{Wi The {RH{We{Ra{Wd{RC{Wo{Ro{Wk{Re{Wr{x~
+Long {YG{Wi{YG{Wi The {RH{We{Ra{Wd{RC{Wo{Ro{Wk{Re{Wr{x for Darion and his Tribe.
+~
+Description Well you have seen Austin Powers. The girl from there, wearing nothing, but a Chiefs Apron.
+~
+Race elf~
+Act_flags ABPU
+Aff CEGJ
+Aff2 0
+Align 0
+Group 0
+Level 126
+Hitroll 9999
+Hit_dice 32000d32000+32000
+Mana_dice 0d0+0
+Dam_dice 9999d9999+9999
+Dam_type none
+Armor -900 -900 -900 -900
+Off I
+Teach A
+Imm ABDOP
+Res BHN
+Vuln JZ
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16602
+Name gina~
+Short {CG{Wi{CN{Wa{x~
+Long {CG{Wi{CN{Wa{x the {CM{Wi{CN{Wi {WS{Ck{Wi{Cr{Wt{x {CG{Woddess{x
+~
+Description Well the outfit Gina has on leaves definitely nothing to the imagination. She is taken right out of the playboy pages and made real. She looks ready to serve you in anyway. >:)
+~
+Race elf~
+Act_flags ABPQR
+Aff CDEFGHJV
+Aff2 0
+Align 0
+Group 0
+Level 126
+Hitroll 9999
+Hit_dice 32000d32000+32000
+Mana_dice 32000d32000+32000
+Dam_dice 32000d32000+32000
+Dam_type none
+Armor 0 0 0 0
+Off GH
+Teach A
+Imm ABC
+Res BHN
+Vuln JZ
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16606
+Name thoth~
+Short {RT{rh{Do{rt{Rh{x~
+Long Titan of Knowledge.
+~
+Description Once a proud and mighty titan, Thoth took to the path of wisdom. In doing so he was cursed into the frail human form you see before you. To aid in his work Thoth developed several artifacts of power. The Brilliance, Eye, Lore, and Key. He uses these devices to further his studies. As well as, further the causes of knowledge
+~
+Race unique~
+Act_flags ABPRT
+Aff DFHNOVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 20
+Hit_dice 31999d1+32001
+Mana_dice 1d1+21999
+Dam_dice 400d5+600
+Dam_type slap
+Armor -180 -180 -180 -180
+Off CDEFGH
+Teach A
+Imm 0
+Res HIJQ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 11000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16607
+Name illiensiene~
+Short {MI{Dl{Ml{Di{Me{Dn{Ms{Di{Me{Dn{Me{x~
+Long The illithid god is here.
+~
+Description ~
+Race human~
+Act_flags ABPRT
+Aff CDFGHNOUVac
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 40
+Hit_dice 32000d2+32000
+Mana_dice 1d1+29999
+Dam_dice 100d18+300
+Dam_type smash
+Armor -160 -160 -160 -200
+Off ACEFGHKO
+Teach A
+Imm ABOPS
+Res CDEGHIJKM
+Vuln FN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 12000
+Form BCIS
+Parts XZ
+Size large
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+MobTrig GREET 16600 100~
+EndMob
+
+#MOB
+Vnum 16609
+Name illithid titan~
+Short Titan Mindflayer~
+Long A gargantua mindflayer is here.
+~
+Description Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+
+~
+Race unique~
+Act_flags ABPT
+Aff HNOTUVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 30
+Hit_dice 29999d1+31001
+Mana_dice 1d1+21999
+Dam_dice 300d4+400
+Dam_type none
+Armor -150 -150 -150 -150
+Off EFGHIO
+Teach A
+Imm BP
+Res HIJQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 11000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16600 100~
+EndMob
+
+#MOB
+Vnum 16622
+Name brain golem~
+Short A {RB{rr{Da{ri{Rn {BG{Dole{Bm{x~
+Long A construct of brain moves forward.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff CDEFGHNO
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 30
+Hit_dice 21999d2+11001
+Mana_dice 0d0+0
+Dam_dice 100d20+100
+Dam_type slap
+Armor -110 -110 -110 -110
+Off CEGHIOU
+Teach A
+Imm P
+Res CDHIJK
+Vuln MN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16624
+Name illithid~
+Short An {RIl{Dlith{Rid{x waits for prey.~
+Long A humanoid squid, waits in the shadows for prey.
+~
+Description Standing 7 foot tall, with gangily limbs, this creature doesn't seem to pose much of a threat. But gazing at its head is where the true horror is....an octopus attached to a humanoid body. Its powers of confusion and stunning are known throughout the lands. Be afraid ...be very afraid.....
+~
+Race unique~
+Act_flags ABPT
+Aff CDEFGHNOQVc
+Aff2 0
+Align -500
+Group 0
+Level 101
+Hitroll 20
+Hit_dice 1d1+21999
+Mana_dice 0d0+0
+Dam_dice 100d10+300
+Dam_type digestion
+Armor -100 -100 -80 -100
+Off BEFGHIJK
+Teach A
+Imm ABP
+Res CHP
+Vuln GS
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16626
+Name crypt keeper~
+Short {MC{mr{Dy{mp{Mt {MKe{Dep{Mer{x~
+Long A massive illithid waiting for you to try to take the key.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff CEGHNOU
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 30
+Hit_dice 1d1+17999
+Mana_dice 0d0+0
+Dam_dice 10d80+500
+Dam_type digestion
+Armor -100 -100 -70 -100
+Off CEFGHI
+Teach A
+Imm ABP
+Res CHJK
+Vuln GI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16631
+Name executioneer~
+Short {DT{Wh{De {REx{rec{Dutio{rne{Rer{x~
+Long A salesman for nooses stand before you sizing you up.
+~
+Description Standing tall in his dressings of black, the executioneer is very intimidating. Toppling over 8 feet tall, with arms as big around as ancient trees and a grimace that would send even Morbid running for his mommy. He seems quite confident with that noose.
+~
+Race unique~
+Act_flags ABP
+Aff FHJNOUZ
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 20
+Hit_dice 1d1+16999
+Mana_dice 0d0+0
+Dam_dice 10d100+200
+Dam_type shock
+Armor -90 -90 -90 -90
+Off BCDEGHIJN
+Teach A
+Imm ABP
+Res DHIKMN
+Vuln JNS
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16635
+Name tome guardian~
+Short {DT{Wo{Dm{We {DG{Wa{Du{Wr{Dd{Wi{Da{Wn{x~
+Long A cowled figure in robes of red is here to teach you knowledge.
+~
+Description ~
+Race unique~
+Act_flags ABP
+Aff CDEFGHNO
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 40
+Hit_dice 1d1+21999
+Mana_dice 0d0+0
+Dam_dice 10d90+400
+Dam_type slap
+Armor -100 -100 -80 -100
+Off EFGHI
+Teach A
+Imm P
+Res CHJK
+Vuln GI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16645
+Name hand of thoth~
+Short {BH{Wa{Bn{Wd of {BTh{Wo{Bth{x~
+Long A human with a giant hand for a head.
+~
+Description A humanoid figure standing 7 feet tall with a hand for a head. This fellow reminds you of THING from the Adams Family.
+~
+Race human~
+Act_flags AP
+Aff DFHNO
+Aff2 0
+Align 0
+Group 0
+Level 90
+Hitroll 30
+Hit_dice 1d1+7999
+Mana_dice 0d0+0
+Dam_dice 20d60+200
+Dam_type slap
+Armor -90 -90 -60 -90
+Off DEFGHN
+Teach A
+Imm ABP
+Res HIJK
+Vuln G
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form M
+Parts DIZ
+Size medium
+Material unknown
+Ffor AHV
+Fpar ABCEFGHJK
+EndMob
+
+#MOB
+Vnum 16649
+Name arilyn~
+Short Arilyn is here waiting to serve you.~
+Long Arilyn is here waiting to serve you.
+~
+Description ~
+Race elf~
+Act_flags ABP
+Aff CDEFGHJ
+Aff2 0
+Align 0
+Group 0
+Level 75
+Hitroll 0
+Hit_dice 1d1+31074
+Mana_dice 0d0+0
+Dam_dice 1d1+3999
+Dam_type wrath
+Armor -500 -500 -500 -500
+Off FGHIK
+Teach A
+Imm ABCD
+Res BHN
+Vuln JZ
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16650
+Name brandebarios~
+Short Brandebarios waits to take you money.~
+Long Brandebarios waits to take you money.
+~
+Description For a halfling Brandebarios is still quite agile. He is all of 3' nothing, standard pot belly and jolly face. He always is smoking his pipe and never has a harsh word to say to ya.
+~
+Race unique~
+Act_flags ABP
+Aff DFHV
+Aff2 0
+Align 0
+Group 0
+Level 75
+Hitroll 0
+Hit_dice 1d1+-32537
+Mana_dice 0d0+0
+Dam_dice 1d1+3999
+Dam_type pierce
+Armor -500 -500 -500 -500
+Off EFGHK
+Teach A
+Imm ACDP
+Res BILQ
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16653
+Name dove~
+Short Dove is here.~
+Long Dove is here.
+~
+Description A beautiful human woman, with eyes of deepest green and hair of darkest jet, tends to her store with grace and elegance.
+~
+Race human~
+Act_flags ABP
+Aff DFHNO
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 10000d5+30000
+Mana_dice 0d0+0
+Dam_dice 1d1+3999
+Dam_type wrath
+Armor -500 -500 -500 -500
+Off EGHIJ
+Teach A
+Imm CDHIJKLPQ
+Res 0
+Vuln MN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000000
+Form M
+Parts DZ
+Size medium
+Material unknown
+Ffor AHV
+Fpar ABCEFGHIJK
+EndMob
+
+#MOB
+Vnum 16656
+Name grettle battlehammer~
+Short Grettle Battlehammer~
+Long Grettle Battlehammer waits to show you her wares.
+~
+Description Standing all of 4' nothing, Grettle is a mass of muscle just waiting for a good brawl to take place. She is known in the city as being one of the best weaponsmiths alive. For the simple fact that she is also a mage of the highest circle.
+~
+Race dwarf~
+Act_flags ABPT
+Aff DFHJ
+Aff2 0
+Align 0
+Group 0
+Level 75
+Hitroll 0
+Hit_dice 1d1+32000
+Mana_dice 0d0+0
+Dam_dice 1d1+3999
+Dam_type none
+Armor -500 -500 -500 -500
+Off 0
+Teach A
+Imm ABCD
+Res HILQ
+Vuln KR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16657
+Name hand of thoth~
+Short {RH{Dan{Rd {Dof {RT{rh{Do{rt{Rh{x~
+Long A humanoid body with a hand for a head.
+~
+Description ~
+Race human~
+Act_flags AGPT
+Aff DFHNO
+Aff2 0
+Align 0
+Group 0
+Level 90
+Hitroll 20
+Hit_dice 1d1+7999
+Mana_dice 0d0+0
+Dam_dice 20d50+200
+Dam_type slap
+Armor -90 -60 -90 -90
+Off CGHI
+Teach A
+Imm ABP
+Res HIJK
+Vuln G
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form M
+Parts BDKZ
+Size medium
+Material unknown
+Ffor AHV
+Fpar ACEFGHIJ
+EndMob
+
+#MOB
+Vnum 16658
+Name eyes of thoth~
+Short {BE{Wy{Be{Ws {Wof {BTh{Do{Bth{x~
+Long A human with a giant eye for a head.
+~
+Description Before you is a humanoid figure about 7 feet tall. The head is a giant eye. It is almost creepy having it stare at you constantly.
+~
+Race human~
+Act_flags AGPT
+Aff DFHNO
+Aff2 0
+Align 0
+Group 0
+Level 90
+Hitroll 30
+Hit_dice 1d1+7999
+Mana_dice 0d0+0
+Dam_dice 20d60+200
+Dam_type claw
+Armor -90 -60 -90 -90
+Off CGHI
+Teach A
+Imm ABP
+Res HIJK
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form M
+Parts BDKZ
+Size medium
+Material unknown
+Ffor AHV
+Fpar ACEFGHIJ
+EndMob
+
+#MOB
+Vnum 16669
+Name talos~
+Short {YT{Wa{Yl{Wo{Ys{x~
+Long {YT{Wa{Yl{Wo{Ys{x, {YB{Wringer of {YS{Wt{Yo{Wr{Ym{Ws{x
+~
+Description A man cloaked in the powers of lightning, with the stench of blood and
+war on his breath stand poised to crush you like an ant.  
+~
+Race unique~
+Act_flags ABPT
+Aff DFHNOVac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 600
+Hit_dice 32000d50+32000
+Mana_dice 0d0+0
+Dam_dice 900d1+1200
+Dam_type blast
+Armor -260 -260 -260 -260
+Off CDEFGHIJKNO
+Teach A
+Imm AJKOPTXYZ
+Res HIKMQS
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16669 100~
+EndMob
+
+#MOB
+Vnum 16694
+Name yeth hound~
+Short {DY{Wet{Dh {DH{Woun{Dd{x~
+Long A shadowy figure of a dog.
+~
+Description These are dogs of the endless grey void. They look like standard dogs, only totally lacking colour.
+~
+Race dog~
+Act_flags AGPT
+Aff BDFPQTUVc
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 20
+Hit_dice 1d1+17999
+Mana_dice 0d0+0
+Dam_dice 40d20+400
+Dam_type bite
+Armor -110 -110 -110 -90
+Off EGHI
+Teach A
+Imm AB
+Res D
+Vuln CN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKUVZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16698
+Name third~
+Short third~
+Long Third
+~
+Description ~
+Race human~
+Act_flags ABPT
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 23000d2+23000
+Mana_dice 0d0+0
+Dam_dice 600d3+600
+Dam_type none
+Armor -140 -140 -140 -140
+Off FGHIK
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16699
+Name second~
+Short second~
+Long Second
+~
+Description ~
+Race human~
+Act_flags ABPT
+Aff H
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 20000d3+10000
+Mana_dice 0d0+0
+Dam_dice 500d3+500
+Dam_type none
+Armor -120 -120 -120 -120
+Off FGHIK
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16700
+Name first~
+Short first~
+Long First
+~
+Description ~
+Race human~
+Act_flags ABT
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 10000d3+10000
+Mana_dice 0d0+0
+Dam_dice 300d1+100
+Dam_type none
+Armor -100 -100 -100 -100
+Off FGHIK
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16703
+Name guardian of the sun~
+Short {RG{Dua{rrd{Dia{Rn {Do{Wf {Dt{Whe {YS{yu{Sn{x~
+Long A man composed of living flame stand barring your path.
+~
+Description ~
+Race human~
+Act_flags ABPT
+Aff DFHNOTUVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 200
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 500d4+600
+Dam_type flbite
+Armor -167 -167 -167 -167
+Off ADFGHIKMN
+Teach A
+Imm ABOP
+Res EFGJKS
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 12000
+Form CHJM
+Parts Z
+Size medium
+Material unknown
+Ffor AV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16707
+Name mists of dawn~
+Short {WM{xists {Wo{Xf {YD{yawn{x~
+Long The vapors of dawn mix with the rays of light to assault you.
+~
+Description ~
+Race human~
+Act_flags ABPT
+Aff DFHJNOUV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 12d8+11321
+Mana_dice 0d0+0
+Dam_dice 3d200+200
+Dam_type none
+Armor -190 -190 -190 -190
+Off AFGHU
+Teach A
+Imm ABFO
+Res EFGHJK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1200
+Form BCHKL
+Parts Z
+Size medium
+Material unknown
+Ffor AMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16708
+Name flaming skyrider~
+Short {RF{Yl{Ra{Ym{Ri{Yn{Rg {YS{Rk{Yy{Rr{Yi{Rd{Ye{Rr{x~
+Long {WA {Rf{ylaming{x demonic looking horse charges you.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff CFGHJNOTUZac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 250
+Hit_dice 24500d5+20000
+Mana_dice 0d0+0
+Dam_dice 400d4+400
+Dam_type flbite
+Armor -140 -140 -140 -140
+Off AEFGHIK
+Teach A
+Imm ABHMO
+Res EFGIJKNQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form BDHMV
+Parts ABCDEFGHIJKR
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16709
+Name demon tumbleweed~
+Short {RD{Demon {RT{Dumbleweed{x~
+Long Just a bunch of dried up weeds blowing in the wind.
+~
+Description ~
+Race centipede~
+Act_flags ABPT
+Aff CDEFGHUZ
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 201
+Hit_dice 20000d4+32000
+Mana_dice 0d0+0
+Dam_dice 2d250+200
+Dam_type none
+Armor -150 -130 -130 -130
+Off CFGHO
+Teach A
+Imm FMOS
+Res EGIJK
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form ABGO
+Parts KNZ
+Size medium
+Material unknown
+Fres F
+Fvul E
+Fpar AC
+EndMob
+
+#MOB
+Vnum 16710
+Name wolves of the moon~
+Short {WWolf {Dof the {WMoon~
+Long Dark sleek, shapes seem to be surrounding you.
+~
+Description Catching a glimpse of the creature you see, sleek black fur made from darkness itself, a long muzzle like that of a crocodile, eyes as red and beady as a rays.
+~
+Race unique~
+Act_flags ABPT
+Aff CDFGHJPUVZac
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 250
+Hit_dice 21000d4+30000
+Mana_dice 0d0+0
+Dam_dice 10d60+200
+Dam_type pierce
+Armor -96 -96 -96 -80
+Off FGHIMN
+Teach A
+Imm ABMOP
+Res EFGHIJKLQ
+Vuln FHS
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGHMV
+Parts ABCDEFGHIJKQVYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16711
+Name sun dragon~
+Short {YS{yun {yDrago{Yn{x~
+Long Brilliant golden beans of sunlight dance off the hide of this magnificant creature.
+~
+Description ~
+Race dragon~
+Act_flags ABPT
+Aff CDEFGHJTVac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 400d3+600
+Dam_type flame
+Armor -210 -200 -200 -200
+Off ACEFGHIJKMO
+Teach A
+Imm ABOP
+Res BEFGHIJLMNP
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 11000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size medium
+Material unknown
+Fvul F
+EndMob
+
+#MOB
+Vnum 16712
+Name moon dragon~
+Short {BM{Doon Drago{Bn{x~
+Long The weave of moonlight comes together in a striking resembles of a winged serpent.
+~
+Description ~
+Race dragon~
+Act_flags ABPT
+Aff CDEFGHJNOTVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 25000d5+30000
+Mana_dice 1d4+1996
+Dam_dice 500d3+500
+Dam_type chill
+Armor -190 -190 -190 -190
+Off ACDEFGHIJKMO
+Teach A
+Imm ABOP
+Res BEFHIJLMP
+Vuln IK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 11000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size large
+Material unknown
+Fvul F
+EndMob
+
+#MOB
+Vnum 16713
+Name cyclopian magi~
+Short {BC{Dyclopian {BM{Dagi{x~
+Long A one eyed, one horned giant fastly approaching.
+~
+Description ~
+Race giant~
+Act_flags ABKPT
+Aff CDFGHJUVac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 60
+Hit_dice 32000d3+32000
+Mana_dice 0d0+0
+Dam_dice 800d2+800
+Dam_type smash
+Armor -200 -200 -200 -200
+Off DEFGHIJKN
+Teach I
+Imm BOPS
+Res FGHIP
+Vuln P
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2000
+Form AGHMV
+Parts ABCDEFGHIJKQVZ
+Size medium
+Material unknown
+Fvul J
+EndMob
+
+#MOB
+Vnum 16714
+Name silver dragon~
+Short {WS{Di{Wl{Dv{We{Dr {WD{Dr{Wa{Dg{Wo{Dn{x~
+Long A {WS{Di{Wl{Dv{We{Dr {WD{Dr{Wa{Dg{Wo{Dn{x lies amongst the silver.
+~
+Description From head to tip of tail, the silver measures almost 120 feet in length. Its impressive claws, jaw, and breath weapon, make it a formidable opponent for anyone.
+~
+Race dragon~
+Act_flags ABPT
+Aff CDEFGHJNOTUZc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 55
+Hit_dice 28000d5+30000
+Mana_dice 10d10+120
+Dam_dice 500d3+500
+Dam_type acbite
+Armor -200 -200 -200 -200
+Off ACDFGHILMNO
+Teach A
+Imm ABMOP
+Res BEFHIJKMNOPS
+Vuln EI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size medium
+Material unknown
+Fvul F
+EndMob
+
+#MOB
+Vnum 16715
+Name man of judgement~
+Short {WO{Dld {WM{Dan {WJ{Dudgement{x~
+Long An elderly man rocks quietly waiting to administer justice.
+~
+Description ~
+Race elf~
+Act_flags ABPT
+Aff CDEFGHJNOUV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 55
+Hit_dice 32000d2+32000
+Mana_dice 0d0+0
+Dam_dice 300d3+400
+Dam_type wrath
+Armor -160 -160 -160 -160
+Off EFGHIJKN
+Teach A
+Imm ABLOQ
+Res BEGHIJKMN
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16716
+Name crystal dragon~
+Short {CC{Wr{Cy{Ws{Ct{Wa{Cl {CD{Wr{Ca{Wg{Co{Wn{x~
+Long The {CC{Wr{Cy{Ws{Ct{Wa{Cl {CD{Wr{Ca{Wg{Co{Wn{x looks to add you to its collection.
+~
+Description A creature of exquisite beauty, assaults your eyes. Staring to long at the 30 foot long serpent, will lull you into a sort of hypnotic trance.
+~
+Race dragon~
+Act_flags ABPT
+Aff CEFGHNOTUc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 55
+Hit_dice 27000d4+30000
+Mana_dice 0d0+0
+Dam_dice 600d3+500
+Dam_type drain
+Armor -210 -210 -210 -210
+Off AFGHIMNO
+Teach A
+Imm ABFOP
+Res BEGHIJKMN
+Vuln EI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size medium
+Material unknown
+Faff1 J
+Fvul F
+EndMob
+
+#MOB
+Vnum 16717
+Name master of the golden path~
+Short {WMaster {Dof the {YG{yolden {YP{yath{x~
+Long The {WMaster {Dof {Dthe {YG{yolden {YP{yath{x prepares to do battle
+~
+Description ~
+Race fox~
+Act_flags ABPQ
+Aff CFGHJNZc
+Aff2 0
+Align 1000
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 32000d2+32000
+Mana_dice 1d1+1999
+Dam_dice 500d2+600
+Dam_type claw
+Armor -140 -140 -140 -140
+Off DEFGHIKU
+Teach A
+Imm AOP
+Res BCFGHIJM
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form ABGHMV
+Parts ABCDEFGHIJKQUVZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16718
+Name amethyst dragon~
+Short {MA{Dmethyst {MD{Dragon{x~
+Long The sparkling Amethyst catch you eyes as they take on a serpentine figure.
+~
+Description ~
+Race dragon~
+Act_flags ABKPT
+Aff CDEFGHJTVac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 65
+Hit_dice 29000d5+32000
+Mana_dice 0d0+0
+Dam_dice 600d3+600
+Dam_type frbite
+Armor -100 -100 -100 -100
+Off AFGHIMNO
+Teach G
+Imm BGJOP
+Res BEGIKLMNP
+Vuln HI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 11000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size large
+Material unknown
+Fres H
+Fvul F
+EndMob
+
+#MOB
+Vnum 16719
+Name jade emporer~
+Short {GJ{gade {GE{gmporer{x~
+Long The {GJ{gade {GE{gmporer{x sits before you.
+~
+Description ~
+Race elf~
+Act_flags ABP
+Aff DEFHJNOUVZc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 100
+Hit_dice 9999d99+32000
+Mana_dice 1d1+1999
+Dam_dice 500d3+500
+Dam_type chop
+Armor -120 -120 -120 -120
+Off ACEFGHIKN
+Teach A
+Imm JOP
+Res BCDHIMN
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 11000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16721
+Name irradescent dragon~
+Short {CI{Wrradescen{Ct D{Wrago{Cn{x~
+Long {CS{Wwirling {Ci{Wncadescent {Cm{Wist{x lashes out at you.
+~
+Description ~
+Race dragon~
+Act_flags ABPT
+Aff CDEFGHJTUVZc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 201
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 600d3+600
+Dam_type acbite
+Armor -210 -210 -210 -210
+Off ACEFGHIJMO
+Teach A
+Imm ABKOP
+Res BEFIJMNS
+Vuln EHI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size medium
+Material unknown
+Fres H
+Fvul F
+EndMob
+
+#MOB
+Vnum 16722
+Name opal dragon~
+Short {DOpal Dragon{x~
+Long A large, black opal carved into the likeness of a Dragon.
+~
+Description ~
+Race dragon~
+Act_flags ABPT
+Aff DEFGHJNOTUVZc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 201
+Hit_dice 32000d4+32000
+Mana_dice 0d0+0
+Dam_dice 500d4+500
+Dam_type shock
+Armor -180 -180 -180 -180
+Off ACEGHIJNO
+Teach A
+Imm BFOP
+Res BEFGHIJKMNS
+Vuln EI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size medium
+Material unknown
+Fvul F
+EndMob
+
+#MOB
+Vnum 16723
+Name bahamut~
+Short {YB{Wahamut {DThe {YW{Wise{x~
+Long A Golden Dragon of immense size and age is here keeping a steadfast watch.
+~
+Description ~
+Race dragon~
+Act_flags ABKPT
+Aff CDEFGHJNOTUVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 400
+Hit_dice 32000d5+32000
+Mana_dice 10d100+300
+Dam_dice 500d4+600
+Dam_type wrath
+Armor -210 -210 -210 -210
+Off ACDFGHIJMNO
+Teach H
+Imm ABOP
+Res BEHIJL
+Vuln IMN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size large
+Material unknown
+Fvul F
+EndMob
+
+#MOB
+Vnum 16724
+Name murdock~
+Short {RM{Durdock {WThe {RD{Destroyer{X~
+Long Here stands {RM{Durdock {WThe {RD{Destroyer{x.
+~
+Description Before you is a Giant of a man. At a little over 70 feet tall, with eight arms, he would make Hassan cringe.
+~
+Race unique~
+Act_flags ABKPT
+Aff CDEFGHJUVZac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 700
+Hit_dice 9999d99+1000
+Mana_dice 0d0+0
+Dam_dice 800d3+800
+Dam_type wrath
+Armor -210 -210 -210 -210
+Off CDEFGHIJKMO
+Teach D
+Imm ABNOP
+Res EFGHIJQ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 400
+Form AGV
+Parts ACDEFJKQV
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 16725
+Name master of the grey path~
+Short {WMaster {xof the {DGrey Path{x~
+Long The {WMaster {Xof the {DGrey Path{X prepares to do battle.
+~
+Description ~
+Race bear~
+Act_flags ABPT
+Aff CDFGHJNOVZac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 70
+Hit_dice 32000d2+32000
+Mana_dice 0d0+0
+Dam_dice 600d2+500
+Dam_type chomp
+Armor -190 -190 -190 -190
+Off CDEFGHIKOU
+Teach A
+Imm BOP
+Res EFGIJMNS
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form AGV
+Parts ABCDEFHJKUVZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16726
+Name master of the red path~
+Short {WMaster {xof the {RR{red {RP{rath{x~
+Long The {WMaster {xof the {RR{red {RP{rath{x prepares to do battle.
+~
+Description ~
+Race cat~
+Act_flags ABKPR
+Aff CDFGHOVZac
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 55
+Hit_dice 32000d2+32000
+Mana_dice 1d1+1999
+Dam_dice 600d2+500
+Dam_type bite
+Armor -160 -160 -160 -160
+Off FGHITU
+Teach E
+Imm ABOP
+Res EFGIJKMNS
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form AGV
+Parts ACDEFHJKQUVZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16727
+Name wraith of murdock~
+Short {WW{Dr{Wa{Di{Wt{Dh {Wo{Df {BM{Du{Br{Dd{Bo{Dc{Bk{x~
+Long The spectral essence of Murdock has come to the place of his undoing.
+~
+Description ~
+Race unique~
+Act_flags ABOP
+Aff CDFGHJOTUVZ
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 201
+Hit_dice 1d5+18634
+Mana_dice 0d0+0
+Dam_dice 2d100+300
+Dam_type drain
+Armor -100 -100 -100 -100
+Off EGHI
+Teach A
+Imm BILMQR
+Res HN
+Vuln SY
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form DHIL
+Parts ABGIJKU
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16730
+Name Sune~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags AP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 151
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16734
+Name deathheads~
+Short {DD{Re{Da{Rt{Dh {RH{De{Ra{Dd{Rs{x~
+Long Fanatic followers of myrkul
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHQV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 150
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type slash
+Armor -190 -190 -190 -190
+Off FGHKR
+Teach A
+Imm ABO
+Res HIJKPQ
+Vuln HK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16735
+Name sensate~
+Short {YS{Re{Yn{Rs{Ya{Rt{Ye{Rs{x~
+Long A fanatic follower of Sune.
+~
+Description ~
+Race unique~
+Act_flags ABFPT
+Aff BDFHV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 150
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type none
+Armor -180 -180 -180 -180
+Off EFHJKR
+Teach A
+Imm ABO
+Res HIJKQ
+Vuln KL
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGMV
+Parts ACDEFIJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16736
+Name myrkul~
+Short {BM{by{Drk{bu{Bl{x~
+Long {MM{by{Drk{bu{Bl{x, {DG{Wo{Dd of D{We{Da{Wt{Dh{x
+~
+Description A figure, stands before you wrapped in the darkness that we know as DEATH!!!
+~
+Race unique~
+Act_flags ABPQRT
+Aff DFHQTU
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 23000d1+23000
+Dam_dice 30d30+80
+Dam_type none
+Armor -220 -220 -220 -220
+Off EFGHJK
+Teach A
+Imm AIJOP
+Res DHKMN
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16737
+Name sune~
+Short {RS{Yu{Rn{Ye{x~
+Long {RS{Yu{Rn{Ye {Wthe {BG{co{Wdde{cs{Bs {Wof {BB{ce{Wau{ct{By{x
+~
+Description Lying in silks that leave nothing to the imagination, is a woman of fiery red hair. Eyes of the greenest jade, and lips that any man kissed would melt. Her parties are reknowned for the wild and craziness that is the world of sensations.
+~
+Race unique~
+Act_flags ABPT
+Aff DFHNOTUVc
+Aff2 0
+Align 1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 0d0+0
+Dam_dice 30d30+80
+Dam_type slap
+Armor -240 -240 -240 -240
+Off EFGHIK
+Teach A
+Imm ABO
+Res DHIJQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGHMV
+Parts ABCDEFGHIJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16741
+Name seekers~
+Short {BS{We{Be{Wk{Be{Wr{Bs{x~
+Long Fanatic followers of Oghma
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 32000d2+31000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type slap
+Armor -120 -120 -120 -120
+Off FGHJKR
+Teach A
+Imm AB
+Res CHIJPQ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16742
+Name banite~
+Short {DB{Ya{Dn{Yi{Dt{Ye{x~
+Long Fanatic followers of bane.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 32000d2+31000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type pierce
+Armor -120 -120 -120 -120
+Off FGHIJKR
+Teach A
+Imm 0
+Res HIJKMQ
+Vuln KN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16743
+Name oghma~
+Short {YO{yg{Wh{ym{Ya{x~
+Long {YO{yg{Wh{ym{Ya{x, {WG{Do{Wd of {WKn{yow{Yl{yed{Wge{x
+~
+Description A elderly man, maybe in his 90's, stands waiting to impart his wisdom to you.
+~
+Race unique~
+Act_flags ABPQRT
+Aff DFHNOUVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 32000d1+32000
+Dam_dice 30d30+60
+Dam_type slap
+Armor -220 -220 -220 -220
+Off EFGIJK
+Teach A
+Imm ANOPT
+Res CDHKQ
+Vuln M
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16744
+Name bane~
+Short {MB{Da{Mn{De{x~
+Long {MB{Da{Mn{De{x, {DM{ra{Rst{re{Dr {RAs{rs{Das{rs{Rin{x
+~
+Description A muscular man stand before you. He has piercing black eyes, wild black hair.
+He looks as if he could kill you with just a shake of the hand.
+~
+Race unique~
+Act_flags ABPST
+Aff BCDFGHOPQTUVac
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 32000d1+32000
+Dam_dice 30d30+80
+Dam_type none
+Armor -220 -220 -220 -220
+Off BCDEFIJK
+Teach A
+Imm ABKMOP
+Res DHIJNQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16746
+Name sea wench~
+Short {CS{We{Ca{x {DW{Ce{Wn{Cc{Dh{x~
+Long A fanatic follower of umberlee.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 32000d2+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type frbite
+Armor -120 -120 -120 -120
+Off CFHJKNR
+Teach A
+Imm AB
+Res HIJKLQS
+Vuln HK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16749
+Name mystery~
+Short {BM{Cy{bs{Wt{be{Cr{By{x~
+Long A fanatic follower of mystra
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHNOUVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 150
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type magic
+Armor -120 -120 -120 -120
+Off EFGHKU
+Teach A
+Imm AB
+Res CHIJKPQ
+Vuln EK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16750
+Name umberlee~
+Short {MU{Dmberle{Me{x~
+Long {MU{dmberle{Me{x, {DBitch Queen {Wof the {BS{We{Ba{Ws{x
+~
+Description A slender female figure stands before you. She seems to have the tides of the world as her clothes.
+~
+Race unique~
+Act_flags ABPRT
+Aff CDFGHNOTUVc
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 32000d1+32000
+Dam_dice 30d30+80
+Dam_type wrath
+Armor -260 -260 -260 -260
+Off EFGHKR
+Teach A
+Imm ABJOP
+Res DHIJQ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 12000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16751
+Name mystra~
+Short {BM{Cy{Wst{Cr{Ba{x~
+Long {BM{Cy{Wst{Cr{Ba{x, {WGoddess of {BM{Ca{Wg{Ci{Bc{x
+~
+Description A tall, slender woman stand wrapped in a gown of sorcery. Tis' hard to believe at one time this black haired, deepest emerald green eyes was once a mortal. Practicing her arts once as a thief, but then turning to the true ways. The Arcane Arts. She is also known as the goddess of mysteries of magic.
+~
+Race unique~
+Act_flags ABPQRS
+Aff BCDEFGHJNOTUVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 0d0+0
+Dam_dice 30d30+80
+Dam_type wrath
+Armor -230 -230 -230 -230
+Off BFGHIJK
+Teach A
+Imm BCOP
+Res DHIJQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16755
+Name corpse keeper~
+Short {WC{Do{Wr{Dp{Ws{De {DK{We{De{Wp{De{Wr{x~
+Long A fanatic follower of Kelemvor
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHTUVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 150
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 24d30+50
+Dam_type shbite
+Armor -120 -120 -120 -120
+Off DFGHJKR
+Teach A
+Imm AB
+Res DHIJKQ
+Vuln KMN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16756
+Name watcher~
+Short {MW{Wa{Mt{Wc{Mh{We{Mr{x~
+Long A fanatic follower of helm.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 32000d2+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type cleave
+Armor -120 -120 -120 -120
+Off EFGHKR
+Teach A
+Imm ABO
+Res DHIJPQ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16757
+Name kelemvor~
+Short {rK{De{rl{De{rm{Dv{ro{Dr{x~
+Long {rK{De{rl{De{rm{Dv{ro{Dr{x, {RL{Dor{Rd {Dof {YU{yn{Dde{ya{Yd{x
+~
+Description A man in his late 40's, chiselled features, 3 scar marks extending from the corner of the right eye to the base of the right cheek. His eyes are a dull grey absorbing all information that is set infront of him. You don't feel secure in the fact that you'll never be leaving again, once you meet him.
+~
+Race unique~
+Act_flags ABPT
+Aff BDFHNOTUVc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 0d0+0
+Dam_dice 30d30+80
+Dam_type flbite
+Armor -230 -230 -230 -230
+Off DFGHJK
+Teach A
+Imm BMOP
+Res DHIJQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16758
+Name helm~
+Short {DH{We{Dl{Wm{x~
+Long {DH{We{Dl{Wm{x {YGu{ya{Drd{yi{Yan{x {Wof the {MP{Wlane{Ms{x
+~
+Description A man of solid muscle stands wrapped in the absolute power of the planes. He stands ever vigilant with his black eyes, waiting for a mortal to mess with the realm of the Gods.
+~
+Race unique~
+Act_flags ABPT
+Aff BDFHNOVac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 0d0+0
+Dam_dice 30d30+80
+Dam_type divine
+Armor -230 -230 -230 -230
+Off CDFGHJKN
+Teach A
+Imm AHOP
+Res CEFGHIJLMNQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16761
+Name berserkers~
+Short {oBerserkers{x~
+Long A fanatic follower of tempus.
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHTVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 150
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type thwack
+Armor -120 -120 -120 -120
+Off CDFGHKR
+Teach A
+Imm AB
+Res CDHIJQ
+Vuln KLQ
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16762
+Name justicar~
+Short {YJ{Wu{Ys{Wt{Yi{Wc{Ya{Wr{x~
+Long A fanatic follower of tyr
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff HOTa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 150
+Hit_dice 32000d5+32000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type wrath
+Armor -120 -120 -120 -120
+Off CEFGHIJR
+Teach A
+Imm AB
+Res HIJKNQ
+Vuln CK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16764
+Name tyr~
+Short {CT{Wy{Cr{x~
+Long {CT{Wy{Cr{x, The {WEven {CH{Wande{Cd{x
+~
+Description A titan of a man standing 14 feet tall at the shoulder stands ever vigilant in his pursuit of justice. Clad in a suit of gleaming platemail, with his trust warhammer at his side, he is ready to pronounce justice on all....
+~
+Race unique~
+Act_flags ABPQT
+Aff CDFGHNOVc
+Aff2 0
+Align 1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 32000d1+32000
+Dam_dice 30d30+80
+Dam_type thwack
+Armor -230 -230 -230 -230
+Off FH
+Teach A
+Imm ABLOPQ
+Res CD
+Vuln M
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16765
+Name tempus~
+Short {BT{We{Bm{Wp{Bu{Ws{x~
+Long {BT{We{Bm{Wp{Bu{Ws{x, {WGod {xof {RW{Da{Rr{Dr{Ri{Do{Rr{Ds{x
+~
+Description A man standing 7 foot at the shoulder, grizzled features, long black unkempt hair. He leans casually on a sword that is at least twice his height and weight. This individual would put fear even into the hearts of Silence and Hassan.
+~
+Race unique~
+Act_flags ABPT
+Aff DFHNOTUac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 0d0+0
+Dam_dice 30d30+80
+Dam_type blast
+Armor -230 -230 -230 -230
+Off DEFGHK
+Teach A
+Imm ABOP
+Res DHIJQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16769
+Name guardian~
+Short {BGu{Ca{Wrd{Ci{Ban{x~
+Long A fanatic follower of Torm
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 100d1000+700000
+Mana_dice 0d0+0
+Dam_dice 24d20+50
+Dam_type blast
+Armor -120 -120 -120 -120
+Off EFGHKR
+Teach A
+Imm ABO
+Res HIJKLQ
+Vuln KM
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16770
+Name tomb warden~
+Short {yT{Wo{ym{Wb{x {DW{Wa{Dr{Wd{De{Wn{x~
+Long A fanatic follower of Bhaal
+~
+Description ~
+Race unique~
+Act_flags ABPT
+Aff DFHTVa
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 50
+Hit_dice 32000d2+32000
+Mana_dice 0d0+0
+Dam_dice 400d2+500
+Dam_type acbite
+Armor -120 -120 -120 -120
+Off DFGHKP
+Teach A
+Imm AB
+Res HIJLQ
+Vuln KN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+MobTrig GREET 16735 100~
+EndMob
+
+#MOB
+Vnum 16771
+Name torm~
+Short {CT{Wo{Cr{Wm{x~
+Long {CT{Wo{Cr{Wm{x, {WThe {CD{Wefender{x of the {CW{Weak{x
+~
+Description Clad in gleaming, golden platemail, Torm is an impressive site to behold. With his trusted companions surrounding him, he looks as if he could take on the worlds evil.
+~
+Race unique~
+Act_flags ABPQT
+Aff CDFGHJTUVc
+Aff2 0
+Align 1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 100d1000+700000
+Mana_dice 32000d1+1000
+Dam_dice 30d30+80
+Dam_type wrath
+Armor -230 -230 -230 -230
+Off DEFGHK
+Teach A
+Imm ABOP
+Res CHIJQ
+Vuln M
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16772
+Name bhaal~
+Short {RB{Wh{Ra{Wa{Rl{x~
+Long {RB{Wh{Ra{Wa{Rl{x, {DGod of {rD{Re{Da{Rt{rh{x
+~
+Description A thin frame on a 5'8" humanoid, cloaked in the ways of the necromancer. As he turns, you notice that his features are skeletal, with flames in his eye sockets. As his gaze lands on you, you have the definite knowledge that he could kill you where you stand, with a single word. Do you feel lucky?
+~
+Race unique~
+Act_flags ABPRT
+Aff DFHNOQTUVc
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 32000d25+32000
+Mana_dice 9999d1+9999
+Dam_dice 700d4+700
+Dam_type magic
+Armor -230 -230 -230 -230
+Off EFGHK
+Teach A
+Imm ABIMOP
+Res HJLNQ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16773
+Name watchdog of ao~
+Short {BW{Wa{Bt{Wc{Bh {BD{Do{Bg{x of {WA{Bo{x~
+Long A dog the size of a house, with teeth the size of cars, drool that is leaving etch marks in the ground.
+~
+Description ~
+Race dog~
+Act_flags ABFT
+Aff CDEFGHNOPUVac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 32000d50+32000
+Mana_dice 0d0+0
+Dam_dice 800d2+800
+Dam_type acbite
+Armor -230 -230 -230 -230
+Off CDFGHK
+Teach A
+Imm ABOP
+Res CD
+Vuln MN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKUVZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 16776
+Name clerk~
+Short A Cafeteria Clerk.~
+Long One of those lunch ladies that ya hated as a kid.
+~
+Description ~
+Race human~
+Act_flags ABT
+Aff DFH
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 9999
+Hit_dice 1d1+1
+Mana_dice 0d0+0
+Dam_dice 9999d9999+9999
+Dam_type none
+Armor -900 -900 -900 -900
+Off 0
+Teach A
+Imm CDP
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 120000
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16781
+Name garak~
+Short Garak the Tailor~
+Long A person that should be with Sisco and Dax.
+~
+Description ~
+Race human~
+Act_flags ABT
+Aff DFH
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 9999
+Hit_dice 1d1+1
+Mana_dice 0d0+0
+Dam_dice 9999d9999+9999
+Dam_type none
+Armor -900 -900 -900 -900
+Off FGHK
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1200000
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16782
+Name light~
+Short {WL{Digh{Wt{x~
+Long A being of light is here
+~
+Description ~
+Race human~
+Act_flags AB
+Aff HUV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 0d0+0
+Dam_dice 9999d9999+9999
+Dam_type none
+Armor 0 0 0 0
+Off H
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1200000
+Form 0
+Parts Z
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 16792
+Name ao~
+Short {WAO{x~
+Long {WAO{x {oCREATOR OF {WALL{x
+~
+Description ~
+Race unique~
+Act_flags ABQRTU
+Aff CDEFGHJNOTUVZac
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 200
+Hit_dice 999d99+32000
+Mana_dice 32000d1+32000
+Dam_dice 900d3+1200
+Dam_type wrath
+Armor -270 -270 -270 -270
+Off CEFGHK
+Teach A
+Imm ABOP
+Res CDLMNQSTXYZ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 340000
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 16600
+Name symbol of bahamut~
+Short {WSymbol {Dof {YBa{yham{Yut{x~
+Orig_short {WSymbol {Dof {YBa{yham{Yut{x~
+Desc Darkc~
+Material metal~
+Item_type armor
+Extra RY
+Wear AM
+Values BCDE BCDE BCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+12 200
+AffectObj
+19 25
+AffectObj
+18 25
+AffectObj
+13 200
+EndObj
+
+#OBJ
+Vnum 16601
+Name bed of love~
+Short {YB{ye{Yd {Wof {RL{Wov{Re{x~
+Orig_short {YB{ye{Yd {Wof {RL{Wov{Re{x~
+Desc A heart shaped sleeping bag~
+Material gold~
+Item_type furniture
+Extra TY
+Wear A
+Values AC FHJKPQ HKL DFGHIJ DFGHIJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16602
+Name restring token~
+Short {oRestring Token{x~
+Orig_short {oRestring Token{x~
+Desc A glowing token.~
+Material gold~
+Item_type trash
+Extra RTY
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16603
+Name orange~
+Short {YO{Rr{Ya{Rn{Yg{Re{x~
+Orig_short {YO{Rr{Ya{Rn{Yg{Re{x~
+Desc A ripe, juicy spain blood orange.~
+Material orange peal~
+Item_type drink
+Extra GIRY
+Wear A
+Values -1 200 'orange juice' 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16605
+Name celestial key~
+Short {YC{Welestia{Yl {YKey{x~
+Orig_short {YC{Welestia{Yl {YKey{x~
+Desc A key made forged of the cosmos itself.~
+Material cosmos~
+Item_type trash
+Extra ABGTY
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 16606
+Name sceptre of the gods~
+Short {BS{Wceptr{Be{x of the {YGods{x~
+Orig_short {BS{Wceptr{Be{x of the {YGods{x~
+Desc A piece of the cosmos forged into the shape of a mace~
+Material the cosmos~
+Item_type weapon
+Extra ABGHIJKRY
+Wear AN
+Values mace 18 12 wrath CDEJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 16
+AffectObj
+19 16
+AffectObj
+20 -20
+EndObj
+
+#OBJ
+Vnum 16607
+Name brain key~
+Short brain key~
+Orig_short brain key~
+Desc Brain key~
+Material unknown~
+Item_type key
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16608
+Name mindflame~
+Short {RM{yi{Rn{yd{RF{yl{Ra{ym{Re{x~
+Orig_short {RM{yi{Rn{yd{RF{yl{Ra{ym{Re{x~
+Desc A flicker of solid thought lies here.~
+Material thought~
+Item_type weapon
+Extra AGIMR
+Wear AN
+Values flail 5 14 wrath A
+Level 101
+Weight 0
+Cost 1000
+Condition P
+AffectObj
+20 -10
+AffectObj
+19 6
+AffectObj
+18 6
+EndObj
+
+#OBJ
+Vnum 16609
+Name intellect devourer~
+Short {MI{Dn{Mt{De{Ml{Dl{Me{Dc{Mt{x {RD{re{Dvour{re{Rr{x~
+Orig_short {MI{Dn{Mt{De{Ml{Dl{Me{Dc{Mt{x {RD{re{Dvour{re{Rr{x~
+Desc An intellect devourer thirsts for your knowledge~
+Material bone~
+Item_type weapon
+Extra ABEGR
+Wear AJN
+Values staff 15 15 grep CDJ
+Level 101
+Weight 1
+Cost 1000
+Condition P
+AffectObj
+19 6
+AffectObj
+18 6
+EndObj
+
+#OBJ
+Vnum 16610
+Name ring of divinity~
+Short {WRing {xof {YD{Wi{Yv{Wi{Yn{Wi{Yt{Wy{x~
+Orig_short {WRing {xof {YD{Wi{Yv{Wi{Yn{Wi{Yt{Wy{x~
+Desc A chunk of the cosmos shaped into a ring.~
+Material cosmos~
+Item_type armor
+Extra ABGJKLRY
+Wear AB
+Values DF DF DF DF 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+20 -10
+AffectObj
+23 -10
+AffectObj
+21 -10
+AffectObj
+24 -10
+AffectObj
+18 14
+AffectObj
+19 14
+EndObj
+
+#OBJ
+Vnum 16611
+Name synaptice static~
+Short {BS{yy{Bn{ya{Bp{yt{Bi{yc{Be {BS{yt{Ba{yt{Bi{yc{x~
+Orig_short {BS{yy{Bn{ya{Bp{yt{Bi{yc{Be {BS{yt{Ba{yt{Bi{yc{x~
+Desc A pile of scrambled thoughts.~
+Material thought~
+Item_type armor
+Extra ABGMRY
+Wear AE
+Values D D D CD 0
+Level 101
+Weight 0
+Cost 100
+Condition P
+AffectObj
+19 4
+AffectObj
+18 4
+AffectObj
+5 4
+EndObj
+
+#OBJ
+Vnum 16612
+Name shimmering glow of divine power~
+Short {yS{Yh{yi{Ym{ym{Ye{yr{Yi{yn{Yg{x {WG{Yl{Wo{Yw{x of {YD{Wi{Yv{Wi{Yn{We{x {BP{Co{Ww{Ce{Br{x~
+Orig_short {yS{Yh{yi{Ym{ym{Ye{yr{Yi{yn{Yg{x {WG{Yl{Wo{Yw{x of {YD{Wi{Yv{Wi{Yn{We{x {BP{Co{Ww{Ce{Br{x~
+Desc A ball of the cosmos shedding its neverending energy.~
+Material atoms~
+Item_type light
+Extra ABIJKLRY
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+13 200
+AffectObj
+12 200
+EndObj
+
+#OBJ
+Vnum 16613
+Name the sceptre of might~
+Short the Sceptre of Might~
+Orig_short the Sceptre of Might~
+Desc You had better give that back, or the king of the universe will be mad.~
+Material the universe~
+Item_type light
+Extra ABFR
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+4 18
+AffectObj
+5 23
+AffectObj
+1 27
+AffectObj
+2 23
+EndObj
+
+#OBJ
+Vnum 16614
+Name celestial plate~
+Short {YC{W{Ye{Wl{Ye{Ws{Yt{Wi{Ya{Wl{x {CP{Wlat{Ce{x~
+Orig_short {YC{W{Ye{Wl{Ye{Ws{Yt{Wi{Ya{Wl{x {CP{Wlat{Ce{x~
+Desc A suit of platemail forged from the essence of the gods.~
+Material god essence~
+Item_type armor
+Extra ABGIRY
+Wear AD
+Values F F F F 0
+Level 101
+Weight 0
+Cost 12000
+Condition P
+AffectObj
+12 100
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 16615
+Name sign~
+Short a sign~
+Orig_short a sign~
+Desc The 12 will be down due to Technicall difficulties. It shall be put back as soon as is possible.~
+Material unknown~
+Item_type trash
+Extra AB
+Wear 0
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16616
+Name tri force~
+Short the Tri Force~
+Orig_short the Tri Force~
+Desc A whip forged from the essence of gods themselves~
+Material essence of the gods~
+Item_type weapon
+Extra ABGIY
+Wear AN
+Values whip 21 12 blast DIJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+13 100
+AffectObj
+12 100
+AffectObj
+19 12
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 16617
+Name baatzu bane~
+Short {rB{da{ra{Rt{rz{Du {rB{Ra{rn{Re{x~
+Orig_short {rB{da{ra{Rt{rz{Du {rB{Ra{rn{Re{x~
+Desc A whip that hums with the hunger of evil flesh~
+Material metal from celestia~
+Item_type weapon
+Extra ABGIKLY
+Wear AN
+Values whip 15 12 slash IJK
+Level 101
+Weight 0
+Cost 24000
+Condition P
+AffectObj
+19 6
+AffectObj
+18 6
+F
+Faff 0 -1 N
+EndObj
+
+#OBJ
+Vnum 16618
+Name aasimon slayer~
+Short {yA{Ya{ys{Wsi{ym{Ya{yr {yS{Yl{ya{Dy{Ye{yr{x~
+Orig_short {yA{Ya{ys{Wsi{ym{Ya{yr {yS{Yl{ya{Dy{Ye{yr{x~
+Desc A flail yearns to draw the life essence of the good.~
+Material iron of the astral plane~
+Item_type weapon
+Extra ABGIY
+Wear AN
+Values flail 0 0 beating BCJ
+Level 101
+Weight 0
+Cost 24000
+Condition P
+AffectObj
+19 6
+AffectObj
+18 6
+EndObj
+
+#OBJ
+Vnum 16619
+Name yugoloth slayer~
+Short (no short description)~
+Orig_short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear AN
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16620
+Name demon heart~
+Short {rD{Re{Dm{Ro{rn {rH{Re{Da{Rr{rt{x~
+Orig_short {rD{Re{Dm{Ro{rn {rH{Re{Da{Rr{rt{x~
+Desc A lump of charcoal that looks like a beating heart.~
+Material Demon heart~
+Item_type armor
+Extra CEG
+Wear AQ
+Values ADE ADE ADE ADE 0
+Level 101
+Weight 0
+Cost 34000
+Condition P
+AffectObj
+12 100
+AffectObj
+13 100
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+103 5
+EndObj
+
+#OBJ
+Vnum 16621
+Name speeding train~
+Short {GS{gp{Weedi{gn{Gg {GT{gr{Wa{gi{Gn{x~
+Orig_short {GS{gp{Weedi{gn{Gg {GT{gr{Wa{gi{Gn{x~
+Desc What gets derailed all the time?~
+Material thought~
+Item_type armor
+Extra AGIMRY
+Wear AG
+Values AD AD AD AD 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+3 4
+AffectObj
+4 4
+EndObj
+
+#OBJ
+Vnum 16622
+Name chains of thought~
+Short {CC{Wh{Ca{Wi{Cn{Ws {Co{Wf {CT{Wh{Co{Wu{Cg{Wh{Ct{x~
+Orig_short {CC{Wh{Ca{Wi{Cn{Ws {Co{Wf {CT{Wh{Co{Wu{Cg{Wh{Ct{x~
+Desc A chain link whip.~
+Material thought~
+Item_type weapon
+Extra AGHIR
+Wear AN
+Values whip 9 10 whip AJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 5
+AffectObj
+18 5
+AffectObj
+3 4
+EndObj
+
+#OBJ
+Vnum 16623
+Name pill of celestial blends~
+Short {DPill of {yC{Ye{yl{De{Ws{Dt{yi{Ya{yl {DB{Wl{De{Wn{Dd{Ws{x~
+Orig_short {DPill of {yC{Ye{yl{De{Ws{Dt{yi{Ya{yl {DB{Wl{De{Wn{Dd{Ws{x~
+Desc A pill of immense power lies here.~
+Material plants from the planes~
+Item_type pill
+Extra ABIY
+Wear A
+Values 126 '' 'fireshield' 'shield' 'sanctuary'
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16624
+Name potion of divinity~
+Short {YD{yi{Yv{Win{Yi{yt{Yy{x in a {WBottle{x~
+Orig_short {YD{yi{Yv{Win{Yi{yt{Yy{x in a {WBottle{x~
+Desc A vial that radiates with purity~
+Material spring water~
+Item_type potion
+Extra IY
+Wear A
+Values 125 '' 'armor' 'frenzy' ''
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16625
+Name key~
+Short {WK{De{Wy {Do{Wf {DK{Wn{Do{Ww{Dl{We{Dd{Wg{De{x~
+Orig_short {WK{De{Wy {Do{Wf {DK{Wn{Do{Ww{Dl{We{Dd{Wg{De{x~
+Desc A piece of brain matter waiting to impart knowledge.~
+Material light~
+Item_type armor
+Extra AY
+Wear AO
+Values AD AD AD AD 0
+Level 101
+Weight 0
+Cost 100
+Condition P
+AffectObj
+13 50
+AffectObj
+1 -2
+AffectObj
+3 2
+AffectObj
+4 2
+EndObj
+
+#OBJ
+Vnum 16626
+Name tentacle key~
+Short {BT{Dentacl{Be K{De{By{x~
+Orig_short {BT{Dentacl{Be K{De{By{x~
+Desc A piece of petrified tentacles bent into the shape of a key.~
+Material flesh~
+Item_type key
+Extra Y
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16627
+Name bean bag chair~
+Short {oBean Bag Chair{x~
+Orig_short {oBean Bag Chair{x~
+Desc {oBean Bag Chair{x~
+Material Leather~
+Item_type furniture
+Extra BGIRY
+Wear P
+Values AB FHJKPQ EFI DFGHIJ DFGHIJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16628
+Name bar of plenty~
+Short {RB{Wa{Br {Wof {WP{Yl{Ge{Mn{Ct{Yy{x~
+Orig_short {RB{Wa{Br {Wof {WP{Yl{Ge{Mn{Ct{Yy{x~
+Desc {RB{Wa{Br {Wof {WP{Yl{Ge{Mn{Ct{Yy{x~
+Material Wood~
+Item_type container
+Extra AY
+Wear P
+Values 320000 0 0 32000 1000
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16629
+Name male symbol~
+Short {oMale Symbol{x~
+Orig_short {oMale Symbol{x~
+Desc The opposite of a female sign is here.~
+Material silver~
+Item_type key
+Extra ABIY
+Wear AO
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 100
+Condition P
+EndObj
+
+#OBJ
+Vnum 16630
+Name chocolate trouffles~
+Short a {DC{Wh{Do{Wc{Do{Wl{Da{Wt{De {WT{Dr{Wo{Du{Wf{Df{Wl{De{Ws{x~
+Orig_short a {DC{Wh{Do{Wc{Do{Wl{Da{Wt{De {WT{Dr{Wo{Du{Wf{Df{Wl{De{Ws{x~
+Desc A delicate chocolate delicacy that women just crave. ~
+Material chocolate~
+Item_type food
+Extra AGRTY
+Wear A
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef DEGJ 0 0 0
+Level 101
+Weight 0
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 16631
+Name tootsie roll~
+Short {DTootsie {WR{Dol{Wl{x~
+Orig_short {DTootsie {WR{Dol{Wl{x~
+Desc A chocolate treat that everyone loves.~
+Material chocolate~
+Item_type pill
+Extra AGRTY
+Wear A
+Values 101 '' '' '' ''
+Level 101
+Weight 0
+Cost 5000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16632
+Name brandy shot~
+Short a {yB{Dr{ya{Dn{yd{Dy {DS{yh{Do{yt{x~
+Orig_short a {yB{Dr{ya{Dn{yd{Dy {DS{yh{Do{yt{x~
+Desc A shot of warm brandy.~
+Material brandy~
+Item_type potion
+Extra IRTY
+Wear A
+Values 101 'invisibility' 'pass door' 'fly' ''
+Level 101
+Weight 0
+Cost 5000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16633
+Name new sensation~
+Short {oNew Sensation{x~
+Orig_short {oNew Sensation{x~
+Desc A item of numerous feelings waits for you to try it out.~
+Material silver~
+Item_type weapon
+Extra GRY
+Wear AN
+Values whip 12 12 magic ADIJ
+Level 101
+Weight 0
+Cost 12000
+Condition P
+AffectObj
+6 1
+AffectObj
+18 8
+AffectObj
+19 8
+EndObj
+
+#OBJ
+Vnum 16634
+Name love's embrace~
+Short {ML{ro{Mv{re{M's {rE{Mm{rb{Mr{ra{Mc{re{x~
+Orig_short {ML{ro{Mv{re{M's {rE{Mm{rb{Mr{ra{Mc{re{x~
+Desc A feeling of love and warmth eminates from these sleeves.~
+Material love of the gods~
+Item_type armor
+Extra ABIRTY
+Wear AI
+Values ABDE ABDE ABDE ABDE 0
+Level 101
+Weight 0
+Cost 320000
+Condition P
+AffectObj
+19 6
+AffectObj
+18 6
+AffectObj
+5 2
+AffectObj
+3 2
+AffectObj
+4 2
+AffectObj
+1 2
+AffectObj
+2 2
+AffectObj
+13 150
+AffectObj
+12 150
+EndObj
+
+#OBJ
+Vnum 16635
+Name shimmer of brilliance~
+Short {YS{yh{Wimm{ye{Yr {Wof {YBr{yil{Wli{yan{Yce{x~
+Orig_short {YS{yh{Wimm{ye{Yr {Wof {YBr{yil{Wli{yan{Yce{x~
+Desc Thought taken shape lies here.~
+Material light~
+Item_type weapon
+Extra AGIKRY
+Wear AN
+Values exotic 12 8 blast BGJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 7
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 16636
+Name charm bangle~
+Short {YC{rh{Ya{rr{Ym {rB{Ya{rn{Yg{rl{Ye{x~
+Orig_short {YC{rh{Ya{rr{Ym {rB{Ya{rn{Yg{rl{Ye{x~
+Desc A bracer that no one could resist.~
+Material Tears of the Gods~
+Item_type armor
+Extra ABRTY
+Wear AM
+Values ADE ADE ADE ADE 0
+Level 101
+Weight 0
+Cost 320000
+Condition P
+AffectObj
+19 6
+AffectObj
+18 6
+EndObj
+
+#OBJ
+Vnum 16637
+Name snowflake~
+Short {CS{Wn{Co{Ww{CF{Wl{Ca{Wk{Ce{x~
+Orig_short {CS{Wn{Co{Ww{CF{Wl{Ca{Wk{Ce{x~
+Desc A crystaline structure of water.~
+Material snow~
+Item_type armor
+Extra AIRY
+Wear AV
+Values 0 CF 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16638
+Name heart of thunder~
+Short {RH{Deart{x of {YT{Bh{Yu{Bn{Yd{Be{Yr{x~
+Orig_short {RH{Deart{x of {YT{Bh{Yu{Bn{Yd{Be{Yr{x~
+Desc A heart of a thunder lizzard lies wreathing with energy.~
+Material silver~
+Item_type armor
+Extra ABIRTY
+Wear AI
+Values 0 CDH 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16639
+Name illithid key~
+Short {MIl{Dlith{Mid{x {MK{De{My{x~
+Orig_short {MIl{Dlith{Mid{x {MK{De{My{x~
+Desc A illithid key lies here.~
+Material metal~
+Item_type key
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16645
+Name no name~
+Short (no short description)~
+Orig_short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type key
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16646
+Name bone key~
+Short {WB{Do{Wn{De {WK{De{Wy{x~
+Orig_short {WB{Do{Wn{De {WK{De{Wy{x~
+Desc A key made of bone lies here.~
+Material bone~
+Item_type key
+Extra A
+Wear A
+Values 0 0 0 0 0
+Level 90
+Weight 0
+Cost 10
+Condition P
+EndObj
+
+#OBJ
+Vnum 16657
+Name eye of thoth~
+Short {DE{My{De of {MT{mh{Do{mt{Mh{x~
+Orig_short {DE{My{De of {MT{mh{Do{mt{Mh{x~
+Desc Emeralds crushed fine to make a suit of chainmail.~
+Material Emerald~
+Item_type armor
+Extra FGIRY
+Wear AD
+Values AD AD AD AD 0
+Level 101
+Weight 1
+Cost 500
+Condition P
+AffectObj
+4 5
+AffectObj
+3 5
+AffectObj
+13 50
+EndObj
+
+#OBJ
+Vnum 16660
+Name spare key for the parthanon~
+Short spare~
+Orig_short spare~
+Desc A spare key that everyone keeps hidden somewhere.~
+Material unknown~
+Item_type key
+Extra AF
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16666
+Name fountain~
+Short {WFountain {Wof {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+Orig_short {WFountain {Wof {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+Desc A {WFountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+Material unknown~
+Item_type fountain
+Extra GR
+Wear 0
+Values -1 -1 'orange juice' 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16667
+Name fruit of paradise~
+Short {MF{Wrui{Mt {Wof {YP{Ra{Yr{Ra{Yd{Ri{Ys{Re{x~
+Orig_short {MF{Wrui{Mt {Wof {YP{Ra{Yr{Ra{Yd{Ri{Ys{Re{x~
+Desc {MF{Wrui{Mt {Wof {YP{Ra{Yr{Ra{Yd{Ri{Ys{Re{x~
+Material unknown~
+Item_type food
+Extra GI
+Wear A
+Values CFG CFG 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16668
+Name fruit tree~
+Short {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+Orig_short {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+Desc A {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+Material unknown~
+Item_type container
+Extra GI
+Wear 0
+Values 100 0 0 5 100
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16674
+Name key of knowledge~
+Short {BK{De{By {Dof {BK{Wnowledg{Be{x~
+Orig_short {BK{De{By {Dof {BK{Wnowledg{Be{x~
+Desc A small book lies here.~
+Material steel~
+Item_type light
+Extra AIY
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 16675
+Name lore of thoth~
+Short {ML{Do{Mr{De of {MT{mh{Do{mt{Mh{x~
+Orig_short {ML{Do{Mr{De of {MT{mh{Do{mt{Mh{x~
+Desc A piece of black marble waits to bestow its knowledge.~
+Material marble~
+Item_type armor
+Extra FIRY
+Wear AQV
+Values ABCDE ABCDE ABCDE ABCDE 0
+Level 101
+Weight 0
+Cost 1000
+Condition P
+AffectObj
+12 50
+AffectObj
+4 2
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 16676
+Name green silk robe~
+Short {GG{gr{We{ge{Gn {GS{Wil{Gk {GR{Wob{Ge{x~
+Orig_short {GG{gr{We{ge{Gn {GS{Wil{Gk {GR{Wob{Ge{x~
+Desc (no description)~
+Material silk~
+Item_type armor
+Extra AGIRY
+Wear AK
+Values AE AE AE CE 0
+Level 101
+Weight 0
+Cost 12000
+Condition P
+AffectObj
+18 3
+AffectObj
+19 4
+AffectObj
+20 -5
+AffectObj
+3 2
+AffectObj
+4 1
+F
+Faff 0 -1 T
+F
+Faff 0 -1 U
+EndObj
+
+#OBJ
+Vnum 16677
+Name green steel gauntlets~
+Short {GG{gr{De{ge{Gn {DSteel {GG{Dauntlet{Gs{x~
+Orig_short {GG{gr{De{ge{Gn {DSteel {GG{Dauntlet{Gs{x~
+Desc A green metal forged into a fine mesh to form gauntlets.~
+Material green steel~
+Item_type armor
+Extra AGIRY
+Wear AH
+Values ABE ABE ABE ABCD 0
+Level 101
+Weight 1
+Cost 12000
+Condition P
+AffectObj
+18 6
+AffectObj
+19 8
+AffectObj
+20 -10
+AffectObj
+1 4
+EndObj
+
+#OBJ
+Vnum 16678
+Name green silk pantaloons~
+Short {GG{gr{We{ge{Gn {GS{Wil{Gk {GP{Wantaloon{Gs{x~
+Orig_short {GG{gr{We{ge{Gn {GS{Wil{Gk {GP{Wantaloon{Gs{x~
+Desc A pair of emerald threaded silk pantaloons.~
+Material silk~
+Item_type armor
+Extra AGIRY
+Wear AF
+Values CE CE CE ABCD 0
+Level 101
+Weight 0
+Cost 12000
+Condition P
+AffectObj
+2 4
+AffectObj
+20 -5
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 16679
+Name green steel bracers~
+Short {GG{gr{De{ge{Gn {DSteel {GB{Drace{Gr{x~
+Orig_short {GG{gr{De{ge{Gn {DSteel {GB{Drace{Gr{x~
+Desc A green metal forged into a bracer.~
+Material green steel~
+Item_type armor
+Extra AGIRY
+Wear AM
+Values ACE ACE ACE ACE 0
+Level 101
+Weight 0
+Cost 12000
+Condition P
+AffectObj
+18 6
+AffectObj
+19 8
+AffectObj
+5 2
+AffectObj
+1 2
+AffectObj
+20 -10
+EndObj
+
+#OBJ
+Vnum 16680
+Name crystal shard~
+Short {CC{Wr{Cy{Ws{Ct{Wa{Cl {BS{Wh{Ba{Wr{Bd{x~
+Orig_short {CC{Wr{Cy{Ws{Ct{Wa{Cl {BS{Wh{Ba{Wr{Bd{x~
+Desc A piece of crystal forged into a weapon of sorts.~
+Material crystal~
+Item_type weapon
+Extra AGIRY
+Wear AN
+Values dagger 12 6 frbite BDK
+Level 101
+Weight 0
+Cost 11000
+Condition P
+AffectObj
+19 8
+EndObj
+
+#OBJ
+Vnum 16681
+Name flashlance~
+Short {YF{Wl{Da{Ws{Yh {YL{Wa{Dn{Wc{Ye{x~
+Orig_short {YF{Wl{Da{Ws{Yh {YL{Wa{Dn{Wc{Ye{x~
+Desc A five foot telescoping spear.~
+Material iron~
+Item_type weapon
+Extra GIRY
+Wear AN
+Values staff 8 10 shbite DGK
+Level 101
+Weight 1
+Cost 12000
+Condition P
+AffectObj
+18 8
+AffectObj
+19 8
+EndObj
+
+#OBJ
+Vnum 16682
+Name sunblade~
+Short {YS{Du{Yn{Db{Yl{Da{Yd{De{X~
+Orig_short {YS{Du{Yn{Db{Yl{Da{Yd{De{X~
+Desc A blade of molten gold lies before you.~
+Material molten gold~
+Item_type weapon
+Extra AIRY
+Wear AN
+Values sword 10 12 flbite AJK
+Level 101
+Weight 0
+Cost 12000
+Condition P
+AffectObj
+18 5
+AffectObj
+19 5
+EndObj
+
+#OBJ
+Vnum 16683
+Name staff of anger~
+Short {WS{Dtaf{Wf {Dof {RA{rn{Rg{re{Rr{x~
+Orig_short {WS{Dtaf{Wf {Dof {RA{rn{Rg{re{Rr{x~
+Desc A five foot long piece of sharpened amber, scrawled with runes of power.~
+Material Amber~
+Item_type weapon
+Extra EGRY
+Wear AN
+Values exotic 10 10 wrath AK
+Level 101
+Weight 1
+Cost 12000
+Condition P
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 16684
+Name wand of halitosis~
+Short {WW{Dan{Wd {Dof {GH{Da{Gl{Di{Gt{Do{Gs{Di{Gs{x~
+Orig_short {WW{Dan{Wd {Dof {GH{Da{Gl{Di{Gt{Do{Gs{Di{Gs{x~
+Desc A petrified onion carved with runes of power.~
+Material plant~
+Item_type wand
+Extra AGIRY
+Wear AO
+Values 0 10 5 'gas breath' 0
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16685
+Name wand of heavens~
+Short {WW{Dan{Wd {Dof {YHe{ya{Dv{ye{Yns{x~
+Orig_short {WW{Dan{Wd {Dof {YHe{ya{Dv{ye{Yns{x~
+Desc A foot long piece of wood inscribed with runes of power.~
+Material Wood~
+Item_type wand
+Extra AGIRY
+Wear AO
+Values 75 10 5 'ray of truth' 0
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16686
+Name staff of healing waters~
+Short {WS{Dtaf{Wf {Dof {YH{Wealin{Yg {BW{Water{Bs{x~
+Orig_short {WS{Dtaf{Wf {Dof {YH{Wealin{Yg {BW{Water{Bs{x~
+Desc A gold staff inscribed with words of power.~
+Material gold~
+Item_type staff
+Extra AGIRY
+Wear AO
+Values 75 15 5 '' 0
+Level 101
+Weight 1
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16687
+Name priest's blessing~
+Short {YP{Wr{Yi{We{Ys{Wt{Y'{Ws {YB{Wlessin{Yg{x~
+Orig_short {YP{Wr{Yi{We{Ys{Wt{Y'{Ws {YB{Wlessin{Yg{x~
+Desc A pill made from the dust of a thousand priests.~
+Material unknown~
+Item_type pill
+Extra R
+Wear A
+Values 75 '' '' 'bless' ''
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16688
+Name eternal wrath~
+Short {ME{Dt{Me{Dr{Mn{Da{Ml {RW{Drat{Rh{x~
+Orig_short {ME{Dt{Me{Dr{Mn{Da{Ml {RW{Drat{Rh{x~
+Desc A pill of flaked blood of ancient warrior's.~
+Material unknown~
+Item_type pill
+Extra R
+Wear A
+Values 75 'frenzy' 'haste' '' 'giant strength'
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16689
+Name nature's blessing~
+Short {GN{Da{Gt{Du{Gr{De{G'{Ds {WB{Dlessin{Wg{x~
+Orig_short {GN{Da{Gt{Du{Gr{De{G'{Ds {WB{Dlessin{Wg{x~
+Desc A vial of Treant Priest Blood.~
+Material blood~
+Item_type potion
+Extra R
+Wear A
+Values 75 'stone skin' '' '' 'giant strength'
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16690
+Name combat's blessing~
+Short {RC{Do{Rm{Db{Ra{Dt{R'{Ds {WB{Dlessin{Wg{x~
+Orig_short {RC{Do{Rm{Db{Ra{Dt{R'{Ds {WB{Dlessin{Wg{x~
+Desc A vial of Minotaur Mage Blood.~
+Material unknown~
+Item_type potion
+Extra GRY
+Wear A
+Values 75 'fireshield' 'armor' 'shield' 'reserved'
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16691
+Name pool of radiance~
+Short {BP{Woo{Bl {Wof {YR{Wadianc{Ye{x~
+Orig_short {BP{Woo{Bl {Wof {YR{Wadianc{Ye{x~
+Desc A pool of holy water, pulses with power here.~
+Material water~
+Item_type portal
+Extra AB
+Wear P
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef K A BDEGIO 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16696
+Name fountain~
+Short {WFountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+Orig_short {WFountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+Desc {W A Fountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+Material unknown~
+Item_type fountain
+Extra G
+Wear 0
+Values -1 -1 'orange juice' 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16697
+Name fruit~
+Short {MF{Wrui{Mt {Wof {RP{Ya{Rr{Ya{Rd{Yi{Rs{Ye{x~
+Orig_short {MF{Wrui{Mt {Wof {RP{Ya{Rr{Ya{Rd{Yi{Rs{Ye{x~
+Desc {MF{Wrui{Mt {Wof {RP{Ya{Rr{Ya{Rd{Yi{Rs{Ye{x~
+Material unknown~
+Item_type food
+Extra 0
+Wear A
+Values CFG CFG 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16698
+Name no name~
+Short {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+Orig_short {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+Desc {WA {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+Material unknown~
+Item_type container
+Extra GI
+Wear 0
+Values 100 0 0 5 100
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16699
+Name orb of storms~
+Short {yO{Yr{yb{x of {YS{Wt{Yo{Wr{Ym{Ws{x~
+Orig_short {yO{Yr{yb{x of {YS{Wt{Yo{Wr{Ym{Ws{x~
+Desc An orb of lightning lies here.~
+Material lightning~
+Item_type weapon
+Extra AGIR
+Wear AN
+Values exotic 12 9 shock BGJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 10
+AffectObj
+18 8
+EndObj
+
+#OBJ
+Vnum 16700
+Name robe of storms~
+Short {DR{Bo{Db{Be{x {Dof {YS{Wt{Yo{Wr{Ym{Ws{x~
+Orig_short {DR{Bo{Db{Be{x {Dof {YS{Wt{Yo{Wr{Ym{Ws{x~
+Desc A cloak made from the rage of storms.~
+Material wind~
+Item_type armor
+Extra ABIRTY
+Wear AK
+Values BCDE BCDE BCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+2 5
+AffectObj
+12 100
+AffectObj
+20 -20
+AffectObj
+13 200
+AffectObj
+106 7
+EndObj
+
+#OBJ
+Vnum 16707
+Name living flame~
+Short {RL{yi{Rv{yi{Rn{yg {RF{yl{Ra{ym{Re{x~
+Orig_short {RL{yi{Rv{yi{Rn{yg {RF{yl{Ra{ym{Re{x~
+Desc Living flames take the shape of armor.~
+Material flame~
+Item_type armor
+Extra ABGIRUY
+Wear AD
+Values ABDE ABDE ABDE ACDE 0
+Level 101
+Weight 0
+Cost 100
+Condition P
+AffectObj
+19 6
+AffectObj
+18 4
+AffectObj
+102 8
+EndObj
+
+#OBJ
+Vnum 16708
+Name flaming hooves~
+Short {RF{ylaming {RH{yooves {Ro{yf {RD{yusk{x~
+Orig_short {RF{ylaming {RH{yooves {Ro{yf {RD{yusk{x~
+Desc Horseshoes forged of the sun itself.~
+Material flame~
+Item_type armor
+Extra GIRY
+Wear AG
+Values ACDE ACDE ABDE BDE 0
+Level 101
+Weight 1
+Cost 1000
+Condition P
+AffectObj
+102 5
+AffectObj
+13 100
+AffectObj
+19 5
+AffectObj
+18 6
+AffectObj
+14 400
+EndObj
+
+#OBJ
+Vnum 16709
+Name crescent moon~
+Short {YC{yrescent {BM{boon{x~
+Orig_short {YC{yrescent {BM{boon{x~
+Desc A dagger shaped in that of a crescent moon~
+Material rock~
+Item_type weapon
+Extra BCGJKR
+Wear AN
+Values dagger 15 9 slice DIK
+Level 101
+Weight 1
+Cost 1100
+Condition P
+AffectObj
+19 7
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 16710
+Name coat of darkness~
+Short {BC{Doat {Bo{Df {BD{Darkness{x~
+Orig_short {BC{Doat {Bo{Df {BD{Darkness{x~
+Desc An animal skin lies here absorbing light.~
+Material shadow~
+Item_type armor
+Extra CFGJRY
+Wear AK
+Values CDE CDE CDE CDE 0
+Level 101
+Weight 0
+Cost 900
+Condition P
+AffectObj
+103 10
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 16711
+Name a black obsidian key~
+Short a black obsidian key~
+Orig_short a black obsidian key~
+Desc A black obsidian key is lying here.~
+Material obsidian~
+Item_type key
+Extra BR
+Wear AO
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 16712
+Name platinum key~
+Short platinum key~
+Orig_short platinum key~
+Desc A platinum key lies there.~
+Material platinum~
+Item_type key
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 16715
+Name ankh of judgement~
+Short {MA{Wnkh {Dof {MJ{Wudgement{x~
+Orig_short {MA{Wnkh {Dof {MJ{Wudgement{x~
+Desc A powerful talisman waits to distribute justice.~
+Material diamond~
+Item_type armor
+Extra AGIRY
+Wear AO
+Values CE CE CE CE 0
+Level 101
+Weight 1
+Cost 1000
+Condition P
+AffectObj
+12 100
+AffectObj
+13 60
+EndObj
+
+#OBJ
+Vnum 16717
+Name golden buddha style~
+Short {YG{Wolden {YB{Wuddha {YS{Wtyle{x~
+Orig_short {YG{Wolden {YB{Wuddha {YS{Wtyle{x~
+Desc A book of martial arts lies here.~
+Material gold~
+Item_type weapon
+Extra AGIRY
+Wear AN
+Values exotic 12 13 beating ABK
+Level 101
+Weight 0
+Cost 1000
+Condition P
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 16718
+Name opal key~
+Short black opal key~
+Orig_short black opal key~
+Desc A black opal key lies there.~
+Material opal~
+Item_type key
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 16719
+Name jade key~
+Short jade key~
+Orig_short jade key~
+Desc A jade key lies here.~
+Material jade~
+Item_type key
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 16723
+Name brambles~
+Short {CB{Rr{Ca{Rm{Cb{Rl{Ce{Rs{x~
+Orig_short {CB{Rr{Ca{Rm{Cb{Rl{Ce{Rs{x~
+Desc A string with {CB{Rr{Ca{Rm{Cb{Rl{Ce{Rs{x tied to it lies here.~
+Material wood~
+Item_type weapon
+Extra GIR
+Wear AN
+Values whip 10 20 sting DHK
+Level 101
+Weight 0
+Cost 500
+Condition P
+AffectObj
+19 10
+AffectObj
+18 8
+EndObj
+
+#OBJ
+Vnum 16724
+Name eye of murdock~
+Short {RE{Dye {RO{Df {RM{Durdock{x~
+Orig_short {RE{Dye {RO{Df {RM{Durdock{x~
+Desc A eye of the fallen murdock lies here.~
+Material flesh~
+Item_type armor
+Extra GIRY
+Wear AO
+Values CDE CDE CDE CDE 0
+Level 101
+Weight 0
+Cost 100
+Condition P
+AffectObj
+12 150
+AffectObj
+13 100
+AffectObj
+19 12
+AffectObj
+18 8
+EndObj
+
+#OBJ
+Vnum 16725
+Name style of the bear~
+Short {WStyle {xof the {RB{Dear{x~
+Orig_short {WStyle {xof the {RB{Dear{x~
+Desc A book of martial arts lies here waiting to be read.~
+Material gemstone~
+Item_type weapon
+Extra R
+Wear AN
+Values exotic 10 12 charge GK
+Level 101
+Weight 2
+Cost 10000
+Condition P
+AffectObj
+19 4
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 16726
+Name fan of war~
+Short {RF{Wa{Rn {Dof {RW{Wa{Rr{x~
+Orig_short {RF{Wa{Rn {Dof {RW{Wa{Rr{x~
+Desc A might war fan lies at your feet.~
+Material cloth~
+Item_type weapon
+Extra AEGRY
+Wear AN
+Values exotic 13 14 slap DEJ
+Level 101
+Weight 0
+Cost 1000
+Condition P
+AffectObj
+102 2
+AffectObj
+19 7
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 16727
+Name heart of war~
+Short {RH{re{Da{rr{Rt {Wof {RW{Da{Rr{x~
+Orig_short {RH{re{Da{rr{Rt {Wof {RW{Da{Rr{x~
+Desc The blood of many fallen has given form to a single beating stone.~
+Material amber~
+Item_type armor
+Extra ABGR
+Wear AQTV
+Values 0 EG 0 0 0
+Level 101
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+17 -20
+EndObj
+
+#OBJ
+Vnum 16728
+Name death's eye~
+Short {BD{De{Ba{Dt{Bh{D'{Bs {DE{By{De{x~
+Orig_short {BD{De{Ba{Dt{Bh{D'{Bs {DE{By{De{x~
+Desc A shriveled eye.~
+Material amber~
+Item_type armor
+Extra ABGR
+Wear AQTV
+Values 0 EG 0 0 0
+Level 101
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+17 -20
+EndObj
+
+#OBJ
+Vnum 16729
+Name mantle of mystra~
+Short {WM{Dantl{We of {BM{Cy{Wst{Cr{Ba{x~
+Orig_short {WM{Dantl{We of {BM{Cy{Wst{Cr{Ba{x~
+Desc A shield forged from the stars themselves.~
+Material magic~
+Item_type armor
+Extra ABGHIKRTY
+Wear AJ
+Values ABCDE ABCDE ABCDE ABCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+12 250
+AffectObj
+13 100
+AffectObj
+113 10
+EndObj
+
+#OBJ
+Vnum 16730
+Name spellfire~
+Short {BS{Cp{Be{Cl{Bl{CF{Bi{Cr{Be{x~
+Orig_short {BS{Cp{Be{Cl{Bl{CF{Bi{Cr{Be{x~
+Desc Magic that has taken a physical force.~
+Material magic~
+Item_type weapon
+Extra ABHIJKRTY
+Wear AN
+Values dagger 18 11 flame ADJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 8
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 16731
+Name hammer of tyr~
+Short {WH{Damme{Wr of {CT{cy{Cr{x~
+Orig_short {WH{Damme{Wr of {CT{cy{Cr{x~
+Desc A silver hammer of power rests here.~
+Material Silver~
+Item_type weapon
+Extra ABGIKLRTY
+Wear AN
+Values mace 16 9 smash ABEFK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 12
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 16732
+Name armor of the heavens~
+Short {BA{Cr{Wm{Co{Br {Wof the {YH{ye{wave{yn{Ys{x~
+Orig_short {BA{Cr{Wm{Co{Br {Wof the {YH{ye{wave{yn{Ys{x~
+Desc A piece of the cosmos forged into a chainmesh armor~
+Material stars~
+Item_type armor
+Extra ABGIKRTY
+Wear AD
+Values ABCDE ABCDE ABCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+13 150
+AffectObj
+12 150
+AffectObj
+18 12
+AffectObj
+19 12
+AffectObj
+1 5
+AffectObj
+20 -20
+AffectObj
+104 2
+AffectObj
+105 -2
+EndObj
+
+#OBJ
+Vnum 16733
+Name death scythe~
+Short {RD{re{Da{rt{Rh {RS{rc{Dyt{rh{Re{x~
+Orig_short {RD{re{Da{rt{Rh {RS{rc{Dyt{rh{Re{x~
+Desc A Scythe of negative energy rests here.~
+Material negative~
+Item_type weapon
+Extra BCEGHR
+Wear AN
+Values exotic 18 9 drain CJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 8
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 16734
+Name mask of death~
+Short {DM{Wa{Ds{Wk {xof {RD{re{Da{rt{Rh{x~
+Orig_short {DM{Wa{Ds{Wk {xof {RD{re{Da{rt{Rh{x~
+Desc Several layers of humanoid flesh sown together to form a mask.~
+Material skin~
+Item_type armor
+Extra BCGRY
+Wear ARWY
+Values ABCDE ABCDE BCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 8
+AffectObj
+18 8
+AffectObj
+12 100
+AffectObj
+13 100
+AffectObj
+20 -20
+AffectObj
+102 2
+AffectObj
+115 2
+EndObj
+
+#OBJ
+Vnum 16735
+Name bloodstone battlemail~
+Short {rB{Rl{ro{Ro{rd{Rs{rt{Ro{rn{Re{x {rB{Dattlemai{rl{x~
+Orig_short {rB{Rl{ro{Ro{rd{Rs{rt{Ro{rn{Re{x {rB{Dattlemai{rl{x~
+Desc A suit of armor forged from millions of bloodstones.~
+Material bloodstone~
+Item_type armor
+Extra ABCEGRTY
+Wear AK
+Values ABCDE ABCDE BCDE ACDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 7
+AffectObj
+19 7
+AffectObj
+13 100
+AffectObj
+12 100
+AffectObj
+107 2
+AffectObj
+108 2
+AffectObj
+102 10
+EndObj
+
+#OBJ
+Vnum 16736
+Name soul syphon~
+Short {BS{Dou{Bl {BS{Cy{Dph{Co{Bn{x~
+Orig_short {BS{Dou{Bl {BS{Cy{Dph{Co{Bn{x~
+Desc A dagger made of petrified flesh.~
+Material flesh~
+Item_type weapon
+Extra BCEGRTY
+Wear AN
+Values dagger 21 9 claw CDHK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 12
+AffectObj
+19 12
+EndObj
+
+#OBJ
+Vnum 16737
+Name trident of the seas~
+Short {CT{Wriden{Ct {Wof the {CS{Bea{Cs{x~
+Orig_short {CT{Wriden{Ct {Wof the {CS{Bea{Cs{x~
+Desc A trident that has been carefully crafted from coral.~
+Material corral~
+Item_type weapon
+Extra ABGIRTY
+Wear AN
+Values exotic 20 10 frbite BDJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 9
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 16738
+Name platemail of the deep~
+Short {DP{Wl{Da{Wt{De{Wm{Da{Wi{Dl{x of the {BD{Dee{Bp{x~
+Orig_short {DP{Wl{Da{Wt{De{Wm{Da{Wi{Dl{x of the {BD{Dee{Bp{x~
+Desc A suit of ornate armor carved from coral.~
+Material coral~
+Item_type armor
+Extra ABGILRT
+Wear AK
+Values BCDE BCDE BCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+20 -20
+AffectObj
+19 8
+AffectObj
+18 8
+AffectObj
+13 100
+AffectObj
+12 100
+AffectObj
+101 15
+AffectObj
+106 -7
+EndObj
+
+#OBJ
+Vnum 16739
+Name helm of beauty~
+Short {CH{Wel{Cm {Wof {BB{Ce{Wau{Ct{By{x~
+Orig_short {CH{Wel{Cm {Wof {BB{Ce{Wau{Ct{By{x~
+Desc A highly polished golden helm with intricately cut designs~
+Material gold~
+Item_type armor
+Extra ABGIKRTY
+Wear AE
+Values ABCDE ABCDE ABCDE ABCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+20 -20
+AffectObj
+12 100
+AffectObj
+13 100
+AffectObj
+18 7
+AffectObj
+19 7
+AffectObj
+101 5
+AffectObj
+102 5
+AffectObj
+115 -3
+EndObj
+
+#OBJ
+Vnum 16740
+Name mirror of narcisism~
+Short {DM{Wi{Dr{Wr{Do{Wr of {YN{Ra{Yr{Rc{Yi{Rs{Yi{Rs{Ym{x~
+Orig_short {DM{Wi{Dr{Wr{Do{Wr of {YN{Ra{Yr{Rc{Yi{Rs{Yi{Rs{Ym{x~
+Desc A mirror forged into a powerful mace.~
+Material glass~
+Item_type weapon
+Extra BGIKLTY
+Wear AN
+Values mace 18 9 slice ADEJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 8
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 16741
+Name book of death~
+Short {rB{Doo{rk {Dof {RD{re{Da{rt{Rh{x~
+Orig_short {rB{Doo{rk {Dof {RD{re{Da{rt{Rh{x~
+Desc Barn~
+Material paper~
+Item_type weapon
+Extra IJKRTY
+Wear AN
+Values mace 22 9 acbite ADGK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 8
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 16742
+Name sleeves of knowledge~
+Short {MS{Wleeve{Ms {Wof {MK{cn{Wowled{cg{Me{x~
+Orig_short {MS{Wleeve{Ms {Wof {MK{cn{Wowled{cg{Me{x~
+Desc Many years of knowledge has formed itself into sleeves to protect the wearer from ignorance.~
+Material intelligence~
+Item_type armor
+Extra ABGIKRTY
+Wear AI
+Values ABCDE BCDE ABCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+12 100
+AffectObj
+13 100
+AffectObj
+3 5
+AffectObj
+4 5
+AffectObj
+20 -20
+AffectObj
+115 10
+EndObj
+
+#OBJ
+Vnum 16743
+Name blade of the assassin's~
+Short {RB{Dlad{Re {Wof the {RAs{Dsass{Rin{x~
+Orig_short {RB{Dlad{Re {Wof the {RAs{Dsass{Rin{x~
+Desc A blade specialized for killing~
+Material obsidian~
+Item_type weapon
+Extra BCGJLRTY
+Wear AN
+Values sword 18 9 sting CHJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+2 5
+AffectObj
+19 7
+AffectObj
+18 7
+EndObj
+
+#OBJ
+Vnum 16744
+Name assassin's hood~
+Short {GAs{gsa{Ws{gsi{Gn's H{goo{Gd{x~
+Orig_short {GAs{gsa{Ws{gsi{Gn's H{goo{Gd{x~
+Desc A hood meant for the experienced pilferer.~
+Material Honey leather~
+Item_type armor
+Extra CGJRTY
+Wear AE
+Values BCDE ABCDE BCDE ABCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 6
+AffectObj
+18 6
+AffectObj
+2 5
+AffectObj
+13 100
+AffectObj
+12 100
+AffectObj
+110 6
+AffectObj
+112 6
+EndObj
+
+#OBJ
+Vnum 16745
+Name lance of disruption~
+Short {YL{ya{Wn{yc{Ye {Wof {YDi{ysr{Dup{yti{Yon{x~
+Orig_short {YL{ya{Wn{yc{Ye {Wof {YDi{ysr{Dup{yti{Yon{x~
+Desc A lance made from the essence of the positive material plane.~
+Material energy~
+Item_type weapon
+Extra ABGIKLRY
+Wear AN
+Values exotic 18 10 blast AFGK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 9
+AffectObj
+18 8
+EndObj
+
+#OBJ
+Vnum 16746
+Name graces of torm~
+Short {WG{Yr{yac{Ye{Ws of {BT{Wo{Br{Wm{x~
+Orig_short {WG{Yr{yac{Ye{Ws of {BT{Wo{Br{Wm{x~
+Desc A golden holy symbol imbued with the wishes of Torm.~
+Material Blessed Gold~
+Item_type armor
+Extra AGIKLRTY
+Wear AC
+Values ABCDE ABCDE BCDE ABCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+12 150
+AffectObj
+13 150
+AffectObj
+19 7
+AffectObj
+18 7
+AffectObj
+20 -20
+AffectObj
+109 2
+AffectObj
+103 2
+AffectObj
+101 2
+AffectObj
+102 2
+AffectObj
+106 2
+EndObj
+
+#OBJ
+Vnum 16747
+Name baton of neutrality~
+Short {YB{ya{Wt{yo{Yn {Wof {DN{ye{Du{yt{Dr{ya{Dl{yi{Dt{yy{x~
+Orig_short {YB{ya{Wt{yo{Yn {Wof {DN{ye{Du{yt{Dr{ya{Dl{yi{Dt{yy{x~
+Desc A length of divine energy formed into a glaive.~
+Material divine power~
+Item_type weapon
+Extra ABGIJKRY
+Wear AN
+Values exotic 20 9 blast ABFG
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 10
+AffectObj
+19 10
+EndObj
+
+#OBJ
+Vnum 16748
+Name stone of neutrality~
+Short {DStone {Wof {DN{ye{Du{yt{Dr{ya{Dl{yi{Dt{yy{x~
+Orig_short {DStone {Wof {DN{ye{Du{yt{Dr{ya{Dl{yi{Dt{yy{x~
+Desc A little piece of the Gods waits to give you power~
+Material divine power~
+Item_type armor
+Extra ABGIRTY
+Wear AO
+Values ABCDE ABCDE ABCDE ABCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+20 -20
+AffectObj
+2 4
+AffectObj
+1 4
+AffectObj
+104 5
+AffectObj
+105 5
+EndObj
+
+#OBJ
+Vnum 16749
+Name staff of pain~
+Short {DStaff {xof {MP{Da{Mi{Dn{x~
+Orig_short {DStaff {xof {MP{Da{Mi{Dn{x~
+Desc A staff carved from the bone of an ancient dragon.~
+Material Thigh bone~
+Item_type weapon
+Extra BCEGLRY
+Wear AN
+Values exotic 16 12 thwack ABFG
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16750
+Name lich touch~
+Short {ML{Dich {MT{Douch{x~
+Orig_short {ML{Dich {MT{Douch{x~
+Desc A pair of supple dragon hide gloves.~
+Material dragon hide~
+Item_type armor
+Extra ABCEGRTY
+Wear AH
+Values ABCDE BCDE BCDE F 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+13 100
+AffectObj
+12 100
+AffectObj
+18 5
+AffectObj
+19 5
+AffectObj
+101 10
+AffectObj
+112 2
+AffectObj
+105 2
+AffectObj
+104 -2
+EndObj
+
+#OBJ
+Vnum 16751
+Name sands of time~
+Short {YS{Da{Yn{Dd{Ys {Wof {CT{Wi{Cm{We{x~
+Orig_short {YS{Da{Yn{Dd{Ys {Wof {CT{Wi{Cm{We{x~
+Desc Swirling sands of time have coalesced to for a weapon of destruction.~
+Material sand~
+Item_type weapon
+Extra CEGJLRTY
+Wear AN
+Values exotic 12 10 slime GJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 16752
+Name death's door~
+Short {RDe{ra{Dt{rh{R's{x {RD{Doo{Rr{x~
+Orig_short {RDe{ra{Dt{rh{R's{x {RD{Doo{Rr{x~
+Desc A evil force of concentrated energy.~
+Material diamond~
+Item_type light
+Extra CGRTY
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+12 100
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 16775
+Name onyx key~
+Short {DOnyx {WKey{x~
+Orig_short {DOnyx {WKey{x~
+Desc Riggs~
+Material onyx~
+Item_type key
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 1000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16779
+Name candy cane~
+Short {oCandy{x {oCane{x~
+Orig_short {oCandy{x {oCane{x~
+Desc A candy cane with various colors in it.~
+Material sugar~
+Item_type pill
+Extra IRTY
+Wear A
+Values 200 'heal' 'heal' 'cure poison' 'cure disease'
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16780
+Name gumdrop of life~
+Short {CG{Wu{Cm{BD{Wr{Bo{Wp{x of {YL{Wi{Yf{We{x~
+Orig_short {CG{Wu{Cm{BD{Wr{Bo{Wp{x of {YL{Wi{Yf{We{x~
+Desc A gumdrop that has healing powers.~
+Material unknown~
+Item_type pill
+Extra FRTY
+Wear A
+Values 126 '' '' 'sanctuary' ''
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16785
+Name dagger of stabbing~
+Short dagger of stabbing~
+Orig_short dagger of stabbing~
+Desc A really sharp dagger~
+Material silver~
+Item_type weapon
+Extra ABIRY
+Wear AN
+Values dagger 6 17 stab CDEJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+12 100
+AffectObj
+13 100
+AffectObj
+19 10
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 16786
+Name rock of brinstar~
+Short {oRock of Brinstar{x~
+Orig_short {oRock of Brinstar{x~
+Desc A chunk of the most powerful star in the galaxy~
+Material moon rock~
+Item_type gem
+Extra AFIKLRY
+Wear AV
+Values 0 ABCEF 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 12
+AffectObj
+18 12
+AffectObj
+12 100
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 16787
+Name keepsake chest~
+Short {oKeepSake Chest{x~
+Orig_short {oKeepSake Chest{x~
+Desc A chest for keeping things that you hold dear to you in.~
+Material cedar plank~
+Item_type container
+Extra AFRTY
+Wear 0
+Values 100000 AD 16629 100000 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 16788
+Name necklace of nobility~
+Short necklace of Nobility~
+Orig_short necklace of Nobility~
+Desc A necklace of elegance~
+Material gem stones~
+Item_type armor
+Extra GIRY
+Wear AC
+Values BCDE BCDE BCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+2 17
+AffectObj
+3 17
+AffectObj
+4 17
+AffectObj
+5 21
+AffectObj
+18 10
+AffectObj
+19 10
+AffectObj
+1 10
+EndObj
+
+#OBJ
+Vnum 16789
+Name Rising Sun~
+Short {RR{yising {RS{yun{x~
+Orig_short {RR{yising {RS{yun{x~
+Desc A sphere full of fire that rises in the east and sets in the west~
+Material light~
+Item_type weapon
+Extra ABGHIY
+Wear AN
+Values exotic 9999 9999 slime ABCDEGHIJK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 9999
+AffectObj
+18 9999
+EndObj
+
+#OBJ
+Vnum 16790
+Name Crown of the Dragonking~
+Short {RC{Drown {xof the {RD{Dragonking{x~
+Orig_short {RC{Drown {xof the {RD{Dragonking{x~
+Desc A intricately craefted crown rests before you. Upon inspection you note that the crown is seemingly made from that of one huge scale of a creature.~
+Material Scale~
+Item_type armor
+Extra ABIJKR
+Wear AE
+Values ACDE ACDE ACDE ABDE 0
+Level 101
+Weight 1
+Cost 12000
+Condition P
+AffectObj
+107 10
+AffectObj
+12 100
+AffectObj
+13 100
+AffectObj
+19 6
+AffectObj
+18 6
+EndObj
+
+#OBJ
+Vnum 16791
+Name Orb of DragonKin~
+Short {MO{Drb {xof {MD{Dragonkin{x~
+Orig_short {MO{Drb {xof {MD{Dragonkin{x~
+Desc A beautifully carved pearl is before you. Carved on this basketball sized pearl are scenes of dragons at play with a elven race.~
+Material pearl~
+Item_type armor
+Extra ABIJKR
+Wear AQ
+Values DF DF DF DF 0
+Level 101
+Weight 2
+Cost 23000
+Condition P
+AffectObj
+19 12
+AffectObj
+18 12
+AffectObj
+2 8
+AffectObj
+12 75
+AffectObj
+1 4
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 16792
+Name Gold Dragon Tattoo~
+Short {YG{Dold {YD{Dragon {YT{Dattoo{x~
+Orig_short {YG{Dold {YD{Dragon {YT{Dattoo{x~
+Desc A symbol of power lies before you.~
+Material Essence~
+Item_type armor
+Extra ABIJKR
+Wear AM
+Values BDE BDE BDE BDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 12
+AffectObj
+18 8
+AffectObj
+13 75
+AffectObj
+12 75
+EndObj
+
+#OBJ
+Vnum 16793
+Name Silver Dragon Tattoo~
+Short {WS{Dilver {WD{Dragon {WT{Dattoo{x~
+Orig_short {WS{Dilver {WD{Dragon {WT{Dattoo{x~
+Desc A symbol of power lies before you.~
+Material essence~
+Item_type armor
+Extra ABIJKR
+Wear AM
+Values BDE BDE BDE BDE 0
+Level 101
+Weight 0
+Cost 1200
+Condition P
+AffectObj
+13 75
+AffectObj
+12 75
+AffectObj
+19 12
+AffectObj
+18 8
+EndObj
+
+#OBJ
+Vnum 16794
+Name Chromatic Glow~
+Short {CC{Rh{Mr{Yo{Wm{Ga{Bt{Di{mc {RG{Wlow{x~
+Orig_short {CC{Rh{Mr{Yo{Wm{Ga{Bt{Di{mc {RG{Wlow{x~
+Desc A scintillating coat of dragon scales lies there.~
+Material scales~
+Item_type light
+Extra ABIJKR
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 20000
+Condition P
+AffectObj
+110 8
+AffectObj
+12 75
+AffectObj
+13 100
+AffectObj
+2 5
+AffectObj
+20 -10
+EndObj
+
+#OBJ
+Vnum 16795
+Name rays of dawn~
+Short {YR{yays {Wof {YD{yawn{x~
+Orig_short {YR{yays {Wof {YD{yawn{x~
+Desc Glittering rays of sunlight coalese to form a ring before you.~
+Material light~
+Item_type armor
+Extra ABJKR
+Wear AB
+Values BCDE BCDE BCDE BCDE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+20 -5
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+13 75
+EndObj
+
+#OBJ
+Vnum 16796
+Name globe of insight~
+Short {BG{Wlobe of {BI{Wnsight{x~
+Orig_short {BG{Wlobe of {BI{Wnsight{x~
+Desc A crystaline sphere the size of a softball is at rest. Sparkling with an inner light all its own.~
+Material Crystal~
+Item_type armor
+Extra ABGJKR
+Wear AQ
+Values AE CE CE BE 0
+Level 101
+Weight 0
+Cost 11000
+Condition P
+EndObj
+
+#OBJ
+Vnum 16797
+Name jade cocoon~
+Short {GJ{Dade {GC{Docoon{x~
+Orig_short {GJ{Dade {GC{Docoon{x~
+Desc You have heard about the legend of a Cocoon spun entirely out of Jade, but you've dismissed it as nothing. You can't believe your eyes here you are face to face with the actual thing. You tremble as you pick the object up and feel the power that is within.~
+Material jade~
+Item_type weapon
+Extra AGIKR
+Wear AN
+Values exotic 12 9 flame GJK
+Level 101
+Weight 0
+Cost 11000
+Condition P
+AffectObj
+19 10
+AffectObj
+18 12
+AffectObj
+12 100
+EndObj
+
+#OBJ
+Vnum 16798
+Name twilight's first ray~
+Short {BT{Dwilight's {BF{Dirst {BR{Day{x~
+Orig_short {BT{Dwilight's {BF{Dirst {BR{Day{x~
+Desc A beam of the first stars of night coalese into a ring.~
+Material dusk~
+Item_type armor
+Extra ABIJKR
+Wear AB
+Values ADE ADE ADE ABCE 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+101 2
+AffectObj
+13 125
+AffectObj
+12 125
+AffectObj
+19 10
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 16799
+Name naginata of punishment~
+Short {MN{Daginata of {MP{Dunishment{x~
+Orig_short {MN{Daginata of {MP{Dunishment{x~
+Desc A long wickedly, curved blade extending 5 feet, from a haft of Obsidian.~
+Material steel~
+Item_type weapon
+Extra ABGRY
+Wear AN
+Values exotic 21 9 thrust DFG
+Level 101
+Weight 1
+Cost 1000
+Condition P
+AffectObj
+2 -4
+AffectObj
+19 10
+AffectObj
+18 10
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 16600
+Name Path to the Gods~
+Desc What is this a detour off of the Grey Wastes?  Oh yeah!  You heard that
+this takes you to the Gods?  Well, don't have anything better to do, might
+as well check it out.  ******THIS AREA IS RECOMMENED FOR Level 101 ONLY!!!
+NORECALL ZONES AHEAD!!!  ****** (Note: Area modelled after forgotten realms
+gods)
+~
+Room_flags 65540
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16601
+Name Darion's Love Shack~
+Desc Austin Powers move over.  Darion is here and with love makin' vengence.
+Everywhere you turn, you see a shag-a-delic love nest.  Complete with heart
+shaped bed, lava mood lamps, rug walls, and shag carpetting.  Hell, he even
+has is own maid.  GROOVIEE......!
+~
+Room_flags 589828
+Sector_type 0
+Exit
+2
+~
+~
+4
+16605
+16602
+leaves south~
+ManaRate 100
+HealRate 1000
+EndRoom
+
+#ROOM
+Vnum 16602
+Name The Psycho Party Room~
+Desc Right out of a really bad, but {oGrooovvveeeeyyyy{x 60's flik comes the
+living room of Darion.  Plush carpeted walls, lava mood lamps, bean bag
+chairs, and original SHAG (g) carpet are the key features here.  Off to the
+north is the Shag chamber, west the Shag way, east the Eupohric kitchen, and
+out the gaudy sliding glass doors to the pool and grrrrrroowwwlll...  Bar.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+4
+0
+16601
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16720
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16603
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16604
+leaves west~
+ManaRate 100
+HealRate 1000
+EndRoom
+
+#ROOM
+Vnum 16603
+Name The Groovey Party Yard~
+Desc A male symbol swimming pool, you've got to be kiddin'.  Then again it is
+a swingin' shag pad.  You see lounge chairs, a bar with a handsome waiter, a
+waitress shakin' her groovalicous thing all over, Volleyball, and of course
+a giant tramp o lean for activities (g).
+~
+Room_flags 532484
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16602
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16604
+Name The Entrance to the Love Shack~
+Desc There is definitely a party going on in here.  You can hear the swingin'
+comin' from the other room.  My gawd is that actual SHAG carpet, rugs of the
+wall, and do I...  Yes that is definitely something being smoked.  You wiped
+your feet and dive into the world that is DARION and his GROOVALICOUS
+SENSATIONS!
+~
+Room_flags 8196
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16602
+leaves east~
+Exit
+3
+~
+~
+1
+16629
+16713
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16605
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is all around you. You can just see about 10 feet infront of you. You stop for a moment as you hear a scream, that seems to eminate from right in front of you. Taking a few more steps you come across the remains of a humanoid form. You gasp in horror as you realize whatever did this could still be in the area.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16613
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16610
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16606
+Name Prison of Thoth~
+Desc You see an elderly man chained to the wall.  He barely seems conscious.
+From you lessons at the academy, you recall this gentleman to be Thoth, The
+God of Knowledge.  Well do you set him free so he can reward you or kill him
+out right and take his belongings?
+~
+Room_flags 532480
+Sector_type 0
+Exit
+2
+~
+~
+4
+0
+16607
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16607
+Name Pools of Illiensiene~
+Desc After dealing with king kong squid, this chamber seems to have been
+carved out by water.  Numerous pools lie about.  Ranging anywhere from 5
+feet across to 60 feet across.  As you work your way through the weave of
+pools, you hear the sounds of trickling water from behind you.  Then a sound
+of something wet smacking the ground.  Turning you seem a giant mass of
+brains, with tentacles the length of dragons coming off it.  It seems to be
+heading for you.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+4
+16607
+16606
+leaves north~
+Exit
+2
+~
+~
+3
+0
+16608
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16608
+Name Antechamber of Obedience~
+Desc This is the first lite area that you've encountered since wandering the
+depths of the area.  It is a large uncut chamber.  The only thing that
+dominates the area, is a large door carved of ivory.  The door depicts a
+scene of a giant brain with tentacles being worshipped by some type of
+humanoid figures.  Well do you turn back and face the tunnels or do you let
+your curiousity run rampant?  By the way, I forgot to mention the giant
+Mindflayer sitting off to the side looking at you hungerily.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+3
+0
+16607
+leaves north~
+Exit
+1
+~
+~
+3
+0
+16610
+leaves east~
+Exit
+3
+~
+~
+3
+0
+16609
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16609
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16615
+leaves north~
+Exit
+1
+~
+~
+3
+0
+16608
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16611
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16610
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16614
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16605
+leaves east~
+Exit
+3
+~
+~
+3
+0
+16608
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16611
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16612
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16609
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16612
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16615
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16611
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16613
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16605
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16614
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16614
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16620
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16613
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16610
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16615
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16619
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16609
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16612
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16616
+Name Tunnel of Terror~
+Desc ~
+Room_flags 8196
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16617
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16621
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16619
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16618
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16622
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16620
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16619
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16623
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16615
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16617
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16620
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16624
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16618
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16614
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16621
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16623
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16617
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16622
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16618
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16624
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16623
+Name ~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16625
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16619
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16621
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16624
+Name Tunnel of Terror~
+Desc Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16622
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16620
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16625
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16625
+Name Enterance of Horror~
+Desc Only a thing shaft of light penetrates the gloom that encompasses you.
+The pressing darkness seems to be almost alive.  You can make out the glow
+of red beady eyes in the dark.  Sounds the like of which you've never heard.
+It is almost unbearable.  Do you climb back up or do you trudge on to find
+the treasures that may lie down here?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16624
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16623
+leaves west~
+Exit
+4
+~
+~
+2
+0
+16635
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16626
+Name Door to the Keeper of Tomes~
+Desc After braving all the horrors of this place you've finally come to what
+is hopefully the treasure room.  A massive oaken door carved with grotesque
+seens dominates your sight.  Standing infront of the door is a massive
+Illithid waiting to remove your knowledge through your eyes and ears.  Damn
+it always has to be a guardian.  Well do you slay him and get the key you
+need or just leave like nothing ever happened?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16628
+leaves east~
+Exit
+2
+~
+~
+2
+16626
+16635
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16627
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16627
+Name Hall of Horrors~
+Desc Running for your life from the insane hangman and the tentacles, lands
+you into even worse trouble....  Peering around, all you see is...  AHHHHH
+NO!!!  Rocky Horror Picture Show Particapants.  My God isn't it enough that
+you had to face all the other stuff, but be subject to this.  Quickly you
+must gather your sense before the "TIME WARP" kicks in.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16626
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16629
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16628
+Name Hall of Directories~
+Desc Once again leaving the writhing mass of tentacles, land you in the midst
+of ....  Phone Books.  Yes that is right.  This hall is a masoleum to all
+the phone books of ages past.  Well you've always want to know your old
+friends number that was unlisted.  May be you can find it in an older
+edition book.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16630
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16626
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16629
+Name Hall of Tentacles~
+Desc As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the hanged man's room or run like hell to the next room praying it isn't the
+same...?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16627
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16631
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16630
+Name Hall of Tentacles~
+Desc As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the tapestries or run like hell to the next room praying it isn't the
+same...?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16632
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16628
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16631
+Name Hanging Around~
+Desc Leaving the niceties of the fireplace and easy chair, you stumble into
+the hall of hanging.  Here littered casually about are galloes of all makes
+and sizes.  As a mater of fact, a gentleman is here waiting to see you for a
+noose fitting.  Well do you be a hero and kick his can or run screaming like
+a school girl in a direction?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16629
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16633
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16632
+Name Wall of Wonders~
+Desc Leaving the safety of the fireplace, you enter a fairly well lite hall.
+It runs about the length of a football field with tapestries of all makes
+and models.  Just eyeing the tapestries you think you could fetch a pretty
+penny for them on the market.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16630
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16634
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16633
+Name Reader's Corner~
+Desc After what seemed like an eternity in the hall of tentacles.  You come to
+a place of peace and relaxation.  There is a cheery fire place, gently
+rolling fire.  Two lounge chairs sit before it with night stands to either
+side.  Around the room, are book shelves with various books in them.  Well
+are ya going to chill out for a bit or see what other horrors await you.?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16631
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16637
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16634
+Name Reader's Corner~
+Desc After what seemed like an eternity in the hall of tentacles.  You come to
+a place of peace and relaxation.  There is a cheery fire place, gently
+rolling fire.  Two lounge chairs sit before it with night stands to either
+side.  Around the room, are book shelves with various books in them.  Well
+are ya going to chill out for a bit or see what other horrors await you.?
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16632
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16636
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16635
+Name Vault of Lore??~
+Desc Where is this fabled treasure hiding at?  This room is completely devoid
+of anything except for the robed figure in red.  Hrmmm...  He seems to be
+coming at me with a...  UGH!!!!  MINDFLAYER!!!!
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+2
+16626
+16626
+leaves north~
+Exit
+5
+~
+~
+2
+16639
+16625
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16636
+Name Hall of Tentacles~
+Desc As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the library or run like hell to the next room praying it isn't the same...?
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16634
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16638
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16637
+Name Hall of Tentacles~
+Desc As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the library or run like hell to the next room praying it isn't the same...?
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16638
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16633
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16638
+Name The Library~
+Desc Entering through the small door in the book, you come into a vast
+chamber.  The ceilings reaching as far as the eye could see.  Shelves upon
+shelves, upon shelves, of books dominated this place.  The thing that
+disturbs you the most is a lack of a living breathing presence.  To the east
+and west hallways run.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16636
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16639
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16637
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16639
+Name Floating Over Oblivion~
+Desc Congrats you grew some hair, the gods are indeed.  You feel the surge of
+adrenalin coursing through your veins, as you take in the wonderous sights
+of the Colorless Wastes.  *Clink...  Clink...  Clink* What is the seven
+heavens is that noise.  Peering towards the castle you see a huge
+bastillista aimed directly at your hide.  What ya gonna do now.  There
+aren't any of those Kalimari walking around to ask for help?  A: Turn around
+and walkaway causully or B: Make like a bat out of hell, and book (get it
+book) for the book...?
+~
+Room_flags 8192
+Sector_type 9
+Exit
+0
+~
+~
+0
+0
+16638
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16640
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16640
+Name Across from the Book~
+Desc Finally reaching what would normally be the drawbridge, you see nothing.
+Absolutely nothing.  Do you turn back, ask the walking squid for directions,
+or grow hair on your chest and just step forward?
+~
+Room_flags 8192
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16639
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16642
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16641
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16641
+Name Path to Thoth~
+Desc You notice that you are steadily going up, yet everything around you is
+level???  Do you stop and ask directions from one of the mind flayers, keep
+going or become the chicken that you know you are, and head back for a
+shopping trip?
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16640
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16643
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16642
+Name Path to Thoth~
+Desc You notice that you are steadily going up, yet everything around you is
+level???  Do you stop and ask directions from one of the mind flayers, keep
+going or become the chicken that you know you are, and head back for a
+shopping trip?
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16644
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16640
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16643
+Name Path to Thoth~
+Desc After passing through the gate, you notice that you still have another
+hour just to reach the bridge to the Book?  What is with all the illithids
+you wonder.  As you peer around you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16641
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16645
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16644
+Name Path to Thoth~
+Desc After passing through the gate, you notice that you still have another
+hour just to reach the bridge to the Book?  What is with all the illithids
+you wonder.  As you peer around you.
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16646
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16642
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16645
+Name Guard Tower~
+Desc Once again your confronted with the hand and eye of thoth.  They stand
+guard over a gate made of flesh.  Once past, it seems that it will take you
+to the book.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16647
+leaves north~
+Exit
+1
+~
+~
+0
+16646
+16643
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16646
+Name Guard Tower~
+Desc Once again your confronted with the hand and eye of thoth.  They stand
+guard over a gate made of flesh.  Once past, it seems that it will take you
+to the book.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16648
+leaves north~
+Exit
+3
+~
+~
+0
+16646
+16644
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16647
+Name End of the Bazaar~
+Desc You are just about out of the hustle and bustle of the servants and merchants that were running from booth to booth. Up ahead of you, you can see a guard post and a gate. Glancing in the general direction of the gate you can definitely see the floating castle....No it is a book. YOu think to yourself, who in the Abyss lives there? Well are ya going to find out or go back to shopping?
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16651
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16645
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16648
+Name End of Smithy's Way~
+Desc You are just about out of the hustle and bustling of squires and
+warriors.  Up ahead of you, you can see a guard post and a gate.  Glancing
+in the direction of the gate you can definitely see the floating castle....
+No it is a book.  You think to yourself, who in the Abyss lives there?  Well
+are ya going to find out or go back to shopping
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16652
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16646
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16649
+Name Arilyn's Mages Emporium~
+Desc The store is lined up in neat orderly glass cases, racks, and numerous
+shelves.  You can almost hear the hum of magic that emminates from
+everything.  What catches your eye, is a slender female, with you think some
+elven heritage, long black hair, piercing blue eyes, can't be a day over 25.
+At once you feel almost a compulsion to purchase something from her,
+however, minor it may be.
+~
+Room_flags 1024
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+16651
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16650
+Name Flanigan's Fineries~
+Desc Expecting to see silks, pantaloons, and what not.  You are amazed to see
+bracers, breastplates, jerkins, and a vast array of other assorted armors.
+Behind the counter is an elderly male halfling.  He is just watching ya with
+eyes like a hawk.
+~
+Room_flags 1024
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16652
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16651
+Name Bazaar of Thoth~
+Desc Transversing the various booths, you come upon Arilyn's Mages Emporium.
+A small building to the east.  You can continue south to see the rest of the
+sights and sounds or check out the shop.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16655
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16649
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16647
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16652
+Name Smithy's Way~
+Desc Weaving your way through the throngs of warriors and squires you notice a
+small building to the west.  The sign names the place as Flanigan's
+Fineries.  You think to yourself, why not.  I need a few niceties too...  Or
+you could always wonder back into the throng.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16656
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16648
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16650
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16653
+Name Dove's Guiding Light~
+Desc Entering the shop, the first thing you see is a woman of astounding
+beauty and wisdom.  If it wasn't for her pointed ears, you'd think she was a
+very well graced human.  Scanning her store, you can see various beakers
+bubbling, pills in containers, and dried herbs that have various uses.
+~
+Room_flags 1024
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+16655
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16654
+Name Executioner's Axe~
+Desc The first thing you notice as you step inside, is just how clean the
+store really is.  All the weapons seem to sparkle with a life all their own.
+Standing behind the counter is a squat figure, female at that, with a...  A
+beard???  My god you've heard about them, but never seen one before, a
+female dwarf.  She is really giving you the dirty eye.
+~
+Room_flags 1024
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+16656
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16655
+Name Bazaar of Thoth~
+Desc Transversing the various booths, you come to Dove's Guiding Light.  A
+small building to the east.  You can continue south to see the rest of th
+sights and sounds or check out the shop.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16657
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16653
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16651
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16656
+Name Smithy's Way~
+Desc Weaving your way through the throngs of warriors and squires you notice
+to the west a small building.  It has the sign of two crosses swords
+bloodied.  Below that is the name The Executioner's Axe.  Well you can
+always continue through the throngs or *gulp* have the axe fall on ya.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16658
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16654
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16652
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16657
+Name City of Thoth~
+Desc As you round the corner your senses are assaulted by the vast aray of
+smells, sights, and sounds.  This is the first time, however, that you note
+cityguards of some sort.  They seem to be giant eyeballs.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16659
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16655
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16658
+Name City of Thoth~
+Desc As you come around the the corner of the street, you can make out the
+definite sounds of hammering of metals, jousting, and scraping of fighters.
+This is the first time you note, however, that guards of some type are
+present.  They seem to be giant hands.
+~
+Room_flags 0
+Sector_type 1
+Exit
+2
+~
+~
+0
+0
+16656
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16660
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16659
+Name City of Thoth~
+Desc The road head towards the mage guilds and the food stores of the city.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16661
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16657
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16660
+Name City of Thoth~
+Desc The paved road seems to be headed toward the mage guilds and food stores
+of the town.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16658
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16662
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16661
+Name City of Thoth~
+Desc The paved road seems to be headed toward the mage guilds and food stores
+of the town.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16663
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16659
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16662
+Name City of Thoth~
+Desc The paved road seems to be headed toward the armorer and weaponsmiths of
+the town.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+16660
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16663
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16663
+Name City of Thoth~
+Desc Entering the city, you see races of all sorts mingling together chatting,
+bartering, or just going on their merry business.  What grabs your eye the
+most is the floating castle.  It seems to be a giant book???  A book you
+think.  Great....
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+16664
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16662
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16661
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16664
+Name The Colorless Plains~
+Desc After wandering this path for several days, you finally can make out the
+walls of a strong hold.  You can almost here the hustle and bussle of day to
+day activity.
+~
+Room_flags 0
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16666
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16663
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16665
+Name The Colorless Plains~
+Desc After wandering the area for numerous days, you finally come upon a path.
+The path leads off to the south toward...  You can't quite make it out may
+be a castle or town walls...
+~
+Room_flags 0
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16668
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16666
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16667
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16666
+Name The Colorless Plains~
+Desc After wandering the area for numerous days, you finally come upon a path.
+The path leads off to the south toward...  You can't quite make it out may
+be a castle or town walls...
+~
+Room_flags 524288
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16665
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16664
+leaves south~
+ManaRate 100
+HealRate 200
+EndRoom
+
+#ROOM
+Vnum 16667
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16693
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16665
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16669
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16691
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16668
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16694
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16670
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16665
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16692
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16669
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16691
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16667
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16671
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16693
+leaves up~
+ManaRate 100
+HealRate 2000
+EndRoom
+
+#ROOM
+Vnum 16670
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16692
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16672
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16668
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16694
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16671
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16689
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16669
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16673
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16675
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16672
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16690
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16674
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16670
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16676
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16673
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16675
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16671
+leaves east~
+Exit
+4
+~
+~
+0
+0
+16689
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16674
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16676
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16672
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16690
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16675
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16685
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16673
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16677
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16683
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16671
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16676
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16686
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16678
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16674
+leaves south~
+Exit
+4
+~
+~
+0
+0
+16688
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16672
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16677
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16683
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16675
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16679
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16681
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16678
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16684
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16680
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16676
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16682
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16679
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16681
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16677
+leaves east~
+Exit
+5
+~
+~
+0
+0
+16693
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16680
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16682
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16678
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16684
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16681
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16683
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16679
+leaves south~
+Exit
+5
+~
+~
+0
+0
+16677
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16682
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+2
+~
+~
+0
+0
+16680
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16684
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16696
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16678
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16683
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16685
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16677
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16681
+leaves west~
+Exit
+5
+~
+~
+0
+0
+16675
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16684
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16682
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16678
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16686
+leaves west~
+Exit
+5
+~
+~
+0
+0
+16680
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16685
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16687
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16675
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16683
+leaves west~
+Exit
+5
+~
+~
+0
+0
+16689
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16686
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16684
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16676
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16688
+leaves west~
+Exit
+5
+~
+~
+0
+0
+16690
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16687
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+2
+~
+~
+0
+0
+16689
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16685
+leaves west~
+Exit
+5
+~
+~
+0
+0
+16691
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16688
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16686
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16690
+leaves south~
+Exit
+5
+~
+~
+0
+0
+16676
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16689
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16687
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16691
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16671
+leaves south~
+Exit
+4
+~
+~
+0
+0
+16685
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16673
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16690
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+16688
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16672
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16692
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16686
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16674
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16691
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16693
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16669
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16689
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16687
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16667
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16692
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16690
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16670
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16694
+leaves west~
+Exit
+5
+~
+~
+0
+0
+16668
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16693
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 0
+Sector_type 2
+Exit
+2
+~
+~
+0
+0
+16667
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16691
+leaves west~
+Exit
+4
+~
+~
+0
+0
+16679
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16669
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16694
+Name The Colorless Plains~
+Desc The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+Room_flags 8192
+Sector_type 2
+Exit
+1
+~
+~
+0
+0
+16692
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16668
+leaves south~
+Exit
+5
+~
+~
+0
+0
+16670
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16695
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 2
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16696
+Name Sanctuary for the Weary~
+Desc You can't believe your eyes.  You've stumbled into a varitable paradise.
+Lush green grass, trees over loaded with ripe fruits, and could it be.....
+*sip* YES!!!  Water.  You have a sense of wellness here.  A rest from the
+endless void of the Wastes, the never ending hounding of Yeth Hounds, and
+Spectral Riders.  After having you fill and rest, you notice a path leading
+to the north.  Funny you think it wasn't there when you entered the first
+time.  What do you do?  Take the path or go back into the Grey Waste?  >
+~
+Room_flags 524288
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16697
+leaves north~
+Exit
+5
+~
+~
+0
+0
+16682
+leaves down~
+ManaRate 100
+HealRate 500
+EndRoom
+
+#ROOM
+Vnum 16697
+Name Pathway to Holyness~
+Desc You are just now leaving the lushness of your safe haven.  You have set
+your mind to the task of actually reaching the home of the gods themselves.
+You put your mind to it and head out.  You are secure in your knowledge that
+the gods will not turn you away.
+~
+Room_flags 533508
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16698
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16783
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16696
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16698
+Name Pathway to Holyness~
+Desc You've been travelling on for what seems like days.  Though the sun never
+seems to set.  Off in the very far distance you can make out a shimmer on
+the horizon.  Its nothing.  Just a mirage.  Okay, maybe it isn't.  Should
+you continue on or go back to the Endless Grey Wastes?
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16699
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16697
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16699
+Name Pathway to Holyness~
+Desc On the horizon you can just make out the majestic sight you've waited
+your whole life to see.  Mount Celestia, home of the gods of good, new
+beginnings, and all around forces of goodness.  You estimate that your only
+a day away or you could return to the harshness that is the Grey Waste.
+~
+Room_flags 4194304
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16700
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16698
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16700
+Name Before Mt. Celestia~
+Desc Coming up the rocky path you gaze upon a mountain.  As you gaze up you
+notice that the mountain reaches far above the cloudline.  If you squint
+really hard, you make out shadowy forms in the clouds.  Winged ones at that.
+You path continues north towards the base of the mountain or back south.
+~
+Room_flags 0
+Sector_type 5
+Exit
+0
+~
+~
+0
+0
+16701
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16699
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16793
+leaves west~
+Exit
+5
+~
+~
+0
+0
+1037
+leaves down~
+ManaRate 100
+HealRate 600
+EndRoom
+
+#ROOM
+Vnum 16701
+Name Foot of the Mount~
+Desc Upon reaching the base of the mountain, you finally get a feel for the
+greatnes that it possesses.  Before you stand a huge door of gold carved
+with the likeness of numerous dragons in graceful flight.  To the east and
+west paths weave up the mountain towards several caves.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16702
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16703
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16700
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16704
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16702
+Name The Center Spire~
+Desc You have entered the center spire of the mountain.  The climb shall be
+long and tedious.  You pathway continues spriraling up.  After a few hours
+of walking, you come upon a irradescent door.  That leads you further up
+your path.
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16701
+leaves south~
+Exit
+4
+~
+crate~
+0
+16711
+16721
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16703
+Name Paths of the Sun~
+Desc Above this entrance you can make out the various rises of the sun.
+Ranging from Dawn, High Noon, Dusk, and even a solar eclipse.  An individual
+in flames stands guarding the enterance.  Behind him you can see a bright
+landscape waiting to be explored.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16707
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16705
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16701
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16704
+Name Pathways of the Moon~
+Desc You gaze upward amazed at the multitude of stars that are out tonight.
+The beauty is absolutely breath taking.  Searching the sky, you see that the
+moon is out and shifting through all of its phases.  Before you a path leads
+north towards the moon, back east, or further west.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16708
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16701
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16706
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16705
+Name Broken Path~
+Desc This path widens somewhat.  It looks like at one time you used to be able
+to take mining carts down to the base of the mountain.  You only have to
+continue east a little more to reach you final destination.  Or you can
+continue back west from were you came.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16713
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16703
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16706
+Name Broken Path~
+Desc This path widens somewhat.  It looks like at one time you used to be able
+to take mining carts down to the base of the mountain.  You only have to
+continue west a little more to reach you final destination.  Or you can
+continue back east from were you came.
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16704
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16714
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16707
+Name The Coming of Dawn~
+Desc After your battle with the living flame, you can't believe the sight that
+lies infront of you.  The most breath taking Dawn you've ever seen.  Though
+it looks like its going to be interrupted by...  An elemental?  From the
+rays of dawn, coaleses a being of light.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16709
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16703
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16708
+Name Enter Dusk~
+Desc As you continue forward,your journey continues through the day till dusk.
+You stop to camp marveling at the colors of the horizon.  The warm colors
+that seem to embrace then coming of night.  On the horizon, you see a shape
+that vaguely resembles a horse.  It seems to be fast approaching, you can
+here the thunderous hoof beats.  Quickly scanning the area you can head back
+south, or try to manuever north around it.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16710
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16704
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16709
+Name High Noon~
+Desc You peer at a huge desert infront of you.  It seems to go on and on.  The
+only thing that can be seen are tumbleweed.  A dry, dusty gulch continues to
+the north.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16711
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16707
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16710
+Name New Moon~
+Desc Above you is nothing ,but darkness.  It seems all enveloping.  By what
+little starlight that there is you can piece together the facts.  Silently
+you whisper , "Damn!"  .  As you recall that the hounds hunt only during the
+full moon.  Searching frantically you find the path you were on.  It
+continues north or back south towards assured safety.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16712
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16708
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16711
+Name The Chamber's of the Morning Lord~
+Desc This room seems to be teaming with life as the sun splashes about
+everything.  You can feel the rays soaking through your armor, warming your
+skin and even your very soul.  As you get accustomed to the light, you can
+see a magnificant creature basking in the golden rays.  You can't believe it
+tis the the legendary dragon of the sun.  You wouldn't have believed it,
+unless you saw it.
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16709
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16712
+Name The Celestia Equinox~
+Desc As you enter the chamber you marvel at the way the moon light plays over
+the surfaces of the room.  How it seems to coalesce into a living being.
+Before your eyes a creature of exquisite beauty turns shows itself to you.
+You stand there amazed at the sight.  You would have never believed the
+legends if you hadn't seen this for yourself.
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16710
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16713
+Name Entrance to the Chamber of the Wheel~
+Desc Peering into the cave entrance, you can make out the sounds of a turning
+wheel.  Going further in, you come to the chamber of the wheel.  Thousands
+of people seem to be standing in line waiting for something.  Suddenly you
+gasp in realization.  You think can this be true, the Wheel of incarnation? 
+As if to answer your question a burly horned giant begins to approach you. 
+You options are continue through the cavern northward, face the beasty head
+on, or run for the hills from the direction you just came?  
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16715
+leaves north~
+Exit
+1
+~
+~
+1
+16629
+16604
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16705
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16714
+Name Silver Mine~
+Desc From the mouth of the cave you can just make out some type of metal
+glistening from your light.  As you enter the cave you see veins of silver
+splayed all through out the walls.  Passing your light around the mine, you
+uncover a pile of silver.  Wait did that silver just move.  Staring in awe
+and amazement, a serpentine form takes shape.  You think to yourself, "
+Damn, I'm introuble!"
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16716
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16706
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16715
+Name Chamber of Judgement~
+Desc After leaving the wheel, you follow the lines of eternity.  Upon its end
+you meet with a little old man sitting in a rocking chair.  He seems to be
+humming to himself.  Totally unaware that you've decided to intrude upon his
+thoughts.  Just as you thought you'd slip by, he turns and gives you a look
+of death.  His gaze penetrates your very being.  YOU ARE BEING JUDGED!  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16717
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16713
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16716
+Name Cavern of Quartz~
+Desc Upon exiting the silver mine, you notice that the walls start to take on
+a more crystaline structure.  Definitely some type of large crystal or
+quartz vein.  Entering into a vast chamber, you can see that this place is
+unscathed by the hands of man ( or other creature).  Being careful note to
+disturb this natural beauty, you spy a chunk of crystal coming to life.  As
+the mound starts to take shape, you notice it to be a very delicate
+serpentine creature of beauty.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16718
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16714
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16717
+Name Study of Cloud and Tree~
+Desc After being judged, you are sent to contemplate life.  Before you is a
+garden of eden.  Trees full of fruit, animals of all types playing with each
+other, and a large tree in the center of it all beckons you forth.  Standing
+by the tree are three figures.  Three elderly men, one dress in Gold, one in
+Grey, the other in Red.  All three, in unision, say ," To leave this place
+you must conquer each of us."  A path continues behind them toward a
+structure of jade.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16719
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16715
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16718
+Name Chamber of Percious Stones~
+Desc Entering this room you can't help, but notice {RG{Wems!{w   They are
+everywhere.  You can't believe it.  Oh the beauty of mounds of raw gem
+stones.  What is that you see.  A pile of gems just moved.  A hoard of
+Amethyst rises up.  My god!  You'd never thought you'd ever see a real live
+Amethyst Dragon ever.
+~
+Room_flags 8192
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16716
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16719
+Name The Jade Emporer's Throne Room~
+Desc This vast chamber seems to be carved out of a huge piece of jade.  In the
+center of the chamber is a human figure clothed in ameythyst, diamonds, and
+jade.  As you approach the figure you can see that he has green skin.  No
+hes not a troll.  His skin is jade.  His are as black as Opals.  You never
+would have thought the legends true of the Man of Jade.  Unless you seen it
+with your own eyes.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16717
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16720
+Name The Kitchen~
+Desc Not much going on here, except a lil' cooking if ya know what I mean.
+Here his chief GiGi prepares his snacks and euphoric entrees.  You know
+you'll have a good time if your eating the food.  (g) Literally.
+~
+Room_flags 532492
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+16602
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16721
+Name Shimmering Plateau~
+Desc Climbing up the infinite spiral, you come finally to the first plateau.
+Here the plateau is covered in mists.  Temperatures and smells of variety
+assault your senses.  Moving deeper into the mists, one has eyes.  Checking
+again, you see that those definitely are eyes, moving closer to you.
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+16711
+16722
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16702
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16722
+Name Plateau of Darkest Nights~
+Desc After leaving the bright lights of the plains behind, your eyes are
+happy to see the black of perpetual night.  Unfortunately, you aren't
+pleased in the least.  You know that preditors of all shapes and sizes hunt
+at night.  Here it is a virtual field day for them.  As you set up camp for
+the night, you notice a large, black void moving towards you.  Well you
+could head back to eye strain city or continue your climb upward?
+~
+Room_flags 8192
+Sector_type 0
+Exit
+4
+~
+~
+0
+16712
+16723
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16721
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16723
+Name Plateau Of Glory~
+Desc You are starting to get the feeling of forboding, as you've yet to see
+signs of the top of the mountain.  Yet you feel somewhat secure in the fact
+that you are 3 quarters of the way there.  You've reached a vast plateau.
+It seems to stretch in all directions to the horizon.  You have never really
+noticed before, but now you notice that you muscles are killing you.  As you
+break out your camping gear, a warm feeling of peace and easiness flows
+through you.  Looking across the camp at you, is Dragon of immense beauty
+and power.  You get the feeling though that no harm shall come to you.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+4
+~
+~
+0
+16719
+16724
+leaves up~
+Exit
+5
+~
+~
+0
+0
+16722
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16724
+Name The Stand Of Murdock~
+Desc Upon reaching the top of the mountain, you see carnage everywhere.  You
+thing to yourself, I climbed all this way to see a battlefield of blood and
+corpses.  As you start picking your was through the mess, a figure rises out
+of the dust and blood.  Getting a good look at him you see a titan of a man
+with eight arms.  In each of his mighty arms, he wields weapons of unearthly
+make.  You can feel the fear rising, as you realize he is heading your way.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+3
+16724
+16725
+leaves north~
+Exit
+5
+~
+~
+0
+0
+16723
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16725
+Name Treasure Room of the Fallen~
+Desc After the many battles that have been waged through out the centuries
+here.  Murdock has ammassed quite a collection of assorted weapons, armours,
+and items of power.  The thing that catches you eye the most, out of all the
+piles of gems and coins, is the pulsating pool of water.
+~
+Room_flags 532488
+Sector_type 0
+Exit
+2
+~
+~
+3
+0
+16724
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16730
+Name Before the Parthanon~
+Desc As you emerge from the portal, your eyes grow wide as disbelief sets in.
+You have arrived before the parthanon of the gods.  Well you've always
+wondered what it would be like to have dinner with them.  Well now is you
+chance.  Do you continue forward, or do you remember an important date that
+you wrote down in your planner?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16731
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16783
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16731
+Name Hall of the Twelve~
+Desc The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a mirror.  The door to the south is marked with a
+skull.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16733
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16738
+leaves east~
+Exit
+2
+~
+~
+4
+16605
+16732
+leaves south~
+Exit
+3
+~
+~
+4
+16605
+16730
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16732
+Name Hall of Embalming~
+Desc Entering through the door, you set foot in....  AHHH!  A embalming room.
+You see numerous corpses lining the walls.  Mindless zombies pulling out
+innards and...  Of course brains.  At the end of the hall you can make out a
+door of some sort.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16731
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16734
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16733
+Name Plush Hallway~
+Desc The thing that catches yer eye is all the naked people lying around the
+room.  It seems to be just one giant orgy.  Plush carpeting, velvet
+coushions, and lava lamps dominate this hall.  These are the faithful of....
+Oh my God!!!  Sune!!  You think to yourself, "Self either way you will most
+likely score tonite."  Feeling like the stuff do you join the throng or wuss
+out?
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16735
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16731
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16734
+Name Hallway to the Champaign Room~
+Desc After making your way through the initial onslaught of dissections and
+jars, you come to a door made out of flesh.  Still milling about waiting to
+work there skills on you are the zombies of Myrkul
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16732
+leaves north~
+Exit
+3
+~
+~
+4
+16605
+16736
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16735
+Name Foyer to the Champaign Room~
+Desc The hallway finally comes to an end, in front of a huge set of double
+doors.  You can hear and even louder party raging on, on the other side of
+the door.  Well do you dive in and mosh like mad or be a sissy, and go home?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16733
+leaves south~
+Exit
+3
+~
+~
+4
+16605
+16737
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16736
+Name The Morgue~
+Desc You have fallen prey to the worst thing around.  The place that they
+bring all the corpses to be prepped.  Milling around are several zombies
+waiting to be ordered by Myrkul.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16734
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16737
+Name Champaign Room~
+Desc Okay New Orleans move out of the way, because the party center of the
+megaverse is happening here.  There are things going on that you thought
+couldn't exist.  Everywhere you look, people are just getting down and
+boogie oogie to there hearts content.  In the midest of all this mayhem,
+stand the most beautiful woman of the megaverse.  NO NOT KYRIN, although she
+is second seeings she is still a mortal and all.  Is none other then Sune,
+the Goddess of Beauty.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16735
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16738
+Name Hall of the Twelve~
+Desc The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a tome.  The door to the south is marked with a
+dagger.
+~
+Room_flags 524292
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16739
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16745
+leaves east~
+Exit
+2
+~
+~
+4
+16605
+16740
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16731
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16739
+Name Library of the Ancients~
+Desc As you enter the door, you nostrils are assaulted with the smell of
+musty tomes and scrolls.  Everywhere you look piles upon piles of tomes lay
+spread out.  Working diligently to keep them in shape and order.  Are the
+faithful of Oghma.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16741
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16738
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16740
+Name Perpetually Dark Alley~
+Desc The first thing you notice walking through the door is....  You can't
+really see.  The inky blackness is so thick that you could cut it with a
+knife.  Oh wait...  That is a knife you see, but it seems to be coming at
+you.  UGH!  It is one of the faithful of Bane.
+~
+Room_flags 9
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16738
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16742
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16741
+Name Library of the Ancients~
+Desc Everywhere you look books, books, and yes MORE BOOKS!!!  They seem to
+stretch on for what seems like miles.  Why did you ever come in here you
+wonder?  Just as you finish that thought, you happen upon a tome that is the
+size of a titan.  It is standing against the wall.  Do you open it or Do you
+attempt to go find the spell to summon millions of book worms?  (which is a
+c 'summon' slate)
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16743
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16739
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16742
+Name Perpetually Dark Alley ~
+Desc Whatever is possessing you to move deeper into the murk is definitely
+something to go think about.  Well...  Pressing on you come to a broken down
+shack.  Well almost, except for that door of titan sized onyx.  Well you
+have come this far.  Might as well go see who is home.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16740
+leaves north~
+Exit
+1
+~
+~
+4
+16605
+16744
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16743
+Name Thoth n' Oghma~
+Desc After opening the massive tome to enter Oghma's Inner Sanctum, you come
+upon a simple man in robes levitating.  He seems to be concentration on
+something, your not certain what.  What you do know is the sounds of quills
+making their marks on papyrus fills the room.  Could that be the keeper of
+all knowledge?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+3
+~
+~
+4
+16605
+16741
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16744
+Name Assassin's Courtroom~
+Desc Stepping through the doorway, you enter a relatively well light chamber.
+The chamber is almost like a bejeweled fop.  Lounging casually in a pile of
+pillows is a man average age, strong facial features, and a grin that could
+actually kill you.  Surrounding him are numerous women and men lathering him
+in adoration.  This must be...  BANE!!!
+~
+Room_flags 532484
+Sector_type 0
+Exit
+3
+~
+~
+4
+16605
+16742
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16745
+Name Hall of the Twelve~
+Desc The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with stars and a flame.  The door to the south is
+marked with waves.
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16747
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16752
+leaves east~
+Exit
+2
+~
+~
+4
+16605
+16746
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16738
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16746
+Name Beaches of Tripoli~
+Desc Entering the door you set foot on a storm struck beach.  You see the
+remains of sailors, ships, and sea creatures strewn about.  Sifting through
+the wreckage you see the sea zombies of umberlee doing her bidding.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16745
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16748
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16747
+Name Hall of Mysteries~
+Desc You have set foot into a hallway that is lit as if twilight was alive.
+Here and there you see various creatures of magic lounging casually about.
+You see as well fanatic followers of the lady of mysteries.  They stand
+idling, waiting to be summoned to learn the secrets of manipulating the
+weave.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16749
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16745
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16748
+Name At the Base of the Cliff~
+Desc After dodging the scavengers of umberlee, you finally reach the cliff
+base that she calls home.  You can just make out a cave closed by water.
+You can see the scavengers of the bitch queen swimming lazily back and forth
+as if awaiting you.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16746
+leaves north~
+Exit
+3
+~
+~
+4
+16605
+16750
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16749
+Name Hall of Mysteries~
+Desc Finally coming to the end of the twilight lit corridor.  You come upon a
+set of double doors.  The doors themself seem to have been forged from raw
+magic.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16747
+leaves south~
+Exit
+3
+~
+~
+4
+16605
+16751
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16750
+Name Shores of Tripoli~
+Desc Having made the treacherous climb.  Your eyes finally lay upon the Bitch
+Queen.....  Umberlee.  She turns her gaze to you.  You almost feel in lust.
+If it wasn't for the fact that a lightning bolt the size of california is
+coming at you.  Stepping out of the way, you now know that this woman means
+business.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16748
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16751
+Name Mages Ascension~
+Desc Upon entering the room the first thing that catches your eye are the
+arching paths of magical energy that bends to and fro.  In the midst of all
+this chaos is a wispy figure surrounded by eager students.  They await the
+knowledge of how to shape and control the energy that is the weave.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16749
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16752
+Name Hall of the Twelve~
+Desc The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a throne of bones.  The door to the south is
+marked with an eye.
+~
+Room_flags 524292
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16753
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16759
+leaves east~
+Exit
+2
+~
+~
+4
+16605
+16754
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16745
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16753
+Name Standing in Line~
+Desc After openning the door, you appear standing in a line of dead souls.
+The terrain either way you look is completely devoid of life.  The only
+thing that you can spy on the horizon is a castle.  The line of souls seems
+to be going there.  Oh well just go with the flow and see what happens.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16755
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16752
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16754
+Name Jungle of the Gods~
+Desc Jumping through the door, you find yourself entangled in vines as thick
+as hassan's arms.  Well something like that won't stop an intrepid
+adventurer like yourself.  You easily pull out your trusty sharpened weapon
+and hack through.  Well as you start hacking away you seem to have attracted
+the attention of something, but you can't see through all this undergrowth.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16752
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16756
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16755
+Name Before the Castle of Bone~
+Desc After standing in line for what seems like hours, you finally reach the
+front steps to the Castle of Bone.  The odd thing is that no one seems to be
+running foward to go first through the Catyrid Column.  You ponder why that
+might be, just as you pass through.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16757
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16753
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16756
+Name Base of the Celestial Staircase~
+Desc After trudging through the dense thickets and vines, you come to the
+base of a golden staircase.  Looking up the staircase, you see that it
+easily reaches above the clouds.  Well do you ascend them to become a god or
+go find Xena's amazon tribe to get down with?
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16754
+leaves north~
+Exit
+1
+~
+~
+4
+16605
+16758
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16757
+Name Death's Domain~
+Desc As you pass through the Catyrid Column, you enter the throne room of the
+Lord of the Dead himself, Kelemvor.  He sits upon a Throne of solid emerald.
+There is aline that stretches for miles that leads to his throne.  He
+beckons the next soul forward, stands them infront of a mirror and announces
+his lot in undeath.  Keeping the throng of souls in line are the most
+favored and devout of Kelemvor.  Gazing one last time at the throne, he
+beckons you forward to be judged.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+3
+~
+~
+4
+16605
+16755
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16758
+Name Changing of the Guards~
+Desc Wheezing and puffing, you reach the top of the stairs.  Standing at the
+top, are a number of guards.  All eyes seem to be on you right now.  The
+most prominent figure is a giant of a man.  His gaze is literally freezing
+you where you stand.  He just raises a hand and points back down the
+staircase.  Are you going to do it or are you going to take on someone that
+Hassan would be affraid of?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+3
+~
+~
+4
+16605
+16756
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16759
+Name Hall of the Twelve~
+Desc The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with crossed swords.  The door to the south is marked
+with a scales.
+~
+Room_flags 524292
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16761
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16766
+leaves east~
+Exit
+2
+~
+~
+4
+16605
+16760
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16752
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16760
+Name Halls of Justice~
+Desc Passing through the doorway, you enter the halls of a courthouse.
+You've heard of this place.  This is supposed to be where the gods put
+mortals on trial at.  You shudder uncontrollably as you notice the long
+hallway heading to the courtroom.  To either side of the entry way are
+officers of justice.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16759
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16762
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16761
+Name Fields of Carnage~
+Desc Passing through the door you enter a field of war???  Actually it looks
+more like a field of blood, carnage, and mayhem.  On a ridge, to the north
+you can make out a cabin with numerous troops surrounding it.  Well you've
+strolled with most of the gods so far do you continue?
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16763
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16759
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16762
+Name Hallway of Justice~
+Desc Continuing your walk along the paths of justice, you finally come upon
+the doors to the courtroom.  Peering around yourself, you notice that
+somehow your next in line???  What the heck?  How?  As you turn to ask an
+officer what this is all about your name is spoken and your asked to enter
+the courtroom for judgement.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16760
+leaves north~
+Exit
+1
+~
+~
+4
+16605
+16764
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16763
+Name Carnage of War~
+Desc Making your way through the throngs of berserks (looks like a scene from
+BraveHeart) you can barely believe the carnage and havoc that they can
+cause.  You've made your way to the commanders building.  Well do you open
+it or do you casually whistle a tune and leave the field of battle?
+~
+Room_flags 532480
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16761
+leaves south~
+Exit
+3
+~
+~
+4
+16605
+16765
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16764
+Name Scales of Justice~
+Desc Entering the swinging doors, you set foot in a large courtroom.
+Scanning the area you see people sitting in the seats, watching the trails
+as they go.  A jury consisting of Kyrin, Kremlin, Dinchak, Torak, and Ender.
+Shuddering at that sight, you turn your gaze to the Judge.  It can't be....
+Its ...  Its Tyr.  Okay I am definitely in trouble now!!!!
+~
+Room_flags 532480
+Sector_type 0
+Exit
+3
+~
+~
+4
+16605
+16762
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16765
+Name Spoils of Battle~
+Desc After pushing your way through the carnage that was a war, you stumble
+upon a room full of still frothing soldiers.  Standing in the midst, is a
+human, whose chest is as big around as a barrel, shoulders that could carry
+the world, and arms that could break bahamut in two.  He turns his glowing
+eyes upon you.  For some reason you felt briefly warm.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16763
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16766
+Name Hall of the Twelve~
+Desc The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a hammer and shield.  The door to the south is
+marked with a skull surrounded in flames.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16767
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16768
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16759
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16767
+Name Halls of the Castle~
+Desc Stepping through the door, you are flung into the midst of a mad battle.
+Gazing around you can hardly make out who the defenders or attackers are, as
+a blade comes flying for your head.  Ducking under the blade, you can make
+out the insignia of Cyric.  Twould be his lot that would be attacking these
+helpless people.  Do you go to there aid or turn and continue your
+discussions with the other gods?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16769
+leaves north~
+Exit
+2
+~
+~
+4
+16605
+16766
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16768
+Name Halls of Decay~
+Desc Passing through the door, you are flung head first into a pile of gore.
+As a matter of fact everywhere you turn you see mounds of human flesh,
+carcasses of dead animals, and the blood of thousands spilled upon the
+floor.  Basking in the glories of such, you see half-human/half?  Something
+wallowing and eating the piles.  Those can be no other then Bhaal's
+faithful.  Gross!!!
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+4
+16605
+16766
+leaves north~
+Exit
+2
+~
+~
+0
+0
+16770
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16769
+Name Before the Last Defense~
+Desc Aftering forcing your way through the faithful defenders, you finally
+stand before the door to the sanctuary.  This is the last stand of all the
+faithfull who have defended this castle.  Before the door, standing proud
+and tall are several castle guards waiting to defend to the bitter end.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16767
+leaves south~
+Exit
+3
+~
+~
+4
+16605
+16771
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16770
+Name Halls of Decay~
+Desc Managing to keep yer dinner down, you proceed deeper in to the chamber
+of disembowling.  Again your sense are put on overload as you see people
+being burned alive, skinned, crucified, and all sorts of other really nasty
+things that you only see in movies.  Huh?  What is that?  A door?  Your
+saved maybe it will be a respite from all this grotesque horror.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16768
+leaves north~
+Exit
+3
+~
+~
+4
+16605
+16772
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16771
+Name Ever Vigilant~
+Desc After pushing the furniture out of the way, you see numerous women and
+children huddled in a corner.  They seem to be looking at you in total fear.
+Standing infront of the group, is a man in platemail, shining with an aura
+that could only denote a god.  Could this be Torm the Defender?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16769
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16772
+Name Realms of Misery~
+Desc Opening the door your relieved to see that it is a normal study.  Wooo...
+That was the most disgusting....  When the door closed, the illusion
+vanished.  You are standing knee deep in entrails, blood, and corpses.
+Hovering on a throne above it all is none other then the God of death...
+Bhaal!!!
+~
+Room_flags 532480
+Sector_type 0
+Exit
+1
+~
+~
+4
+16605
+16770
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16773
+Name To Ao's Palace~
+Desc Well after having your bouts of tea and crumpettes with the gods, you
+decide that it is time to meet the man himself, AO.  The supremity that is
+the boss of all the gods.
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16774
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16774
+Name Entrance to Space and Time~
+Desc Standing before the home of the father of all gods is very oppressing.
+As you stare at the entrance, you see flashes of light and movement of air.
+It is as though the entry way is alive.  Do you continue or go back to an
+onslot of ticked off gods?
+~
+Room_flags 532484
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16775
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16773
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16775
+Name The Sacred Halls~
+Desc Upon entering your senses are put on a euphoric ride.  You feel as if
+you were just turned inside out and back again.  You now stand inside a hall
+extending to your left and right as far as the eye can see.  A door of Onyx
+stands infront of you.  Looking up all you see is the Cosmos???  You start
+to panick, but realize that some divine force is keeping you firmly planted.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16777
+leaves north~
+Exit
+1
+~
+~
+4
+0
+16776
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16778
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16774
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16776
+Name Mickey D's of the Gods~
+Desc Steppin' inside, you see that this room?  No its a giant banquet hall set
+up for the Gods.  Every food imaginable is laid out before you.  At the end
+of a hall is a cafeteria clerk waiting to ring up your purchases.
+~
+Room_flags 533504
+Sector_type 0
+Exit
+3
+~
+~
+4
+0
+16775
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16777
+Name The Sacred Halls~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16780
+leaves north~
+Exit
+1
+~
+~
+4
+0
+16781
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16775
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16778
+Name ~
+Desc ~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16775
+leaves north~
+Exit
+1
+~
+~
+4
+0
+16782
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16779
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16779
+Name Pathways of the Galaxy~
+Desc ~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16778
+leaves north~
+Exit
+1
+~
+~
+3
+0
+16784
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16780
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16777
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16781
+Name BloomingDales of the Gods~
+Desc Stepping through the door, your first sight is of nothing put clothes
+and armor of all types.  From completely see through robes, to the turban,
+and then to the platemail chasity Belt.  They have it all here.  To do your
+will is a man standing about 8' at the shoulder, scales down the sides of
+his neck, kinda olive tan skin, black eyes and hair.  He introduces himself
+as Garak.
+~
+Room_flags 533504
+Sector_type 0
+Exit
+3
+~
+~
+4
+0
+16777
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16782
+Name Field n' Stream of the Gods~
+Desc Is that the call of nature you hear stepping through the door?  Why yes
+it is!  You can hardly believe the fact that your in a store at all.
+~
+Room_flags 599040
+Sector_type 0
+Exit
+3
+~
+~
+4
+0
+16778
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16783
+Name Path to the Gods~
+Desc What is this a detour off of the Grey Wastes?  Oh yeah!  You heard that
+this takes you to the Gods?  Well, don't have anything better to do, might
+as well check it out.  ******THIS AREA IS RECOMMENED FOR Level 101 ONLY!!! 
+NORECALL ZONES AHEAD!!!  ****** (Note: Area modelled after forgotten
+realms;gods) 
+~
+Room_flags 0
+Sector_type 9
+Exit
+1
+~
+~
+0
+0
+16730
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16697
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16784
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16785
+leaves east~
+Exit
+3
+~
+~
+3
+0
+16779
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16785
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16787
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16784
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16786
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16788
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16787
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16790
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16785
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16788
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16786
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16789
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16789
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+16791
+leaves south~
+Exit
+3
+~
+~
+0
+0
+16788
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16790
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16791
+leaves north~
+Exit
+3
+~
+~
+0
+0
+16787
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16791
+Name Standing Before the Throne Room~
+Desc After overcoming your various trials and tribulations, you finally
+arrive at the doors to the master creators room.  You can feel the
+excitement rising up inside.  But you also have fear at the unexpected.
+What if the creator doesn't want visitors?  Will he vaporize you?  Just a
+few things to ponder.
+~
+Room_flags 532480
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+16789
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16792
+leaves east~
+Exit
+2
+~
+~
+0
+0
+16790
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16792
+Name Realm of the Creator~
+Desc Gathering your resolve you have entered the chamber of the God of gods.
+Staring in disbelief you see a hot tub in one corner, a tanner in the other,
+a desk with a P3 Gateway computer, a life time supply of jolt, and a ....  A
+scrawny looking man with glasses typing away at the machine???  Thinking
+back on everything that you've ever heard, you can barely believe that this
+is the God of all gods.  Wait, now that you think about it...  He closely
+resembles.....  UGH!!!  Its DARION!!!
+~
+Room_flags 524292
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16793
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16700
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16794
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16794
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16793
+leaves east~
+Exit
+3
+~
+~
+0
+0
+16795
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 16795
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+16794
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11599
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 16600 spec_cast_adept
+M 16606 spec_cast_mage
+M 16607 spec_breath_any
+M 16609 spec_cast_mage
+M 16622 spec_nasty
+M 16624 spec_nasty
+M 16626 spec_breath_lightning
+M 16645 spec_guard
+M 16658 spec_guard
+M 16707 spec_breath_frost
+M 16708 spec_breath_gas
+M 16709 spec_poison
+M 16711 spec_breath_any
+M 16712 spec_breath_any
+M 16715 spec_breath_any
+M 16716 spec_breath_gas
+M 16718 spec_breath_frost
+M 16719 spec_cast_mage
+M 16721 spec_breath_acid
+M 16722 spec_breath_gas
+M 16723 spec_breath_any
+M 16725 spec_breath_any
+M 16726 spec_cast_mage
+M 16735 spec_nasty
+M 16736 spec_cast_mage
+M 16742 spec_nasty
+M 16743 spec_cast_cleric
+M 16744 spec_thief
+M 16750 spec_cast_mage
+M 16751 spec_cast_mage
+M 16757 spec_nasty
+M 16762 spec_nasty
+M 16764 spec_cast_cleric
+M 16765 spec_nasty
+M 16771 spec_cast_cleric
+M 16772 spec_cast_mage
+M 16773 spec_executioner
+S
+
+
+
+#RESETS
+D 0 16601 2 2
+D 0 16602 0 2
+D 0 16604 3 2
+D 0 16606 2 2
+D 0 16607 0 2
+D 0 16607 2 1
+D 0 16608 0 1
+D 0 16608 1 1
+D 0 16608 3 1
+D 0 16609 1 1
+D 0 16610 3 1
+D 0 16625 4 2
+D 0 16626 2 2
+D 0 16635 0 2
+D 0 16635 5 2
+D 0 16713 1 2
+D 0 16724 0 1
+D 0 16725 2 1
+D 0 16730 1 2
+D 0 16731 0 2
+D 0 16731 2 2
+D 0 16731 3 2
+D 0 16732 0 2
+D 0 16733 2 2
+D 0 16734 3 2
+D 0 16735 3 2
+D 0 16736 1 2
+D 0 16737 1 2
+D 0 16738 0 2
+D 0 16738 2 2
+D 0 16739 2 2
+D 0 16740 0 2
+D 0 16741 1 2
+D 0 16742 1 2
+D 0 16743 3 2
+D 0 16744 3 2
+D 0 16745 0 2
+D 0 16745 2 2
+D 0 16746 0 2
+D 0 16747 2 2
+D 0 16748 3 2
+D 0 16749 3 2
+D 0 16750 1 2
+D 0 16751 1 2
+D 0 16752 0 2
+D 0 16752 2 2
+D 0 16753 2 2
+D 0 16754 0 2
+D 0 16755 1 2
+D 0 16756 1 2
+D 0 16757 3 2
+D 0 16758 3 2
+D 0 16759 0 2
+D 0 16759 2 2
+D 0 16760 0 2
+D 0 16761 2 2
+D 0 16762 1 2
+D 0 16763 3 2
+D 0 16764 3 2
+D 0 16765 1 2
+D 0 16766 0 2
+D 0 16766 2 2
+D 0 16767 2 2
+D 0 16768 0 2
+D 0 16769 3 2
+D 0 16770 3 2
+D 0 16771 1 2
+D 0 16772 1 2
+D 0 16775 1 2
+D 0 16776 3 2
+D 0 16777 1 2
+D 0 16778 1 2
+D 0 16779 1 1
+D 0 16781 3 2
+D 0 16782 3 2
+D 0 16784 3 1
+O 0 16787 0 16602
+O 0 16627 0 16602
+O 0 16627 0 16602
+O 0 16627 0 16602
+M 0 16600 1 16602 1
+O 0 16666 0 16603
+M 0 16602 1 16603 1
+G 0 16634 0
+G 0 16636 0
+G 0 16633 0
+M 0 16606 1 16606 1
+E 0 16635 0 16
+E 0 16625 0 17
+E 0 16657 0 5
+G 0 16675 0
+M 0 16607 1 16607 1
+G 0 16607 0
+M 0 16622 3 16607 3
+M 0 16609 1 16608 1
+E 0 16611 0 6
+M 0 16622 1 16611 1
+M 0 16622 1 16621 1
+E 0 16621 0 8
+M 0 16622 1 16622 1
+E 0 16622 0 16
+M 0 16626 1 16626 1
+G 0 16626 0
+M 0 16631 1 16631 1
+M 0 16635 1 16635 1
+G 0 16639 0
+M 0 16658 2 16646 2
+M 0 16657 2 16646 2
+G 0 16646 0
+M 0 16649 1 16649 1
+G 0 16686 0
+G 0 16685 0
+G 0 16684 0
+M 0 16650 1 16650 1
+G 0 16679 0
+G 0 16678 0
+G 0 16677 0
+G 0 16676 0
+M 0 16653 1 16653 1
+G 0 16690 0
+G 0 16689 0
+G 0 16688 0
+G 0 16687 0
+M 0 16656 1 16654 1
+G 0 16682 0
+G 0 16683 0
+G 0 16681 0
+G 0 16680 0
+M 0 16658 4 16657 4
+M 0 16657 4 16658 4
+M 0 16694 2 16667 2
+M 0 16694 2 16668 2
+M 0 16694 2 16670 2
+M 0 16694 2 16672 2
+G 0 16602 0
+M 0 16694 2 16674 2
+M 0 16694 2 16676 2
+M 0 16694 2 16677 2
+M 0 16694 2 16678 2
+M 0 16694 2 16681 2
+M 0 16694 2 16682 2
+M 0 16694 2 16684 2
+M 0 16694 2 16686 2
+M 0 16694 2 16687 2
+M 0 16694 2 16689 2
+M 0 16694 2 16690 2
+M 0 16694 2 16692 2
+M 0 16694 2 16694 2
+O 0 16666 0 16696
+O 0 16668 0 16696
+P 0 16667 4 16668 4
+M 0 16703 1 16703 1
+E 0 16707 0 5
+M 0 16707 2 16707 2
+M 0 16708 2 16708 2
+E 0 16708 0 8
+M 0 16709 1 16709 1
+E 0 16723 0 16
+M 0 16710 2 16710 2
+E 0 16710 0 12
+M 0 16711 1 16711 1
+G 0 16711 0
+E 0 16796 0 2
+M 0 16712 1 16712 1
+E 0 16798 0 2
+E 0 16709 0 16
+M 0 16713 1 16713 1
+E 0 16799 0 16
+M 0 16714 1 16714 1
+M 0 16715 1 16715 1
+E 0 16715 0 17
+M 0 16716 1 16716 1
+M 0 16717 1 16717 1
+E 0 16717 0 16
+M 0 16725 1 16717 1
+E 0 16725 0 16
+M 0 16726 1 16717 1
+E 0 16726 0 16
+M 0 16718 1 16718 1
+G 0 16718 0
+M 0 16719 1 16719 1
+G 0 16719 0
+E 0 16797 0 16
+M 0 16601 1 16720 1
+G 0 16630 0
+G 0 16631 0
+G 0 16632 0
+M 0 16721 1 16721 1
+E 0 16794 0 0
+M 0 16722 1 16722 1
+M 0 16723 1 16723 1
+E 0 16795 0 2
+E 0 16791 0 17
+E 0 16792 0 15
+M 0 16724 1 16724 1
+E 0 16790 0 6
+G 0 16724 0
+M 0 16727 1 16725 1
+E 0 16728 0 6
+G 0 16727 0
+M 0 16669 1 16730 1
+E 0 16699 0 16
+E 0 16700 0 12
+G 0 16605 0
+M 0 16734 2 16732 2
+M 0 16735 2 16733 2
+M 0 16734 3 16734 3
+M 0 16735 3 16735 3
+M 0 16736 1 16736 1
+E 0 16751 0 16
+M 0 16734 6 16736 6
+M 0 16737 1 16737 1
+E 0 16739 0 6
+E 0 16740 0 16
+M 0 16735 6 16737 6
+M 0 16741 2 16739 2
+M 0 16742 2 16740 2
+M 0 16741 3 16741 3
+M 0 16743 1 16743 1
+E 0 16741 0 16
+E 0 16742 0 10
+M 0 16741 6 16743 6
+M 0 16744 1 16744 1
+E 0 16743 0 16
+E 0 16744 0 6
+M 0 16742 6 16744 6
+M 0 16746 2 16746 2
+M 0 16749 2 16747 2
+M 0 16746 3 16748 3
+M 0 16749 3 16749 3
+M 0 16750 1 16750 1
+E 0 16737 0 16
+E 0 16738 0 12
+M 0 16746 6 16750 6
+M 0 16751 1 16751 1
+E 0 16729 0 11
+E 0 16730 0 16
+M 0 16749 6 16751 6
+M 0 16755 2 16753 2
+M 0 16756 2 16754 2
+M 0 16756 2 16754 2
+M 0 16755 3 16755 3
+M 0 16756 3 16756 3
+M 0 16757 1 16757 1
+E 0 16733 0 16
+E 0 16734 0 6
+E 0 16620 0 19
+M 0 16755 6 16757 6
+M 0 16758 1 16758 1
+E 0 16747 0 16
+E 0 16748 0 19
+M 0 16756 6 16758 6
+M 0 16762 2 16760 2
+M 0 16761 3 16761 3
+M 0 16762 3 16762 3
+M 0 16761 4 16763 4
+M 0 16764 1 16764 1
+E 0 16731 0 16
+E 0 16732 0 5
+M 0 16762 6 16764 6
+M 0 16765 1 16765 1
+E 0 16736 0 16
+E 0 16735 0 12
+M 0 16761 6 16765 6
+M 0 16770 3 16768 3
+M 0 16769 4 16769 4
+M 0 16770 4 16770 4
+M 0 16771 1 16771 1
+E 0 16745 0 16
+E 0 16746 0 2
+M 0 16769 6 16771 6
+M 0 16772 1 16772 1
+E 0 16749 0 16
+E 0 16750 0 9
+S
+
+
+
+#SHOPS
+16601 0 0 0 0 0 100 100 0 24
+16602 0 0 0 0 0 100 100 0 24
+16649 0 0 0 0 0 150 50 9 22
+16650 0 0 0 0 0 250 75 0 24
+16653 0 0 0 0 0 100 100 1 24
+16656 0 0 0 0 0 200 75 1 23
+16776 0 0 0 0 0 200 50 1 23
+16781 0 0 0 0 0 200 50 1 23
+16782 0 0 0 0 0 200 50 1 23
+0
+
+
+
+#MOBPROGS
+#16600
+say Meet your maker you trespasser!
+murder $n
+~
+#16669
+mobprog greet_100
+say Welcome to the end.
+murder $n
+~
+#16703
+say Hmm, let me see.
+say Yes this seems to be the right amount.
+say Have a nice day!
+mob transfer $n 16709
+~
+#16715
+greet_prog 100-
+say I am here to pass judgement on all.
+say My judgement for thee is.....{RDEATH!!{x
+murder $n
+-
+~
+#16724
+greet_prog 100-
+say Welcome $n to your final resting place!
+-
+~
+#16735
+mobprog_greet 100
+say We shall protect our God with our lives! {RDIE{x!!
+murder $n
+-
+~
+#16773
+mobprog greet_100
+say None shall see my Master! Now {rDIE{x!!
+$n murder
+-
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

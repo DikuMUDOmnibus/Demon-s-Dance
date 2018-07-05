@@ -1,0 +1,6779 @@
+#AREADATA
+Name The {DG{Wr{De{Wy {DW{Wa{Ds{Wt{De{Ws{x~
+Builders None~
+VNUMs 16600 16799
+Credits {  101  } Darion  The Planes~
+Security 9
+End
+
+
+
+#MOBILES
+#16600
+belmonte~
+Belmonte, my trusty sidekick.~
+Belmonte, the trusted sidekick of Darion
+~
+~
+elf~
+ABJKLab CDEFGHP 0 0
+101 9999 32000d32000+32000 32000d100+32000 0d0+0 slap
+-100 -100 -100 -100
+0 ABDOP HN J
+stand stand none 120000
+AHMV ABCDEFGHIJK medium unknown
+#16601
+gigi~
+{YG{Wi{YG{Wi The {RH{We{Ra{Wd{RC{Wo{Ro{Wk{Re{Wr{x~
+{YG{Wi{YG{Wi The {RH{We{Ra{Wd{RC{Wo{Ro{Wk{Re{Wr{x for Darion and his Tribe.
+~
+Well you have seen Austin Powers. The girl from there, wearing nothing, but a Chiefs Apron.
+~
+elf~
+ABU CEG 0 0
+126 9999 32000d32000+32000 0d0+0 9999d9999+9999 none
+-900 -900 -900 -900
+I ABDOP HN J
+stand stand none 120000
+AHMV ABCDEFGHIJK medium unknown
+#16602
+gina~
+{CG{Wi{CN{Wa{x~
+{CG{Wi{CN{Wa{x the {CM{Wi{CN{Wi {WS{Ck{Wi{Cr{Wt{x {CG{Woddess{x
+~
+Well the outfit Gina has on leaves definitely nothing to the imagination. She is taken right out of the playboy pages and made real. She looks ready to serve you in anyway. >:)
+~
+elf~
+ABQR CDEFGHV 0 0
+126 9999 32000d32000+32000 32000d32000+32000 32000d32000+32000 none
+0 0 0 0
+GH ABC HN J
+stand stand none 120000
+AHMV ABCDEFGHIJK medium unknown
+#16606
+thoth~
+{RT{rh{Do{rt{Rh{x~
+Titan of Knowledge.
+~
+Once a proud and mighty titan, Thoth took to the path of wisdom. In doing so he was cursed into the frail human form you see before you. To aid in his work Thoth developed several artifacts of power. The Brilliance, Eye, Lore, and Key. He uses these devices to further his studies. As well as, further the causes of knowledge
+~
+titan~
+ABRT DFHNOVa 0 0
+130 20 31999d1+32001 1d1+21999 400d5+600 slap
+-180 -180 -180 -180
+CDEFGH 0 HIJQ K
+stand stand none 11000
+AGV ACDEFJKQV medium unknown
+#16607
+illiensiene~
+{MI{Dl{Ml{Di{Me{Dn{Ms{Di{Me{Dn{Me{x~
+The illithid god is here.
+~
+~
+human~
+ABRT CDFGHNOUVac -1000 0
+140 40 32000d2+32000 1d1+29999 100d18+300 smash
+-160 -160 -160 -200
+ACEFGHKO ABOPS CDEGHIJKM FN
+stand stand none 12000
+BCIS X large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 16600 100~
+#16609
+illithid titan~
+Titan Mindflayer~
+A gargantua mindflayer is here.
+~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+
+~
+titan~
+ABT HNOTUVa 0 0
+130 30 29999d1+31001 1d1+21999 300d4+400 none
+-150 -150 -150 -150
+EFGHIO BP HIJQ FK
+stand stand none 11000
+AGV ACDEFJKQV medium unknown
+M GREET 16600 100~
+#16622
+brain golem~
+A {RB{rr{Da{ri{Rn {BG{Dole{Bm{x~
+A construct of brain moves forward.
+~
+~
+mindflayer~
+ABT CDEFGHNO 0 0
+120 30 21999d2+11001 0d0+0 100d20+100 slap
+-110 -110 -110 -110
+CEGHIOU P CDHIJK MN
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+F res P
+F vul FG
+#16624
+illithid~
+An {RIl{Dlith{Rid{x waits for prey.~
+A humanoid squid, waits in the shadows for prey.
+~
+Standing 7 foot tall, with gangily limbs, this creature doesn't seem to pose much of a threat. But gazing at its head is where the true horror is....an octopus attached to a humanoid body. Its powers of confusion and stunning are known throughout the lands. Be afraid ...be very afraid.....
+~
+mindflayer~
+ABT CDEFGHNOQVc -500 0
+120 20 1d1+21999 0d0+0 100d10+300 digestion
+-100 -100 -80 -100
+BEFGHIJK ABP CHP GS
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+F vul F
+#16626
+crypt keeper~
+{MC{mr{Dy{mp{Mt {MKe{Dep{Mer{x~
+A massive illithid waiting for you to try to take the key.
+~
+~
+mindflayer~
+ABT CEGHNOU 0 0
+120 30 1d1+17999 0d0+0 10d80+500 digestion
+-100 -100 -70 -100
+CEFGHI ABP CHJK GI
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+F aff DF
+F res P
+F vul F
+#16631
+executioneer~
+{DT{Wh{De {REx{rec{Dutio{rne{Rer{x~
+A salesman for nooses stand before you sizing you up.
+~
+Standing tall in his dressings of black, the executioneer is very intimidating. Toppling over 8 feet tall, with arms as big around as ancient trees and a grimace that would send even Morbid running for his mommy. He seems quite confident with that noose.
+~
+darkelf~
+AB FHJNOUZ 0 0
+101 20 1d1+16999 0d0+0 10d100+200 shock
+-90 -90 -90 -90
+BCDEGHIJN ABP DHIKMN JNS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul G
+#16635
+tome guardian~
+{DT{Wo{Dm{We {DG{Wa{Du{Wr{Dd{Wi{Da{Wn{x~
+A cowled figure in robes of red is here to teach you knowledge.
+~
+~
+mindflayer~
+AB CDEFGHNO 0 0
+120 40 1d1+21999 0d0+0 10d90+400 slap
+-100 -100 -80 -100
+EFGHI P CHJK GI
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res P
+F vul F
+#16645
+hand of thoth~
+{BH{Wa{Bn{Wd of {BTh{Wo{Bth{x~
+A human with a giant hand for a head.
+~
+A humanoid figure standing 7 feet tall with a hand for a head. This fellow reminds you of THING from the Adams Family.
+~
+human~
+A DFHNO 0 0
+90 30 1d1+7999 0d0+0 20d60+200 slap
+-90 -90 -60 -90
+DEFGHN ABP HIJK G
+stand stand none 0
+M DI medium unknown
+F for AHV
+F par ABCEFGHJK
+#16649
+arilyn~
+Arilyn is here waiting to serve you.~
+Arilyn is here waiting to serve you.
+~
+~
+elf~
+AB CDEFGH 0 0
+75 0 1d1+31074 0d0+0 1d1+3999 wrath
+-500 -500 -500 -500
+FGHIK ABCD HN J
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium unknown
+#16650
+brandebarios~
+Brandebarios waits to take you money.~
+Brandebarios waits to take you money.
+~
+For a halfling Brandebarios is still quite agile. He is all of 3' nothing, standard pot belly and jolly face. He always is smoking his pipe and never has a harsh word to say to ya.
+~
+halfling~
+AB DFHV 0 0
+75 0 1d1+-32537 0d0+0 1d1+3999 pierce
+-500 -500 -500 -500
+EFGHK ACDP BILQ E
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium unknown
+#16653
+dove~
+Dove is here.~
+Dove is here.
+~
+A beautiful human woman, with eyes of deepest green and hair of darkest jet, tends to her store with grace and elegance.
+~
+human~
+AB DFHNO 0 0
+300 0 10000d5+30000 0d0+0 1d1+3999 wrath
+-500 -500 -500 -500
+EGHIJ CDHIJKLPQ 0 MN
+stand stand none 1000000
+M D medium unknown
+F for AHV
+F par ABCEFGHIJK
+#16656
+grettle battlehammer~
+Grettle Battlehammer~
+Grettle Battlehammer waits to show you her wares.
+~
+Standing all of 4' nothing, Grettle is a mass of muscle just waiting for a good brawl to take place. She is known in the city as being one of the best weaponsmiths alive. For the simple fact that she is also a mage of the highest circle.
+~
+dwarf~
+ABT DFHJ 0 0
+75 0 1d1+32000 0d0+0 1d1+3999 none
+-500 -500 -500 -500
+0 ABCD HI KR
+stand stand none 1000000
+AHMV ABCDEFGHIJK medium unknown
+#16657
+hand of thoth~
+{RH{Dan{Rd {Dof {RT{rh{Do{rt{Rh{x~
+A humanoid body with a hand for a head.
+~
+~
+human~
+AGT DFHNO 0 0
+90 20 1d1+7999 0d0+0 20d50+200 slap
+-90 -60 -90 -90
+CGHI ABP HIJK G
+stand stand none 0
+M BDK medium unknown
+F for AHV
+F par ACEFGHIJ
+#16658
+eyes of thoth~
+{BE{Wy{Be{Ws {Wof {BTh{Do{Bth{x~
+A human with a giant eye for a head.
+~
+Before you is a humanoid figure about 7 feet tall. The head is a giant eye. It is almost creepy having it stare at you constantly.
+~
+human~
+AGT DFHNO 0 0
+90 30 1d1+7999 0d0+0 20d60+200 claw
+-90 -60 -90 -90
+CGHI ABP HIJK E
+stand stand none 0
+M BDK medium unknown
+F for AHV
+F par ACEFGHIJ
+#16669
+talos~
+{YT{Wa{Yl{Wo{Ys{x~
+{YT{Wa{Yl{Wo{Ys{x, {YB{Wringer of {YS{Wt{Yo{Wr{Ym{Ws{x
+~
+A man cloak in the powers of lightning, with the stench of blood and war on his breath stand poised to crush you like an ant.
+~
+titan~
+ABT DFHNOVac 0 0
+151 600 32000d50+32000 0d0+0 900d1+1200 blast
+-260 -260 -260 -260
+CDEFGHIJKNO AJOPTXYZ HIKMQS 0
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F res J
+F vul K
+M GREET 16669 100~
+#16694
+yeth hound~
+{DY{Wet{Dh {DH{Woun{Dd{x~
+A shadowy figure of a dog.
+~
+These are dogs of the endless grey void. They look like standard dogs, only totally lacking colour.
+~
+dog~
+AGT BDFPQTUVc -1000 0
+120 20 1d1+17999 0d0+0 40d20+400 bite
+-110 -110 -110 -90
+EGHI AB D CN
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#16698
+third~
+third~
+Third
+~
+~
+human~
+ABT 0 0 0
+130 50 23000d2+23000 0d0+0 600d3+600 none
+-140 -140 -140 -140
+FGHIK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16699
+second~
+second~
+Second
+~
+~
+human~
+ABT H 0 0
+126 50 20000d3+10000 0d0+0 500d3+500 none
+-120 -120 -120 -120
+FGHIK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16700
+first~
+first~
+First
+~
+~
+human~
+ABT 0 0 0
+101 50 10000d3+10000 0d0+0 300d1+100 none
+-100 -100 -100 -100
+FGHIK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16703
+guardian of the sun~
+{RG{Dua{rrd{Dia{Rn {Do{Wf {Dt{Whe {YS{yu{Sn{x~
+A man composed of living flame stand barring your path.
+~
+~
+human~
+ABT DFHNOTUVc 0 0
+120 200 32000d5+32000 0d0+0 500d4+600 flbite
+-167 -167 -167 -167
+ADFGHIKMN ABOP EFGJKS 0
+stand stand none 12000
+CHJM 0 medium unknown
+F for AV
+F par ABCDEFGHIJK
+#16707
+mists of dawn~
+{WM{xists {Wo{Xf {YD{yawn{x~
+The vapors of dawn mix with the rays of light to assault you.
+~
+~
+human~
+ABT DFHJNOUV 0 0
+126 0 12d8+11321 0d0+0 3d200+200 none
+-190 -190 -190 -190
+AFGHU ABFO EFGHJK 0
+stand stand none 1200
+BCHKL 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#16708
+flaming skyrider~
+{RF{Yl{Ra{Ym{Ri{Yn{Rg {YS{Rk{Yy{Rr{Yi{Rd{Ye{Rr{x~
+{WA {Rf{ylaming{x demonic looking horse charges you.
+~
+~
+demon~
+ABT CFGHJNOTUZac 0 0
+120 55 24500d5+20000 0d0+0 400d4+400 flbite
+-140 -140 -140 -140
+AEFGHIK ABHMO EFGIJKNQ 0
+stand stand none 1000
+BDHMV ABCDEFGHIJKR medium unknown
+F act O
+F aff PQV
+F res CD
+F vul MN
+F for I
+#16709
+demon tumbleweed~
+{RD{Demon {RT{Dumbleweed{x~
+Just a bunch of dried up weeds blowing in the wind.
+~
+~
+centipede~
+ABT CDEFGHUZ -1000 0
+120 55 20000d4+32000 0d0+0 2d250+200 poison
+-150 -130 -130 -130
+CFGHO FMOS EGIJK H
+stand stand none 1000
+ABGO KN medium unknown
+F res F
+F vul E
+F par AC
+#16710
+wolves of the moon~
+{WWolf {Dof the {WMoon~
+Dark sleek, shapes seem to be surrounding you.
+~
+Catching a glimpse of the creature you see, sleek black fur made from darkness itself, a long muzzle like that of a crocodile, eyes as red and beady as a rays.
+~
+wolf~
+ABT CDFGHPUVZac -1000 0
+120 10 21000d4+30000 0d0+0 10d60+200 pierce
+-96 -96 -96 -80
+FGHIMN ABMOP EFGHIJKLQ S
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#16711
+sun dragon~
+{YS{yun {yDrago{Yn{x~
+Brilliant golden beans of sunlight dance off the hide of this magnificant creature.
+~
+~
+dragon~
+ABT CDEFGHJVac 0 0
+126 65 32000d5+32000 0d0+0 400d3+600 flame
+-210 -200 -200 -200
+ACEFGHIJKMO ABOP FGHIJLMNP I
+stand stand none 11000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+#16712
+moon dragon~
+{BM{Doon Drago{Bn{x~
+The weave of moonlight comes together in a striking resembles of a winged serpent.
+~
+~
+dragon~
+ABT CDEFGHJNOVc 0 0
+126 60 25000d5+30000 1d4+1996 500d3+500 chill
+-190 -190 -190 -190
+ACDEFGHIJKMO ABOP EFHIJLMP K
+stand stand none 11000
+AHZ ACDEFGHIJKPQUVX large unknown
+F vul F
+#16713
+cyclopian magi~
+{BC{Dyclopian {BM{Dagi{x~
+A one eyed, one horned giant fastly approaching.
+~
+~
+giant~
+ABT CDFGHJUVac 0 0
+120 60 32000d3+32000 0d0+0 800d2+800 smash
+-200 -200 -200 -200
+DEFGHIJKN BOPS FGHIP 0
+stand stand male 2000
+AGV ACDEFJKQV medium unknown
+F vul JK
+#16714
+silver dragon~
+{WS{Di{Wl{Dv{We{Dr {WD{Dr{Wa{Dg{Wo{Dn{x~
+A {WS{Di{Wl{Dv{We{Dr {WD{Dr{Wa{Dg{Wo{Dn{x lies amongst the silver.
+~
+From head to tip of tail, the silver measures almost 120 feet in length. Its impressive claws, jaw, and breath weapon, make it a formidable opponent for anyone.
+~
+dragon~
+ABT CDEFGHJNOUZc 0 0
+150 55 28000d5+30000 10d10+120 500d3+500 acbite
+-200 -200 -200 -200
+ACDFGHILMNO ABMOP FHIJKMNOPS E
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+#16715
+man of judgement~
+{WO{Dld {WM{Dan {WJ{Dudgement{x~
+An elderly man rocks quietly waiting to administer justice.
+~
+~
+elf~
+ABT CDEFGHNOUV 0 0
+120 55 32000d2+32000 0d0+0 300d3+400 wrath
+-160 -160 -160 -160
+EFGHIJKN ABLOQ EGHIJKMN 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+F vul J
+#16716
+crystal dragon~
+{CC{Wr{Cy{Ws{Ct{Wa{Cl {CD{Wr{Ca{Wg{Co{Wn{x~
+The {CC{Wr{Cy{Ws{Ct{Wa{Cl {CD{Wr{Ca{Wg{Co{Wn{x looks to add you to its collection.
+~
+A creature of exquisite beauty, assaults your eyes. Staring to long at the 30 foot long serpent, will lull you into a sort of hypnotic trance.
+~
+dragon~
+ABT CEFGHNOUc 0 0
+120 55 27000d4+30000 0d0+0 600d3+500 drain
+-210 -210 -210 -210
+AFGHIMNO ABFOP GHIJKMN E
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F aff J
+F vul F
+#16717
+master of the golden path~
+{WMaster {Dof the {YG{yolden {YP{yath{x~
+The {WMaster {Dof {Dthe {YG{yolden {YP{yath{x prepares to do battle
+~
+~
+fox~
+ABQ CFGHJNZc 1000 0
+120 50 32000d2+32000 1d1+1999 500d2+600 claw
+-140 -140 -140 -140
+DEFGHIKU AOP BCFGHIJM 0
+stand stand male 1000
+ABGHMV ABCDEFGHIJKQUV medium unknown
+#16718
+amethyst dragon~
+{MA{Dmethyst {MD{Dragon{x~
+The sparkling Amethyst catch you eyes as they take on a serpentine figure.
+~
+~
+dragon~
+ABT CDEFGHJVac 0 0
+126 65 29000d5+32000 0d0+0 600d3+600 frbite
+-100 -100 -100 -100
+AFGHIMNO BGJOP EGIKLMNP H
+stand stand none 11000
+AHZ ACDEFGHIJKPQUVX large unknown
+F res HJ
+F vul F
+#16719
+jade emporer~
+{GJ{gade {GE{gmporer{x~
+The {GJ{gade {GE{gmporer{x sits before you.
+~
+~
+elf~
+AB DEFHJNOUVZc 0 0
+126 100 9999d99+32000 1d1+1999 500d3+500 chop
+-120 -120 -120 -120
+ACEFGHIKN JOP BCDHIMN 0
+stand stand none 11000
+AHMV ABCDEFGHIJK medium unknown
+F aff CG
+F vul J
+#16721
+irradescent dragon~
+{CI{Wrradescen{Ct D{Wrago{Cn{x~
+{CS{Wwirling {Ci{Wncadescent {Cm{Wist{x lashes out at you.
+~
+~
+dragon~
+ABT CDEFGHJTUVZc 0 0
+126 50 32000d5+32000 0d0+0 600d3+600 acbite
+-210 -210 -210 -210
+ACEFGHIJMO ABKOP FIJMNS EH
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res H
+F vul F
+#16722
+opal dragon~
+{DOpal Dragon{x~
+A large, black opal carved into the likeness of a Dragon.
+~
+~
+dragon~
+ABT DEFGHJNOTUVZc 0 0
+126 65 32000d4+32000 0d0+0 500d4+500 shock
+-180 -180 -180 -180
+ACEGHIJNO BFOP FGHIJKMNS E
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+#16723
+bahamut~
+{YB{Wahamut {DThe {YW{Wise{x~
+A Golden Dragon of immense size and age is here keeping a steadfast watch.
+~
+~
+dragon~
+ABT CDEFGHJNOUVc 0 0
+126 50 32000d5+32000 10d100+300 500d4+600 wrath
+-210 -210 -210 -210
+ACDFGHIJMNO ABOP HIJL MN
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX large unknown
+F vul F
+#16724
+murdock~
+{RM{Durdock {WThe {RD{Destroyer{X~
+Here stands {RM{Durdock {WThe {RD{Destroyer{x.
+~
+Before you is a Giant of a man. At a little over 70 feet tall, with eight arms, he would make Hassan cringe.
+~
+titan~
+ABT CDEFGHJUVZac 0 0
+126 65 9999d99+1000 0d0+0 800d3+800 wrath
+-210 -210 -210 -210
+CDEFGHIJKMO ABNOP EFGHIJQ K
+stand stand none 400
+AGV ACDEFJKQV large unknown
+#16725
+master of the grey path~
+{WMaster {xof the {DGrey Path{x~
+The {WMaster {Xof the {DGrey Path{X prepares to do battle.
+~
+~
+bear~
+ABT CDFGHJNOVZac 0 0
+120 70 32000d2+32000 0d0+0 600d2+500 chomp
+-190 -190 -190 -190
+CDEFGHIKOU BOP EFGIJMNS 0
+stand stand none 1000
+AGV ABCDEFHJKUV medium unknown
+#16726
+master of the red path~
+{WMaster {xof the {RR{red {RP{rath{x~
+The {WMaster {xof the {RR{red {RP{rath{x prepares to do battle.
+~
+~
+cat~
+ABR CDFGHOVZac -1000 0
+120 55 32000d2+32000 1d1+1999 600d2+500 bite
+-160 -160 -160 -160
+FGHITU ABOP EFGIJKMNS 0
+stand stand male 1000
+AGV ACDEFHJKQUV medium unknown
+#16727
+wraith of murdock~
+{WW{Dr{Wa{Di{Wt{Dh {Wo{Df {BM{Du{Br{Dd{Bo{Dc{Bk{x~
+The spectral essence of Murdock has come to the place of his undoing.
+~
+~
+wraith~
+ABO CDFGHJOTUVZ -1000 0
+130 30 1d5+18634 0d0+0 2d100+300 drain
+-100 -100 -100 -100
+EGHI BILMQR HN SY
+stand stand none 0
+DHIL ABGIJKU medium unknown
+F aff PQ
+F res D
+F vul N
+#16730
+Sune~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+151 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16734
+deathheads~
+{DD{Re{Da{Rt{Dh {RH{De{Ra{Dd{Rs{x~
+Fanatic followers of myrkul
+~
+~
+titan~
+ABT DFHQV 0 0
+120 150 32000d5+32000 0d0+0 400d2+500 slash
+-190 -190 -190 -190
+FGHKR ABO HIJKPQ HK
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16735
+sensate~
+{YS{Re{Yn{Rs{Ya{Rt{Ye{Rs{x~
+A fanatic follower of Sune.
+~
+~
+titan~
+ABFT BDFHV 0 0
+120 150 32000d5+32000 0d0+0 400d2+500 none
+-180 -180 -180 -180
+EFHJKR ABO HIJKQ KL
+stand stand none 0
+AGMV ACDEFIJKQV medium unknown
+M GREET 16735 100~
+#16736
+myrkul~
+{BM{by{Drk{bu{Bl{x~
+{MM{by{Drk{bu{Bl{x, {DG{Wo{Dd of D{We{Da{Wt{Dh{x
+~
+A figure, stands before you wrapped in the darkness that we know as DEATH!!!
+~
+titan~
+ABQRT DFHQTU -1000 0
+151 300 32000d25+32000 23000d1+23000 700d4+700 poison
+-220 -220 -220 -220
+EFGHJK AIJOP DHKMN 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+F res IJQ
+F vul K
+#16737
+sune~
+{RS{Yu{Rn{Ye{x~
+{RS{Yu{Rn{Ye {Wthe {BG{co{Wdde{cs{Bs {Wof {BB{ce{Wau{ct{By{x
+~
+Lying in silks that leave nothing to the imagination, is a woman of fiery red hair. Eyes of the greenest jade, and lips that any man kissed would melt. Her parties are reknowned for the wild and craziness that is the world of sensations.
+~
+titan~
+ABT DFHNOTUVc 1000 0
+151 300 32000d25+32000 0d0+0 700d4+700 slap
+-240 -240 -240 -240
+EFGHIK ABO DHIJQ 0
+stand stand none 120000
+AGHMV ABCDEFGHIJKQV medium unknown
+F vul K
+#16741
+seekers~
+{BS{We{Be{Wk{Be{Wr{Bs{x~
+Fanatic followers of Oghma
+~
+~
+titan~
+ABT DFHc 0 0
+120 50 32000d2+31000 0d0+0 400d2+500 slap
+-120 -120 -120 -120
+FGHJKR AB CHIJPQ K
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16742
+banite~
+{DB{Ya{Dn{Yi{Dt{Ye{x~
+Fanatic followers of bane.
+~
+~
+titan~
+ABT DFHVa 0 0
+120 50 32000d2+31000 0d0+0 400d2+500 pierce
+-120 -120 -120 -120
+FGHIJKR 0 HIJKMQ KN
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16743
+oghma~
+{YO{yg{Wh{ym{Ya{x~
+{YO{yg{Wh{ym{Ya{x, {WG{Do{Wd of {WKn{yow{Yl{yed{Wge{x
+~
+A elderly man, maybe in his 90's, stands waiting to impart his wisdom to you.
+~
+titan~
+ABQRT DFHNOUVc 0 0
+151 300 32000d25+32000 32000d1+32000 700d3+700 slap
+-220 -220 -220 -220
+EFGIJK ANOPT CDHKQ M
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F off H
+F res IJ
+F vul K
+#16744
+bane~
+{MB{Da{Mn{De{x~
+{MB{Da{Mn{De{x, {DM{ra{Rst{re{Dr {RAs{rs{Das{rs{Rin{x
+~
+A muscular man stand before you. He has piercing black eyes, wild black hair.
+He looks as if he could kill you with just a shake of the hand.
+~
+titan~
+ABST BCDFGHOPQTUVac -1000 0
+151 300 32000d25+32000 32000d1+32000 700d4+700 poison
+-220 -220 -220 -220
+BCDEFIJK ABKMOP DHIJNQ 0
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F off H
+F vul K
+#16746
+sea wench~
+{CS{We{Ca{x {DW{Ce{Wn{Cc{Dh{x~
+A fanatic follower of umberlee.
+~
+~
+titan~
+ABT DFHVa 0 0
+120 50 32000d2+32000 0d0+0 400d2+500 frbite
+-120 -120 -120 -120
+CFHJKNR AB HIJKLQS HK
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#16749
+mystery~
+{BM{Cy{bs{Wt{be{Cr{By{x~
+A fanatic follower of mystra
+~
+~
+titan~
+ABT DFHNOUVc 0 0
+120 150 32000d5+32000 0d0+0 400d2+500 magic
+-120 -120 -120 -120
+EFGHKU AB CHIJKPQ EK
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16750
+umberlee~
+{MU{Dmberle{Me{x~
+{MU{dmberle{Me{x, {DBitch Queen {Wof the {BS{We{Ba{Ws{x
+~
+A slender female figure stands before you. She seems to have the tides of the world as her clothes.
+~
+titan~
+ABRT CDFGHNOTUVc -1000 0
+151 300 32000d25+32000 32000d1+32000 700d4+700 wrath
+-260 -260 -260 -260
+EFGHKR ABJOP DHIJQ K
+stand stand none 12000
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16751
+mystra~
+{BM{Cy{Wst{Cr{Ba{x~
+{BM{Cy{Wst{Cr{Ba{x, {WGoddess of {BM{Ca{Wg{Ci{Bc{x
+~
+A tall, slender woman stand wrapped in a gown of sorcery. Tis' hard to believe at one time this black haired, deepest emerald green eyes was once a mortal. Practicing her arts once as a thief, but then turning to the true ways. The Arcane Arts. She is also known as the goddess of mysteries of magic.
+~
+titan~
+ABQRS BCDEFGHJNOTUVc 0 0
+151 300 32000d25+32000 0d0+0 700d4+700 wrath
+-230 -230 -230 -230
+BFGHIJK BCOP DHIJQ 0
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F vul K
+#16755
+corpse keeper~
+{WC{Do{Wr{Dp{Ws{De {DK{We{De{Wp{De{Wr{x~
+A fanatic follower of Kelemvor
+~
+~
+titan~
+ABT DFHTUVa 0 0
+120 150 32000d5+32000 0d0+0 400d2+500 shbite
+-120 -120 -120 -120
+DFGHJKR AB DHIJKQ KMN
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16756
+watcher~
+{MW{Wa{Mt{Wc{Mh{We{Mr{x~
+A fanatic follower of helm.
+~
+~
+titan~
+ABT DFHVa 0 0
+120 50 32000d2+32000 0d0+0 400d2+500 cleave
+-120 -120 -120 -120
+EFGHKR ABO DHIJPQ K
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16757
+kelemvor~
+{rK{De{rl{De{rm{Dv{ro{Dr{x~
+{rK{De{rl{De{rm{Dv{ro{Dr{x, {RL{Dor{Rd {Dof {YU{yn{Dde{ya{Yd{x
+~
+A man in his late 40's, chiselled features, 3 scar marks extending from the corner of the right eye to the base of the right cheek. His eyes are a dull grey absorbing all information that is set infront of him. You don't feel secure in the fact that you'll never be leaving again, once you meet him.
+~
+titan~
+ABT BDFHNOTUVc 0 0
+151 300 32000d25+32000 0d0+0 700d5+700 flbite
+-230 -230 -230 -230
+DFGHJK BMOP DHIJQ 0
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F vul K
+#16758
+helm~
+{DH{We{Dl{Wm{x~
+{DH{We{Dl{Wm{x {YGu{ya{Drd{yi{Yan{x {Wof the {MP{Wlane{Ms{x
+~
+A man of solid muscle stands wrapped in the absolute power of the planes. He stands ever vigilant with his black eyes, waiting for a mortal to mess with the realm of the Gods.
+~
+titan~
+ABT BDFHNOVac 0 0
+151 300 32000d25+32000 0d0+0 1200d2+800 divine
+-230 -230 -230 -230
+CDFGHJKN AHOP CEFGHIJLMNQ 0
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F vul K
+#16761
+berserkers~
+{oBerserkers{x~
+A fanatic follower of tempus.
+~
+~
+titan~
+ABT DFHTVa 0 0
+120 150 32000d5+32000 0d0+0 800d1+1300 thwack
+-120 -120 -120 -120
+CDFGHKR AB CDHIJQ KLQ
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16762
+justicar~
+{YJ{Wu{Ys{Wt{Yi{Wc{Ya{Wr{x~
+A fanatic follower of tyr
+~
+~
+titan~
+ABT HOTa 0 0
+120 150 32000d5+32000 0d0+0 400d2+500 wrath
+-120 -120 -120 -120
+CEFGHIJR AB HIJKNQ CK
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#16764
+tyr~
+{CT{Wy{Cr{x~
+{CT{Wy{Cr{x, The {WEven {CH{Wande{Cd{x
+~
+A titan of a man standing 14 feet tall at the shoulder stands ever vigilant in his pursuit of justice. Clad in a suit of gleaming platemail, with his trust warhammer at his side, he is ready to pronounce justice on all....
+~
+titan~
+ABQT CDFGHNOVc 1000 0
+151 300 32000d25+32000 32000d1+32000 700d5+700 thwack
+-230 -230 -230 -230
+FH ABLOPQ CD M
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F res HIJQ
+F vul K
+#16765
+tempus~
+{BT{We{Bm{Wp{Bu{Ws{x~
+{BT{We{Bm{Wp{Bu{Ws{x, {WGod {xof {RW{Da{Rr{Dr{Ri{Do{Rr{Ds{x
+~
+A man standing 7 foot at the shoulder, grizzled features, long black unkempt hair. He leans casually on a sword that is at least twice his height and weight. This individual would put fear even into the hearts of Silence and Hassan.
+~
+titan~
+ABT DFHNOTUac 0 0
+151 300 32000d25+32000 0d0+0 700d4+700 blast
+-230 -230 -230 -230
+DEFGHK ABOP DHIJQ 0
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F vul K
+#16769
+guardian~
+{BGu{Ca{Wrd{Ci{Ban{x~
+A fanatic follower of Torm
+~
+~
+titan~
+ABT DFHVa 0 0
+120 50 32000d2+32000 0d0+0 400d2+500 blast
+-120 -120 -120 -120
+EFGHKR ABO HIJKLQ KM
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16770
+tomb warden~
+{yT{Wo{ym{Wb{x {DW{Wa{Dr{Wd{De{Wn{x~
+A fanatic follower of Bhaal
+~
+~
+titan~
+ABT DFHTVa 0 0
+120 50 32000d2+32000 0d0+0 400d2+500 acbite
+-120 -120 -120 -120
+DFGHKP AB HIJLQ KN
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+M GREET 16735 100~
+#16771
+torm~
+{CT{Wo{Cr{Wm{x~
+{CT{Wo{Cr{Wm{x, {WThe {CD{Wefender{x of the {CW{Weak{x
+~
+Clad in gleaming, golden platemail, Torm is an impressive site to behold. With his trusted companions surrounding him, he looks as if he could take on the worlds evil.
+~
+titan~
+ABQT CDFGHJTUVc 1000 0
+151 300 32000d25+32000 32000d1+1000 900d1+900 wrath
+-230 -230 -230 -230
+DEFGHK ABOP CHIJQ M
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F vul K
+#16772
+bhaal~
+{RB{Wh{Ra{Wa{Rl{x~
+{RB{Wh{Ra{Wa{Rl{x, {DGod of {rD{Re{Da{Rt{rh{x
+~
+A thin frame on a 5'8" humanoid, cloaked in the ways of the necromancer. As he turns, you notice that his features are skeletal, with flames in his eye sockets. As his gaze lands on you, you have the definite knowledge that he could kill you where you stand, with a single word. Do you feel lucky?
+~
+titan~
+ABRT DFHNOQTUVc -1000 0
+151 300 32000d25+32000 9999d1+9999 700d4+700 magic
+-230 -230 -230 -230
+EFGHK ABIMOP HJLNQ K
+stand stand none 120000
+AGV ACDEFJKQV medium unknown
+F res I
+#16773
+watchdog of ao~
+{BW{Wa{Bt{Wc{Bh {BD{Do{Bg{x of {WA{Bo{x~
+A dog the size of a house, with teeth the size of cars, drool that is leaving etch marks in the ground.
+~
+~
+dog~
+ABFT CDEFGHNOPUVac 0 0
+170 500 32000d50+32000 0d0+0 800d2+800 acbite
+-230 -230 -230 -230
+CDFGHK ABOP CD MN
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#16776
+clerk~
+A Cafeteria Clerk.~
+One of those lunch ladies that ya hated as a kid.
+~
+~
+human~
+ABT DFH 0 0
+126 9999 1d1+1 0d0+0 9999d9999+9999 none
+-900 -900 -900 -900
+0 CDP 0 0
+stand stand none 120000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16781
+garak~
+Garak the Tailor~
+A person that should be with Sisco and Dax.
+~
+~
+human~
+ABT DFH 0 0
+126 9999 1d1+1 0d0+0 9999d9999+9999 none
+-900 -900 -900 -900
+FGHK 0 0 0
+stand stand none 1200000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16782
+light~
+{WL{Digh{Wt{x~
+A being of light is here
+~
+~
+human~
+AB HUV 0 0
+126 0 1d1+1 0d0+0 9999d9999+9999 none
+0 0 0 0
+H 0 0 0
+stand stand none 1200000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16792
+ao~
+{WAO{x~
+{WAO{x {oCREATOR OF {WALL{x
+~
+~
+titan~
+ABQRTU CDEFGHJNOTUVZac 0 0
+200 200 999d99+32000 32000d1+32000 900d3+1200 wrath
+-270 -270 -270 -270
+CEFGHK ABOP CDLMNQSTXYZ 0
+stand stand none 340000
+AGV ACDEFJKQV medium unknown
+F res HIJ
+F vul K
+#0
+
+
+
+#OBJECTS
+#16600
+symbol of bahamut~
+{WSymbol {Dof {YBa{yham{Yut{x~
+Darkc~
+metal~
+armor RY AM
+BCDE BCDE BCDE BCDE 0
+126 0 0 P
+A
+12 200
+A
+19 25
+A
+18 25
+A
+13 200
+#16601
+bed of love~
+{YB{ye{Yd {Wof {RL{Wov{Re{x~
+A heart shaped sleeping bag~
+gold~
+furniture TY A
+AC FHJKPQ HKL DFGHIJ DFGHIJ
+126 0 0 P
+#16602
+restring token~
+{oRestring Token{x~
+A glowing token.~
+gold~
+trash RTY A
+0 0 0 0 0
+1 0 0 P
+#16603
+orange~
+{YO{Rr{Ya{Rn{Yg{Re{x~
+A ripe, juicy spain blood orange.~
+orange peal~
+drink GIRY A
+-1 200 'orange juice' 0 0
+1 0 0 P
+#16605
+celestial key~
+{YC{Welestia{Yl {YKey{x~
+A key made forged of the cosmos itself.~
+cosmos~
+key ABGTY A
+0 0 0 0 0
+126 0 0 P
+#16606
+sceptre of the gods~
+{BS{Wceptr{Be{x of the {YGods{x~
+A piece of the cosmos forged into the shape of a mace~
+the cosmos~
+weapon ABGHIJKRY AN
+mace 18 12 wrath CDEK
+126 0 0 P
+A
+18 16
+A
+19 16
+A
+26 36
+A
+20 -20
+#16607
+brain key~
+brain key~
+Brain key~
+unknown~
+key 0 A
+0 0 0 0 0
+1 0 0 P
+#16608
+mindflame~
+{RM{yi{Rn{yd{RF{yl{Ra{ym{Re{x~
+A flicker of solid thought lies here.~
+thought~
+weapon AGIMR AN
+flail 5 14 wrath A
+35 0 1000 P
+A
+20 -10
+A
+19 6
+A
+18 6
+A
+26 70
+#16609
+intellect devourer~
+{MI{Dn{Mt{De{Ml{Dl{Me{Dc{Mt{x {RD{re{Dvour{re{Rr{x~
+An intellect devourer thirsts for your knowledge~
+bone~
+weapon ABEGR AJN
+staff 15 15 grep CD
+101 1 1000 P
+A
+19 6
+A
+18 6
+#16610
+ring of divinity~
+{WRing {xof {YD{Wi{Yv{Wi{Yn{Wi{Yt{Wy{x~
+A chunk of the cosmos shaped into a ring.~
+cosmos~
+armor ABGJKLRY AB
+DF DF DF DF 0
+126 0 0 P
+A
+20 -10
+A
+23 -10
+A
+21 -10
+A
+24 -10
+A
+18 14
+A
+19 14
+#16611
+synaptice static~
+{BS{yy{Bn{ya{Bp{yt{Bi{yc{Be {BS{yt{Ba{yt{Bi{yc{x~
+A pile of scrambled thoughts.~
+thought~
+armor ABGMRY AE
+D D D CD 0
+35 0 100 P
+A
+19 4
+A
+18 4
+A
+5 4
+F
+B 0 -1 Y
+#16612
+shimmering glow of divine power~
+{yS{Yh{yi{Ym{ym{Ye{yr{Yi{yn{Yg{x {WG{Yl{Wo{Yw{x of {YD{Wi{Yv{Wi{Yn{We{x {BP{Co{Ww{Ce{Br{x~
+A ball of the cosmos shedding its neverending energy.~
+atoms~
+light ABIJKLRY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+126 0 0 P
+A
+13 200
+A
+12 200
+#16613
+the sceptre of might~
+the Sceptre of Might~
+You had better give that back, or the king of the universe will be mad.~
+the universe~
+light ABFR A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+1 0 0 P
+A
+4 18
+A
+5 23
+A
+1 27
+A
+2 23
+#16614
+celestial plate~
+{YC{W{Ye{Wl{Ye{Ws{Yt{Wi{Ya{Wl{x {CP{Wlat{Ce{x~
+A suit of platemail forged from the essence of the gods.~
+god essence~
+armor ABGIRY AD
+F F F F 0
+126 0 12000 P
+A
+12 100
+A
+13 100
+#16615
+sign~
+a sign~
+The 12 will be down due to Technicall difficulties. It shall be put back as soon as is possible.~
+unknown~
+trash AB 0
+0 0 0 0 0
+0 0 0 P
+#16616
+tri force~
+the Tri Force~
+A whip forged from the essence of gods themselves~
+essence of the gods~
+weapon ABGIY AN
+whip 21 12 blast DI
+126 0 0 P
+A
+13 100
+A
+12 100
+A
+26 6
+A
+26 17
+A
+26 55
+A
+26 69
+F
+B 0 -1 L
+F
+A 0 -1 a
+A
+19 12
+A
+18 12
+#16617
+baatzu bane~
+{rB{da{ra{Rt{rz{Du {rB{Ra{rn{Re{x~
+A whip that hums with the hunger of evil flesh~
+metal from celestia~
+weapon ABGIKLY AN
+whip 15 12 slash IK
+105 0 24000 P
+A
+19 6
+A
+18 6
+F
+A 0 -1 N
+A
+26 69
+A
+26 36
+A
+26 87
+#16618
+aasimon slayer~
+{yA{Ya{ys{Wsi{ym{Ya{yr {yS{Yl{ya{Dy{Ye{yr{x~
+A flail yearns to draw the life essence of the good.~
+iron of the astral plane~
+weapon ABGIY AN
+flail 0 0 beating BC
+105 0 24000 P
+A
+19 6
+A
+18 6
+A
+26 127
+A
+26 36
+A
+26 3
+F
+A 0 -1 O
+#16619
+yugoloth slayer~
+(no short description)~
+(no description)~
+unknown~
+trash 0 AN
+0 0 0 0 0
+105 0 0 P
+#16620
+demon heart~
+{rD{Re{Dm{Ro{rn {rH{Re{Da{Rr{rt{x~
+A lump of charcoal that looks like a beating heart.~
+Demon heart~
+armor CEG AQ
+ADE ADE ADE ADE 0
+105 0 34000 P
+F
+B 0 -10 W
+F
+B 0 5 X
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+#16621
+speeding train~
+{GS{gp{Weedi{gn{Gg {GT{gr{Wa{gi{Gn{x~
+What gets derailed all the time?~
+thought~
+armor AGIMRY AG
+AD AD AD AD 0
+26 0 0 P
+F
+B 0 5 V
+F
+B 0 5 Y
+A
+3 4
+A
+4 4
+#16622
+chains of thought~
+{CC{Wh{Ca{Wi{Cn{Ws {Co{Wf {CT{Wh{Co{Wu{Cg{Wh{Ct{x~
+A chain link whip.~
+thought~
+weapon AGHIR AN
+whip 9 10 whip A
+26 0 0 P
+A
+19 5
+A
+18 5
+A
+3 4
+#16623
+pill of celestial blends~
+{DPill of {yC{Ye{yl{De{Ws{Dt{yi{Ya{yl {DB{Wl{De{Wn{Dd{Ws{x~
+A pill of immense power lies here.~
+plants from the planes~
+pill ABIY A
+126 'essence' 'fireshield' 'shield' 'sanctuary'
+105 0 0 P
+#16624
+potion of divinity~
+{YD{yi{Yv{Win{Yi{yt{Yy{x in a {WBottle{x~
+A vial that radiates with purity~
+spring water~
+potion IY A
+125 'divine favor' 'armor' 'frenzy' 'essence'
+105 0 0 P
+#16625
+key~
+{WK{De{Wy {Do{Wf {DK{Wn{Do{Ww{Dl{We{Dd{Wg{De{x~
+A piece of brain matter waiting to impart knowledge.~
+light~
+armor AY AO
+AD AD AD AD 0
+30 0 100 P
+A
+13 50
+A
+1 -2
+A
+3 2
+A
+4 2
+#16626
+tentacle key~
+{BT{Dentacl{Be K{De{By{x~
+A piece of petrified tentacles bent into the shape of a key.~
+flesh~
+key Y A
+0 0 0 0 0
+1 0 0 P
+#16627
+bean bag chair~
+{oBean Bag Chair{x~
+{oBean Bag Chair{x~
+Leather~
+furniture BGIRY P
+AB FHJKPQ EFI DFGHIJ DFGHIJ
+1 0 0 P
+#16628
+bar of plenty~
+{RB{Wa{Br {Wof {WP{Yl{Ge{Mn{Ct{Yy{x~
+{RB{Wa{Br {Wof {WP{Yl{Ge{Mn{Ct{Yy{x~
+Wood~
+container AY P
+320000 0 0 32000 1000
+1 0 0 P
+#16629
+male symbol~
+{oMale Symbol{x~
+The opposite of a female sign is here.~
+silver~
+key ABIY AO
+0 0 0 0 0
+126 0 100 P
+#16630
+chocolate trouffles~
+a {DC{Wh{Do{Wc{Do{Wl{Da{Wt{De {WT{Dr{Wo{Du{Wf{Df{Wl{De{Ws{x~
+A delicate chocolate delicacy that women just crave. ~
+chocolate~
+food AGRTY A
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef DEGJ 0 0 0
+1 0 500 P
+#16631
+tootsie roll~
+{DTootsie {WR{Dol{Wl{x~
+A chocolate treat that everyone loves.~
+chocolate~
+pill AGRTY A
+101 'essence' 'essence' '' ''
+1 0 5000 P
+#16632
+brandy shot~
+a {yB{Dr{ya{Dn{yd{Dy {DS{yh{Do{yt{x~
+A shot of warm brandy.~
+brandy~
+potion IRTY A
+101 'invisibility' 'pass door' 'fly' ''
+1 0 5000 P
+#16633
+new sensation~
+{oNew Sensation{x~
+A item of numerous feelings waits for you to try it out.~
+silver~
+weapon GRY AN
+whip 12 12 magic ADI
+126 0 12000 P
+A
+18 8
+A
+19 8
+#16634
+love's embrace~
+{ML{ro{Mv{re{M's {rE{Mm{rb{Mr{ra{Mc{re{x~
+A feeling of love and warmth eminates from these sleeves.~
+love of the gods~
+armor ABIRTY AI
+ABDE ABDE ABDE ABDE 0
+126 0 320000 P
+A
+19 6
+A
+18 6
+A
+5 2
+A
+3 2
+A
+4 2
+A
+1 2
+A
+2 2
+A
+13 150
+A
+12 150
+#16635
+shimmer of brilliance~
+{YS{yh{Wimm{ye{Yr {Wof {YBr{yil{Wli{yan{Yce{x~
+Thought taken shape lies here.~
+light~
+weapon AGIKRY AN
+exotic 12 8 blast BG
+101 0 0 P
+A
+26 17
+A
+19 7
+A
+18 5
+#16636
+charm bangle~
+{YC{rh{Ya{rr{Ym {rB{Ya{rn{Yg{rl{Ye{x~
+A bracer that no one could resist.~
+Tears of the Gods~
+armor ABRTY AM
+ADE ADE ADE ADE 0
+126 0 320000 P
+A
+19 6
+A
+18 6
+F
+B 0 2 Z
+F
+B 0 2 O
+F
+B 0 2 S
+F
+B 0 2 N
+F
+B 0 2 X
+#16637
+snowflake~
+{CS{Wn{Co{Ww{CF{Wl{Ca{Wk{Ce{x~
+A crystaline structure of water.~
+snow~
+materia AIRY AV
+0 36 0 0 0
+126 0 0 P
+#16638
+heart of thunder~
+{RH{Deart{x of {YT{Bh{Yu{Bn{Yd{Be{Yr{x~
+A heart of a thunder lizzard lies wreathing with energy.~
+silver~
+materia ABIR AV
+0 140 0 0 0
+126 0 0 P
+#16639
+illithid key~
+{MIl{Dlith{Mid{x {MK{De{My{x~
+A illithid key lies here.~
+metal~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#16645
+no name~
+(no short description)~
+(no description)~
+unknown~
+key 0 0
+0 0 0 0 0
+0 0 0 P
+#16646
+bone key~
+{WB{Do{Wn{De {WK{De{Wy{x~
+A key made of bone lies here.~
+bone~
+key A A
+0 0 0 0 0
+1 0 10 P
+#16657
+eye of thoth~
+{DE{My{De of {MT{mh{Do{mt{Mh{x~
+Emeralds crushed fine to make a suit of chainmail.~
+Emerald~
+armor FGIRY AD
+AD AD AD AD 0
+30 1 500 P
+A
+4 5
+A
+3 5
+F
+B 0 -1 Y
+A
+13 50
+#16660
+spare key for the parthanon~
+spare~
+A spare key that everyone keeps hidden somewhere.~
+unknown~
+key AF A
+0 0 0 0 0
+126 0 0 P
+#16666
+fountain~
+{WFountain {Wof {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+A {WFountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+unknown~
+fountain GR 0
+-1 -1 'orange juice' 0 0
+1 0 0 P
+#16667
+fruit of paradise~
+{MF{Wrui{Mt {Wof {YP{Ra{Yr{Ra{Yd{Ri{Ys{Re{x~
+{MF{Wrui{Mt {Wof {YP{Ra{Yr{Ra{Yd{Ri{Ys{Re{x~
+unknown~
+food GI A
+CFG CFG 0 0 0
+101 0 0 P
+#16668
+fruit tree~
+{MF{Wrui{Mt {GT{gr{Ge{ge{x~
+A {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+unknown~
+container GI 0
+100 0 0 5 100
+0 0 0 P
+#16674
+key of knowledge~
+{BK{De{By {Dof {BK{Wnowledg{Be{x~
+A small book lies here.~
+steel~
+light AIY A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+25 0 500 P
+#16675
+lore of thoth~
+{ML{Do{Mr{De of {MT{mh{Do{mt{Mh{x~
+A piece of black marble waits to bestow its knowledge.~
+marble~
+materia FIRY AV
+0 95 0 0 0
+25 0 1000 P
+A
+12 50
+A
+4 2
+A
+3 2
+#16676
+green silk robe~
+{GG{gr{We{ge{Gn {GS{Wil{Gk {GR{Wob{Ge{x~
+(no description)~
+silk~
+armor AGIRY AK
+AE AE AE CE 0
+75 0 12000 P
+A
+18 3
+A
+19 4
+A
+20 -5
+A
+3 2
+A
+4 1
+F
+A 0 -1 T
+F
+A 0 -1 U
+#16677
+green steel gauntlets~
+{GG{gr{De{ge{Gn {DSteel {GG{Dauntlet{Gs{x~
+A green metal forged into a fine mesh to form gauntlets.~
+green steel~
+armor AGIRY AH
+ABE ABE ABE ABCD 0
+75 1 12000 P
+A
+18 6
+A
+19 8
+A
+20 -10
+A
+1 4
+#16678
+green silk pantaloons~
+{GG{gr{We{ge{Gn {GS{Wil{Gk {GP{Wantaloon{Gs{x~
+A pair of emerald threaded silk pantaloons.~
+silk~
+armor AGIRY AF
+CE CE CE ABCD 0
+75 0 12000 P
+A
+2 4
+A
+20 -5
+A
+18 4
+A
+19 4
+#16679
+green steel bracers~
+{GG{gr{De{ge{Gn {DSteel {GB{Drace{Gr{x~
+A green metal forged into a bracer.~
+green steel~
+armor AGIRY AM
+ACE ACE ACE ACE 0
+75 0 12000 P
+A
+18 6
+A
+19 8
+A
+5 2
+A
+1 2
+A
+20 -10
+#16680
+crystal shard~
+{CC{Wr{Cy{Ws{Ct{Wa{Cl {BS{Wh{Ba{Wr{Bd{x~
+A piece of crystal forged into a weapon of sorts.~
+crystal~
+weapon AGIRY AN
+dagger 12 6 frbite BD
+75 0 11000 P
+F
+B 0 5 O
+A
+18 8
+A
+19 8
+A
+26 17
+#16681
+flashlance~
+{YF{Wl{Da{Ws{Yh {YL{Wa{Dn{Wc{Ye{x~
+A five foot telescoping spear.~
+iron~
+weapon GIRY AN
+staff 8 10 shbite DG
+75 1 12000 P
+A
+18 8
+A
+19 8
+F
+A 0 -1 V
+A
+26 127
+A
+26 5
+#16682
+sunblade~
+{YS{Du{Yn{Db{Yl{Da{Yd{De{X~
+A blade of molten gold lies before you.~
+molten gold~
+weapon AIRY AN
+sword 10 12 flbite AK
+75 0 12000 P
+A
+18 5
+A
+19 5
+A
+26 6
+#16683
+staff of anger~
+{WS{Dtaf{Wf {Dof {RA{rn{Rg{re{Rr{x~
+A five foot long piece of sharpened amber, scrawled with runes of power.~
+Amber~
+weapon EGRY AN
+glaive 10 10 wrath A
+75 1 12000 P
+A
+19 5
+A
+18 5
+A
+26 99
+#16684
+wand of halitosis~
+{WW{Dan{Wd {Dof {GH{Da{Gl{Di{Gt{Do{Gs{Di{Gs{x~
+A petrified onion carved with runes of power.~
+plant~
+wand AGIRY AO
+0 10 5 'gas breath' 0
+75 0 11000 P
+#16685
+wand of heavens~
+{WW{Dan{Wd {Dof {YHe{ya{Dv{ye{Yns{x~
+A foot long piece of wood inscribed with runes of power.~
+Wood~
+wand AGIRY AO
+75 10 5 'ray of truth' 0
+75 0 11000 P
+#16686
+staff of healing waters~
+{WS{Dtaf{Wf {Dof {YH{Wealin{Yg {BW{Water{Bs{x~
+A gold staff inscribed with words of power.~
+gold~
+staff AGIRY AO
+75 15 5 'essence' 0
+75 1 11000 P
+#16687
+priest's blessing~
+{YP{Wr{Yi{We{Ys{Wt{Y'{Ws {YB{Wlessin{Yg{x~
+A pill made from the dust of a thousand priests.~
+unknown~
+pill R A
+75 'essence' 'essence' 'bless' 'protective sphere'
+75 0 11000 P
+#16688
+eternal wrath~
+{ME{Dt{Me{Dr{Mn{Da{Ml {RW{Drat{Rh{x~
+A pill of flaked blood of ancient warrior's.~
+unknown~
+pill R A
+75 'frenzy' 'haste' 'life stealer' 'giant strength'
+75 0 11000 P
+#16689
+nature's blessing~
+{GN{Da{Gt{Du{Gr{De{G'{Ds {WB{Dlessin{Wg{x~
+A vial of Treant Priest Blood.~
+blood~
+potion R A
+75 'stone skin' 'bark skin' 'talon' 'giant strength'
+75 0 11000 P
+#16690
+combat's blessing~
+{RC{Do{Rm{Db{Ra{Dt{R'{Ds {WB{Dlessin{Wg{x~
+A vial of Minotaur Mage Blood.~
+unknown~
+potion GRY A
+75 'fireshield' 'armor' 'shield' 'reserved'
+75 0 11000 P
+#16691
+pool of radiance~
+{BP{Woo{Bl {Wof {YR{Wadianc{Ye{x~
+A pool of holy water, pulses with power here.~
+water~
+portal AB P
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef K A BDEGIO 0
+126 0 0 P
+#16696
+fountain~
+{WFountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+{W A Fountain of {RO{Yr{Ra{Yn{Rg{Ye {RJ{Yu{Ri{Yc{Re{x~
+unknown~
+fountain G 0
+-1 -1 'orange juice' 0 0
+1 0 0 P
+#16697
+fruit~
+{MF{Wrui{Mt {Wof {RP{Ya{Rr{Ya{Rd{Yi{Rs{Ye{x~
+{MF{Wrui{Mt {Wof {RP{Ya{Rr{Ya{Rd{Yi{Rs{Ye{x~
+unknown~
+food 0 A
+CFG CFG 0 0 0
+101 0 0 P
+#16698
+no name~
+{MF{Wrui{Mt {GT{gr{Ge{ge{x~
+{WA {MF{Wrui{Mt {GT{gr{Ge{ge{x~
+unknown~
+container GI 0
+100 0 0 5 100
+0 0 0 P
+#16699
+orb of storms~
+{yO{Yr{yb{x of {YS{Wt{Yo{Wr{Ym{Ws{x~
+An orb of lightning lies here.~
+lightning~
+weapon AGIR AN
+exotic 12 9 shock BG
+126 0 0 P
+A
+26 99
+A
+26 6
+A
+26 17
+A
+26 127
+A
+19 10
+A
+18 8
+#16700
+robe of storms~
+{DR{Bo{Db{Be{x {Dof {YS{Wt{Yo{Wr{Ym{Ws{x~
+A cloak made from the rage of storms.~
+wind~
+armor ABIRTY AK
+BCDE BCDE BCDE BCDE 0
+126 0 0 P
+F
+B 0 10 P
+F
+A 0 -1 T
+A
+2 5
+A
+12 100
+A
+20 -20
+A
+13 200
+#16707
+living flame~
+{RL{yi{Rv{yi{Rn{yg {RF{yl{Ra{ym{Re{x~
+Living flames take the shape of armor.~
+flame~
+armor ABGIRUY AD
+ABDE ABDE ABDE ACDE 0
+126 0 100 P
+F
+B 0 2 N
+A
+19 6
+A
+18 4
+F
+B 0 -1 I
+#16708
+flaming hooves~
+{RF{ylaming {RH{yooves {Ro{yf {RD{yusk{x~
+Horseshoes forged of the sun itself.~
+flame~
+armor GIRY AG
+ACDE ACDE ABDE BDE 0
+120 1 1000 P
+F
+B 0 2 N
+A
+13 100
+A
+19 5
+A
+18 6
+A
+14 400
+#16709
+crescent moon~
+{YC{yrescent {BM{boon{x~
+A dagger shaped in that of a crescent moon~
+rock~
+weapon BCGJKR AN
+dagger 15 9 slice DI
+120 1 1100 P
+A
+19 7
+A
+18 5
+#16710
+coat of darkness~
+{BC{Doat {Bo{Df {BD{Darkness{x~
+An animal skin lies here absorbing light.~
+shadow~
+armor CFGJRY AK
+CDE CDE CDE CDE 0
+120 0 900 P
+F
+B 0 10 Z
+F
+A 0 -1 B
+A
+19 5
+A
+18 5
+#16711
+a black obsidian key~
+a black obsidian key~
+A black obsidian key is lying here.~
+obsidian~
+key BR AO
+0 0 0 0 0
+0 1 500 P
+#16712
+platinum key~
+platinum key~
+A platinum key lies there.~
+platinum~
+key 0 A
+0 0 0 0 0
+0 1 500 P
+#16715
+ankh of judgement~
+{MA{Wnkh {Dof {MJ{Wudgement{x~
+A powerful talisman waits to distribute justice.~
+diamond~
+armor AGIRY AO
+CE CE CE CE 0
+126 1 1000 P
+F
+A 0 -1 T
+F
+B 0 -10 Q
+A
+12 100
+A
+13 60
+#16717
+golden buddha style~
+{YG{Wolden {YB{Wuddha {YS{Wtyle{x~
+A book of martial arts lies here.~
+gold~
+weapon AGIRY AN
+exotic 12 13 beating AB
+120 0 1000 P
+A
+19 5
+A
+18 5
+A
+26 88
+#16718
+opal key~
+black opal key~
+A black opal key lies there.~
+opal~
+key 0 A
+0 0 0 0 0
+0 0 500 P
+#16719
+jade key~
+jade key~
+A jade key lies here.~
+jade~
+key 0 A
+0 0 0 0 0
+0 0 500 P
+#16722
+no name~
+(no short description)~
+(no description)~
+unknown~
+armor 0 0
+0 0 0 0 0
+0 0 0 P
+#16723
+brambles~
+{CB{Rr{Ca{Rm{Cb{Rl{Ce{Rs{x~
+A string with {CB{Rr{Ca{Rm{Cb{Rl{Ce{Rs{x tied to it lies here.~
+wood~
+weapon GIR AN
+whip 10 20 sting DH
+126 0 500 P
+A
+19 10
+A
+18 8
+F
+B 0 -1 L
+#16724
+eye of murdock~
+{RE{Dye {RO{Df {RM{Durdock{x~
+A eye of the fallen murdock lies here.~
+flesh~
+armor GIRY AO
+CDE CDE CDE CDE 0
+120 0 100 P
+F
+B 0 5 P
+F
+B 0 5 N
+A
+12 150
+A
+13 100
+A
+19 12
+A
+18 8
+#16725
+style of the bear~
+{WStyle {xof the {RB{Dear{x~
+A book of martial arts lies here waiting to be read.~
+gemstone~
+weapon R AN
+exotic 10 12 charge G
+120 2 10000 P
+A
+26 110
+A
+19 4
+A
+18 3
+#16726
+fan of war~
+{RF{Wa{Rn {Dof {RW{Wa{Rr{x~
+A might war fan lies at your feet.~
+cloth~
+weapon AEGRY AN
+exotic 13 14 slap DE
+120 0 1000 P
+F
+B 0 1 X
+A
+19 7
+A
+18 5
+#16727
+heart of war~
+{RH{re{Da{rr{Rt {Wof {RW{Da{Rr{x~
+The blood of many fallen has given form to a single beating stone.~
+amber~
+materia ABGR AV
+0 80 0 0 0
+126 0 10000 P
+F
+B 0 -5 T
+F
+B 0 5 O
+A
+17 -20
+#16728
+death's eye~
+{BD{De{Ba{Dt{Bh{D'{Bs {DE{By{De{x~
+A shriveled eye.~
+flesh~
+gem BCEGR AE
+0 0 0 0 0
+126 0 100 P
+F
+B 0 5 R
+F
+A 0 -1 Z
+A
+13 100
+A
+12 50
+A
+18 6
+A
+19 6
+#16729
+mantle of mystra~
+{WM{Dantl{We of {BM{Cy{Wst{Cr{Ba{x~
+A shield forged from the stars themselves.~
+magic~
+armor ABGHIKRTY AJ
+ABCDE ABCDE ABCDE ABCDE 0
+126 0 0 P
+F
+A 0 -1 E
+F
+A 0 -1 U
+A
+19 10
+A
+18 10
+A
+12 250
+A
+13 100
+F
+B 0 10 X
+#16730
+spellfire~
+{BS{Cp{Be{Cl{Bl{CF{Bi{Cr{Be{x~
+Magic that has taken a physical force.~
+magic~
+weapon ABHIJKRTY AN
+dagger 18 11 flame ADK
+126 0 0 P
+A
+19 8
+A
+18 10
+A
+26 68
+A
+26 17
+A
+26 18
+#16731
+hammer of tyr~
+{WH{Damme{Wr of {CT{cy{Cr{x~
+A silver hammer of power rests here.~
+Silver~
+weapon ABGIKLRTY AN
+mace 16 9 smash ABEFK
+126 0 0 P
+A
+19 12
+A
+18 10
+A
+26 114
+#16732
+armor of the heavens~
+{BA{Cr{Wm{Co{Br {Wof the {YH{ye{wave{yn{Ys{x~
+A piece of the cosmos forged into a ring.~
+stars~
+armor ABGIKLRTY AB
+ABCDE ABCDE ABCDE BCDE 0
+126 0 0 P
+A
+13 150
+A
+12 150
+A
+18 12
+A
+19 12
+A
+1 5
+A
+20 -20
+F
+A 0 -1 N
+F
+B 0 10 Q
+#16733
+death scythe~
+{RD{re{Da{rt{Rh {RS{rc{Dyt{rh{Re{x~
+A Scythe of negative energy rests here.~
+negative~
+weapon BCEGHR AN
+glaive 18 9 drain CK
+126 0 0 P
+A
+26 70
+A
+26 129
+A
+26 134
+A
+19 8
+A
+18 12
+#16734
+mask of death~
+{DM{Wa{Ds{Wk {xof {RD{re{Da{rt{Rh{x~
+Several layers of humanoid flesh sown together to form a mask.~
+skin~
+armor BCGRY AR
+ABCDE ABCDE BCDE BCDE 0
+126 0 0 P
+A
+19 8
+A
+18 8
+A
+12 100
+A
+13 100
+A
+20 -20
+F
+B 0 10 R
+F
+B 0 10 Q
+#16735
+bloodstone battlemail~
+{rB{Rl{ro{Ro{rd{Rs{rt{Ro{rn{Re{x {rB{Dattlemai{rl{x~
+A suit of armor forged from millions of bloodstones.~
+bloodstone~
+armor BCEGRTY AK
+ABCDE ABCDE BCDE ACDE 0
+126 0 0 P
+A
+18 7
+A
+19 7
+F
+B 0 10 Y
+F
+B 0 10 O
+A
+13 100
+A
+12 100
+#16736
+soul syphon~
+{BS{Dou{Bl {BS{Cy{Dph{Co{Bn{x~
+A dagger made of petrified flesh.~
+flesh~
+weapon BCEGRTY AN
+dagger 21 9 claw CDFH
+126 0 0 P
+A
+26 69
+A
+26 110
+A
+18 12
+A
+18 12
+#16737
+trident of the seas~
+{CT{Wriden{Ct {Wof the {CS{Bea{Cs{x~
+A trident that has been carefully crafted from coral.~
+corral~
+weapon ABGIRTY AN
+glaive 20 10 frbite BD
+126 0 0 P
+F
+B 0 -1 O
+A
+26 18
+A
+26 17
+A
+19 9
+A
+18 12
+#16738
+platemail of the deep~
+{DP{Wl{Da{Wt{De{Wm{Da{Wi{Dl{x of the {BD{Dee{Bp{x~
+A suit of ornate armor carved from coral.~
+coral~
+armor ABGILRT AK
+BCDE BCDE BCDE BCDE 0
+126 0 0 P
+A
+20 -20
+A
+19 8
+A
+18 8
+F
+B 0 10 P
+F
+B 0 5 Z
+F
+B 0 5 O
+A
+13 100
+A
+12 100
+#16739
+helm of beauty~
+{CH{Wel{Cm {Wof {BB{Ce{Wau{Ct{By{x~
+A highly polished golden helm with intricately cut designs~
+gold~
+armor ABGIKRTY AE
+ABCDE ABCDE ABCDE ABCDE 0
+126 0 0 P
+A
+20 -20
+A
+12 100
+A
+13 100
+F
+B 0 10 O
+F
+B 0 10 P
+F
+B 0 -10 Y
+A
+18 7
+A
+19 7
+F
+B 0 10 N
+#16740
+mirror of narcisism~
+{DM{Wi{Dr{Wr{Do{Wr of {YN{Ra{Yr{Rc{Yi{Rs{Yi{Rs{Ym{x~
+A mirror forged into a powerful mace.~
+glass~
+weapon BGIKLTY AN
+mace 18 9 slice ADEK
+126 0 0 P
+A
+26 55
+A
+26 70
+A
+19 8
+A
+18 10
+#16741
+book of death~
+{rB{Doo{rk {Dof {RD{re{Da{rt{Rh{x~
+Barn~
+paper~
+weapon IJKRTY AN
+mace 22 9 acbite ADG
+126 0 0 P
+A
+19 8
+A
+18 12
+A
+26 80
+#16742
+sleeves of knowledge~
+{MS{Wleeve{Ms {Wof {MK{cn{Wowled{cg{Me{x~
+Many years of knowledge has formed itself into sleeves to protect the wearer from ignorance.~
+intelligence~
+armor ABGIKRTY AI
+ABCDE BCDE ABCDE BCDE 0
+126 0 0 P
+A
+12 100
+A
+13 100
+A
+3 5
+A
+4 5
+A
+20 -20
+F
+A 0 -1 O
+F
+A 0 -1 O
+F
+B 0 10 Y
+#16743
+blade of the assassin's~
+{RB{Dlad{Re {Wof the {RAs{Dsass{Rin{x~
+A blade specialized for killing~
+obsidian~
+weapon BCGJLRTY AN
+sword 18 9 sting CH
+126 0 0 P
+A
+2 5
+A
+26 17
+A
+26 110
+A
+26 88
+A
+19 7
+A
+18 7
+#16744
+assassin's hood~
+{GAs{gsa{Ws{gsi{Gn's H{goo{Gd{x~
+A hood meant for the experienced pilferer.~
+Honey leather~
+armor CGLRTY AE
+BCDE ABCDE BCDE ABCDE 0
+126 0 0 P
+A
+19 6
+A
+18 6
+A
+2 5
+A
+13 100
+A
+12 100
+F
+A 0 -1 P
+F
+A 0 -1 B
+F
+A 0 -1 T
+F
+A 0 -1 U
+#16745
+lance of disruption~
+{YL{ya{Wn{yc{Ye {Wof {YDi{ysr{Dup{yti{Yon{x~
+A lance made from the essence of the positive material plane.~
+energy~
+weapon ABGIKLRY AN
+glaive 18 10 blast AFGK
+126 0 0 P
+A
+19 9
+A
+18 8
+A
+26 2
+A
+26 36
+#16746
+graces of torm~
+{WG{Yr{yac{Ye{Ws of {BT{Wo{Br{Wm{x~
+A golden holy symbol imbued with the wishes of Torm.~
+Blessed Gold~
+armor AGIKLRTY AC
+ABCDE ABCDE BCDE ABCDE 0
+126 0 0 P
+A
+12 150
+A
+13 150
+F
+B 0 -1 Q
+F
+A 0 -1 N
+A
+19 7
+A
+18 7
+A
+20 -20
+#16747
+baton of neutrality~
+{YB{ya{Wt{yo{Yn {Wof {DN{ye{Du{yt{Dr{ya{Dl{yi{Dt{yy{x~
+A length of divine energy formed into a glaive.~
+divine power~
+weapon ABGIJKRY AN
+glaive 20 9 blast ABFG
+126 0 0 P
+A
+26 5
+A
+26 41
+A
+26 70
+A
+18 10
+A
+19 10
+#16748
+stone of neutrality~
+{DStone {Wof {DN{ye{Du{yt{Dr{ya{Dl{yi{Dt{yy{x~
+A little piece of the Gods waits to give you power~
+divine power~
+armor ABGIRTY AO
+ABCDE ABCDE ABCDE ABCDE 0
+151 0 0 P
+A
+20 -20
+F
+B 0 10 X
+A
+2 4
+A
+1 4
+F
+A 0 -1 F
+F
+A 0 -1 D
+F
+A 0 -1 G
+F
+A 0 -1 C
+#16749
+staff of pain~
+{DStaff {xof {MP{Da{Mi{Dn{x~
+A staff carved from the bone of an ancient dragon.~
+Thigh bone~
+weapon BCEGLRY AN
+glaive 16 12 thwack ABFG
+126 0 0 P
+A
+26 134
+A
+26 41
+A
+26 109
+#16750
+lich touch~
+{ML{Dich {MT{Douch{x~
+A pair of supple dragon hide gloves.~
+dragon hide~
+armor BCEGLRTY AH
+ABCDE BCDE BCDE F 0
+126 0 0 P
+F
+I 0 1 Q
+F
+B 0 10 O
+A
+13 100
+A
+12 100
+A
+18 5
+A
+19 5
+#16751
+sands of time~
+{YS{Da{Yn{Dd{Ys {Wof {CT{Wi{Cm{We{x~
+Swirling sands of time have coalesced to for a weapon of destruction.~
+sand~
+weapon CEGJLRTY AN
+exotic 12 10 slime GK
+126 0 0 P
+F
+V 0 -1 N
+F
+B 0 -1 O
+A
+19 2
+A
+18 1
+A
+26 41
+A
+26 17
+A
+26 94
+#16752
+death's door~
+{RDe{ra{Dt{rh{R's{x {RD{Doo{Rr{x~
+A evil force of concentrated energy.~
+diamond~
+materia CGRTY AV
+0 45 0 0 0
+126 0 0 P
+A
+12 100
+A
+13 100
+#16775
+onyx key~
+{DOnyx {WKey{x~
+Riggs~
+onyx~
+key 0 A
+0 0 0 0 0
+101 0 1000 P
+#16779
+candy cane~
+{oCandy{x {oCane{x~
+A candy cane with various colors in it.~
+sugar~
+pill IRTY A
+200 'heal' 'heal' 'cure poison' 'cure disease'
+126 0 0 P
+#16780
+gumdrop of life~
+{CG{Wu{Cm{BD{Wr{Bo{Wp{x of {YL{Wi{Yf{We{x~
+A gumdrop that has healing powers.~
+unknown~
+pill FRTY A
+126 'divine favor' 'divine intervention' 'sanctuary' 'bark skin'
+126 0 0 P
+#16785
+dagger of stabbing~
+dagger of stabbing~
+A really sharp dagger~
+silver~
+weapon ABIRY AN
+dagger 6 17 stab CDEK
+1 0 0 P
+A
+12 100
+A
+13 100
+A
+19 10
+A
+18 10
+#16786
+rock of brinstar~
+{oRock of Brinstar{x~
+A chunk of the most powerful star in the galaxy~
+moon rock~
+materia AFIKLRY AV
+0 55 0 0 0
+126 0 0 P
+A
+19 12
+A
+18 12
+A
+12 100
+A
+13 100
+#16787
+keepsake chest~
+{oKeepSake Chest{x~
+A chest for keeping things that you hold dear to you in.~
+cedar plank~
+container AFRTY 0
+100000 AD 16629 100000 0
+1 0 0 P
+#16788
+necklace of nobility~
+necklace of Nobility~
+A necklace of elegance~
+gem stones~
+armor GIRY AC
+BCDE BCDE BCDE BCDE 0
+1 0 0 P
+A
+2 17
+A
+3 17
+A
+4 17
+A
+5 21
+A
+18 10
+A
+19 10
+A
+1 10
+#16789
+Rising Sun~
+{RR{yising {RS{yun{x~
+A sphere full of fire that rises in the east and sets in the west~
+light~
+weapon ABGHIY AN
+exotic 9999 9999 slime ABCDEGHIK
+127 0 0 P
+A
+19 9999
+A
+18 9999
+F
+B 0 -1 a
+F
+B 0 100 X
+F
+B 0 100 W
+F
+B 0 -1 K
+F
+B 0 -1 D
+F
+B 0 -1 L
+F
+A 0 -1 H
+F
+B 0 -1 I
+F
+B 0 -1 A
+A
+26 105
+A
+26 2
+A
+26 99
+#16790
+Crown of the Dragonking~
+{RC{Drown {xof the {RD{Dragonking{x~
+A intricately craefted crown rests before you. Upon inspection you note that the crown is seemingly made from that of one huge scale of a creature.~
+Scale~
+armor ABIJKR AE
+ACDE ACDE ACDE ABDE 0
+126 1 12000 P
+F
+B 0 20 U
+A
+12 100
+A
+13 100
+F
+B 0 5 P
+A
+19 6
+A
+18 6
+#16791
+Orb of DragonKin~
+{MO{Drb {xof {MD{Dragonkin{x~
+A beautifully carved pearl is before you. Carved on this basketball sized pearl are scenes of dragons at play with a elven race.~
+pearl~
+armor ABIJKR AQ
+ACDE BDE CDE ADE 0
+126 2 23000 P
+A
+2 8
+A
+12 75
+A
+1 4
+A
+13 100
+A
+18 8
+A
+19 8
+#16792
+Gold Dragon Tattoo~
+{YG{Dold {YD{Dragon {YT{Dattoo{x~
+A symbol of power lies before you.~
+Essence~
+armor ABIJKR AM
+BDE BDE BDE BDE 0
+126 0 0 P
+A
+19 12
+A
+18 8
+A
+13 75
+A
+12 75
+#16793
+Silver Dragon Tattoo~
+{WS{Dilver {WD{Dragon {WT{Dattoo{x~
+A symbol of power lies before you.~
+essence~
+armor ABIJKR AM
+BDE BDE BDE BDE 0
+126 0 1200 P
+F
+B 0 -1 U
+A
+13 75
+A
+12 75
+A
+19 12
+A
+18 8
+#16794
+Chromatic Glow~
+{CC{Rh{Mr{Yo{Wm{Ga{Bt{Di{mc {RG{Wlow{x~
+A scintillating coat of dragon scales lies there.~
+scales~
+light ABIJKR A
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+125 0 20000 P
+F
+B 0 5 S
+A
+12 75
+A
+13 100
+A
+2 5
+A
+20 -10
+#16795
+rays of dawn~
+{YR{yays {Wof {YD{yawn{x~
+Glittering rays of sunlight coalese to form a ring before you.~
+light~
+armor ABJKR AB
+ADE ADE ADE ABCE 0
+126 0 0 P
+A
+20 -5
+A
+19 10
+A
+18 10
+A
+13 75
+F
+B 0 -1 I
+#16796
+globe of insight~
+{BG{Wlobe of {BI{Wnsight{x~
+A crystaline sphere the size of a softball is at rest. Sparkling with an inner light all its own.~
+Crystal~
+armor ABGJKR AQ
+AE CE CE BE 0
+126 0 11000 P
+F
+A 0 -1 U
+F
+A 0 -1 D
+F
+A 0 -1 F
+#16797
+jade cocoon~
+{GJ{Dade {GC{Docoon{x~
+You have heard about the legend of a Cocoon spun entirely out of Jade, but you've dismissed it as nothing. You can't believe your eyes here you are face to face with the actual thing. You tremble as you pick the object up and feel the power that is within.~
+jade~
+weapon AGIKR AN
+exotic 12 9 flame GK
+126 0 11000 P
+A
+19 10
+A
+18 12
+A
+12 100
+#16798
+twilight's first ray~
+{BT{Dwilight's {BF{Dirst {BR{Day{x~
+A beam of the first stars of night coalese into a ring.~
+dusk~
+armor ABIJKR AB
+ADE ADE ADE ABCE 0
+126 0 0 P
+F
+B 0 5 N
+F
+B 0 5 Q
+A
+13 125
+A
+12 125
+A
+19 10
+A
+18 10
+#16799
+naginata of punishment~
+{MN{Daginata of {MP{Dunishment{x~
+A long wickedly, curved blade extending 5 feet, from a haft of Obsidian.~
+steel~
+weapon ABGRY AN
+glaive 21 9 thrust DFG
+120 1 1000 P
+A
+2 -4
+A
+19 10
+A
+18 10
+#0
+
+
+
+#ROOMS
+#16600
+Path to the Gods~
+What is this a detour off of the Grey Wastes?  Oh yeah!  You heard that
+this takes you to the Gods?  Well, don't have anything better to do, might
+as well check it out.  ******THIS AREA IS RECOMMENED FOR Level 101 ONLY!!!
+NORECALL ZONES AHEAD!!!  ****** (Note: Area modelled after forgotten realms
+gods)
+~
+0 65536 0
+D1
+~
+~
+0 0 16730
+D3
+~
+~
+0 0 16697
+S
+#16601
+Darion's Love Shack~
+Austin Powers move over.  Darion is here and with love makin' vengence.
+Everywhere you turn, you see a shag-a-delic love nest.  Complete with heart
+shaped bed, lava mood lamps, rug walls, and shag carpetting.  Hell, he even
+has is own maid.  GROOVIEE......!
+~
+0 589828 0
+D2
+~
+~
+4 16605 16602
+M 1000 H 1000
+S
+#16602
+The Psycho Party Room~
+Right out of a really bad, but {oGrooovvveeeeyyyy{x 60's flik comes the
+living room of Darion.  Plush carpeted walls, lava mood lamps, bean bag
+chairs, and original SHAG (g) carpet are the key features here.  Off to the
+north is the Shag chamber, west the Shag way, east the Eupohric kitchen, and
+out the gaudy sliding glass doors to the pool and grrrrrroowwwlll...  Bar.
+~
+0 532484 0
+D0
+~
+~
+4 0 16601
+D1
+~
+~
+0 0 16720
+D2
+~
+~
+0 0 16603
+D3
+~
+~
+0 0 16604
+M 1000 H 1000
+S
+#16603
+The Groovey Party Yard~
+A male symbol swimming pool, you've got to be kiddin'.  Then again it is
+a swingin' shag pad.  You see lounge chairs, a bar with a handsome waiter, a
+waitress shakin' her groovalicous thing all over, Volleyball, and of course
+a giant tramp o lean for activities (g).
+~
+0 532484 1
+D0
+~
+~
+0 0 16602
+S
+#16604
+The Entrance to the Love Shack~
+There is definitely a party going on in here.  You can hear the swingin'
+comin' from the other room.  My gawd is that actual SHAG carpet, rugs of the
+wall, and do I...  Yes that is definitely something being smoked.  You wiped
+your feet and dive into the world that is DARION and his GROOVALICOUS
+SENSATIONS!
+~
+0 8196 0
+D1
+~
+~
+0 0 16602
+D3
+~
+~
+1 16629 16713
+S
+#16605
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is all around you. You can just see about 10 feet infront of you. You stop for a moment as you hear a scream, that seems to eminate from right in front of you. Taking a few more steps you come across the remains of a humanoid form. You gasp in horror as you realize whatever did this could still be in the area.
+~
+0 0 0
+D0
+~
+~
+0 0 16613
+D3
+~
+~
+0 0 16610
+S
+#16606
+Prison of Thoth~
+You see an elderly man chained to the wall.  He barely seems conscious.
+From you lessons at the academy, you recall this gentleman to be Thoth, The
+God of Knowledge.  Well do you set him free so he can reward you or kill him
+out right and take his belongings?
+~
+0 532480 0
+D2
+~
+~
+4 0 16607
+S
+#16607
+Pools of Illiensiene~
+After dealing with king kong squid, this chamber seems to have been
+carved out by water.  Numerous pools lie about.  Ranging anywhere from 5
+feet across to 60 feet across.  As you work your way through the weave of
+pools, you hear the sounds of trickling water from behind you.  Then a sound
+of something wet smacking the ground.  Turning you seem a giant mass of
+brains, with tentacles the length of dragons coming off it.  It seems to be
+heading for you.
+~
+0 8192 0
+D0
+~
+~
+4 16607 16606
+D2
+~
+~
+3 0 16608
+S
+#16608
+Antechamber of Obedience~
+This is the first lite area that you've encountered since wandering the
+depths of the area.  It is a large uncut chamber.  The only thing that
+dominates the area, is a large door carved of ivory.  The door depicts a
+scene of a giant brain with tentacles being worshipped by some type of
+humanoid figures.  Well do you turn back and face the tunnels or do you let
+your curiousity run rampant?  By the way, I forgot to mention the giant
+Mindflayer sitting off to the side looking at you hungerily.
+~
+0 8192 0
+D0
+~
+~
+3 0 16607
+D1
+~
+~
+3 0 16610
+D3
+~
+~
+3 0 16609
+S
+#16609
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16615
+D1
+~
+~
+3 0 16608
+D3
+~
+~
+0 0 16611
+S
+#16610
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16614
+D1
+~
+~
+0 0 16605
+D3
+~
+~
+3 0 16608
+S
+#16611
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16612
+D1
+~
+~
+0 0 16609
+S
+#16612
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 4 0
+D1
+~
+~
+0 0 16615
+D2
+~
+~
+0 0 16611
+S
+#16613
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D2
+~
+~
+0 0 16605
+D3
+~
+~
+0 0 16614
+S
+#16614
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16620
+D1
+~
+~
+0 0 16613
+D2
+~
+~
+0 0 16610
+S
+#16615
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16619
+D2
+~
+~
+0 0 16609
+D3
+~
+~
+0 0 16612
+S
+#16616
+Tunnel of Terror~
+~
+0 8196 0
+S
+#16617
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16621
+D1
+~
+~
+0 0 16619
+S
+#16618
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16622
+D3
+~
+~
+0 0 16620
+S
+#16619
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16623
+D2
+~
+~
+0 0 16615
+D3
+~
+~
+0 0 16617
+S
+#16620
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D0
+~
+~
+0 0 16624
+D1
+~
+~
+0 0 16618
+D2
+~
+~
+0 0 16614
+S
+#16621
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D1
+~
+~
+0 0 16623
+D2
+~
+~
+0 0 16617
+S
+#16622
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D2
+~
+~
+0 0 16618
+D3
+~
+~
+0 0 16624
+S
+#16623
+~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D1
+~
+~
+0 0 16625
+D2
+~
+~
+0 0 16619
+D3
+~
+~
+0 0 16621
+S
+#16624
+Tunnel of Terror~
+Your light source is barely able to pierce the veil of darkness that is
+all around you.  You can just see about 10 feet infront of you.  You stop
+for a moment as you hear a scream, that seems to eminate from right in front
+of you.  Taking a few more steps you come across the remains of a humanoid
+form.  You gasp in horror as you realize whatever did this could still be in
+the area.
+~
+0 8192 0
+D1
+~
+~
+0 0 16622
+D2
+~
+~
+0 0 16620
+D3
+~
+~
+0 0 16625
+S
+#16625
+Enterance of Horror~
+Only a thing shaft of light penetrates the gloom that encompasses you.
+The pressing darkness seems to be almost alive.  You can make out the glow
+of red beady eyes in the dark.  Sounds the like of which you've never heard.
+It is almost unbearable.  Do you climb back up or do you trudge on to find
+the treasures that may lie down here?
+~
+0 73728 0
+D1
+~
+~
+0 0 16624
+D3
+~
+~
+0 0 16623
+D4
+~
+~
+4 0 16635
+S
+#16626
+Door to the Keeper of Tomes~
+After braving all the horrors of this place you've finally come to what
+is hopefully the treasure room.  A massive oaken door carved with grotesque
+seens dominates your sight.  Standing infront of the door is a massive
+Illithid waiting to remove your knowledge through your eyes and ears.  Damn
+it always has to be a guardian.  Well do you slay him and get the key you
+need or just leave like nothing ever happened?
+~
+0 8192 0
+D1
+~
+~
+0 0 16628
+D2
+~
+~
+0 16626 16635
+D3
+~
+~
+0 0 16627
+S
+#16627
+Hall of Horrors~
+Running for your life from the insane hangman and the tentacles, lands
+you into even worse trouble....  Peering around, all you see is...  AHHHHH
+NO!!!  Rocky Horror Picture Show Particapants.  My God isn't it enough that
+you had to face all the other stuff, but be subject to this.  Quickly you
+must gather your sense before the "TIME WARP" kicks in.
+~
+0 8192 0
+D1
+~
+~
+0 0 16626
+D3
+~
+~
+0 0 16629
+S
+#16628
+Hall of Directories~
+Once again leaving the writhing mass of tentacles, land you in the midst
+of ....  Phone Books.  Yes that is right.  This hall is a masoleum to all
+the phone books of ages past.  Well you've always want to know your old
+friends number that was unlisted.  May be you can find it in an older
+edition book.
+~
+0 8192 0
+D1
+~
+~
+0 0 16630
+D3
+~
+~
+0 0 16626
+S
+#16629
+Hall of Tentacles~
+As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the hanged man's room or run like hell to the next room praying it isn't the
+same...?
+~
+0 8192 0
+D1
+~
+~
+0 0 16627
+D2
+~
+~
+0 0 16631
+S
+#16630
+Hall of Tentacles~
+As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the tapestries or run like hell to the next room praying it isn't the
+same...?
+~
+0 8192 0
+D2
+~
+~
+0 0 16632
+D3
+~
+~
+0 0 16628
+S
+#16631
+Hanging Around~
+Leaving the niceties of the fireplace and easy chair, you stumble into
+the hall of hanging.  Here littered casually about are galloes of all makes
+and sizes.  As a mater of fact, a gentleman is here waiting to see you for a
+noose fitting.  Well do you be a hero and kick his can or run screaming like
+a school girl in a direction?
+~
+0 8192 0
+D0
+~
+~
+0 0 16629
+D2
+~
+~
+0 0 16633
+S
+#16632
+Wall of Wonders~
+Leaving the safety of the fireplace, you enter a fairly well lite hall.
+It runs about the length of a football field with tapestries of all makes
+and models.  Just eyeing the tapestries you think you could fetch a pretty
+penny for them on the market.
+~
+0 8192 0
+D0
+~
+~
+0 0 16630
+D2
+~
+~
+0 0 16634
+S
+#16633
+Reader's Corner~
+After what seemed like an eternity in the hall of tentacles.  You come to
+a place of peace and relaxation.  There is a cheery fire place, gently
+rolling fire.  Two lounge chairs sit before it with night stands to either
+side.  Around the room, are book shelves with various books in them.  Well
+are ya going to chill out for a bit or see what other horrors await you.?
+~
+0 8192 0
+D0
+~
+~
+0 0 16631
+D1
+~
+~
+0 0 16637
+S
+#16634
+Reader's Corner~
+After what seemed like an eternity in the hall of tentacles.  You come to
+a place of peace and relaxation.  There is a cheery fire place, gently
+rolling fire.  Two lounge chairs sit before it with night stands to either
+side.  Around the room, are book shelves with various books in them.  Well
+are ya going to chill out for a bit or see what other horrors await you.?
+~
+0 0 0
+D0
+~
+~
+0 0 16632
+D3
+~
+~
+0 0 16636
+S
+#16635
+Vault of Lore??~
+Where is this fabled treasure hiding at?  This room is completely devoid
+of anything except for the robed figure in red.  Hrmmm...  He seems to be
+coming at me with a...  UGH!!!!  MINDFLAYER!!!!
+~
+0 0 0
+D0
+~
+~
+0 0 16626
+D5
+~
+~
+4 0 16625
+S
+#16636
+Hall of Tentacles~
+As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the library or run like hell to the next room praying it isn't the same...?
+~
+0 0 0
+D1
+~
+~
+0 0 16634
+D3
+~
+~
+0 0 16638
+S
+#16637
+Hall of Tentacles~
+As you leave the library area, the tunnel you enter seems to writhe with
+a life alls its own.  Taking your light source and moving it closer to the
+floor.  You see that the floor, walls, and ceiling are made out of living,
+writhing tentacles.  WEll...  Do you run like a little school girl back to
+the library or run like hell to the next room praying it isn't the same...?
+~
+0 0 0
+D1
+~
+~
+0 0 16638
+D3
+~
+~
+0 0 16633
+S
+#16638
+The Library~
+Entering through the small door in the book, you come into a vast
+chamber.  The ceilings reaching as far as the eye could see.  Shelves upon
+shelves, upon shelves, of books dominated this place.  The thing that
+disturbs you the most is a lack of a living breathing presence.  To the east
+and west hallways run.
+~
+0 8192 0
+D1
+~
+~
+0 0 16636
+D2
+~
+~
+0 0 16639
+D3
+~
+~
+0 0 16637
+S
+#16639
+Floating Over Oblivion~
+Congrats you grew some hair, the gods are indeed.  You feel the surge of
+adrenalin coursing through your veins, as you take in the wonderous sights
+of the Colorless Wastes.  *Clink...  Clink...  Clink* What is the seven
+heavens is that noise.  Peering towards the castle you see a huge
+bastillista aimed directly at your hide.  What ya gonna do now.  There
+aren't any of those Kalimari walking around to ask for help?  A: Turn around
+and walkaway causully or B: Make like a bat out of hell, and book (get it
+book) for the book...?
+~
+0 8192 9
+D0
+~
+~
+0 0 16638
+D2
+~
+~
+0 0 16640
+S
+#16640
+Across from the Book~
+Finally reaching what would normally be the drawbridge, you see nothing.
+Absolutely nothing.  Do you turn back, ask the walking squid for directions,
+or grow hair on your chest and just step forward?
+~
+0 8192 1
+D0
+~
+~
+0 0 16639
+D1
+~
+~
+0 0 16642
+D3
+~
+~
+0 0 16641
+S
+#16641
+Path to Thoth~
+You notice that you are steadily going up, yet everything around you is
+level???  Do you stop and ask directions from one of the mind flayers, keep
+going or become the chicken that you know you are, and head back for a
+shopping trip?
+~
+0 0 1
+D1
+~
+~
+0 0 16640
+D3
+~
+~
+0 0 16643
+S
+#16642
+Path to Thoth~
+You notice that you are steadily going up, yet everything around you is
+level???  Do you stop and ask directions from one of the mind flayers, keep
+going or become the chicken that you know you are, and head back for a
+shopping trip?
+~
+0 0 1
+D1
+~
+~
+0 0 16644
+D3
+~
+~
+0 0 16640
+S
+#16643
+Path to Thoth~
+After passing through the gate, you notice that you still have another hour just to reach the bridge to the Book?  What is with all the illithids you wonder. As you peer around you.
+
+~
+0 0 0
+D1
+~
+~
+0 0 16641
+D3
+~
+~
+0 0 16645
+S
+#16644
+Path to Thoth~
+After passing through the gate, you notice that you still have another
+hour just to reach the bridge to the Book?  What is with all the illithids
+you wonder.  As you peer around you.
+~
+0 0 0
+D1
+~
+~
+0 0 16646
+D3
+~
+~
+0 0 16642
+S
+#16645
+Guard Tower~
+Once again your confronted with the hand and eye of thoth.  They stand
+guard over a gate made of flesh.  Once past, it seems that it will take you
+to the book.
+~
+0 0 1
+D0
+~
+~
+0 0 16647
+D1
+~
+~
+0 16646 16643
+S
+#16646
+Guard Tower~
+Once again your confronted with the hand and eye of thoth.  They stand
+guard over a gate made of flesh.  Once past, it seems that it will take you
+to the book.
+~
+0 0 1
+D0
+~
+~
+0 0 16648
+D3
+~
+~
+0 16646 16644
+S
+#16647
+End of the Bazaar~
+You are just about out of the hustle and bustle of the servants and merchants that were running from booth to booth. Up ahead of you, you can see a guard post and a gate. Glancing in the general direction of the gate you can definitely see the floating castle....No it is a book. YOu think to yourself, who in the Abyss lives there? Well are ya going to find out or go back to shopping?
+~
+0 0 1
+D0
+~
+~
+0 0 16651
+D2
+~
+~
+0 0 16645
+S
+#16648
+End of Smithy's Way~
+You are just about out of the hustle and bustling of squires and
+warriors.  Up ahead of you, you can see a guard post and a gate.  Glancing
+in the direction of the gate you can definitely see the floating castle....
+No it is a book.  You think to yourself, who in the Abyss lives there?  Well
+are ya going to find out or go back to shopping
+~
+0 0 1
+D0
+~
+~
+0 0 16652
+D2
+~
+~
+0 0 16646
+S
+#16649
+Arilyn's Mages Emporium~
+The store is lined up in neat orderly glass cases, racks, and numerous
+shelves.  You can almost hear the hum of magic that emminates from
+everything.  What catches your eye, is a slender female, with you think some
+elven heritage, long black hair, piercing blue eyes, can't be a day over 25.
+At once you feel almost a compulsion to purchase something from her,
+however, minor it may be.
+~
+0 1024 0
+D3
+~
+~
+0 0 16651
+S
+#16650
+Flanigan's Fineries~
+Expecting to see silks, pantaloons, and what not.  You are amazed to see
+bracers, breastplates, jerkins, and a vast array of other assorted armors.
+Behind the counter is an elderly male halfling.  He is just watching ya with
+eyes like a hawk.
+~
+0 1024 0
+D1
+~
+~
+0 0 16652
+S
+#16651
+Bazaar of Thoth~
+Transversing the various booths, you come upon Arilyn's Mages Emporium.
+A small building to the east.  You can continue south to see the rest of the
+sights and sounds or check out the shop.
+~
+0 0 1
+D0
+~
+~
+0 0 16655
+D1
+~
+~
+0 0 16649
+D2
+~
+~
+0 0 16647
+S
+#16652
+Smithy's Way~
+Weaving your way through the throngs of warriors and squires you notice a
+small building to the west.  The sign names the place as Flanigan's
+Fineries.  You think to yourself, why not.  I need a few niceties too...  Or
+you could always wonder back into the throng.
+~
+0 0 1
+D0
+~
+~
+0 0 16656
+D2
+~
+~
+0 0 16648
+D3
+~
+~
+0 0 16650
+S
+#16653
+Dove's Guiding Light~
+Entering the shop, the first thing you see is a woman of astounding
+beauty and wisdom.  If it wasn't for her pointed ears, you'd think she was a
+very well graced human.  Scanning her store, you can see various beakers
+bubbling, pills in containers, and dried herbs that have various uses.
+~
+0 1024 0
+D3
+~
+~
+0 0 16655
+S
+#16654
+Executioner's Axe~
+The first thing you notice as you step inside, is just how clean the
+store really is.  All the weapons seem to sparkle with a life all their own.
+Standing behind the counter is a squat figure, female at that, with a...  A
+beard???  My god you've heard about them, but never seen one before, a
+female dwarf.  She is really giving you the dirty eye.
+~
+0 1024 0
+D3
+~
+~
+0 0 16656
+S
+#16655
+Bazaar of Thoth~
+Transversing the various booths, you come to Dove's Guiding Light.  A
+small building to the east.  You can continue south to see the rest of th
+sights and sounds or check out the shop.
+~
+0 0 1
+D0
+~
+~
+0 0 16657
+D1
+~
+~
+0 0 16653
+D2
+~
+~
+0 0 16651
+S
+#16656
+Smithy's Way~
+Weaving your way through the throngs of warriors and squires you notice
+to the west a small building.  It has the sign of two crosses swords
+bloodied.  Below that is the name The Executioner's Axe.  Well you can
+always continue through the throngs or *gulp* have the axe fall on ya.
+~
+0 0 1
+D0
+~
+~
+0 0 16658
+D1
+~
+~
+0 0 16654
+D2
+~
+~
+0 0 16652
+S
+#16657
+City of Thoth~
+As you round the corner your senses are assaulted by the vast aray of
+smells, sights, and sounds.  This is the first time, however, that you note
+cityguards of some sort.  They seem to be giant eyeballs.
+~
+0 0 1
+D1
+~
+~
+0 0 16659
+D2
+~
+~
+0 0 16655
+S
+#16658
+City of Thoth~
+As you come around the the corner of the street, you can make out the
+definite sounds of hammering of metals, jousting, and scraping of fighters.
+This is the first time you note, however, that guards of some type are
+present.  They seem to be giant hands.
+~
+0 0 1
+D2
+~
+~
+0 0 16656
+D3
+~
+~
+0 0 16660
+S
+#16659
+City of Thoth~
+The road head towards the mage guilds and the food stores of the city.
+~
+0 0 1
+D1
+~
+~
+0 0 16661
+D3
+~
+~
+0 0 16657
+S
+#16660
+City of Thoth~
+The paved road seems to be headed toward the mage guilds and food stores
+of the town.
+~
+0 0 1
+D1
+~
+~
+0 0 16658
+D3
+~
+~
+0 0 16662
+S
+#16661
+City of Thoth~
+The paved road seems to be headed toward the mage guilds and food stores
+of the town.
+~
+0 0 1
+D1
+~
+~
+0 0 16663
+D3
+~
+~
+0 0 16659
+S
+#16662
+City of Thoth~
+The paved road seems to be headed toward the armorer and weaponsmiths of
+the town.
+~
+0 0 1
+D1
+~
+~
+0 0 16660
+D3
+~
+~
+0 0 16663
+S
+#16663
+City of Thoth~
+Entering the city, you see races of all sorts mingling together chatting,
+bartering, or just going on their merry business.  What grabs your eye the
+most is the floating castle.  It seems to be a giant book???  A book you
+think.  Great....
+~
+0 0 1
+D0
+~
+~
+0 0 16664
+D1
+~
+~
+0 0 16662
+D3
+~
+~
+0 0 16661
+S
+#16664
+The Colorless Plains~
+After wandering this path for several days, you finally can make out the
+walls of a strong hold.  You can almost here the hustle and bussle of day to
+day activity.
+~
+0 0 2
+D0
+~
+~
+0 0 16666
+D2
+~
+~
+0 0 16663
+S
+#16665
+The Colorless Plains~
+After wandering the area for numerous days, you finally come upon a path.
+The path leads off to the south toward...  You can't quite make it out may
+be a castle or town walls...
+~
+0 0 2
+D1
+~
+~
+0 0 16668
+D2
+~
+~
+0 0 16666
+D3
+~
+~
+0 0 16667
+S
+#16666
+The Colorless Plains~
+After wandering the area for numerous days, you finally come upon a path.
+The path leads off to the south toward...  You can't quite make it out may
+be a castle or town walls...
+~
+0 524288 0
+D0
+~
+~
+0 0 16665
+D2
+~
+~
+0 0 16664
+M 200 H 200
+S
+#16667
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 0
+D0
+~
+~
+0 0 16693
+D1
+~
+~
+0 0 16665
+D3
+~
+~
+0 0 16669
+D4
+~
+~
+0 0 16691
+S
+#16668
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 0
+D0
+~
+~
+0 0 16694
+D1
+~
+~
+0 0 16670
+D3
+~
+~
+0 0 16665
+D4
+~
+~
+0 0 16692
+S
+#16669
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 0
+D0
+~
+~
+0 0 16691
+D1
+~
+~
+0 0 16667
+D3
+~
+~
+0 0 16671
+D4
+~
+~
+0 0 16693
+M 2000 H 2000
+S
+#16670
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 0
+D0
+~
+~
+0 0 16692
+D1
+~
+~
+0 0 16672
+D3
+~
+~
+0 0 16668
+D4
+~
+~
+0 0 16694
+S
+#16671
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 0
+D0
+~
+~
+0 0 16689
+D1
+~
+~
+0 0 16669
+D3
+~
+~
+0 0 16673
+D4
+~
+~
+0 0 16675
+S
+#16672
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 0
+D0
+~
+~
+0 0 16690
+D1
+~
+~
+0 0 16674
+D3
+~
+~
+0 0 16670
+D4
+~
+~
+0 0 16676
+S
+#16673
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 0
+D0
+~
+~
+0 0 16675
+D1
+~
+~
+0 0 16671
+D4
+~
+~
+0 0 16689
+S
+#16674
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 0
+D0
+~
+~
+0 0 16676
+D3
+~
+~
+0 0 16672
+D4
+~
+~
+0 0 16690
+S
+#16675
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 0
+D0
+~
+~
+0 0 16685
+D2
+~
+~
+0 0 16673
+D3
+~
+~
+0 0 16677
+D4
+~
+~
+0 0 16683
+D5
+~
+~
+0 0 16671
+S
+#16676
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 0
+D0
+~
+~
+0 0 16686
+D1
+~
+~
+0 0 16678
+D2
+~
+~
+0 0 16674
+D4
+~
+~
+0 0 16688
+D5
+~
+~
+0 0 16672
+S
+#16677
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D0
+~
+~
+0 0 16683
+D1
+~
+~
+0 0 16675
+D3
+~
+~
+0 0 16679
+D4
+~
+~
+0 0 16681
+S
+#16678
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D0
+~
+~
+0 0 16684
+D1
+~
+~
+0 0 16680
+D3
+~
+~
+0 0 16676
+D4
+~
+~
+0 0 16682
+S
+#16679
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D0
+~
+~
+0 0 16681
+D1
+~
+~
+0 0 16677
+D5
+~
+~
+0 0 16693
+S
+#16680
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D0
+~
+~
+0 0 16682
+D3
+~
+~
+0 0 16678
+D4
+~
+~
+0 0 16684
+S
+#16681
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D1
+~
+~
+0 0 16683
+D2
+~
+~
+0 0 16679
+D5
+~
+~
+0 0 16677
+S
+#16682
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D2
+~
+~
+0 0 16680
+D3
+~
+~
+0 0 16684
+D4
+~
+~
+0 0 16696
+D5
+~
+~
+0 0 16678
+S
+#16683
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D1
+~
+~
+0 0 16685
+D2
+~
+~
+0 0 16677
+D3
+~
+~
+0 0 16681
+D5
+~
+~
+0 0 16675
+S
+#16684
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D1
+~
+~
+0 0 16682
+D2
+~
+~
+0 0 16678
+D3
+~
+~
+0 0 16686
+D5
+~
+~
+0 0 16680
+S
+#16685
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D1
+~
+~
+0 0 16687
+D2
+~
+~
+0 0 16675
+D3
+~
+~
+0 0 16683
+D5
+~
+~
+0 0 16689
+S
+#16686
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D1
+~
+~
+0 0 16684
+D2
+~
+~
+0 0 16676
+D3
+~
+~
+0 0 16688
+D5
+~
+~
+0 0 16690
+S
+#16687
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D2
+~
+~
+0 0 16689
+D3
+~
+~
+0 0 16685
+D5
+~
+~
+0 0 16691
+S
+#16688
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D1
+~
+~
+0 0 16686
+D2
+~
+~
+0 0 16690
+D5
+~
+~
+0 0 16676
+S
+#16689
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D0
+~
+~
+0 0 16687
+D1
+~
+~
+0 0 16691
+D2
+~
+~
+0 0 16671
+D4
+~
+~
+0 0 16685
+D5
+~
+~
+0 0 16673
+S
+#16690
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D0
+~
+~
+0 0 16688
+D2
+~
+~
+0 0 16672
+D3
+~
+~
+0 0 16692
+D4
+~
+~
+0 0 16686
+D5
+~
+~
+0 0 16674
+S
+#16691
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D1
+~
+~
+0 0 16693
+D2
+~
+~
+0 0 16669
+D3
+~
+~
+0 0 16689
+D4
+~
+~
+0 0 16687
+D5
+~
+~
+0 0 16667
+S
+#16692
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D1
+~
+~
+0 0 16690
+D2
+~
+~
+0 0 16670
+D3
+~
+~
+0 0 16694
+D5
+~
+~
+0 0 16668
+S
+#16693
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 0 2
+D2
+~
+~
+0 0 16667
+D3
+~
+~
+0 0 16691
+D4
+~
+~
+0 0 16679
+D5
+~
+~
+0 0 16669
+S
+#16694
+The Colorless Plains~
+The road seems to stretch for miles in all directions.  You are really
+getting bogged down by the complete lack of a color scheme.
+~
+0 8192 2
+D1
+~
+~
+0 0 16692
+D2
+~
+~
+0 0 16668
+D5
+~
+~
+0 0 16670
+S
+#16695
+~
+~
+0 4 2
+S
+#16696
+Sanctuary for the Weary~
+You can't believe your eyes.  You've stumbled into a varitable paradise.
+Lush green grass, trees over loaded with ripe fruits, and could it be.....
+*sip* YES!!!  Water.  You have a sense of wellness here.  A rest from the
+endless void of the Wastes, the never ending hounding of Yeth Hounds, and
+Spectral Riders.  After having you fill and rest, you notice a path leading
+to the north.  Funny you think it wasn't there when you entered the first
+time.  What do you do?  Take the path or go back into the Grey Waste?  >
+~
+0 524288 0
+D0
+~
+~
+0 0 16697
+D5
+~
+~
+0 0 16682
+M 500 H 500
+S
+#16697
+Pathway to Holyness~
+You are just now leaving the lushness of your safe haven.  You have set
+your mind to the task of actually reaching the home of the gods themselves.
+You put your mind to it and head out.  You are secure in your knowledge that
+the gods will not turn you away.
+~
+0 533508 0
+D0
+~
+~
+0 0 16698
+D1
+~
+~
+0 0 16600
+D2
+~
+~
+0 0 16696
+S
+#16698
+Pathway to Holyness~
+You've been travelling on for what seems like days.  Though the sun never
+seems to set.  Off in the very far distance you can make out a shimmer on
+the horizon.  Its nothing.  Just a mirage.  Okay, maybe it isn't.  Should
+you continue on or go back to the Endless Grey Wastes?
+~
+0 0 0
+D0
+~
+~
+0 0 16699
+D2
+~
+~
+0 0 16697
+S
+#16699
+Pathway to Holyness~
+On the horizon you can just make out the majestic sight you've waited
+your whole life to see.  Mount Celestia, home of the gods of good, new
+beginnings, and all around forces of goodness.  You estimate that your only
+a day away or you could return to the harshness that is the Grey Waste.
+~
+0 4194304 0
+D0
+~
+~
+0 0 16700
+D2
+~
+~
+0 0 16698
+S
+#16700
+Before Mt. Celestia~
+Coming up the rocky path you gaze upon a mountain.  As you gaze up you
+notice that the mountain reaches far above the cloudline.  If you squint
+really hard, you make out shadowy forms in the clouds.  Winged ones at that.
+You path continues north towards the base of the mountain or back south.
+~
+0 0 5
+D0
+~
+~
+0 0 16701
+D2
+~
+~
+0 0 16699
+D5
+~
+~
+0 0 8401
+M 600 H 600
+S
+#16701
+Foot of the Mount~
+Upon reaching the base of the mountain, you finally get a feel for the
+greatnes that it possesses.  Before you stand a huge door of gold carved
+with the likeness of numerous dragons in graceful flight.  To the east and
+west paths weave up the mountain towards several caves.
+~
+0 0 0
+D0
+~
+~
+0 0 16702
+D1
+~
+~
+0 0 16703
+D2
+~
+~
+0 0 16700
+D3
+~
+~
+0 0 16704
+S
+#16702
+The Center Spire~
+You have entered the center spire of the mountain.  The climb shall be
+long and tedious.  You pathway continues spriraling up.  After a few hours
+of walking, you come upon a irradescent door.  That leads you further up
+your path.
+~
+0 0 0
+D2
+~
+~
+0 0 16701
+D4
+~
+crate~
+0 16711 16721
+S
+#16703
+Paths of the Sun~
+Above this entrance you can make out the various rises of the sun.
+Ranging from Dawn, High Noon, Dusk, and even a solar eclipse.  An individual
+in flames stands guarding the enterance.  Behind him you can see a bright
+landscape waiting to be explored.
+~
+0 0 0
+D0
+~
+~
+0 0 16707
+D1
+~
+~
+0 0 16705
+D3
+~
+~
+0 0 16701
+S
+#16704
+Pathways of the Moon~
+You gaze upward amazed at the multitude of stars that are out tonight.
+The beauty is absolutely breath taking.  Searching the sky, you see that the
+moon is out and shifting through all of its phases.  Before you a path leads
+north towards the moon, back east, or further west.
+~
+0 0 0
+D0
+~
+~
+0 0 16708
+D1
+~
+~
+0 0 16701
+D3
+~
+~
+0 0 16706
+S
+#16705
+Broken Path~
+This path widens somewhat. It looks like at one time you used to be able to take mining carts down to the base of the mountain. You only have to continue east a little more to reach you final destination. Or you can continue back west from were you came.
+~
+0 0 0
+D1
+~
+~
+0 0 16713
+D3
+~
+~
+0 0 16703
+S
+#16706
+Broken Path~
+This path widens somewhat.  It looks like at one time you used to be able
+to take mining carts down to the base of the mountain.  You only have to
+continue west a little more to reach you final destination.  Or you can
+continue back east from were you came.
+~
+0 0 0
+D1
+~
+~
+0 0 16704
+D3
+~
+~
+0 0 16714
+S
+#16707
+The Coming of Dawn~
+After your battle with the living flame, you can't believe the sight that
+lies infront of you.  The most breath taking Dawn you've ever seen.  Though
+it looks like its going to be interrupted by...  An elemental?  From the
+rays of dawn, coaleses a being of light.
+~
+0 0 0
+D0
+~
+~
+0 0 16709
+D2
+~
+~
+0 0 16703
+S
+#16708
+Enter Dusk~
+As you continue forward,your journey continues through the day till dusk.
+You stop to camp marveling at the colors of the horizon.  The warm colors
+that seem to embrace then coming of night.  On the horizon, you see a shape
+that vaguely resembles a horse.  It seems to be fast approaching, you can
+here the thunderous hoof beats.  Quickly scanning the area you can head back
+south, or try to manuever north around it.
+~
+0 0 0
+D0
+~
+~
+0 0 16710
+D2
+~
+~
+0 0 16704
+S
+#16709
+High Noon~
+You peer at a huge desert infront of you.  It seems to go on and on.  The
+only thing that can be seen are tumbleweed.  A dry, dusty gulch continues to
+the north.
+~
+0 0 0
+D0
+~
+~
+0 0 16711
+D2
+~
+~
+0 0 16707
+S
+#16710
+New Moon~
+Above you is nothing ,but darkness.  It seems all enveloping.  By what
+little starlight that there is you can piece together the facts.  Silently
+you whisper , "Damn!"  .  As you recall that the hounds hunt only during the
+full moon.  Searching frantically you find the path you were on.  It
+continues north or back south towards assured safety.
+~
+0 0 0
+D0
+~
+~
+0 0 16712
+D2
+~
+~
+0 0 16708
+S
+#16711
+The Chamber's of the Morning Lord~
+This room seems to be teaming with life as the sun splashes about
+everything.  You can feel the rays soaking through your armor, warming your
+skin and even your very soul.  As you get accustomed to the light, you can
+see a magnificant creature basking in the golden rays.  You can't believe it
+tis the the legendary dragon of the sun.  You wouldn't have believed it,
+unless you saw it.
+~
+0 0 0
+D2
+~
+~
+0 0 16709
+S
+#16712
+The Celestia Equinox~
+As you enter the chamber you marvel at the way the moon light plays over
+the surfaces of the room.  How it seems to coalesce into a living being.
+Before your eyes a creature of exquisite beauty turns shows itself to you.
+You stand there amazed at the sight.  You would have never believed the
+legends if you hadn't seen this for yourself.
+~
+0 0 0
+D2
+~
+~
+0 0 16710
+S
+#16713
+Entrance to the Chamber of the Wheel~
+Peering into the cave entrance, you can make out the sounds of a turning wheel. Going further in, you come to the chamber of the wheel. Thousands of people seem to be standing in line waiting for something. Suddenly you gasp in realization. You think can this be true, the Wheel of incarnation? As if to answer your question a burly horned giant begins to approach you.
+You options are continue through the cavern northward, face the beasty head on, or run for the hills from the direction you just came?
+~
+0 532480 0
+D0
+~
+~
+0 0 16715
+D1
+~
+~
+1 16629 16604
+D3
+~
+~
+0 0 16705
+S
+#16714
+Silver Mine~
+From the mouth of the cave you can just make out some type of metal
+glistening from your light.  As you enter the cave you see veins of silver
+splayed all through out the walls.  Passing your light around the mine, you
+uncover a pile of silver.  Wait did that silver just move.  Staring in awe
+and amazement, a serpentine form takes shape.  You think to yourself, "
+Damn, I'm introuble!"
+~
+0 0 0
+D0
+~
+~
+0 0 16716
+D1
+~
+~
+0 0 16706
+S
+#16715
+Chamber of Judgement~
+After leaving the wheel, you follow the lines of eternity. Upon its end you meet with a little old man sitting in a rocking chair. He seems to be humming to himself. Totally unaware that you've decided to intrude upon his thoughts. Just as you thought you'd slip by, he turns and gives you a look of death. His gaze penetrates your very being. YOU ARE BEING JUDGED!
+~
+0 0 0
+D0
+~
+~
+0 0 16717
+D2
+~
+~
+0 0 16713
+S
+#16716
+Cavern of Quartz~
+Upon exiting the silver mine, you notice that the walls start to take on
+a more crystaline structure.  Definitely some type of large crystal or
+quartz vein.  Entering into a vast chamber, you can see that this place is
+unscathed by the hands of man ( or other creature).  Being careful note to
+disturb this natural beauty, you spy a chunk of crystal coming to life.  As
+the mound starts to take shape, you notice it to be a very delicate
+serpentine creature of beauty.
+~
+0 0 0
+D0
+~
+~
+0 0 16718
+D2
+~
+~
+0 0 16714
+S
+#16717
+Study of Cloud and Tree~
+After being judged, you are sent to contemplate life. Before you is a garden of eden. Trees full of fruit, animals of all types playing with each other, and a large tree in the center of it all beckons you forth. Standing by the tree are three figures. Three elderly men, one dress in Gold, one in Grey, the other in Red. All three, in unision, say ," To leave this place you must conquer each of us."
+A path continues behind them toward a structure of jade.
+~
+0 0 0
+D0
+~
+~
+0 0 16719
+D2
+~
+~
+0 0 16715
+S
+#16718
+Chamber of Percious Stones~
+Entering this room you can't help, but notice {RG{Wems!  {x They are
+everywhere.  You can't believe it.  Oh the beauty of mounds of raw gem
+stones.  What is that you see.  A pile of gems just moved.  A hoard of
+Amethyst rises up.  My god!  You'd never thought you'd ever see a real live
+Amethyst Dragon ever.
+~
+0 8192 0
+D2
+~
+~
+0 0 16716
+S
+#16719
+The Jade Emporer's Throne Room~
+This vast chamber seems to be carved out of a huge piece of jade. In the center of the chamber is a human figure clothed in ameythyst, diamonds, and jade.
+As you approach the figure you can see that he has green skin. No hes not a troll. His skin is jade. His are as black as Opals. You never would have thought the legends true of the Man of Jade. Unless you seen it with your own eyes.
+~
+0 0 0
+D2
+~
+~
+0 0 16717
+S
+#16720
+The Kitchen~
+Not much going on here, except a lil' cooking if ya know what I mean.
+Here his chief GiGi prepares his snacks and euphoric entrees.  You know
+you'll have a good time if your eating the food.  (g) Literally.
+~
+0 532492 0
+D3
+~
+~
+0 0 16602
+S
+#16721
+Shimmering Plateau~
+Climbing up the infinite spiral, you come finally to the first plateau.
+Here the plateau is covered in mists.  Temperatures and smells of variety
+assault your senses.  Moving deeper into the mists, one has eyes.  Checking
+again, you see that those definitely are eyes, moving closer to you.
+~
+0 0 0
+D4
+~
+~
+0 16711 16722
+D5
+~
+~
+0 0 16702
+S
+#16722
+Plateau of Darkest Nights~
+After leaving the bright lights of the plains behind, your eyes are
+happy to see the black of perpetual night.  Unfortunately, you aren't
+pleased in the least.  You know that preditors of all shapes and sizes hunt
+at night.  Here it is a virtual field day for them.  As you set up camp for
+the night, you notice a large, black void moving towards you.  Well you
+could head back to eye strain city or continue your climb upward?
+~
+0 8192 0
+D4
+~
+~
+0 16712 16723
+D5
+~
+~
+0 0 16721
+S
+#16723
+Plateau Of Glory~
+You are starting to get the feeling of forboding, as you've yet to see
+signs of the top of the mountain.  Yet you feel somewhat secure in the fact
+that you are 3 quarters of the way there.  You've reached a vast plateau.
+It seems to stretch in all directions to the horizon.  You have never really
+noticed before, but now you notice that you muscles are killing you.  As you
+break out your camping gear, a warm feeling of peace and easiness flows
+through you.  Looking across the camp at you, is Dragon of immense beauty
+and power.  You get the feeling though that no harm shall come to you.
+~
+0 532484 0
+D4
+~
+~
+0 16719 16724
+D5
+~
+~
+0 0 16722
+S
+#16724
+The Stand Of Murdock~
+Upon reaching the top of the mountain, you see carnage everywhere.  You
+thing to yourself, I climbed all this way to see a battlefield of blood and
+corpses.  As you start picking your was through the mess, a figure rises out
+of the dust and blood.  Getting a good look at him you see a titan of a man
+with eight arms.  In each of his mighty arms, he wields weapons of unearthly
+make.  You can feel the fear rising, as you realize he is heading your way.
+~
+0 532480 0
+D0
+~
+~
+3 16724 16725
+D5
+~
+~
+0 0 16723
+S
+#16725
+Treasure Room of the Fallen~
+After the many battles that have been waged through out the centuries
+here.  Murdock has ammassed quite a collection of assorted weapons, armours,
+and items of power.  The thing that catches you eye the most, out of all the
+piles of gems and coins, is the pulsating pool of water.
+~
+0 533000 0
+D2
+~
+~
+3 0 16724
+S
+#16730
+Before the Parthanon~
+As you emerge from the portal, your eyes grow wide as disbelief sets in.
+You have arrived before the parthanon of the gods.  Well you've always
+wondered what it would be like to have dinner with them.  Well now is you
+chance.  Do you continue forward, or do you remember an important date that
+you wrote down in your planner?
+~
+0 532484 0
+D1
+~
+~
+4 16605 16731
+D3
+~
+~
+0 0 16600
+S
+#16731
+Hall of the Twelve~
+The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a mirror.  The door to the south is marked with a
+skull.
+~
+0 532484 0
+D0
+~
+~
+4 16605 16733
+D1
+~
+~
+0 0 16738
+D2
+~
+~
+4 16605 16732
+D3
+~
+~
+4 16605 16730
+S
+#16732
+Hall of Embalming~
+Entering through the door, you set foot in....  AHHH!  A embalming room.
+You see numerous corpses lining the walls.  Mindless zombies pulling out
+innards and...  Of course brains.  At the end of the hall you can make out a
+door of some sort.
+~
+0 0 0
+D0
+~
+~
+4 0 16731
+D2
+~
+~
+0 0 16734
+S
+#16733
+Plush Hallway~
+The thing that catches yer eye is all the naked people lying around the
+room.  It seems to be just one giant orgy.  Plush carpeting, velvet
+coushions, and lava lamps dominate this hall.  These are the faithful of....
+Oh my God!!!  Sune!!  You think to yourself, "Self either way you will most
+likely score tonite."  Feeling like the stuff do you join the throng or wuss
+out?
+~
+0 532480 0
+D0
+~
+~
+0 0 16735
+D2
+~
+~
+4 16605 16731
+S
+#16734
+Hallway to the Champaign Room~
+After making your way through the initial onslaught of dissections and
+jars, you come to a door made out of flesh.  Still milling about waiting to
+work there skills on you are the zombies of Myrkul
+~
+0 532480 0
+D0
+~
+~
+0 0 16732
+D3
+~
+~
+4 16605 16736
+S
+#16735
+Foyer to the Champaign Room~
+The hallway finally comes to an end, in front of a huge set of double
+doors.  You can hear and even louder party raging on, on the other side of
+the door.  Well do you dive in and mosh like mad or be a sissy, and go home?
+~
+0 532484 0
+D2
+~
+~
+0 0 16733
+D3
+~
+~
+4 16605 16737
+S
+#16736
+The Morgue~
+You have fallen prey to the worst thing around.  The place that they
+bring all the corpses to be prepped.  Milling around are several zombies
+waiting to be ordered by Myrkul.
+~
+0 532480 0
+D1
+~
+~
+4 16605 16734
+S
+#16737
+Champaign Room~
+Okay New Orleans move out of the way, because the party center of the
+megaverse is happening here.  There are things going on that you thought
+couldn't exist.  Everywhere you look, people are just getting down and
+boogie oogie to there hearts content.  In the midest of all this mayhem,
+stand the most beautiful woman of the megaverse.  NO NOT KYRIN, although she
+is second seeings she is still a mortal and all.  Is none other then Sune,
+the Goddess of Beauty.
+~
+0 532484 0
+D1
+~
+~
+4 16605 16735
+S
+#16738
+Hall of the Twelve~
+The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a tome.  The door to the south is marked with a
+dagger.
+~
+0 532484 0
+D0
+~
+~
+4 16605 16739
+D1
+~
+~
+0 0 16745
+D2
+~
+~
+4 16605 16740
+D3
+~
+~
+0 0 16731
+S
+#16739
+Library of the Ancients~
+As you enter the door, you nostrils are assaulted with the smell of
+musty tomes and scrolls.  Everywhere you look piles upon piles of tomes lay
+spread out.  Working diligently to keep them in shape and order.  Are the
+faithful of Oghma.
+~
+0 532484 0
+D0
+~
+~
+0 0 16741
+D2
+~
+~
+4 16605 16738
+S
+#16740
+Perpetually Dark Alley~
+The first thing you notice walking through the door is....  You can't
+really see.  The inky blackness is so thick that you could cut it with a
+knife.  Oh wait...  That is a knife you see, but it seems to be coming at
+you.  UGH!  It is one of the faithful of Bane.
+~
+0 9 0
+D0
+~
+~
+4 0 16738
+D2
+~
+~
+0 0 16742
+S
+#16741
+Library of the Ancients~
+Everywhere you look books, books, and yes MORE BOOKS!!!  They seem to
+stretch on for what seems like miles.  Why did you ever come in here you
+wonder?  Just as you finish that thought, you happen upon a tome that is the
+size of a titan.  It is standing against the wall.  Do you open it or Do you
+attempt to go find the spell to summon millions of book worms?  (which is a
+c 'summon' slate)
+~
+0 532484 0
+D1
+~
+~
+4 16605 16743
+D2
+~
+~
+0 0 16739
+S
+#16742
+Perpetually Dark Alley ~
+Whatever is possessing you to move deeper into the murk is definitely
+something to go think about.  Well...  Pressing on you come to a broken down
+shack.  Well almost, except for that door of titan sized onyx.  Well you
+have come this far.  Might as well go see who is home.
+~
+0 0 0
+D0
+~
+~
+0 0 16740
+D1
+~
+~
+4 0 16744
+S
+#16743
+Thoth n' Oghma~
+After opening the massive tome to enter Oghma's Inner Sanctum, you come
+upon a simple man in robes levitating.  He seems to be concentration on
+something, your not certain what.  What you do know is the sounds of quills
+making their marks on papyrus fills the room.  Could that be the keeper of
+all knowledge?
+~
+0 532484 0
+D3
+~
+~
+4 16605 16741
+S
+#16744
+Assassin's Courtroom~
+Stepping through the doorway, you enter a relatively well light chamber.
+The chamber is almost like a bejeweled fop.  Lounging casually in a pile of
+pillows is a man average age, strong facial features, and a grin that could
+actually kill you.  Surrounding him are numerous women and men lathering him
+in adoration.  This must be...  BANE!!!
+~
+0 532484 0
+D3
+~
+~
+4 16605 16742
+S
+#16745
+Hall of the Twelve~
+The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with stars and a flame.  The door to the south is
+marked with waves.
+~
+0 4 0
+D0
+~
+~
+4 16605 16747
+D1
+~
+~
+0 0 16752
+D2
+~
+~
+4 16605 16746
+D3
+~
+~
+0 0 16738
+S
+#16746
+Beaches of Tripoli~
+Entering the door you set foot on a storm struck beach.  You see the
+remains of sailors, ships, and sea creatures strewn about.  Sifting through
+the wreckage you see the sea zombies of umberlee doing her bidding.
+~
+0 532480 0
+D0
+~
+~
+4 0 16745
+D2
+~
+~
+0 0 16748
+S
+#16747
+Hall of Mysteries~
+You have set foot into a hallway that is lit as if twilight was alive.
+Here and there you see various creatures of magic lounging casually about.
+You see as well fanatic followers of the lady of mysteries.  They stand
+idling, waiting to be summoned to learn the secrets of manipulating the
+weave.
+~
+0 532480 0
+D0
+~
+~
+0 0 16749
+D2
+~
+~
+4 0 16745
+S
+#16748
+At the Base of the Cliff~
+After dodging the scavengers of umberlee, you finally reach the cliff
+base that she calls home.  You can just make out a cave closed by water.
+You can see the scavengers of the bitch queen swimming lazily back and forth
+as if awaiting you.
+~
+0 532480 0
+D0
+~
+~
+0 0 16746
+D3
+~
+~
+4 0 16750
+S
+#16749
+Hall of Mysteries~
+Finally coming to the end of the twilight lit corridor.  You come upon a
+set of double doors.  The doors themself seem to have been forged from raw
+magic.
+~
+0 532480 0
+D2
+~
+~
+0 0 16747
+D3
+~
+~
+4 0 16751
+S
+#16750
+Shores of Tripoli~
+Having made the treacherous climb.  Your eyes finally lay upon the Bitch
+Queen.....  Umberlee.  She turns her gaze to you.  You almost feel in lust.
+If it wasn't for the fact that a lightning bolt the size of california is
+coming at you.  Stepping out of the way, you now know that this woman means
+business.
+~
+0 532480 0
+D1
+~
+~
+4 16605 16748
+S
+#16751
+Mages Ascension~
+Upon entering the room the first thing that catches your eye are the
+arching paths of magical energy that bends to and fro.  In the midst of all
+this chaos is a wispy figure surrounded by eager students.  They await the
+knowledge of how to shape and control the energy that is the weave.
+~
+0 532484 0
+D1
+~
+~
+4 16605 16749
+S
+#16752
+Hall of the Twelve~
+The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a throne of bones.  The door to the south is
+marked with an eye.
+~
+0 532484 0
+D0
+~
+~
+4 16605 16753
+D1
+~
+~
+0 0 16759
+D2
+~
+~
+4 16605 16754
+D3
+~
+~
+0 0 16745
+S
+#16753
+Standing in Line~
+After openning the door, you appear standing in a line of dead souls.
+The terrain either way you look is completely devoid of life.  The only
+thing that you can spy on the horizon is a castle.  The line of souls seems
+to be going there.  Oh well just go with the flow and see what happens.
+~
+0 532480 0
+D0
+~
+~
+0 0 16755
+D2
+~
+~
+4 0 16752
+S
+#16754
+Jungle of the Gods~
+Jumping through the door, you find yourself entangled in vines as thick
+as hassan's arms.  Well something like that won't stop an intrepid
+adventurer like yourself.  You easily pull out your trusty sharpened weapon
+and hack through.  Well as you start hacking away you seem to have attracted
+the attention of something, but you can't see through all this undergrowth.
+~
+0 532480 0
+D0
+~
+~
+4 0 16752
+D2
+~
+~
+0 0 16756
+S
+#16755
+Before the Castle of Bone~
+After standing in line for what seems like hours, you finally reach the
+front steps to the Castle of Bone.  The odd thing is that no one seems to be
+running foward to go first through the Catyrid Column.  You ponder why that
+might be, just as you pass through.
+~
+0 532480 0
+D1
+~
+~
+4 0 16757
+D2
+~
+~
+0 0 16753
+S
+#16756
+Base of the Celestial Staircase~
+After trudging through the dense thickets and vines, you come to the
+base of a golden staircase.  Looking up the staircase, you see that it
+easily reaches above the clouds.  Well do you ascend them to become a god or
+go find Xena's amazon tribe to get down with?
+~
+0 532480 0
+D0
+~
+~
+0 0 16754
+D1
+~
+~
+0 0 16758
+S
+#16757
+Death's Domain~
+As you pass through the Catyrid Column, you enter the throne room of the
+Lord of the Dead himself, Kelemvor.  He sits upon a Throne of solid emerald.
+There is aline that stretches for miles that leads to his throne.  He
+beckons the next soul forward, stands them infront of a mirror and announces
+his lot in undeath.  Keeping the throng of souls in line are the most
+favored and devout of Kelemvor.  Gazing one last time at the throne, he
+beckons you forward to be judged.
+~
+0 532484 0
+D3
+~
+~
+4 16605 16755
+S
+#16758
+Changing of the Guards~
+Wheezing and puffing, you reach the top of the stairs.  Standing at the
+top, are a number of guards.  All eyes seem to be on you right now.  The
+most prominent figure is a giant of a man.  His gaze is literally freezing
+you where you stand.  He just raises a hand and points back down the
+staircase.  Are you going to do it or are you going to take on someone that
+Hassan would be affraid of?
+~
+0 532484 0
+D3
+~
+~
+0 0 16756
+S
+#16759
+Hall of the Twelve~
+The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with crossed swords.  The door to the south is marked
+with a scales.
+~
+0 532484 0
+D0
+~
+~
+4 16605 16761
+D1
+~
+~
+0 0 16766
+D2
+~
+~
+4 16605 16760
+D3
+~
+~
+0 0 16752
+S
+#16760
+Halls of Justice~
+Passing through the doorway, you enter the halls of a courthouse.
+You've heard of this place.  This is supposed to be where the gods put
+mortals on trial at.  You shudder uncontrollably as you notice the long
+hallway heading to the courtroom.  To either side of the entry way are
+officers of justice.
+~
+0 532480 0
+D0
+~
+~
+4 0 16759
+D2
+~
+~
+0 0 16762
+S
+#16761
+Fields of Carnage~
+Passing through the door you enter a field of war???  Actually it looks
+more like a field of blood, carnage, and mayhem.  On a ridge, to the north
+you can make out a cabin with numerous troops surrounding it.  Well you've
+strolled with most of the gods so far do you continue?
+~
+0 532480 0
+D0
+~
+~
+0 0 16763
+D2
+~
+~
+4 16605 16759
+S
+#16762
+Hallway of Justice~
+Continuing your walk along the paths of justice, you finally come upon
+the doors to the courtroom.  Peering around yourself, you notice that
+somehow your next in line???  What the heck?  How?  As you turn to ask an
+officer what this is all about your name is spoken and your asked to enter
+the courtroom for judgement.
+~
+0 0 0
+D0
+~
+~
+0 0 16760
+D1
+~
+~
+4 0 16764
+S
+#16763
+Carnage of War~
+Making your way through the throngs of berserks (looks like a scene from
+BraveHeart) you can barely believe the carnage and havoc that they can
+cause.  You've made your way to the commanders building.  Well do you open
+it or do you casually whistle a tune and leave the field of battle?
+~
+0 532480 0
+D2
+~
+~
+0 0 16761
+D3
+~
+~
+4 0 16765
+S
+#16764
+Scales of Justice~
+Entering the swinging doors, you set foot in a large courtroom.
+Scanning the area you see people sitting in the seats, watching the trails
+as they go.  A jury consisting of Kyrin, Kremlin, Dinchak, Torak, and Ender.
+Shuddering at that sight, you turn your gaze to the Judge.  It can't be....
+Its ...  Its Tyr.  Okay I am definitely in trouble now!!!!
+~
+0 532480 0
+D3
+~
+~
+4 16605 16762
+S
+#16765
+Spoils of Battle~
+After pushing your way through the carnage that was a war, you stumble
+upon a room full of still frothing soldiers.  Standing in the midst, is a
+human, whose chest is as big around as a barrel, shoulders that could carry
+the world, and arms that could break bahamut in two.  He turns his glowing
+eyes upon you.  For some reason you felt briefly warm.
+~
+0 532484 0
+D1
+~
+~
+4 16605 16763
+S
+#16766
+Hall of the Twelve~
+The white tiled floor and shining interior is a dead giveaway that
+beings of power reside here.  The hall that your in extends a mere 100 feet.
+To either side of the hallway, there are doors evenly spaced.  A total of 13
+in all, that is if you count the doorway to the master of gods himself.  The
+north door is marked with a hammer and shield.  The door to the south is
+marked with a skull surrounded in flames.
+~
+0 532484 0
+D0
+~
+~
+4 16605 16767
+D2
+~
+~
+4 16605 16768
+D3
+~
+~
+0 0 16759
+S
+#16767
+Halls of the Castle~
+Stepping through the door, you are flung into the midst of a mad battle.
+Gazing around you can hardly make out who the defenders or attackers are, as
+a blade comes flying for your head.  Ducking under the blade, you can make
+out the insignia of Cyric.  Twould be his lot that would be attacking these
+helpless people.  Do you go to there aid or turn and continue your
+discussions with the other gods?
+~
+0 532484 0
+D0
+~
+~
+0 0 16769
+D2
+~
+~
+4 16605 16766
+S
+#16768
+Halls of Decay~
+Passing through the door, you are flung head first into a pile of gore.
+As a matter of fact everywhere you turn you see mounds of human flesh,
+carcasses of dead animals, and the blood of thousands spilled upon the
+floor.  Basking in the glories of such, you see half-human/half?  Something
+wallowing and eating the piles.  Those can be no other then Bhaal's
+faithful.  Gross!!!
+~
+0 532484 0
+D0
+~
+~
+4 16605 16766
+D2
+~
+~
+0 0 16770
+S
+#16769
+Before the Last Defense~
+Aftering forcing your way through the faithful defenders, you finally
+stand before the door to the sanctuary.  This is the last stand of all the
+faithfull who have defended this castle.  Before the door, standing proud
+and tall are several castle guards waiting to defend to the bitter end.
+~
+0 532484 0
+D2
+~
+~
+0 0 16767
+D3
+~
+~
+4 16605 16771
+S
+#16770
+Halls of Decay~
+Managing to keep yer dinner down, you proceed deeper in to the chamber
+of disembowling.  Again your sense are put on overload as you see people
+being burned alive, skinned, crucified, and all sorts of other really nasty
+things that you only see in movies.  Huh?  What is that?  A door?  Your
+saved maybe it will be a respite from all this grotesque horror.
+~
+0 532484 0
+D0
+~
+~
+0 0 16768
+D3
+~
+~
+4 16605 16772
+S
+#16771
+Ever Vigilant~
+After pushing the furniture out of the way, you see numerous women and
+children huddled in a corner.  They seem to be looking at you in total fear.
+Standing infront of the group, is a man in platemail, shining with an aura
+that could only denote a god.  Could this be Torm the Defender?
+~
+0 532484 0
+D1
+~
+~
+4 16605 16769
+S
+#16772
+Realms of Misery~
+Opening the door your relieved to see that it is a normal study.  Wooo...
+That was the most disgusting....  When the door closed, the illusion
+vanished.  You are standing knee deep in entrails, blood, and corpses.
+Hovering on a throne above it all is none other then the God of death...
+Bhaal!!!
+~
+0 532480 0
+D1
+~
+~
+4 16605 16770
+S
+#16773
+To Ao's Palace~
+Well after having your bouts of tea and crumpettes with the gods, you
+decide that it is time to meet the man himself, AO.  The supremity that is
+the boss of all the gods.
+~
+0 532484 0
+D1
+~
+~
+0 0 16774
+S
+#16774
+Entrance to Space and Time~
+Standing before the home of the father of all gods is very oppressing.
+As you stare at the entrance, you see flashes of light and movement of air.
+It is as though the entry way is alive.  Do you continue or go back to an
+onslot of ticked off gods?
+~
+0 532484 0
+D1
+~
+~
+0 0 16775
+D3
+~
+~
+0 0 16773
+S
+#16775
+The Sacred Halls~
+Upon entering your senses are put on a euphoric ride.  You feel as if
+you were just turned inside out and back again.  You now stand inside a hall
+extending to your left and right as far as the eye can see.  A door of Onyx
+stands infront of you.  Looking up all you see is the Cosmos???  You start
+to panick, but realize that some divine force is keeping you firmly planted.
+~
+0 0 0
+D0
+~
+~
+0 0 16777
+D1
+~
+~
+4 0 16776
+D2
+~
+~
+0 0 16778
+D3
+~
+~
+0 0 16774
+S
+#16776
+Mickey D's of the Gods~
+Steppin' inside, you see that this room?  No its a giant banquet hall set
+up for the Gods.  Every food imaginable is laid out before you.  At the end
+of a hall is a cafeteria clerk waiting to ring up your purchases.
+~
+0 533504 0
+D3
+~
+~
+4 0 16775
+S
+#16777
+The Sacred Halls~
+~
+0 0 0
+D0
+~
+~
+0 0 16780
+D1
+~
+~
+4 0 16781
+D2
+~
+~
+0 0 16775
+S
+#16778
+~
+~
+0 532480 0
+D0
+~
+~
+0 0 16775
+D1
+~
+~
+4 0 16782
+D2
+~
+~
+0 0 16779
+S
+#16779
+Pathways of the Galaxy~
+~
+0 532480 0
+D0
+~
+~
+0 0 16778
+D1
+~
+~
+3 0 16784
+S
+#16780
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16783
+D2
+~
+~
+0 0 16777
+S
+#16781
+BloomingDales of the Gods~
+Stepping through the door, your first sight is of nothing put clothes
+and armor of all types.  From completely see through robes, to the turban,
+and then to the platemail chasity Belt.  They have it all here.  To do your
+will is a man standing about 8' at the shoulder, scales down the sides of
+his neck, kinda olive tan skin, black eyes and hair.  He introduces himself
+as Garak.
+~
+0 533504 0
+D3
+~
+~
+4 0 16777
+S
+#16782
+Field n' Stream of the Gods~
+Is that the call of nature you hear stepping through the door?  Why yes
+it is!  You can hardly believe the fact that your in a store at all.
+~
+0 599040 0
+D3
+~
+~
+4 0 16778
+S
+#16783
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16786
+D3
+~
+~
+0 0 16780
+S
+#16784
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16785
+D3
+~
+~
+3 0 16779
+S
+#16785
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16787
+D3
+~
+~
+0 0 16784
+S
+#16786
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16788
+D3
+~
+~
+0 0 16783
+S
+#16787
+~
+~
+0 0 0
+D1
+~
+~
+0 0 16790
+D2
+~
+~
+0 0 16785
+S
+#16788
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16786
+D1
+~
+~
+0 0 16789
+S
+#16789
+~
+~
+0 0 0
+D2
+~
+~
+0 0 16791
+D3
+~
+~
+0 0 16788
+S
+#16790
+~
+~
+0 0 0
+D0
+~
+~
+0 0 16791
+D3
+~
+~
+0 0 16787
+S
+#16791
+Standing Before the Throne Room~
+After overcoming your various trials and tribulations, you finally
+arrive at the doors to the master creators room.  You can feel the
+excitement rising up inside.  But you also have fear at the unexpected.
+What if the creator doesn't want visitors?  Will he vaporize you?  Just a
+few things to ponder.
+~
+0 532480 0
+D0
+~
+~
+0 0 16789
+D1
+~
+~
+0 0 16792
+D2
+~
+~
+0 0 16790
+S
+#16792
+Realm of the Creator~
+Gathering your resolve you have entered the chamber of the God of gods.
+Staring in disbelief you see a hot tub in one corner, a tanner in the other,
+a desk with a P3 Gateway computer, a life time supply of jolt, and a ....  A
+scrawny looking man with glasses typing away at the machine???  Thinking
+back on everything that you've ever heard, you can barely believe that this
+is the God of all gods.  Wait, now that you think about it...  He closely
+resembles.....  UGH!!!  Its DARION!!!
+~
+0 532480 0
+D3
+~
+~
+0 0 16791
+S
+#0
+
+
+
+#SPECIALS
+M 16600 spec_cast_adept
+M 16606 spec_cast_mage
+M 16607 spec_breath_any
+M 16609 spec_cast_mage
+M 16622 spec_nasty
+M 16624 spec_nasty
+M 16626 spec_breath_lightning
+M 16645 spec_guard
+M 16658 spec_guard
+M 16669 spec_breath_any
+M 16703 spec_nasty
+M 16707 spec_breath_frost
+M 16708 spec_breath_gas
+M 16709 spec_poison
+M 16710 spec_nasty
+M 16711 spec_breath_any
+M 16712 spec_breath_any
+M 16713 spec_nasty
+M 16714 spec_nasty
+M 16715 spec_breath_any
+M 16716 spec_breath_gas
+M 16717 spec_nasty
+M 16718 spec_breath_frost
+M 16719 spec_cast_mage
+M 16721 spec_breath_acid
+M 16722 spec_breath_gas
+M 16723 spec_breath_any
+M 16724 spec_nasty
+M 16725 spec_breath_any
+M 16726 spec_cast_mage
+M 16735 spec_nasty
+M 16736 spec_cast_mage
+M 16737 spec_breath_acid
+M 16742 spec_nasty
+M 16743 spec_cast_cleric
+M 16744 spec_thief
+M 16750 spec_cast_mage
+M 16751 spec_cast_mage
+M 16757 spec_nasty
+M 16762 spec_nasty
+M 16764 spec_cast_cleric
+M 16765 spec_nasty
+M 16771 spec_cast_cleric
+M 16772 spec_cast_mage
+M 16773 spec_executioner
+S
+
+
+
+#RESETS
+D 0 16601 2 2
+D 0 16602 0 2
+D 0 16604 3 2
+D 0 16606 2 2
+D 0 16607 0 2
+D 0 16607 2 1
+D 0 16608 0 1
+D 0 16608 1 1
+D 0 16608 3 1
+D 0 16609 1 1
+D 0 16610 3 1
+D 0 16625 4 2
+D 0 16713 1 2
+D 0 16724 0 1
+D 0 16725 2 1
+D 0 16730 1 2
+D 0 16731 0 2
+D 0 16731 2 2
+D 0 16731 3 2
+D 0 16732 0 2
+D 0 16733 2 2
+D 0 16734 3 2
+D 0 16735 3 2
+D 0 16736 1 2
+D 0 16737 1 2
+D 0 16738 0 2
+D 0 16738 2 2
+D 0 16739 2 2
+D 0 16740 0 2
+D 0 16741 1 2
+D 0 16742 1 2
+D 0 16743 3 2
+D 0 16744 3 2
+D 0 16745 0 2
+D 0 16745 2 2
+D 0 16746 0 2
+D 0 16747 2 2
+D 0 16748 3 2
+D 0 16749 3 2
+D 0 16750 1 2
+D 0 16751 1 2
+D 0 16752 0 2
+D 0 16752 2 2
+D 0 16753 2 2
+D 0 16754 0 2
+D 0 16755 1 2
+D 0 16757 3 2
+D 0 16759 0 2
+D 0 16759 2 2
+D 0 16760 0 2
+D 0 16761 2 2
+D 0 16762 1 2
+D 0 16763 3 2
+D 0 16764 3 2
+D 0 16765 1 2
+D 0 16766 0 2
+D 0 16766 2 2
+D 0 16767 2 2
+D 0 16768 0 2
+D 0 16769 3 2
+D 0 16770 3 2
+D 0 16771 1 2
+D 0 16772 1 2
+D 0 16775 1 2
+D 0 16776 3 2
+D 0 16777 1 2
+D 0 16778 1 2
+D 0 16779 1 1
+D 0 16781 3 2
+D 0 16782 3 2
+D 0 16784 3 1
+O 0 16787 0 16602
+O 0 16627 0 16602
+O 0 16627 0 16602
+O 0 16627 0 16602
+M 0 16600 1 16602 1
+O 0 16666 0 16603
+M 0 16602 1 16603 1
+G 0 16634 0
+G 0 16636 0
+G 0 16633 0
+M 0 16606 1 16606 1
+E 0 16635 0 16
+E 0 16625 0 17
+E 0 16657 0 5
+G 0 16675 0
+M 0 16607 1 16607 1
+G 0 16607 0
+M 0 16622 3 16607 3
+M 0 16609 1 16608 1
+E 0 16611 0 6
+M 0 16622 1 16611 1
+M 0 16622 1 16621 1
+E 0 16621 0 8
+M 0 16622 1 16622 1
+E 0 16622 0 16
+M 0 16626 1 16626 1
+G 0 16626 0
+M 0 16631 1 16631 1
+M 0 16635 1 16635 1
+G 0 16639 0
+M 0 16658 2 16646 2
+M 0 16657 2 16646 2
+G 0 16646 0
+M 0 16649 1 16649 1
+G 0 16686 0
+G 0 16685 0
+G 0 16684 0
+M 0 16650 1 16650 1
+G 0 16679 0
+G 0 16678 0
+G 0 16677 0
+G 0 16676 0
+M 0 16653 1 16653 1
+G 0 16690 0
+G 0 16689 0
+G 0 16688 0
+G 0 16687 0
+M 0 16656 1 16654 1
+G 0 16682 0
+G 0 16683 0
+G 0 16681 0
+G 0 16680 0
+M 0 16658 4 16657 4
+M 0 16657 4 16658 4
+M 0 16694 2 16667 2
+M 0 16694 2 16668 2
+M 0 16694 2 16670 2
+M 0 16694 2 16672 2
+G 0 16602 0
+M 0 16694 2 16674 2
+M 0 16694 2 16676 2
+M 0 16694 2 16677 2
+M 0 16694 2 16678 2
+M 0 16694 2 16681 2
+M 0 16694 2 16682 2
+M 0 16694 2 16684 2
+M 0 16694 2 16686 2
+M 0 16694 2 16687 2
+M 0 16694 2 16689 2
+M 0 16694 2 16690 2
+M 0 16694 2 16692 2
+M 0 16694 2 16694 2
+O 0 16666 0 16696
+O 0 16668 0 16696
+P 0 16667 4 16668 4
+M 0 16703 1 16703 1
+E 0 16707 0 5
+M 0 16707 2 16707 2
+M 0 16708 2 16708 2
+E 0 16708 0 8
+M 0 16709 1 16709 1
+E 0 16723 0 16
+M 0 16710 2 16710 2
+E 0 16710 0 12
+M 0 16711 1 16711 1
+G 0 16711 0
+E 0 16796 0 2
+M 0 16712 1 16712 1
+E 0 16712 0 17
+E 0 16798 0 2
+E 0 16709 0 16
+M 0 16713 1 16713 1
+E 0 16799 0 16
+M 0 16714 1 16714 1
+M 0 16715 1 16715 1
+E 0 16715 0 17
+M 0 16716 1 16716 1
+M 0 16717 1 16717 1
+E 0 16717 0 16
+M 0 16725 1 16717 1
+E 0 16725 0 16
+M 0 16726 1 16717 1
+E 0 16726 0 16
+M 0 16718 1 16718 1
+G 0 16718 0
+M 0 16719 1 16719 1
+G 0 16719 0
+E 0 16797 0 16
+M 0 16601 1 16720 1
+G 0 16630 0
+G 0 16631 0
+G 0 16632 0
+M 0 16721 1 16721 1
+E 0 16794 0 0
+M 0 16722 1 16722 1
+M 0 16723 1 16723 1
+E 0 16795 0 2
+E 0 16791 0 17
+E 0 16792 0 15
+M 0 16724 1 16724 1
+E 0 16790 0 6
+G 0 16724 0
+M 0 16727 1 16725 1
+E 0 16728 0 6
+G 0 16727 0
+M 0 16669 1 16730 1
+E 0 16699 0 16
+E 0 16700 0 12
+G 0 16605 0
+M 0 16734 2 16732 2
+M 0 16735 2 16733 2
+M 0 16734 3 16734 3
+M 0 16735 3 16735 3
+M 0 16736 1 16736 1
+E 0 16751 0 16
+G 0 16752 0
+M 0 16734 6 16736 6
+M 0 16737 1 16737 1
+E 0 16739 0 6
+E 0 16740 0 16
+M 0 16735 6 16737 6
+M 0 16741 2 16739 2
+M 0 16742 2 16740 2
+M 0 16741 3 16741 3
+M 0 16743 1 16743 1
+E 0 16741 0 16
+E 0 16742 0 10
+M 0 16741 6 16743 6
+M 0 16744 1 16744 1
+E 0 16743 0 16
+E 0 16744 0 6
+M 0 16742 6 16744 6
+M 0 16746 2 16746 2
+M 0 16749 2 16747 2
+M 0 16746 3 16748 3
+M 0 16749 3 16749 3
+M 0 16750 1 16750 1
+E 0 16737 0 16
+E 0 16738 0 12
+M 0 16746 6 16750 6
+M 0 16751 1 16751 1
+E 0 16729 0 11
+E 0 16730 0 16
+M 0 16749 6 16751 6
+M 0 16755 2 16753 2
+M 0 16756 2 16754 2
+M 0 16756 2 16754 2
+M 0 16755 3 16755 3
+M 0 16756 3 16756 3
+M 0 16757 1 16757 1
+E 0 16733 0 16
+E 0 16734 0 20
+M 0 16755 6 16757 6
+M 0 16758 1 16758 1
+E 0 16747 0 16
+E 0 16748 0 17
+M 0 16756 6 16758 6
+M 0 16762 2 16760 2
+M 0 16761 3 16761 3
+M 0 16762 3 16762 3
+M 0 16761 4 16763 4
+M 0 16764 1 16764 1
+E 0 16731 0 16
+E 0 16732 0 1
+M 0 16762 6 16764 6
+M 0 16765 1 16765 1
+E 0 16736 0 16
+E 0 16735 0 12
+M 0 16761 6 16765 6
+M 0 16770 3 16768 3
+M 0 16769 4 16769 4
+M 0 16770 4 16770 4
+M 0 16771 1 16771 1
+E 0 16745 0 16
+E 0 16746 0 2
+M 0 16769 6 16771 6
+M 0 16772 1 16772 1
+E 0 16749 0 16
+E 0 16750 0 9
+S
+
+
+
+#SHOPS
+16601 0 0 0 0 0 100 100 0 24
+16602 0 0 0 0 0 100 100 0 24
+16649 0 0 0 0 0 150 50 9 22
+16650 0 0 0 0 0 250 75 0 24
+16653 0 0 0 0 0 100 100 1 24
+16656 0 0 0 0 0 200 75 1 23
+16776 0 0 0 0 0 200 50 1 23
+16781 0 0 0 0 0 200 50 1 23
+16782 0 0 0 0 0 200 50 1 23
+0
+
+
+
+#MOBPROGS
+#16600
+say Meet your maker you trespasser!
+murder $n
+~
+#16669
+mobprog greet_100
+say Welcome to the end.
+murder $n
+~
+#16703
+say Hmm, let me see.
+say Yes this seems to be the right amount.
+say Have a nice day!
+mob transfer $n 16709
+~
+#16715
+greet_prog 100-
+say I am here to pass judgement on all.
+say My judgement for thee is.....{RDEATH!!{x
+murder $n
+-
+~
+#16724
+greet_prog 100-
+say Welcome $n to your final resting place!
+-
+~
+#16735
+mobprog_greet 100
+say We shall protect our God with our lives! {RDIE{x!!
+murder $n
+-
+~
+#16773
+mobprog greet_100
+say None shall see my Master! Now {rDIE{x!!
+$n murder
+-
+~
+#0
+
+#$
+

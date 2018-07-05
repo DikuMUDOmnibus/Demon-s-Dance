@@ -1,0 +1,7900 @@
+#AREADATA
+Name Deathstalker~
+Builders Kenny~
+VNUMs 11000 11599
+Credits { 101 } Kenny   Deathstalker~
+Security 60
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 11000
+Name guard soldier imperial~
+Short An Imperial Soldier~
+Long An Imperial Soldier stands here waiting for the next attack
+~
+Description You see a well armored man standing here.  He is completely covered in
+full scale chainmail battle armor.  With him he carries a sword and a mean
+looking gun.  He seems particullary distressed right now.  You'd do best to
+keep away from him.  
+~
+Race human~
+Act_flags APT
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 375
+Hit_dice 2d10000+190000
+Mana_dice 100d2+200
+Dam_dice 200d4+500
+Dam_type punch
+Armor -100 -100 -100 -100
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln P
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 11001
+Name iron bitch emperess~
+Short The Iron Bitch~
+Long The Iron Bitch is sitting on her throne here
+~
+Description Here sits the grand emperess, also know as the iron bitch.  She sits atop
+a throne of a brilliant black stone and atop her head sits a diamond crown. 
+~
+Race human~
+Act_flags ABPT
+Aff 0
+Aff2 0
+Align -1000
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type thrust
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11002
+Name masked gladiator~
+Short The Masked Gladiator~
+Long The Masked Gladiator stands here
+~
+Description A man of slightly large purportions stands here.  He starts to take off a
+impressive looking helmet but your entrance shocks him and he drops his
+helmet back onto his head.  It seems you have managed to anger the greatest
+fighter in the world.  Why you would want to do this is beyond me but not it
+seems you shall have to defend yourself.  
+~
+Race human~
+Act_flags ABFPT
+Aff DFHc
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 600
+Hit_dice 3500d250+5000
+Mana_dice 200d3+600
+Dam_dice 500d12+650
+Dam_type slash
+Armor -200 -200 -200 -200
+Off 0
+Teach A
+Imm A
+Res EFG
+Vuln P
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 11003
+Name investigator razor~
+Short Investigator Razor~
+Long Investigator Razor stands here waiting for his next opponent
+~
+Description Before you stands a great burly man.  In his hand he carries a glowing sword
+that looks quite odd.  You imagine that its quite sharp and deadly.  
+~
+Race human~
+Act_flags ABPT
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 500
+Hit_dice 3500d250+5000
+Mana_dice 220d3+600
+Dam_dice 500d12+600
+Dam_type slash
+Armor 200 200 200 200
+Off 0
+Teach A
+Imm A
+Res GI
+Vuln FH
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 11004
+Name chameleon reptile alien creature lizard~
+Short a {rch{Dam{re{Dle{ro{Dn l{riz{Dar{rd{z~
+Long A giant chameleon lizard slinks along here
+~
+Description You see a very long very mean looking lizard.  Well maybe see isn't the
+right word.  It seems to blend in with its surroundings and you have a hard
+time tracking it.  
+~
+Race lizard~
+Act_flags ABP
+Aff DFHNOQV
+Aff2 0
+Align -300
+Group 0
+Level 100
+Hitroll 450
+Hit_dice 3200d200+4000
+Mana_dice 200d2+500
+Dam_dice 215d6+500
+Dam_type claw
+Armor 150 150 150 150
+Off 0
+Teach A
+Imm A
+Res HK
+Vuln FG
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGXc
+Parts ACDEFHKQVZ
+Size large
+Material unknown
+Fres L
+Fvul I
+EndMob
+
+#MOB
+Vnum 11005
+Name giant cactus plant~
+Short a {gG{Gi{gan{Gt {gC{Ga{gct{Gu{gs{x~
+Long A giant cactus is moving slowly towards you!
+~
+Description You see a rather small plant growing in the middle of the arena.  Upon
+close examination it would seem like the plant is moving; but, maybe thats
+just your immagination.  
+~
+Race plant~
+Act_flags ABP
+Aff DFHJV
+Aff2 0
+Align -300
+Group 0
+Level 100
+Hitroll 450
+Hit_dice 100d100+350000
+Mana_dice 200d2+500
+Dam_dice 215d6+500
+Dam_type sting
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGHMVXYc
+Parts ABCDEFGHIJKZ
+Size small
+Material unknown
+EndMob
+
+#MOB
+Vnum 11006
+Name auric skye~
+Short Auric Skye~
+Long Auric Skye, leader of clan Skye is here
+~
+Description Here stands Auric Skye.  He is one of the high memebers of the clan Skye.
+He could probably kill you in an instant.  
+~
+Race human~
+Act_flags ABFPT
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 550
+Hit_dice 3200d200+4000
+Mana_dice 200d2+500
+Dam_dice 200d7+400
+Dam_type magic
+Armor -175 -175 -175 -175
+Off 0
+Teach A
+Imm AP
+Res EHI
+Vuln GK
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11007
+Name short stocky man weaponsmith~
+Short A short stocky man~
+Long A short stocky man is here with some weapons.
+~
+Description You see your typicall blacksmith.  What else is there to say other than
+hes quite short and looks like he could bash your head in with one hit.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11008
+Name man short grocer~
+Short A grocer~
+Long A grocer is here
+~
+Description You see a mildly short man with an apron on.  He is standing at a cash
+register ringing people up with the food they have purchased.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11009
+Name campbell guard~
+Short Clan Campbell Guard~
+Long A Clan Campbell Guard.
+~
+Description Before you is a huge man.  Easily seven feet tall clothed in imperial
+regulation battle armor.  He looks as if he could crush you with his bare
+hands.  
+~
+Race human~
+Act_flags ABFPT
+Aff DFV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 350
+Hit_dice 3d10000+250000
+Mana_dice 200d2+400
+Dam_dice 200d5+500
+Dam_type slash
+Armor -110 -110 -110 -110
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 35000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 11010
+Name valentine drug dealer~
+Short the drug dealer~
+Long A shady looking man in a lab coat twiches and mutters to himself here.
+~
+Description Here stands lord valentines personal drug dealer.  He is known to carry
+every chemical known to man.  
+~
+Race human~
+Act_flags ABCGPST
+Aff BDFHNOV
+Aff2 0
+Align -500
+Group 0
+Level 100
+Hitroll 650
+Hit_dice 3200d250+2500
+Mana_dice 200d3+600
+Dam_dice 300d12+600
+Dam_type slap
+Armor -200 -200 -200 -200
+Off EJN
+Teach A
+Imm AKMNOP
+Res F
+Vuln EG
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11011
+Name campbell sentry robot~
+Short {RC{Ra{rm{wp{wb{re{Rl{Rl {WR{Wo{wb{Wo{Wt {rSentry{x~
+Long A {RC{Ra{rm{wp{wb{re{Rl{Rl {WR{Wo{wb{Wo{Wt {rSentry{x is here
+~
+Description Before you stands a giant robot approximately ten feet tall.  Its arms
+look like they could deal enough damage to kill you but on top of that it
+has two disruptors.  It towers over you as its eyes glow red at the sight of
+your intrusion.  
+~
+Race human~
+Act_flags AGPTY
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 5d10000+430000
+Mana_dice 200d2+750
+Dam_dice 200d6+540
+Dam_type blast
+Armor -140 -140 -140 -140
+Off 0
+Teach A
+Imm A
+Res EFG
+Vuln HJK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50000
+Form 0
+Parts ABCZ
+Size large
+Material unknown
+Ffor AHMV
+Fpar DEFGHIJK
+EndMob
+
+#MOB
+Vnum 11012
+Name finlay campbell leader~
+Short {GF{gi{Gn{gl{Ga{gy {BC{Wa{Bm{Wp{Bb{We{Bl{Wl{x~
+Long {GF{gi{Gn{gl{Ga{gy {BC{Wa{Bm{Wp{Bb{We{Bl{Wl{x is here
+~
+Description Before you is a slim yet muscular man.  He appears to be in his late 30's
+yet he is not at all unfit.  Throughtout the empire he was known as a pansy,
+that is until the rebellion came along.  Now he is known as one of the
+greatest swordfighters in the universe.  
+~
+Race human~
+Act_flags ABKPT
+Aff 0
+Aff2 0
+Align 500
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11013
+Name giant robot~
+Short {WG{Wi{wa{Wn{Wt {RR{Ro{rb{Ro{Rt{x~
+Long The {WG{Wi{wa{Wn{Wt {RR{Ro{rb{Ro{Rt{x
+~
+Description Its Gigantic.  The robot easilly takes up the entire wall.  Never before
+have you seen such a mamoth piece of machinary.  It could easily bring down
+this entire building if it felt the need to.  
+~
+Race human~
+Act_flags ABPST
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type beating
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts Z
+Size large
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 11014
+Name campbell esper man~
+Short Campbell Esper~
+Long The Campbell Esper is here
+~
+Description In front of you stands a man who seems utterly crazy.  His eyes dart
+about constantly always trying to search for some far away place or meaning.
+You wonder what he could be thinking.  
+~
+Race human~
+Act_flags ABKPR
+Aff CDFGHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 650
+Hit_dice 4000d350+3000
+Mana_dice 200d6+600
+Dam_dice 200d10+250
+Dam_type magic
+Armor -210 -210 -210 -210
+Off 0
+Teach J
+Imm AOP
+Res HIK
+Vuln FG
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11015
+Name giant man wampyr~
+Short {rW{Wa{wm{wp{Wy{rr{x~
+Long {RA {rW{Wa{wm{wp{Wy{rr{x is here
+~
+Description The man you see before you is a reanimated corpse.  Brought back to life
+with the super human blood of the wampyr.  They are stronger faster and
+better than any human.  They were discarded as the empires schock troops
+because they were too expensive to produce en mass.  
+~
+Race human~
+Act_flags ABOPRT
+Aff 0
+Aff2 0
+Align -200
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type crush
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 11016
+Name chef cook man campbell~
+Short A campbell cook~
+Long A campbell cook is here
+~
+Description Here stands a campbell cook.  He looks like he is in a great hurry and he
+probably does not want to be disturbed.  On top of his head is a grand chefs
+hat.  And in his hand he holds a giant wooden spoon.  
+~
+Race human~
+Act_flags AGPT
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 610
+Hit_dice 3000d250+2500
+Mana_dice 200d3+600
+Dam_dice 250d9+400
+Dam_type smash
+Armor -190 -190 -190 -190
+Off E
+Teach A
+Imm A
+Res HIK
+Vuln DEFG
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11017
+Name equipment guard man campbell~
+Short The Equipment Guard~
+Long The Equipment Guard is here
+~
+Description This is a very bored old man.  Apparently he has been demoted so many
+times that he ended up with the job of organizing broken training equipment.
+In his hand he holds a shattered blade which he stares at thoughtfully.  
+~
+Race human~
+Act_flags ABPT
+Aff DFHNO
+Aff2 0
+Align 200
+Group 0
+Level 100
+Hitroll 550
+Hit_dice 3000d250+4000
+Mana_dice 200d3+600
+Dam_dice 400d10+500
+Dam_type punch
+Armor -175 -175 -175 -175
+Off 0
+Teach A
+Imm A
+Res EGH
+Vuln FIK
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11018
+Name training robot~
+Short {YT{yraining {RR{robot{x~
+Long A {YT{yraining {RR{robot{x sits here
+~
+Description This is a state of the art combat simulation robot.  It is used to fine
+tune the weapon skills of anyone who uses it.  It stands about 5 feet tall
+and instead of an arm it has a deadly axe.  
+~
+Race human~
+Act_flags ABPT
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 625
+Hit_dice 3500d300+2000
+Mana_dice 200d3+600
+Dam_dice 400d13+600
+Dam_type cleave
+Armor 200 200 200 200
+Off 0
+Teach A
+Imm A
+Res EHK
+Vuln FJ
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 11019
+Name broken training robot~
+Short {WB{wroken {YT{yraining {RR{robot{x~
+Long A {WB{wroken {YT{yraining {RR{robot{x lies here
+~
+Description This robot is much like the ones before it except it is completely
+without legs.  The upper torso lies on the ground twitching.  An electrical
+cable appears where its axe arm should be.  
+~
+Race human~
+Act_flags ABPT
+Aff DFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 575
+Hit_dice 3500d300+2000
+Mana_dice 200d3+600
+Dam_dice 400d12+600
+Dam_type shock
+Armor 200 200 200 200
+Off 0
+Teach A
+Imm AP
+Res EH
+Vuln IKO
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11020
+Name elite clan campbell guard~
+Short Elite Campbell Guard~
+Long An elite campbell guard is on duty here
+~
+Description Before you stands the epitome of a warrior.  The elite campbell guard. 
+He could easily kill ten men by himself without breaking a sweat.  He is the
+perfect killing machine.  
+~
+Race human~
+Act_flags ABPT
+Aff DFHV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 400
+Hit_dice 5d10000+380000
+Mana_dice 200d2+500
+Dam_dice 200d5+520
+Dam_type punch
+Armor -120 -120 -120 120
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11021
+Name ghost warrior~
+Short {DG{wh{Wo{ws{Dt {rW{Ra{rr{Rr{ri{Ro{rr{x~
+Long A {DG{wh{Wo{ws{Dt {rW{Ra{rr{Rr{ri{Ro{rr{x stands here.
+~
+Description The aparition before you is one of the most horrific things you have ever
+seen.  It is a reanimated corpse of a human that has been left to rot and is
+only being held together by metal implants.  This is one of shubs most used
+schock troopers second only to the furys.  
+~
+Race human~
+Act_flags ABFPT
+Aff CFHNOV
+Aff2 0
+Align -500
+Group 0
+Level 100
+Hitroll 675
+Hit_dice 3500d350+5000
+Mana_dice 200d6+600
+Dam_dice 200d10+350
+Dam_type slash
+Armor -220 -220 -220 -220
+Off 0
+Teach A
+Imm AG
+Res DEF
+Vuln CJKOP
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11022
+Name test mob~
+Short test mob~
+Long Test mob
+~
+Description ~
+Race human~
+Act_flags ABT
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11023
+Name daniel wolf man~
+Short {gD{ba{gn{bi{ge{bl {DW{wo{Dl{wf{x~
+Long {gD{ba{gn{bi{ge{bl {DW{wo{Dl{wf{x stands here
+~
+Description Before you is a man of average height with nothing special about him. 
+However by recognizing him you realize that he is a weaponsmaster and has
+defeated every opponent he has faced.  
+~
+Race human~
+Act_flags ABPT
+Aff CFHNOV
+Aff2 0
+Align 0
+Group 0
+Level 100
+Hitroll 675
+Hit_dice 3500d350+5000
+Mana_dice 200d6+600
+Dam_dice 250d10+600
+Dam_type punch
+Armor -210 -210 -210 -210
+Off 0
+Teach A
+Imm A
+Res FIMNO
+Vuln HKP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11024
+Name machine man fury shub~
+Short {WS{Bh{Wu{Bb {RF{ru{rr{Ry{x~
+Long A {WS{Bh{Wu{Bb {RF{ru{rr{Ry{x is here
+~
+Description Before you is a metal killing machine.  It is a weapon made to perfection
+designed to eliminate all organic life on every planet.  They are rarely
+ever beaten in combat and they have never lost a war.  
+~
+Race human~
+Act_flags ABFKT
+Aff CDFGHNOV
+Aff2 0
+Align -500
+Group 0
+Level 100
+Hitroll 750
+Hit_dice 5000d300+5000
+Mana_dice 200d8+900
+Dam_dice 410d12+350
+Dam_type pierce
+Armor -250 -250 -250 -250
+Off EJ
+Teach F
+Imm AF
+Res EG
+Vuln CKOP
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11025
+Name valentine wolf man~
+Short {RV{Wa{Rl{We{Rn{Wt{Ri{Wn{Re {DW{wo{Dl{wf{x~
+Long {RV{Wa{Rl{We{Rn{Wt{Ri{Wn{Re {DW{wo{Dl{wf{x is here
+~
+Description Valentine Wolf is said to be one of the most powerful people in the
+empire.  He has taken every drug known to man which makes his mind
+unpredictable.  
+~
+Race human~
+Act_flags ABFPT
+Aff HNOV
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 350
+Hit_dice 3500d350+5000
+Mana_dice 200d6+600
+Dam_dice 300d10+600
+Dam_type punch
+Armor -200 -200 -200 -200
+Off 0
+Teach A
+Imm A
+Res EGMN
+Vuln HP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 200
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11026
+Name imperial elite guard~
+Short an Imperial Elite Guard~
+Long An Imperial Elite Guard stands at attention here.
+~
+Description The man in front of you is one of the most fearsome warriors you have
+ever layed eyes upon.  They have the best training the empire can offer and
+also the best technological enhancements available.  It is said that they
+can rip a man in half with their bare hands with ease because of their
+enhanced muscles.  
+~
+Race human~
+Act_flags ABFPT
+Aff CDFGHNOV
+Aff2 0
+Align -500
+Group 0
+Level 100
+Hitroll 550
+Hit_dice 2500d300+5000
+Mana_dice 1d1+1
+Dam_dice 200d12+250
+Dam_type punch
+Armor -150 -150 -150 -150
+Off E
+Teach A
+Imm APT
+Res HIK
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11027
+Name half man guard~
+Short {YH{wa{Yl{wf{x-{YM{wa{Yn{x~
+Long {YH{wa{Yl{wf{x-{YM{wa{Yn{x is here
+~
+Description The man in front of you appears completely normal except for the fact
+that the entire right side of his body is made up of energy.  This is the
+legendary Half-Man.  He is responsible for training investigators, the best
+fighters in the empire.  
+~
+Race human~
+Act_flags ABPT
+Aff 0
+Aff2 0
+Align -500
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type blast
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11028
+Name devil guard~
+Short {RD{We{rv{Wi{Rl {RG{Wu{ra{Wr{Rd{x~
+Long A {RD{We{rv{Wi{Rl {RG{Wu{ra{Wr{Rd{x stands here
+~
+Description Here is a man dressed to look like satan himself.  However, you can see
+that he is also a formidable fighter.  At his side is a wicked looking
+trident that looks like it could tear you apart.  
+~
+Race human~
+Act_flags ABPT
+Aff CDFGHNOV
+Aff2 0
+Align -200
+Group 0
+Level 100
+Hitroll 600
+Hit_dice 3000d350+5000
+Mana_dice 300d10+400
+Dam_dice 190d12+325
+Dam_type punch
+Armor -150 -150 -150 -150
+Off E
+Teach A
+Imm AH
+Res CEGJKP
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11029
+Name empress maid woman~
+Short Empress' Maid~
+Long The Empress' Maid is here
+~
+Description Here is the Empress' loyal maid stripped of her humanity to become the
+ultimate guard.  In her hands unbreakable claws have been placed and she has
+been augmented to have unlimited strength.  
+~
+Race human~
+Act_flags ABFPT
+Aff 0
+Aff2 0
+Align -500
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type claw
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11030
+Name dram man guard~
+Short {RD{rr{Ra{rm{x~
+Long {RD{rr{Ra{rm{x is here
+~
+Description This is the warrior prime of the empire.  He has never been beaten in a
+duel and he is known as the widow maker on all worlds.  Responsible for
+several genocides he is the epitome of malice.  
+~
+Race human~
+Act_flags ABKPT
+Aff CDFGHNOV
+Aff2 M
+Align -1000
+Group 0
+Level 100
+Hitroll 850
+Hit_dice 5050d320+5050
+Mana_dice 200d8+1200
+Dam_dice 415d12+380
+Dam_type punch
+Armor -300 -300 -300 -300
+Off EJ
+Teach A
+Imm ACOP
+Res EFG
+Vuln J
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11031
+Name iron bitch empress woman~
+Short The Empress~
+Long The Empress is here
+~
+Description This is the Empress.  Dressed in pure white battle armor she looks like a
+killing machine.  On her head rests the crown of the empire which is made
+entirely out of diamonds.  
+~
+Race human~
+Act_flags ABPT
+Aff 0
+Aff2 0
+Align -1000
+Group 0
+Level 100
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 1d1+1
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 11032
+Name grendel monster~
+Short {DG{Wr{Re{rn{Rd{We{Dl{x~
+Long A {DG{Wr{Re{rn{Rd{We{Dl{x alien is here
+~
+Description Before you is a large wolf like beast.  It stands over nine feet tall and
+towers over you glaring.  It appears to have armor infused with its skin all
+over its body.  Its teeth and claws also look razor sharp and able to tear
+you to pieces.  
+~
+Race hobgoblin~
+Act_flags ABFPT
+Aff CDFGHNOV
+Aff2 H
+Align -1000
+Group 0
+Level 100
+Hitroll 800
+Hit_dice 5000d300+5000
+Mana_dice 200d8+900
+Dam_dice 250d10+200
+Dam_type claw
+Armor -350 -350 -350 -350
+Off 0
+Teach A
+Imm AO
+Res EFG
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Faff1 J
+Fres LQ
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 11000
+Name anchor demonic~
+Short {RD{Re{rm{ro{wn{wi{Wc {WA{wn{wc{rh{ro{Rr {x~
+Orig_short {RD{Re{rm{ro{wn{wi{Wc {WA{wn{wc{rh{ro{Rr {x~
+Desc {RD{Re{rm{ro{wn{wi{Wc {WA{wn{wc{rh{ro{Rr {x is embedded in a skull here~
+Material unknown~
+Item_type weapon
+Extra ABCEGY
+Wear AN
+Values exotic 2000 20 none ABCDEGHJ
+Weapon_spell thermonuclear blast
+Level 110
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 500
+AffectObj
+18 200
+AffectObj
+19 200
+EndObj
+
+#OBJ
+Vnum 11001
+Name burning skull death~
+Short {RB{Ru{rr{wr{wn{ri{Rn{Rg {wS{Wk{wu{Wl{wl {Yo{yf {RD{Re{ra{rt{RH {x~
+Orig_short {RB{Ru{rr{wr{wn{ri{Rn{Rg {wS{Wk{wu{Wl{wl {Yo{yf {RD{Re{ra{rt{RH {x~
+Desc {RB{Ru{rr{wr{wn{ri{Rn{Rg {wS{Wk{wu{Wl{wl {Yo{yf {RD{Re{ra{rt{RH {x burns on here~
+Material unknown~
+Item_type light
+Extra ABY
+Wear AQ
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 200
+AffectObj
+19 200
+AffectObj
+13 500
+AffectObj
+12 500
+AffectObj
+14 500
+AffectObj
+17 500
+EndObj
+
+#OBJ
+Vnum 11002
+Name sword imperial~
+Short an Imperial Sword~
+Orig_short an Imperial Sword~
+Desc An Imperial Sword is here~
+Material iron~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 10 14 slash J
+Level 80
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+13 45
+AffectObj
+18 5
+AffectObj
+19 5
+EndObj
+
+#OBJ
+Vnum 11003
+Name helmet mask gladiator~
+Short The {RM{wasked {RG{wladiators {RM{wask~
+Orig_short The {RM{wasked {RG{wladiators {RM{wask~
+Desc The {RM{wasked {RG{wladiators {RM{wask~
+Material unknown~
+Item_type armor
+Extra EWY
+Wear AW
+Values ABCDFH ABCDFH ABCDFH ABCDFH 0
+Level 101
+Weight 5
+Cost 0
+Condition P
+AffectObj
+107 6
+AffectObj
+18 11
+AffectObj
+13 200
+AffectObj
+2 3
+AffectObj
+108 5
+EndObj
+
+#OBJ
+Vnum 11004
+Name shield force imperial~
+Short {BT{ch{ce {BI{cm{cp{ce{cr{ci{ca{cl {BF{co{cr{cc{ce {BS{ch{ci{ce{cl{cd {x~
+Orig_short {BT{ch{ce {BI{cm{cp{ce{cr{ci{ca{cl {BF{co{cr{cc{ce {BS{ch{ci{ce{cl{cd {x~
+Desc {BT{ch{ce {BI{cm{cp{ce{cr{ci{ca{cl {BF{co{cr{cc{ce {BS{ch{ci{ce{cl{cd {x is here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AJ
+Values 0 0 0 0 0
+Level 101
+Weight 2
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11005
+Name last wolf wolflings mane~
+Short {YT{yh{Ye {yL{Ya{ys{Yt {yW{Yo{yl{Yf{yl{Yi{yn{Yg{ys {YM{ya{Yn{ye {x~
+Orig_short {YT{yh{Ye {yL{Ya{ys{Yt {yW{Yo{yl{Yf{yl{Yi{yn{Yg{ys {YM{ya{Yn{ye {x~
+Desc {YT{yh{Ye {yL{Ya{ys{Yt {yW{Yo{yl{Yf{yl{Yi{yn{Yg{ys {YM{ya{Yn{ye {x is here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AC
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11006
+Name monofillament sword~
+Short a {YM{Wo{Yno{Wfi{Yl{Wl{Ya{Wm{Yen{Wt {YS{Ww{Yor{Wd{x~
+Orig_short a {YM{Wo{Yno{Wfi{Yl{Wl{Ya{Wm{Yen{Wt {YS{Ww{Yor{Wd{x~
+Desc A Monofillament Sword is here, glowing brightly~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 16 16 slash J
+Level 101
+Weight 10
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11007
+Name skull~
+Short {bA {RD{ri{Rs{re{Rm{rb{Ro{rd{Ri{re{Rd {WS{wk{Wu{wl{Wl {x~
+Orig_short {bA {RD{ri{Rs{re{Rm{rb{Ro{rd{Ri{re{Rd {WS{wk{Wu{wl{Wl {x~
+Desc {bA {RD{ri{Rs{re{Rm{rb{Ro{rd{Ri{re{Rd {WS{wk{Wu{wl{Wl {x is resting here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11008
+Name hand skull~
+Short {RA {WS{wk{We{wl{We{wt{Wo{wn{W's {YH{ya{Yn{yd {x~
+Orig_short {RA {WS{wk{We{wl{We{wt{Wo{wn{W's {YH{ya{Yn{yd {x~
+Desc {RA {WS{wk{We{wl{We{wt{Wo{wn{W's {YH{ya{Yn{yd {x is here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AH
+Values 0 0 0 0 0
+Level 110
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11009
+Name cookie energy food~
+Short an energy cookie~
+Orig_short an energy cookie~
+Desc A small round cookie with sparks of energy flying off it.~
+Material unknown~
+Item_type food
+Extra 0
+Wear A
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef BEF 0 0 0
+Level 1
+Weight 1
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 11010
+Name fresh baked bread~
+Short fresh Bread~
+Orig_short fresh Bread~
+Desc A piece of freshly baked bread~
+Material unknown~
+Item_type food
+Extra 0
+Wear A
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef CFG 0 0 0
+Level 1
+Weight 1
+Cost 1000
+Condition P
+EndObj
+
+#OBJ
+Vnum 11011
+Name small green treat~
+Short a small green treat~
+Orig_short a small green treat~
+Desc A small little candy wrapped in clear foil.~
+Material unknown~
+Item_type food
+Extra 0
+Wear A
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef A 0 A 0
+Level 1
+Weight 1
+Cost 30
+Condition P
+EndObj
+
+#OBJ
+Vnum 11012
+Name imperial armor~
+Short imperial Armor~
+Orig_short imperial Armor~
+Desc A suit of chainmail with the imperial symbol.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AD
+Values 0 0 0 0 0
+Level 101
+Weight 2
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11013
+Name campbell key~
+Short the Campbell key~
+Orig_short the Campbell key~
+Desc A key with the Campbell symbol is here~
+Material unknown~
+Item_type key
+Extra AB
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11014
+Name psychedelic mist~
+Short {OP{Os{Oy{Oc{Oh{Oe{Od{Oe{Ol{Oi{Oc {OM{Oi{Os{Ot{x~
+Orig_short {OP{Os{Oy{Oc{Oh{Oe{Od{Oe{Ol{Oi{Oc {OM{Oi{Os{Ot{x~
+Desc Some {Op{Os{Oy{Oc{Oh{Oe{Od{Oe{Ol{Oi{Oc {Om{Oi{Os{Ot{x floats here~
+Material titanium~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 15 18 warp AGHIJ
+Level 101
+Weight 2
+Cost 100000
+Condition P
+AffectObj
+103 -10
+AffectObj
+13 -50
+AffectObj
+115 15
+AffectObj
+14 -20
+AffectObj
+108 7
+AffectObj
+109 7
+AffectObj
+107 7
+EndObj
+
+#OBJ
+Vnum 11015
+Name disruptor gun~
+Short {GD{gi{Bs{br{bu{Bp{gt{Go{Gr{x~
+Orig_short {GD{gi{Bs{br{bu{Bp{gt{Go{Gr{x~
+Desc A hand held {GD{gi{Bs{br{bu{Bp{gt{Go{Gr{x is here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 11 14 blast EGK
+Level 101
+Weight 0
+Cost 500000
+Condition P
+AffectObj
+2 4
+AffectObj
+19 8
+AffectObj
+18 8
+EndObj
+
+#OBJ
+Vnum 11016
+Name rebellion rebellions aid~
+Short {rR{we{rb{we{rl{wl{ri{wo{rn{ws {BA{Wi{Bd{X~
+Orig_short {rR{we{rb{we{rl{wl{ri{wo{rn{ws {BA{Wi{Bd{X~
+Desc The {rR{we{rb{we{rl{wl{ri{wo{rn{ws {BA{Wi{Bd{X is here~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 0 0 beating F
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11017
+Name disruptor cannon~
+Short {BD{Bi{Gs{Gr{Bu{Bp{Gt{Go{Br {wC{Wa{wn{Wn{wo{Wn{x~
+Orig_short {BD{Bi{Gs{Gr{Bu{Bp{Gt{Go{Br {wC{Wa{wn{Wn{wo{Wn{x~
+Desc A {BD{Bi{Gs{Gr{Bu{Bp{Gt{Go{Br {wC{Wa{wn{Wn{wo{Wn{x is here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 0 0 blast F
+Level 101
+Weight 3
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11018
+Name morgana sword~
+Short {GM{Yo{Gr{Yg{Ga{Yn{Ga{x~
+Orig_short {GM{Yo{Gr{Yg{Ga{Yn{Ga{x~
+Desc {GM{Yo{Gr{Yg{Ga{Yn{Ga{x, a wicked looking scimitar lies here splattered with blood~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 18 16 slash EF
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+18 6
+AffectObj
+19 15
+EndObj
+
+#OBJ
+Vnum 11019
+Name esp blocker~
+Short {BE{Gs{Bp {RB{rl{Ro{rc{Rk{re{Rr{x~
+Orig_short {BE{Gs{Bp {RB{rl{Ro{rc{Rk{re{Rr{x~
+Desc An {BE{Gs{Bp {RB{rl{Ro{rc{Rk{re{Rr{x is here~
+Material unknown~
+Item_type armor
+Extra MWY
+Wear AE
+Values CFG CFG CFG CFG 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+12 400
+AffectObj
+109 -10
+AffectObj
+107 -10
+AffectObj
+108 -10
+AffectObj
+103 10
+AffectObj
+101 10
+AffectObj
+102 10
+AffectObj
+111 10
+AffectObj
+115 10
+EndObj
+
+#OBJ
+Vnum 11020
+Name sword swordsman gloves~
+Short {wS{Ww{wo{wr{Wd{ws{wm{Wa{wn{ws {YG{yl{Yo{yv{Ye{ys{x~
+Orig_short {wS{Ww{wo{wr{Wd{ws{wm{Wa{wn{ws {YG{yl{Yo{yv{Ye{ys{x~
+Desc A pair of {wS{Ww{wo{wr{Wd{ws{wm{Wa{wn{ws {YG{yl{Yo{yv{Ye{ys{x are here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AH
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11021
+Name wampyr blood pack packet~
+Short {rW{Wa{wm{wp{Wy{rr {RB{Rl{ro{ro{rd {GP{ga{wc{wk{ge{Gt{x~
+Orig_short {rW{Wa{wm{wp{Wy{rr {RB{Rl{ro{ro{rd {GP{ga{wc{wk{ge{Gt{x~
+Desc A {rW{Wa{wm{wp{Wy{rr {RB{Rl{ro{ro{rd {GP{ga{wc{wk{ge{Gt{x lies here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AC
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11022
+Name wampyr arm guards~
+Short {rW{Wa{wm{wp{Wy{rr {GA{Br{Gm {YG{yu{wa{wr{yd{Ys{x~
+Orig_short {rW{Wa{wm{wp{Wy{rr {GA{Br{Gm {YG{yu{wa{wr{yd{Ys{x~
+Desc A pair of {rW{Wa{wm{wp{Wy{rr {GA{Br{Gm {YG{yu{wa{wr{yd{Ys{x are here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AI
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11023
+Name giant chef chefs hat~
+Short {WA {YG{yi{Ya{yn{Yt {RC{rh{re{Rf {wH{Wa{wt{x~
+Orig_short {WA {YG{yi{Ya{yn{Yt {RC{rh{re{Rf {wH{Wa{wt{x~
+Desc {WA {YG{yi{Ya{yn{Yt {RC{rh{re{Rf {wH{Wa{wt{x lays here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AE
+Values BEF BEF BEF BEF 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+103 10
+AffectObj
+101 7
+AffectObj
+106 7
+AffectObj
+102 7
+AffectObj
+12 100
+EndObj
+
+#OBJ
+Vnum 11024
+Name spoon wood wooden light~
+Short A {Yw{yo{yo{yd{ye{yn {Bs{bp{bo{bo{bn{x~
+Orig_short A {Yw{yo{yo{yd{ye{yn {Bs{bp{bo{bo{bn{x~
+Desc A {Yw{yo{yo{yd{ye{yn {Bs{bp{bo{bo{bn{x sits here.~
+Material unknown~
+Item_type light
+Extra 0
+Wear AQ
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 500000
+Condition P
+AffectObj
+13 500
+AffectObj
+115 5
+AffectObj
+105 5
+AffectObj
+104 5
+EndObj
+
+#OBJ
+Vnum 11025
+Name shattered broken mace~
+Short {wS{wh{wa{wt{wt{we{wr{we{wd {rM{ba{rc{be{x~
+Orig_short {wS{wh{wa{wt{wt{we{wr{we{wd {rM{ba{rc{be{x~
+Desc A {wS{wh{wa{wt{wt{we{wr{we{wd {rM{ba{rc{be{x is broken here.~
+Material unknown~
+Item_type weapon
+Extra WY
+Wear AN
+Values mace 15 16 crush EK
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+1 5
+AffectObj
+19 4
+AffectObj
+18 7
+EndObj
+
+#OBJ
+Vnum 11026
+Name double edged battle axe~
+Short {rD{Ro{wu{wb{Rl{re-{RE{rd{wg{re{Rd {WB{wa{Wt{wt{Wl{we {YA{yx{Ye{x~
+Orig_short {rD{Ro{wu{wb{Rl{re-{RE{rd{wg{re{Rd {WB{wa{Wt{wt{Wl{we {YA{yx{Ye{x~
+Desc A {rD{Ro{wu{wb{Rl{re-{RE{rd{wg{re{Rd {WB{wa{Wt{wt{Wl{we {YA{yx{Ye{x is here.~
+Material unknown~
+Item_type weapon
+Extra WY
+Wear AN
+Values axe 17 18 cleave EFG
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+18 25
+AffectObj
+19 -9
+AffectObj
+1 6
+AffectObj
+13 250
+EndObj
+
+#OBJ
+Vnum 11027
+Name electric live wire~
+Short {BL{bi{Bv{be {YW{yi{Yr{ye{x~
+Orig_short {BL{bi{Bv{be {YW{yi{Yr{ye{x~
+Desc A {BL{bi{Bv{be {YW{yi{Yr{ye{x is here.~
+Material unknown~
+Item_type weapon
+Extra BWY
+Wear AN
+Values whip 16 17 shock EGJ
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+13 200
+AffectObj
+2 6
+AffectObj
+19 20
+AffectObj
+18 -10
+EndObj
+
+#OBJ
+Vnum 11028
+Name campbell elite sword~
+Short Elite Campbell Sword~
+Orig_short Elite Campbell Sword~
+Desc A fine blade lies here.~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 11 14 slice EJ
+Level 101
+Weight 1
+Cost 75000
+Condition P
+AffectObj
+19 8
+AffectObj
+18 8
+AffectObj
+13 75
+EndObj
+
+#OBJ
+Vnum 11029
+Name elite campbell armor~
+Short Elite Campbell Armor~
+Orig_short Elite Campbell Armor~
+Desc A sturdy piece of armor is here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AD
+Values BCEH BCEH BCEH BCEH 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+109 2
+AffectObj
+108 2
+AffectObj
+107 2
+AffectObj
+13 75
+EndObj
+
+#OBJ
+Vnum 11030
+Name shub leg plates~
+Short {WS{Bh{Wu{Bb {YL{ye{Yg {WP{wl{Da{Dt{we{Ws{x~
+Orig_short {WS{Bh{Wu{Bb {YL{ye{Yg {WP{wl{Da{Dt{we{Ws{x~
+Desc A pair of {WS{Bh{Wu{Bb {YL{ye{Yg {WP{wl{Da{Dt{we{Ws{x are here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AF
+Values BDEFGH BDEFGH BDEFGH BDEFGH 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+115 -7
+EndObj
+
+#OBJ
+Vnum 11031
+Name shub metallic binding~
+Short {WM{we{Dt{ba{bl{Dl{wi{Wc {GB{gi{Gn{gd{Gi{gn{Gg{gs{x~
+Orig_short {WM{we{Dt{ba{bl{Dl{wi{Wc {GB{gi{Gn{gd{Gi{gn{Gg{gs{x~
+Desc Some {WM{we{Dt{ba{bl{Dl{wi{Wc {GB{gi{Gn{gd{Gi{gn{Gg{gs{x lie here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AK
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11032
+Name test sword~
+Short test sword~
+Orig_short test sword~
+Desc Test sword~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 0 0 slash 0
+Level 110
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11033
+Name wolf brand sword~
+Short {DW{wo{Dl{wf'{Ds {BS{Ww{Bo{Wr{Bd{x~
+Orig_short {DW{wo{Dl{wf'{Ds {BS{Ww{Bo{Wr{Bd{x~
+Desc A {DW{wo{Dl{wf'{Ds {BS{Ww{Bo{Wr{Bd{x lies here~
+Material titanium~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 17 17 slash ADEGJ
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+19 20
+AffectObj
+18 15
+AffectObj
+13 150
+AffectObj
+115 -10
+AffectObj
+103 -10
+EndObj
+
+#OBJ
+Vnum 11034
+Name fury spiked knuckles~
+Short {RS{rp{wi{wk{re{Rd {RK{rn{wu{Wc{Wk{wl{re{Rs{x~
+Orig_short {RS{rp{wi{wk{re{Rd {RK{rn{wu{Wc{Wk{wl{re{Rs{x~
+Desc A pair of spiked knuckles are here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values dagger 15 17 pierce J
+Weapon_spell burning hands
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+13 100
+AffectObj
+1 10
+AffectObj
+19 8
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 11035
+Name fury chest plate~
+Short {RF{ru{rr{Ry {BC{wh{be{ws{Bt {RP{wl{ra{wt{Re{x~
+Orig_short {RF{ru{rr{Ry {BC{wh{be{ws{Bt {RP{wl{ra{wt{Re{x~
+Desc A {RF{ru{rr{Ry {BC{wh{be{ws{Bt {RP{wl{ra{wt{Re{x is here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AD
+Values DGH DGH DGH BDEFGH 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+115 -4
+AffectObj
+113 -4
+AffectObj
+111 -4
+AffectObj
+107 5
+AffectObj
+109 5
+AffectObj
+108 5
+AffectObj
+2 10
+AffectObj
+13 200
+EndObj
+
+#OBJ
+Vnum 11036
+Name valentine's spear~
+Short {RV{Wa{Rl{We{Rn{Wt{Ri{Wn{Re'{Ws {wS{rp{Re{ra{wr{x~
+Orig_short {RV{Wa{Rl{We{Rn{Wt{Ri{Wn{Re'{Ws {wS{rp{Re{ra{wr{x~
+Desc {RV{Wa{Rl{We{Rn{Wt{Ri{Wn{Re'{Ws {wS{rp{Re{ra{wr{x is here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values staff 20 34 lunge F
+Level 101
+Weight 1
+Cost 1000
+Condition P
+EndObj
+
+#OBJ
+Vnum 11037
+Name elite guards rapier sword~
+Short An {RE{rl{wi{rt{Re {BRa{bp{wi{be{Br{x~
+Orig_short An {RE{rl{wi{rt{Re {BRa{bp{wi{be{Br{x~
+Desc An {RE{rl{wi{rt{Re {BRa{bp{wi{be{Br{x is here.~
+Material unknown~
+Item_type weapon
+Extra SY
+Wear AN
+Values sword 15 13 lunge DEJ
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+13 75
+AffectObj
+19 7
+EndObj
+
+#OBJ
+Vnum 11038
+Name energy gauntlet~
+Short {YE{wn{Ye{wr{Yg{wy {BG{wa{Bu{wn{Bt{wl{Be{wt{x~
+Orig_short {YE{wn{Ye{wr{Yg{wy {BG{wa{Bu{wn{Bt{wl{Be{wt{x~
+Desc An {YE{wn{Ye{wr{Yg{wy {BG{wa{Bu{wn{Bt{wl{Be{wt{x is here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AH
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11039
+Name widowmaker katana~
+Short {x'{RW{Wi{rd{Wo{Rw{Wm{ra{Wk{Re{Wr{x' the katana~
+Orig_short {x'{RW{Wi{rd{Wo{Rw{Wm{ra{Wk{Re{Wr{x' the katana~
+Desc A deadly, ornate katana glints in the light.~
+Material unknown~
+Item_type weapon
+Extra BE
+Wear AN
+Values staff 0 0 pierce F
+Weapon_spell fireball
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11040
+Name devils cape~
+Short {RD{We{rv{Wi{Rl{W'{rs {rC{Da{rp{De{x~
+Orig_short {RD{We{rv{Wi{Rl{W'{rs {rC{Da{rp{De{x~
+Desc The {RD{We{rv{Wi{Rl{W'{rs {rC{Da{rp{De{x is here~
+Material unknown~
+Item_type armor
+Extra E
+Wear AC
+Values CFG ACDEFG BCEH CFG 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+111 4
+AffectObj
+113 4
+AffectObj
+115 4
+AffectObj
+108 -2
+AffectObj
+109 -2
+AffectObj
+107 -2
+EndObj
+
+#OBJ
+Vnum 11041
+Name widow maker sword~
+Short {RW{ri{Dd{ro{Rw {RM{ra{Dk{re{Rr{x~
+Orig_short {RW{ri{Dd{ro{Rw {RM{ra{Dk{re{Rr{x~
+Desc The {RW{ri{Dd{ro{Rw {RM{ra{Dk{re{Rr{x is here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 0 0 slash F
+Level 101
+Weight 2
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11042
+Name diamond crown helm~
+Short {wD{Wi{wa{Wm{wo{Wn{wd {WC{wr{Wo{ww{Wn{x~
+Orig_short {wD{Wi{wa{Wm{wo{Wn{wd {WC{wr{Wo{ww{Wn{x~
+Desc The {wD{Wi{wa{Wm{wo{Wn{wd {WC{wr{Wo{ww{Wn{x is here~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AE
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11043
+Name spiked gauntlet~
+Short {WS{wp{ri{rk{we{Wd {WG{wa{Ru{rn{rt{Rl{we{Wt{x~
+Orig_short {WS{wp{ri{rk{we{Wd {WG{wa{Ru{rn{rt{Rl{we{Wt{x~
+Desc A {WS{wp{ri{rk{we{Wd {WG{wa{Ru{rn{rt{Rl{we{Wt{x is here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 0 0 claw K
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11044
+Name spiked whip~
+Short {WS{wp{ri{rk{we{Wd {rW{wh{wi{rp{x~
+Orig_short {WS{wp{ri{rk{we{Wd {rW{wh{wi{rp{x~
+Desc A {WS{wp{ri{rk{we{Wd {rW{wh{wi{rp{x is here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 0 0 whip J
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11045
+Name grendel face mask armor~
+Short {DG{wr{Re{rn{Rd{we{Dl{Ds {DF{wa{Yc{ye {yM{Ya{ws{Dk{x~
+Orig_short {DG{wr{Re{rn{Rd{we{Dl{Ds {DF{wa{Yc{ye {yM{Ya{ws{Dk{x~
+Desc A {DG{wr{Re{rn{Rd{we{Dl{Ds {DF{wa{Yc{ye {yM{Ya{ws{Dk{x is on the ground here.~
+Material unknown~
+Item_type armor
+Extra WYZ
+Wear AW
+Values CDFI CDFI CDFI CDFI 0
+Level 101
+Weight 2
+Cost 0
+Condition P
+AffectObj
+107 2
+AffectObj
+109 2
+AffectObj
+108 2
+AffectObj
+111 10
+AffectObj
+19 24
+AffectObj
+18 19
+EndObj
+
+#OBJ
+Vnum 11050
+Name test bow~
+Short test bow~
+Orig_short test bow~
+Desc A test bow~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values bow 15 13 shock JK
+Level 10
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 11051
+Name test quiver~
+Short a leather quiver~
+Orig_short a leather quiver~
+Desc A leather quiver lays here~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 30 11052 50 0 0
+Level 1
+Weight 1
+Cost 10000
+Condition P
+EndObj
+
+#OBJ
+Vnum 11052
+Name long wooden arrow~
+Short a wooden arrow~
+Orig_short a wooden arrow~
+Desc A long wooden arrow lies here, forgotten.~
+Material unknown~
+Item_type arrow
+Extra V
+Wear AO
+Values 0 5 5 0 0
+Level 1
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 11055
+Name fortification castle fortify wall~
+Short a wooden fort~
+Orig_short a wooden fort~
+Desc A wooden fortification protects the people inside~
+Material unknown~
+Item_type fort
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11056
+Name skye shield~
+Short {CSk{Wye Shi{Celd{x~
+Orig_short {CSk{Wye Shi{Celd{x~
+Desc A clan Skye shield lies on the ground~
+Material diamond~
+Item_type armor
+Extra AWY
+Wear AJ
+Values EHI EHI EHI EHI 0
+Level 101
+Weight 10
+Cost 1000000
+Condition P
+AffectObj
+13 100
+AffectObj
+108 3
+AffectObj
+109 3
+AffectObj
+107 3
+ExtraDesc
+skye~
+This shield belongs to the Skye clan, and was owned by the famous arena
+fighter Auric Skye.  
+~
+EndObj
+
+#OBJ
+Vnum 11057
+Name chameleon-hide hide boots~
+Short {rch{Dam{re{Dle{ro{Dn{w-{Dh{rid{De {rb{Do{rot{Ds{x~
+Orig_short {rch{Dam{re{Dle{ro{Dn{w-{Dh{rid{De {rb{Do{rot{Ds{x~
+Desc A pair of chameleon-hide boots have been carelessly discarded here~
+Material unknown~
+Item_type armor
+Extra ABEFW
+Wear AG
+Values CFG CFG CFG CFG 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+14 100
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 11058
+Name crown of thorns~
+Short {gC{Gr{gow{Gn {Rof {GT{gh{Gor{gn{Gs{x~
+Orig_short {gC{Gr{gow{Gn {Rof {GT{gh{Gor{gn{Gs{x~
+Desc A crown of thorns lies on the ground, dripping slightly with blood~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AE
+Values 0 0 0 0 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 11100
+Name no name~
+Short (no short description)~
+Orig_short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 11599
+Name Enterance to Deathstalker~
+Desc BEWARE this is an extremely hard area and is not meant for ANYBODY under
+level 101.  Chances are that if you enter this area with less than three
+other heros with you, you will not do anything but die.  So if you value
+your life do not enter this area.  All Mobs in this world do massive amounts
+of damage so please leave if you are UNDER level **101**.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11000
+leaves north~
+Exit
+1
+~
+~
+0
+0
+16795
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11000
+Name Entrance to the Parade of the Endless-~
+Desc You stand at the entrance to a great city.  All along the sides you can
+see incredible buildings that touch the sky.  All around you are signs of
+wonderful technology and knowledge.  Through all this awe and wonder you
+somehow manage to make out the sounds of battle.  They seem to becoming from
+deep inside the city.  Perhaps you should go investigate.  
+~
+Room_flags 4
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+11001
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11599
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11001
+Name The Parade of the Endless~
+Desc You are continuing along this grand entryway into the city.  Along you
+are towers that dwarf even the tallest of normal buildings.  You wonder what
+could be in these giant behemoths of buildings.  You hear the sounds of
+fighting coming from deeper inside the city.  Perhaps you'd best go
+investigate the cause of all this comotion.  
+~
+Room_flags 4
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+11002
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11000
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11024
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11002
+Name The Parade of the Endless~
+Desc You are still walking along this grand street through a city so
+magnificent it mesmerizes you.  Behind you, you can see the grand towers
+that dwarf all other buildings.  The sounds of battle come nearer still and
+you can see quite a few people along the rodes.  However, these people are
+all but calm and appear to be trying to run out of the city.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+11003
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11001
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11003
+Name Entrance to the Arena Square~
+Desc The street widens out at this point and before you is a giant town
+square.  In the center of this square you can see a gigantic colosseum.  All
+around you are the sounds of fighting.  You can see three main forces
+fighting.  One is the famous Imperial Army.  Another is the Emperess'
+Imperial Guard.  The last appears to be a mob of rebels.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+11004
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11022
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11002
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11015
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11004
+Name Before the Grand Arena~
+Desc You stand before the grand arena.  This is where the greatest fighters
+come to test their strength against all challengers.  Very few gladiators
+have ever survived for very long in this blood thirsty sport.  However, one
+man continues to amaze everybody.  He has never been defeated and is praised
+as the greatest fighter ever.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+2
+~
+~
+0
+0
+11003
+leaves south~
+Exit
+5
+~
+~
+0
+0
+11005
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11005
+Name Underneath the Grand Arena~
+Desc You appear to be underneath the greatest of all arenas.  Here is where
+the more know fighters have private rooms for rest and medical attention. 
+Several fighters have maintained a considerable winning streak but no
+fighter has yet to match the impressive record of the Masked Gladiator. 
+Supposedly there is a fight going on right now with an even greater fighter
+but who could think that possible.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11006
+leaves north~
+Exit
+4
+~
+~
+0
+0
+11004
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11006
+Name The hallway under the Grand Arena~
+Desc Down this hallway are many doors.  Each one leading to a well know
+fighters personal room.  They often do not like to be disturbed however and
+it would be wise to stay well away from some of the more dangerous ones. 
+Every fighter that has earned a room in this hall has proven his worth in
+strength, speed, and agility.  Are you ready to face up to their wrath?  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11009
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11008
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11005
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11007
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11007
+Name The Room of the Masked Gladiator~
+Desc You are in the room of the famous masked gladiator.  Little is know about
+this fighter because of his concealed identity.  When you look closer at the
+room you notice many famous classical paintings and sculptures.  You wonder
+how a gladiator can pay for this.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11006
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11008
+Name A Grand Fighters Room~
+Desc You are in the room of a great fighter.  Who it is no one can tell for
+sure.  Only one thing is know, and that is that this fighter has managed to
+surpass everyone who has gotten in his way so far.  He doesn't appear to be
+in right now but i wouldn't want to be the one he caught snooping around in
+his private room.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+11006
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11009
+Name Under the Grand Arena~
+Desc It seems that you have wandered into a strange place.  Above you are
+several grates and through these you can see the brilliant sun shinning. 
+You must be under the actuall sands of the arena.  There must be a way up
+there you think to yourself and then maybe you could test your luck against
+one of the mighty fighters.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11006
+leaves south~
+Exit
+4
+~
+~
+0
+0
+11010
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11010
+Name The Brilliant Sands of the Grand Arena~
+Desc You made it.  Before you is a mass of people all standing chearing for
+someone or something on the sands.  The sheer maginitude of the stands is
+amazing.  You can scarcely believe that something like this was acutally
+built by the human race.  You can hear the shuffling of feet near by and it
+begs investigation.  
+~
+Room_flags 4
+Sector_type 10
+Exit
+0
+~
+~
+0
+0
+11011
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11012
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11013
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11014
+leaves west~
+Exit
+5
+~
+~
+0
+0
+11009
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11011
+Name The Northern Sector of the Sands~
+Desc From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was time.  
+~
+Room_flags 0
+Sector_type 10
+Exit
+2
+~
+~
+0
+0
+11010
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11012
+Name The Eastern Sector of the Sands~
+Desc From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was truly time.  
+~
+Room_flags 0
+Sector_type 10
+Exit
+3
+~
+~
+0
+0
+11010
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11013
+Name The Southern Sector of the Sands~
+Desc From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was truly time.  
+~
+Room_flags 0
+Sector_type 10
+Exit
+0
+~
+~
+0
+0
+11010
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11014
+Name The Western Sector of the Sands~
+Desc From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was truly time.  
+~
+Room_flags 0
+Sector_type 10
+Exit
+1
+~
+~
+0
+0
+11010
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11015
+Name The South West Corner of the Arena Square~
+Desc You are in the southwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+11017
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11003
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11016
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11023
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11016
+Name The Weaponsmith~
+Desc You have wandered into a small cozy shop.  All around you are various
+weapons ranging from small swords to great axes.  Anyone of these fine
+weapons could be yours, for a price.  Although the Golgotha weaponsmiths'
+are known for their quality, they are also known for their high prices and
+conning abilities.  So watch your pocket while your in here.  
+~
+Room_flags 263168
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11015
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11017
+Name The West Side of the Arena Square~
+Desc You are in the southwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11018
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11015
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11018
+Name The North Western Corner of the Arena Square~
+Desc You are in the northwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11019
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11017
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11019
+Name The Northern Side of the Arena Square~
+Desc You are in the northwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11147
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11020
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11018
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11020
+Name The North Eastern Corner of the Arena Square~
+Desc You are in the northwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11021
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11019
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11021
+Name The Eastern Side of the Arena Square~
+Desc You are on the eastern side of the arena square.  Shops are on all sides
+of you ranging from a grocery store to a weapons smith.  It is said that
+everything you could want, you can buy in this square.  So take your time
+and look around.  Who knows you actually might find something worth buying. 
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11020
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11022
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11022
+Name The South Eastern Corner of the Arena Square~
+Desc You are in the southeastern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11021
+leaves north~
+Exit
+3
+~
+~
+0
+0
+11003
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11023
+Name The Arena Grocery Market~
+Desc You have just entered the grocery market of the arena.  All around you,
+you can see hundreds of items lining the walls.  It would seem that this
+shop carries every edible thing in the world.  You see some people milling
+about and there is a line waiting at the cash register.  
+~
+Room_flags 263168
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11015
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11024
+Name A side street leading twoards the towers~
+Desc As you turn off of the main stree the commotion of the fighting seems to
+dim.  Before you are the grand towers of the clans.  The clans run anything
+that goes on in this part of town and they are the real force behind the
+empire.  It has been said that it is impossible to infiltrate their towers
+because of the amount of security that they have.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+11001
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11025
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11025
+Name A side street nearing the towers~
+Desc As you walk further down this street you can see that you are almost at
+the towers.  Their size is immense and they dwarf everything within miles. 
+They seem to touch they clouds as you lose sight of them in the sky.  Not
+many people walk down this street as it often leads to suffering and death. 
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+0
+11024
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11026
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11026
+Name Between the first of the towers~
+Desc You are now in between the first two magnificent towers.  Huge doorways
+lead into the depths of them and there are several guards standing ready to
+fight.  There are no people walking along this street except you and it
+gives you a sense of dread.  Should you enter the towers or turn and run?  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+11027
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11025
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11116
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11027
+Name Before the Door of the Campbell Clan Tower~
+Desc You stand before the tower belonging to the Clan Campbell.  The doorway
+is inlaid with gold and silver and it is easily 30 feet tall.  Several
+guards are milling about here ever watchful.  This tower is said to house
+one of the greatest personal armies.  As You approach the door you sense
+that you are being watched by the door.  Upon closer examination you can see
+that there are many small cameras inlaid in the frame of the door.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+1
+0
+11028
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11026
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11028
+Name Inside Clan Campbell Tower~
+Desc As you step into the lobby of the tower you can finally see the magnitude
+of its size.  Above you the tower extendeds until it is lost from view.  The
+lobby itself is rather narrow but its length extends on for a considerable
+length.  Throughout this hall are guards and servants ready to attack at a
+moments notice.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11029
+leaves north~
+Exit
+2
+~
+~
+1
+0
+11027
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11029
+Name Inside Clan Campbell Tower~
+Desc As you continue along the hall you notice more and more guards.  At the
+end of the hall is a barracaded door with several people dressed in heavy
+armor.  However, getting to the door presents another problem.  Now that you
+have been noticed as an outisder the guards seem to be swarming twoards you
+with their swords drawn.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11030
+leaves north~
+Exit
+1
+~
+~
+1
+0
+11036
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11028
+leaves south~
+Exit
+3
+~
+~
+1
+0
+11034
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11030
+Name Inside Clan Campbell Tower~
+Desc It seems that there is no end to this hallway or the guards that inhabit
+it.  In the narrowing space you find it harder and harder to move through
+the press of bodies.  The door at the end of the hall is huge.  You can see
+now that almost no amount of force will be able to break it down.  You'll
+have to search for another way through it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11031
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11029
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11031
+Name Approaching the Door at the end of the Hall~
+Desc The hallway has now narrowed to only a few feet wide.  Along with the
+guards it is incredibly hard to progress further down the hallway.  Even if
+you did manage to break through the massive door would surely stop you.  It
+stands well over 10 feet tall and is made out of solid steel.  A makeshift
+baracade has been set up around it but it doesn't seem to be very effective.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11032
+leaves north~
+Exit
+1
+~
+~
+1
+0
+11038
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11030
+leaves south~
+Exit
+3
+~
+~
+1
+0
+11037
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11032
+Name In front of the door at the end of the hall~
+Desc You can see now that getting through this door will be no easy task.  The
+door must be at least three feet thick of solid steel.  That amount of
+defense would resist everything up to mass disruptor fire from a starship. 
+Aside from the door there is the problem of the heavy troopers guarding it. 
+They look much more formidable than they usual clan guards.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+4
+11013
+11033
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11031
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11033
+Name At The bottom of the Giant Stairway~
+Desc You stand before a gigantic stairway.  It stretches out above you until
+it is lost from sight.  It would take forever to climb and it looks very
+steep.  It is said that some towers have over a hundred floors whether that
+is true of this tower you are not sure.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+4
+11013
+11032
+leaves south~
+Exit
+4
+~
+~
+0
+0
+11039
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11034
+Name A side room in the Tower~
+Desc You have entered a side room.  Don't you feel special.  This is where
+some of the guards come to rest and so forth.  The noise doesn't seem as
+loud from here but maybe its just the room.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+11029
+leaves east~
+Exit
+4
+~
+~
+4
+0
+11035
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11035
+Name A secret room~
+Desc This is a secret compartment in one of the many rooms of Clan Campbells
+tower.  There seems to be a man standing here with a big trenchcoat on. 
+Maybe you should explore or talk to the funny man.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+5
+~
+~
+4
+0
+11034
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11036
+Name A side room in the Great Tower~
+Desc Here is a small side room in the great campbell tower.  An emergency
+defense robot sits here ready to be used at a moments notice.  There is
+almost nothing else in the room besides the robot.  Seems almost like a
+waste of space.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+1
+0
+11029
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11037
+Name A side room in the Campbell Tower~
+Desc Here is a small side room in the great campbell tower.  An emergency
+defense robot sits here ready to be used at a moments notice.  There is
+almost nothing else in the room besides the robot.  Seems almost like a
+waste of space.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+11031
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11038
+Name A side room in the Great Tower~
+Desc Here is a small side room in the great campbell tower.  An emergency
+defense robot sits here ready to be used at a moments notice.  There is
+almost nothing else in the room besides the robot.  Seems almost like a
+waste of space.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+1
+0
+11031
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11039
+Name Near the Bottom of the Great Stairway~
+Desc Well you've started on your journey up the gigantic staircase.  Looks
+like its gonna be a long boring journey until you reach the top.  On a floor
+list next to you, you can see that the first floor is the barracks the
+second is the kitchen and the third is the training grounds.  It says the
+rest have been closed due to the fighting.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11040
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11033
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11040
+Name Near the Bottom of the Great Stairway~
+Desc You can see that you are nearing the first floor.  It feels like you have
+already climbed several flights of stairs and your legs are beginning to
+burn.  Now that you have started on your journey it would be foolish not to
+finish it though.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11041
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11039
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11041
+Name Somewhere in the Great Stairway~
+Desc You made it to the first floor.  Good for you.  Only several more floors
+to go until you reach the top.  Which is still not visible from where you
+are.  This landing must lead off to the barracks which houses the troops of
+this tower.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11066
+leaves east~
+Exit
+4
+~
+~
+0
+0
+11042
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11040
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11042
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11043
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11041
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11043
+Name Somewhere in the Great Stairway~
+Desc You made it to the second floor, very good.  This is where they kitchen
+is and the hundreds of cooks are that work round the clock to provide food
+for everyone that resides in the tower.  You can hear hustling and bustling
+down the hall and smell wonderful smells coming from the door.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11089
+leaves east~
+Exit
+4
+~
+~
+0
+0
+11044
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11042
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11044
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11045
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11043
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11045
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11046
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11044
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11046
+Name Somewhere in the Great Stairway~
+Desc You made it to the third floor.  This is where all the training of the
+guards takes place.  Something tells you it won't be very exciting
+considering all of the guards are on the bottom floor protecting the tower. 
+This is the final floor that isn't closed as all of the upper floors contain
+business things and offices.  Looks like it will be a long journey to the
+top.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11100
+leaves east~
+Exit
+4
+~
+~
+0
+0
+11047
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11045
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11047
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11048
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11046
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11048
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11049
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11047
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11049
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11050
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11048
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11050
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11051
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11049
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11051
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11052
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11050
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11052
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11053
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11051
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11053
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11054
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11052
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11054
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11055
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11053
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11055
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11056
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11054
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11056
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11057
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11055
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11057
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11058
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11056
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11058
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11059
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11057
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11059
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11060
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11058
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11060
+Name Somewhere in the Great Stairway~
+Desc Your legs burn and you have no sight of the end of your journey but you
+feel it would be a waste if you stopped climbing now.  You have explored the
+bottom levels of the tower and all that awaits you is the final floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11061
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11059
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11061
+Name Near the top of the Great Stairway~
+Desc You can see the top its amazing.  The journey you thought would never end
+has almost been completed.  You can see the final level with no more stairs
+after it.  Its so close now you can almost taste victory.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11062
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11060
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11062
+Name Near the top of the Great Stairway~
+Desc Every step brings you one foot closer to your destination.  You can
+almost touch where you have to go.  At the end there is a landing which will
+take you to the top floor of the tower.  You can feel your joy rising as you
+near the end of your destination.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+11063
+leaves up~
+Exit
+5
+~
+~
+0
+0
+11061
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11063
+Name The top of the Great Stairway~
+Desc You finally made it.  After several minutes of intense climbing you have
+reached what appears to be the top of the stairway.  In front of you is
+another large door much like the one at the entrance to this tower.  The
+fighting down below cannot even be heard at this height.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11064
+leaves north~
+Exit
+5
+~
+~
+0
+0
+11062
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11064
+Name Entrance to the Great Hall~
+Desc As you pass through the giant door you step into a giant room.  The size
+is enormous and decorations are everywhere.  Along the walls you can see
+poster of the great campbell leaders of the past.  Right in front of you
+however is a great table easily taking up half of the room at the head is a
+sloitary figure.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11065
+leaves north~
+Exit
+2
+~
+~
+1
+0
+11063
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11065
+Name In front of Finlay Campbell's seat~
+Desc As you approach the giant table you notice that one seat is noticeably
+larger than the rest.  This is no doubt the great Finlay's seat.  As you
+approach he swivels in his chair to face you.  He doesn't seem happy to see
+you but he isn't hostile either.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11064
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11066
+Name The Second Floor of Clan Campbell Headquarters~
+Desc At this point the staircase has turned to allow room for a small standing
+space.  In front of this space is a door with the number 2 on it.  This must
+be the second floor.  Here is where all the guards sleep and train.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+11067
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11041
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11067
+Name Hallway of the Second Floor~
+Desc Before you stretches out another hallway much like the lobby but not as
+big.  Down the hall you can see several doors which probably lead off to the
+sleeping quarters of the guards.  At then end of the hall is a large robot
+taking up the entire wall.  It looks very mean and very hostile.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11068
+leaves east~
+Exit
+3
+~
+~
+1
+0
+11066
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11068
+Name The Hallway of the Second Floor~
+Desc As you continue down the hallway you can see more and more doors that
+span the entire length.  The hallway seems to be devoid of people but you
+can hear noises comming from the various rooms.  Each door is barraced with
+reinforced steel to prevent any mishaps.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11069
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11067
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11069
+Name In front of two doors on the Second Floor~
+Desc You stand in front of the first set of doors in the hall.  Upon closer
+inspection you can see that the doors would be almost impossible to break
+down.  The steel prevents anything from penetrating it, even a disruptor
+shot.  The door also looks mighty unpickable so it may be best not to try. 
+On the other side of the door you can hear voices of soldiers.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11070
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11082
+leaves east~
+Exit
+2
+~
+~
+1
+0
+11076
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11068
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11070
+Name A Barracks in the Clan Campbell Headquarters~
+Desc You stand at the entrance to one of the many barracks in clan campbell
+headquarters.  In front of you are long lines of beds each used to house a
+soldier.  You can see a few soldiers moving about here but it seems most of
+them have gone off to fight in the rebellion.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11071
+leaves north~
+Exit
+2
+~
+~
+1
+0
+11069
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11071
+Name In a Clan Campbell Barracks~
+Desc As you continue down the barracks hall the line of bunks seems to go on
+for ever.  Each is spaced only a few feet apart allowing the soldier little
+privacy.  Very few soldiers are here at the moment.  However, you can still
+see the occansional one wandering about.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11072
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11070
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11072
+Name In a Clan Campbell Barracks~
+Desc You are about midway now if the long hallway.  You wonder how a single
+family could afford to keep so many guards around.  The money probably comes
+from their illegal trade routes.  Every family in the empire is said to have
+several underground dealings which is why they ended up on top of the
+economy.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11073
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11071
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11073
+Name Nearing the end of a Clan Campbell Barracks~
+Desc Nearing the end of the room you notice the robot again.  It really does
+appear quite large.  Taking up the whole wall from top to bottom left to
+right its one mass of weaponry.  Chances are these robots are only used in
+the most extreme cases as getting them out of the room would require the
+destruction of a wall.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11074
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11072
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11074
+Name A few feet away from the end of the hall~
+Desc Only a few feet from you is the giant robot now.  All the bunks in the
+barracks have stopped by this point and it 's just you and the machine. 
+Looking back you now realize how hard it would be to run away from anything
+attacking you in the hall.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11075
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11073
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11075
+Name In front of the giant robot~
+Desc Well, you finally made it.  I hope your happy.  You get to test your
+fighting skills against the best of modern weaponry and technology.  All the
+bunks seem to have fallen a long way away from you now.  Looking closer at
+the robot you notice that it has several large guns mounted on its arms. 
+Best be careful.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11074
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11076
+Name A Barracks in the Clan Campbell Headquarters~
+Desc You stand at the entrance to one of the many barracks in clan campbell
+headquarters.  In front of you are long lines of beds each used to house a
+soldier.  You can see a few soldiers moving about here but it seems most of
+them have gone off to fight in the rebellion.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11069
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11077
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11077
+Name In a Clan Campbell Barracks~
+Desc As you continue down the barracks hall the line of bunks seems to go on
+for ever.  Each is spaced only a few feet apart allowing the soldier little
+privacy.  Very few soldiers are here at the moment.  However, you can still
+see the occansional one wandering about.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11076
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11078
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11078
+Name In a Clan Campbell Barracks~
+Desc You are about midway now if the long hallway.  You wonder how a single
+family could afford to keep so many guards around.  The money probably comes
+from their illegal trade routes.  Every family in the empire is said to have
+several underground dealings which is why they ended up on top of the
+economy.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11077
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11079
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11079
+Name Nearing the end of a Clan Campbell Barracks~
+Desc Upon approaching the end of the room you notice a lone figure standing at
+the end.  He doesn't appear deformed or unusual in any way.  Just a normal
+person.  You wonder how a single family could afford to keep so many guards
+around.  The money probably comes from their illegal trade routes.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11078
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11080
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11080
+Name A few feet away from the end of the hall~
+Desc In front of you now is the man that you had seen earlier.  He appears no
+different from any ordinary person.  However, he does seem a little nervous.
+Behind you the bunks seem to have stopped and the door looks rather far away
+now.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11079
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11081
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11081
+Name In front of the lone figure at the end of the hall~
+Desc In front of you stands the lone figure that you saw a while back.  He has
+the appearance of a normal man but his eyes are constantly darting in a
+state of paranoia.  The bunks seem eerily far behind you and you don't feel
+quite safe with this man.  He is probably the familys personal esper making
+escape almost impossible.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11080
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11082
+Name In a clan campbell hall~
+Desc You are approaching the end of the hall which ends in a solid concrete
+wall.  It seems it was put there from protection from outside explosions
+rather than decoration.  Along the walls are several mounted security
+cameras.  There must be hundreds of them throughout the tower and you wonder
+how anyone could watch that many at once.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11083
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11069
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11083
+Name Approaching the end of a hall~
+Desc As you move farther down the hall you notice less and less soldiers. 
+There probably isn't anything at all interesting down here.  But you do
+notice a door on the northern side.  What could be behind it nobody knows. 
+The clan familys are said to have several nasty defense mechanisms just
+waiting for an intruder to disturb them.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11084
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11082
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11084
+Name In front of a door~
+Desc Ah you have finally reached the big concrete wall and the door in the
+northern wall.  There is nothing extraordinary about the wall or the door. 
+It seems just like all the others.  There seems to be no obvious reason why
+it should be set apart like it is.  But obviously there is a reason and
+probably a really good one.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11085
+leaves north~
+Exit
+3
+~
+~
+0
+0
+11083
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11085
+Name In a clan campbell barracks~
+Desc This hall of bunks stretches away just like all the others.  However, it
+is not as long and you can clearly make out a man of gigantic stature
+standing at the end.  You also notice the complete lack of any personel in
+this room except the man at the end.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11086
+leaves north~
+Exit
+2
+~
+~
+1
+0
+11084
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11086
+Name In a clan campbell barracks~
+Desc As you walk past the numerous bunks you notice that several of them seem
+to have been abandoned a long time ago.  As you look behind you you see a
+large security camera placed right above the door.  Appaerently whatever
+happens in this room the family wants to know about it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11087
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11085
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11087
+Name Near the end of the barracks~
+Desc The line of bunks has stopped and fallen away behind you now.  Only a few
+feet of space remain in between you and the giant.  From here you notice
+that he looks rather pale.  He must be over 8 feet tall and could probably
+break every bone in your body without trying.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11088
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11086
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11088
+Name In front of the giant~
+Desc Well you made it.  Don't you feel proud.  Only a foot in front of you is
+the giant man.  He is well over 9 feet tall and he looks as pale as a ghost.
+Escape seems rather impossible as the door to the room seems very far away
+now.  You made it this far might as well fight.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11087
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11089
+Name Door to the second floor~
+Desc Here stands a door with a large number 2 painted on it.  A sign beside
+the door states that this way leads to the towers kitchens.  You can smell
+wonderful smells coming from the rooms behind the door.  It seems that the
+cooks don't even stop their work even in a time of emergency such as this. 
+The rebellion seems to have effected everybody except them.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+11090
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11043
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11090
+Name Entrance to the kitchen~
+Desc Before you stands a large square room with kitchen appliances stacked
+everywhere.  Several cooks are running around trying to prepare for the next
+meal.  Its a wonder that they can all fit in such a small place.  They seem
+to make due though but they probably wouldn't want an extra person in their
+midst.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11091
+leaves east~
+Exit
+3
+~
+~
+1
+0
+11089
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11091
+Name The western wall of the kitchen.~
+Desc As you enter the main part of the kitchen you are assaulted by a number
+of wonderful smells.  Each cook is busy working on his special dish for
+tonights feast.  There must be at least 25 cooks running around the cramped
+room.  The heat from the stoves and ovens makes it even more uncomfortable. 
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11094
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11092
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11097
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11090
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11092
+Name The center of the kitchen~
+Desc This is the center of the small room.  From here you can view everything
+that happens in the kitchen.  Cooks shove and push you out of the way as the
+surge to get to the pots and pans.  They seem very annoyed that you have
+trespased to the kitchen but no one will raise a voice at you for fear they
+will not meet their deadline.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11095
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11093
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11098
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11091
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11093
+Name Eastern wall of the kitchen~
+Desc You stand at the wall opposite of the entrance.  The hustle and bustle of
+the cooking staff is almost overwhelming.  Everyone is in a hurry to finish
+for fear they will be killed if they are not on time.  Cooks run by you
+carrying elaborate dishes that seem fit for a king.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11096
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11099
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11092
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11094
+Name Northwestern corner of the kitchen~
+Desc At this corner of the kitchen appears to be the washing station.  Dishes
+are stacked up almost to the ceiling and most have fallen off their stacks
+and broken.  It looks like many of the dishes will remain unclean judging by
+the way they overflow the sink.  The cooks seem to avoid this part of the
+room as nobody really wants to clean.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11095
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11091
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11095
+Name Northern wall of the kitchen~
+Desc Here at the northern part of the kitchen are all of the ovens and stoves.
+The heat is incredible and your sweat evaporates as soon as it forms.  You
+wonder how these people are able to withstand so much discomforate as they
+wait for their respective dishes to finish baking.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11096
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11092
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11094
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11096
+Name Northeastern corner of the kitchen~
+Desc Here at the northeastern corner stands the food storage containers.  You
+can see piles upon piles of food waiting to be used by the cooks.  All the
+cooks seem to be fighting over the food.  It would appear that the good food
+was hard to get and the cooks that got it first got the best bonus for their
+food.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11093
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11095
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11097
+Name Southwest corner of the kitchen~
+Desc In this corner are rows upon rows of pots and pans.  They hang from the
+ceiling like bats in a cave.  There is almost no limit to the amount of
+cooking untensils available.  Spoons and knives are stacked almost to the
+pots on the ceiling.  Cooks rush buy and grab different things every minute,
+not caring whether you were there or not.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11091
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11098
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11098
+Name Southern wall of the kitchen~
+Desc Opposite of the northern wall here is where the freezers and
+refrigerators are.  Of course soom have been left open by careless cooks. 
+The cold air the blasts from these is almost unbearable.  You begin to
+shiver despite all the clothing that you have on.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11092
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11099
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11097
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11099
+Name Southeast corner of the kitchen~
+Desc The southeast corner contains all of the finished dishes waiting to be
+sent to the grand table.  A dumbwaiter is in the wall constantly in use
+carrying dishes to the top floor.  Its a miracle that the waiter is able to
+lift some of these dishes.  Some look like they weight at least 30 pounds or
+more.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11093
+leaves north~
+Exit
+3
+~
+~
+0
+0
+11098
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11100
+Name The third floor~
+Desc Before you is a large door with the number 3 painted on it.  A sign next
+to the door informs you that this level houses the training facilities.  You
+can hear sounds of fighting coming from behind the door.  Although this area
+would be much more active in normal times it is now practically deserted.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+11101
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11046
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11101
+Name Entrance to the training grounds~
+Desc In front of you is a large room that stretches for a while.  Farther down
+the room you can see some of the more elite guards of clan Campbell
+practicing.  Target dummys and war machines are set up along every wall to
+help the guards become master fighters.  Some people are sparing here but
+most have gone to fight in the streets.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11102
+leaves east~
+Exit
+3
+~
+~
+1
+0
+11100
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11102
+Name Training grounds~
+Desc As you step out into the grounds you are immediatly assualted by the
+smell of old sweat and blood.  You can hear the guards practicing their
+swordplay from all across the room.  Most are sparing and getting ready for
+the battles to come but some have taken to simple drills of footwork and
+bladework.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11103
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11104
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11101
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11103
+Name The northeast corner of the grounds~
+Desc Piled up in this corner are mounds and mounds of broken equipment. 
+Everything from swords to full body armors lay shattered in their heaps. 
+There is a guard here trying to organzie the piles but he doesn't seem to be
+having much luck.  The metal of the broken equipment is generally used to
+make the massive clan robot guards.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11110
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11102
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11104
+Name Training grounds~
+Desc As you move down the long hallway that makes up the training grounds you
+see more and more equipment lined along the walls.  From swords to
+disruptors this place has everything.  However, most of this has been taken
+for reserves.  In front of you is a training robot used to practice your
+fighting skills on.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11110
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11105
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11102
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11105
+Name Training grounds~
+Desc The hallway stretches on a fair distance more to the east until it ends
+in a featureless brick wall.  Along this side of the hallway are training
+robots.  There are rows upon rows of them.  However, none of them are in use
+right now.  All the men are on the other side gathering weapons and armor 
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11111
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11106
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11104
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11106
+Name Training grounds~
+Desc You continue walking along the south side of the training grounds.  This
+is where all of the training robots are kept.  Most seem to be in good
+repair except for a few down the line.  No one has bothered to fix them
+because of the crisis.  To the north the equipment storage units stretch on
+as far as the eye can see.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11112
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11107
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11105
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11107
+Name Training grounds~
+Desc As you approach the end of the room you notice that the amount of
+training equipment does not decrease in quality or quantity.  The line of
+training robots and devices extened from wall to wall.  Some are broken but
+the majority appear in good repair.  On the north wall some soldiers are
+gathering up everything they can carry to either sell or fight with.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11113
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11108
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11106
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11108
+Name Training grounds~
+Desc This is near the end of the room.  Here the dust has settled over
+everything.  Although it was not visible earlier you can see now that this
+area has not been used for some time.  There are still robots here but they
+appear completely unused and uncared for.  Its not supprising seeing how
+long the hall is.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11114
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11109
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11107
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11109
+Name Training grounds~
+Desc Well you made it to the wall.  The long treck certainly wasn't worth it. 
+This part of the room is the same as any other except for the fact that
+there is a wall blocking further progress.  Back far away you can see the
+distant entrance to the grand staircase.  You notice that there are still
+training machines down at this end.  Most seem to be still in working order.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11115
+leaves north~
+Exit
+3
+~
+~
+0
+0
+11108
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11110
+Name Training grounds~
+Desc Along this hall of the training grounds are hundreds and hundreds of
+shelves for equipment.  Everything from armor to disruptors is stored here. 
+However, there is almost nothing left since everything has been taken to
+help protect the family.  What few pieces remain are being gathered up by
+the guards.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11111
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11104
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11103
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11111
+Name Training grounds~
+Desc As you continue down the hall you notice that there will be almost
+nothing of value on this side of the grounds.  All the shelves have been
+stripped clean of any weapons or armor that they once had.  A few soldiers
+and guards still remain trying to stay out of the battles that are being
+waged on the street.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11112
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11105
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11110
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11112
+Name Training grounds~
+Desc Continuing down the hallway you notice that there are fewer and fewer
+people.  The hallway looks completely deserted at the end and there seems to
+be nothing of importance.  Across the room you can see the multitude of
+training robots that line the wall.  Most are unused but a few are still in
+service.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11113
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11106
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11111
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11113
+Name Training grounds~
+Desc Here the shelves are completely empty.  Not one scrap of armor can been
+seen.  Everything has been taken to the reserves and the fighters that are
+guarding the clan tower.  Everyone seems to have completely forgotten this
+place and there is hardly a soul in this massive room.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11114
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11107
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11112
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11114
+Name Training grounds~
+Desc Still the same old empty shelves and baron room.  In the corner you can
+see a group of men trying to evade having to fight.  They don't seem very
+happy but then who would.  Across the room you can see the training robots
+that used to be used every day, but now they have hardly anyone using them. 
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11115
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11108
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11113
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11115
+Name Training grounds~
+Desc Well you made it to the end of the hall to find that there is nothing
+here.  Much like the rest of the room it is baron of equipment.  There are
+some guards gathered here and some scattered along the length of the room. 
+But otherwise it is completely empty.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11109
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11114
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11116
+Name Entrance to Clan Wolf Tower~
+Desc Before you is the most impressive and by far best protected tower.  It is
+not the tallest and does not stand out in any ways but simply radiates a
+feeling of immense power.  The Wolfs are the most influential clan in the
+whole empire.  Some even say that they are the people that really run the
+empire.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11026
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11117
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11117
+Name Before the Clan Wolf Tower~
+Desc A simple door set into the front of the gleaming steel tower before you
+is the only thing keeping you from exploring the rest of it.  No guards are
+here and the pathway to the door seems deathly silent.  There is no hint as
+to what awaits you on the other side of the door but the Wolfs are said to
+have secret alliances with the rogue AI's on shub who provide them with lots
+of nasty weapons.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11116
+leaves north~
+Exit
+2
+~
+~
+1
+0
+11118
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11118
+Name Entrance to the Wolf Tower~
+Desc Well you made it into the tower.  Ahead of you is a simple hallway with
+little decorations and very few unnecessary arts.  There are no stairs as
+you can see only one elevator at the end of the hall.  The Wolf's were
+always said to be paranoid so they decided not to put in stairs so they
+could tell where the enemy was coming from.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11117
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11119
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11119
+Name Lobby of Wolf Tower~
+Desc The lobby is barely furnished with only a few pieces of furniture
+scattered around the room.  If this is the richest family in the universe
+you wonder what all their money goes to.  There are few guards here but a
+few are scattered about wandering through the halls.  The Wolfs seem to have
+taken little intrest in the fighting on the street and simply walled
+themselves up in their tower.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11118
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11120
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11120
+Name Lobby of Wolf Tower~
+Desc The elevator at the end of the hall is getting closer by the minute but
+it doesn't look inviting at all.  There's no telling what suprises the Wolfs
+have planted in their elevators.  This family has a history of keeping its
+mouth shut and its secrets secret.  Nobody knows what really goes on in this
+tower and nobody has enough guts to ask.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11119
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11121
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11121
+Name Lobby of Wolf Tower~
+Desc The hall you are in has no decorations what so ever.  Everything has been
+stripped down and the walls have been left blank with nothing on them. 
+There are still no guards present but then you were never sure if the wolves
+had any.  After all with superior firepower who needs numbers.  Still
+approaching the elevator you can now see your reflection in it.  It scares
+you but you aren't sure why.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11120
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11122
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11122
+Name End of the lobby~
+Desc Here is the elevator.  The front is made up of complete glass.  You can
+see the empty hallway stretch out behind you in the mirror and it fills you
+with a sense of dread.  Once you enter the elevator there is no telling what
+will happen or whether you will be able to get back out of the tower.  For
+all you know you could be walking into a death trap.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11121
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11123
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11123
+Name In the elevator~
+Desc Once you step into the elevator you realise your grave mistake.  As you
+turn around the doors slam shut and you find yourself sealed in.  There are
+no buttons anywhere in the elevator.  You fail to see how you will be able
+to get back down to the first floor.  The elevator music that is playing
+isn't exactly cheerful either.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11124
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11124
+Name The first floor of the tower~
+Desc This floor is almost exactly like the loby in length and height.  There
+are also no decorations here but in the exact center of the room is a lone
+figure.  What or who he is you cannot make out from here but he appears to
+be rather large and muscular.  As you turn around you notice that the
+elevator has simply dissapeared leaving you no way to escape.  However, at
+the other end of the hall you see another elevator.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11125
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11125
+Name The first floor of the tower~
+Desc You are only a few feet away from the figure now and you can see that he
+looks almost like a corpse.  A rather large hulking corpse that is.  He
+would have been a huge man were he still alive.  You can see that something
+about him is not right, even if he is a corpse there is something wrong but
+you cannot tell what it is.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11126
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11124
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11126
+Name The first floor of the tower~
+Desc You can see the figure clearly now and he scares you.  His flesh is
+rotting off in many places but underneath you can see that he has metal
+implants and stitches holding him together.  This must be one of Shubs ghost
+warriors.  Human dead brought back to life and used as psychological fear
+troopers.  They are easily as strong as ten men and are incredibly hard to
+kill.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11127
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11125
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11127
+Name The first floor of the tower~
+Desc Now that you are past the ghost warrior you can see that the next
+elevator is only a few feet in front of you.  Of course you have no clue
+what will happen once you enter it.  It could be just like the last leaving
+you no exit route or it could simply crash and kill you in one swift move. 
+It is impossible to tell and you will have to take your chances.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11128
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11126
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11128
+Name The first floor of the tower~
+Desc The elevator is right in front of you now.  You really have no choice but
+to use it seeing as your only way out was the other lift which has somehow
+dissapeared.  This however is no comfort to the fact that your life hangs in
+the balance and could be ended with a simple push of a button.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11129
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11127
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11129
+Name In the elevator~
+Desc Once again as soon as you step in you realize your mistake.  As you turn
+around to exit the doors slam shut impossibly quick and you find yourself
+sealed in.  There are no buttons to be seen or any other way to control the
+elevator while inside.  Then you realize that you are probably going to die
+but the elevator stops and the doors open.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11130
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11130
+Name The second floor of the tower~
+Desc As you look behind you the elevator has somehow dissapeared from view. 
+This leaves you no choice but to push forward and fight the next challenger
+that awaits you.  You can already see him standing in the middle of the
+hallway.  It is hard to distinguish much about this character but chances
+are that he isn't friendly.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11131
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11131
+Name The second floor of the tower~
+Desc The figure in the center of the hall is growing close with every step
+which fills you with a sense of dread.  If this challenger is anything like
+the last one you feel you will not be enjoying this.  He appears to be just
+a normal man with no augmentations or implants but looks can be decieving. 
+Nothing more can be determined from this distance.  The elevator at the end
+of the hall gleams silver in the lights.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11130
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11132
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11132
+Name The second floor of the tower~
+Desc The figure in front of you is just a normal man, plain and simple.  You
+recognize him as Daniel Wolf who is one of the sons of Jacob Wolf.  He has
+always had a short temper and excellent sword play to back it up.  He has
+been known to fight duels at the drop of an insult and he hasn't come close
+to losing yet.  His skill is renowned throughout the empire and he is a
+master fencer, a legend in his own time.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11131
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11133
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11133
+Name The second floor of the tower~
+Desc Now that you are past the wolfe you can see the next elevator that will
+probably take you to the next floor.  Of course seeing as there is no way to
+get back down to the first floor your only hope is to go forward.  This is
+not a very comforting thought as the next opponent you will have to face
+will most likely be very hard.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11132
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11134
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11134
+Name The second floor of the tower~
+Desc Well here you are in front of yet another elevator.  You dread the things
+that await you beyond this point, but seeing as there is no other way you
+must go forward.  There has been no way to measure the distance you are from
+the top of the tower but you hope that you are not far off.  You can only
+hope that there is a way down once you are at the top.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11133
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11135
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11135
+Name In the elevator~
+Desc Once again as soon as you step in you realize your mistake.  As you turn
+around to exit the doors slam shut impossibly quick and you find yourself
+sealed in.  There are no buttons to be seen or any other way to control the
+elevator while inside.  Then you realize that you are probably going to die
+but the elevator stops and the doors open.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11136
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11136
+Name The third floor of the tower~
+Desc Well you made it to the next floor.  This hallway is much like all the
+ones that you have seen before.  As usual there is a lone figure in the
+middle of the hall.  This man seems to have a blueish tint to his skin.  It
+is difficult to tell from this far away though.  You can also the far off
+glint of the elevator at the other end of the hall.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11137
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11137
+Name The third floor of the tower~
+Desc As you come nearer to the figure you can see that indeed his skin is blue
+but it is hard to discern anything else from him at this distance.  Still
+you see the other set of elevator doors.  You realize that they are your
+only hope of ever escaping this place and you must press forward to get to
+them.  They are your only way out of this tower.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11138
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11136
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11138
+Name The third floor of the tower~
+Desc You can see now that the figure you thought was human is really a
+machine.  It is made out of blue steel and it stands about seven feet tall. 
+There is a blade of brightly polished steel protruding from his right arm
+and a set of spiked knuckles from his left.  The machine looks like it could
+kill just about anything it wanted to.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11139
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11137
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11139
+Name The third floor of the tower~
+Desc You have made it past the third challenger.  How many more remain you can
+only guess at.  However, it does seem that they are getting harder and you
+shudder to think what is ahead.  You can see the elevator in plain view now.
+This procedure has almost become a routine and you are almost sure of what
+will happen.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11140
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11138
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11140
+Name The third floor of the tower~
+Desc You stand now before another elevator.  The doors shimmer in the hallway
+light adding an strange glow to all the surrounding objects.  You hope that
+this is the last elevator as your only wish now is to leave this cursed
+place still alive.  There is still one or more challengers that remain and
+you have no idea how leathal they are.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11141
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11139
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11141
+Name In the elevator~
+Desc Once again as soon as you step in you realize your mistake.  As you turn
+around to exit the doors slam shut impossible quick and you find yourself
+sealed in.  There are no buttons to be seen or any other way to control the
+elevator while inside.  The you realize that you are probably going to die
+but the elevator stops and the doors open.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11142
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11142
+Name The fourth floor of the tower~
+Desc Again you see a long hallway stretched out in front of you.  As usual
+there is a figure standing in the middle.  You can see no augmentations or
+anything that would suggest him not being a human from here.  At the other
+end of the hall is another elevator.  You can see the glint of its steel
+doors from here and you hope that this is the last level.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11143
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11143
+Name The fourth floor of the tower~
+Desc As you approach the figure you can now indeed see that he is only a
+human.  He is most likely Valentine Wolf, the leader of the Wolf clan.  He
+is said to be the biggest drug user in the Empire.  There isn't a chemical
+around that he hasn't tried.  Of course this includes battle drugs so there
+is no telling how strong or fast he is.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11142
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11144
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11144
+Name The fourth floor of the tower~
+Desc This is indeed the renowned Valentine.  Ruthless and violent he is a
+killer and a drug user.  He recently inherited the command of the clan after
+he killed his father in a battle.  No one knows much about his fighting
+skills but they are probably high above average.  The drugs that he takes
+makes his body superpowered and enable him to do extraordinary things.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11143
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11145
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11145
+Name The fourth floor of the tower~
+Desc You have made it past the leader of the clan.  There can be no other
+combatants.  The elevator doors seem like a comfort now and you realize that
+you are only a few feet away from your freedom.  They gleam in the light of
+the hall and you hope and pray that they will take you back to the main
+street.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11144
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11146
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11146
+Name In the elevator~
+Desc The doors slam shut behind you as before and the elevator lurches down. 
+Finally you are on your way back to the main town and away from this tower. 
+The elevator stops and the doors open.  Behind you is the lobby of the tower
+and you realize that you are finally free.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11118
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11147
+Name The northern sector of Golgotha~
+Desc You have now passed beyond the limits of the city square and are headed
+into the deeper parts of the city.  This is where the imperial bunker is
+located.  Nothing much is known of the bunker except it is nearly impossible
+to enter.  Farther down this street lies the imperial starbay.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11148
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11019
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11148
+Name The northern sector of Golgotha~
+Desc As you walk farther down the street you see fewer rebels and more
+imperial guards.  This is most likely because you are nearing the Imperial
+Bunker.  It is said that no one is able to access the bunker that is not
+invited and so far that statement has been true.  To the north and east you
+can see the glint of the landing dock lights coming from the starport. 
+Golgotha houses the largest starport in the empire and it acts as the main
+train hub for it also.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11149
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11147
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11149
+Name The northern sector of Golgotha~
+Desc As you go farther and farther north you can see the quality of living
+improving.  The houses at this end are nicer and there is no trash on the
+streets.  This may be because of the nearness to the imperial bunker, but
+there is no certain way to tell.  You can see the clan towers to the
+southwest and the stardock to the northeast.  In front of you is a vast
+concrete dome that covers the bunker.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11150
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11148
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11150
+Name The northern sector of Golgotha~
+Desc Here you can see the eastbound road that leads to the starport.  To the
+north is the giant concrete bunker that hides the imperial palace.  You can
+see that the giant doors have been broken down.  They were supposedly
+unbreakable but things in the empire rarely tell the truth.  There are still
+many guards outside of the bunker protecting it from any further assaults.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11151
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11165
+leaves east~
+Exit
+2
+~
+~
+0
+0
+11149
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11151
+Name Near the Imperial Bunker~
+Desc Now you can see the giant clearing that holds the most inpenetrable
+castle in the known universe.  Built out of the strongest materials known to
+man it is supposedly able to withstand any attack upon it.  However, you can
+see that the force shield protecting it has been destroyed and the giant
+doors that led to it are broken.  Probably the work of rebel espers the once
+indestructable fortress has been breached.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11152
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11150
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11152
+Name In front of the Imperial Bunker~
+Desc Now you can see the magnitude of this structure that you are approaching.
+There are 20 foot tall walls on either side of you preventing you from
+turning astray.  Also the bunker itself has almost a mile thick shell making
+it tower over you, dwarfing you like an insignificant bug.  Several of the
+empress's elite guards are outside making sure no-one enters.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11153
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11151
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11153
+Name The door to the Imperial Bunker~
+Desc Now you are right infront of the massive doorway that leads into the
+depths of the bunker and eventually to the court of Lionstone.  You can see
+how the doors were ripped off of their frames like paper.  Whoever was able
+to do this must have been very very powerfull.  The guards see you know and
+immediatly move forward to stop you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11154
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11152
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11154
+Name Inside the Imperial Bunker~
+Desc Now you stand in a hallway that stretches back into the gloom until you
+lose sight of it all together.  Whether it is an illusion or reality you
+can't tell for sure.  It is deathly quiet and you nothing breaks the
+silence, not even the sounds of alarms.  If you continue down this corridor
+you will eventually reach the train station that takes people to Lionstone's
+court.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11155
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11153
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11155
+Name Inside the Imperial Bunker~
+Desc As you continue down the hallway you notice that you hear absolutely
+nothing.  It is completely quiet, and you are suddenly unable to see farther
+than 10 feet in front or behind you.  The train station is at the end of
+this hallway but how much farther it is to that point you cannot be sure. 
+The only thing left to do is continue forward.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11156
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11154
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11156
+Name Before the train station~
+Desc You have finally arrived at the station but there is a lone figure
+guarding the entrance to the train.  However, you can see from this distance
+that he is not a normal human.  Half of his body has been replaced by a
+glowing field of energy.  This must be the legendary Half-Man that trains
+the Empire's Investigators.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11157
+(null)~
+Exit
+2
+~
+~
+0
+0
+11155
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11157
+Name Inside the train~
+Desc Once you step inside the train the doors slam shut behind you and you
+begin moving.  The train is programmed to go directly to the imperial court
+without stopping.  Once there you will probably not be able to get back
+aboard the train.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11158
+(null)~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11158
+Name In front of the Imperial Court~
+Desc You stand in a small room in front of two gigantic doors.  These are the
+doors that lead into the Imperial Court.  Before them is one of Lionstones
+elite guards.  Other than the doors and the guard you can see nothing else
+of intrest in this room.  It extends a few feet in every direction but it
+has an extraordinarily high cieling.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11159
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11159
+Name The Imperial Court~
+Desc As you step into the court you are suddenly basked in a crimson glow. 
+All around you the court has taken on the view of hell.  Crucified corpses
+line the path and blood spills over your feet.  Bodies grab at you from pits
+lined along the road and the screams of the damned echo endlessly around you
+tearing at your will.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11160
+leaves north~
+Exit
+2
+~
+~
+1
+0
+11158
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11160
+Name The Imperial Court~
+Desc As you continue down the narrow path the light surrounding you steadily
+grows darker.  You hear crunching under your boots and as you look down you
+see the ground is littered with skeletons.  Some people are still alive
+though and they crawl along the ground with limbs missing screaming for you
+to save them from this wretched place.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11161
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11159
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11161
+Name The Imperial Court~
+Desc After walking for a while eventually you reach the great theatre where
+the iron throne is.  You can see that behind the throne are several key
+rebel leaders burning on crosses.  On the throne sits the Empress Lionstone
+herself.  Flames leap up around you as you approach the entrance and burn
+your unprotected flesh.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11162
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11160
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11162
+Name In front of the Iron Throne~
+Desc As you approach the throne the heat sears your skin and the screams of
+the tourmented pierce your ears like banshees.  Corpses lie everywhere
+littering the ground clawing at your leg out of the hope for salvation.  The
+giant throne is in front of you know only a few feet away towering over you
+making you feel pathetic.  Blood pools on the floor rising up to your ankels
+and you feel things brushing against you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11163
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11161
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11163
+Name Before the Iron Throne~
+Desc As you approach to attack the Empress a man dressed in blood red armor
+steps forward to block your path.  Instantly you recognize him as warrior
+prime of the empire.  Dram was trained since he was a child to be the
+ultimate killing machine and to die before anything happened to the Empress.
+He fears no one and has never been beaten.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11164
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11162
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11164
+Name The Iron Throne~
+Desc You are now on the platform where the iron throne is seated.  The Empress
+slowly stands and steps to meet you.  Wearing the diamond crown of the
+empire and her custome battle armor she is a formidable foe.  Her eyes burn
+with rage because of the rebellion and she seems ready to kill anyone who
+gets in her way.  The tall black throne stands behind her towering over
+everything.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11163
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11165
+Name The road to the starport~
+Desc The glow of the lights from the starport washes over you as you step onto
+this road.  Even from far away they illuminate the area all around you.  You
+can see several of the larger ships docked but the security systems have
+been armed and there is no way you can get to them.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11166
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11150
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11166
+Name The road to the starport~
+Desc From this distance you can see that the starport is earily empty.  The
+usual crowd of people is no longer here, perhaps they feared for their life.
+As you top a small crest in the road a looming structure appears in the
+distance.  It dwarfs everything around it casting a shadow over much of the
+starport.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11167
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11165
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11167
+Name In front of the control tower~
+Desc From here you can see much of the starport.  You can also see that only a
+few ships still have their ramps out.  One of them an imperial cruiser that
+you quickly recognize as the dauntless.  The dauntless is the only E class
+starship still operational and loyal to the empire.  It has been the only
+defense against the hadenmen's giant golden ships at this point.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11168
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11166
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11168
+Name The break to the Dauntless~
+Desc Here the road forks into two paths.  One leads to the Dauntless and the
+other to the giant structure you saw earlier.  From here you can see that it
+is actually a giant castle.  It towers over everything and is also loaded
+down with weapons.  This is the Deathstalker standing that the rebels came
+to Golgotha with.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11169
+leaves north~
+Exit
+3
+~
+~
+0
+0
+11167
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11169
+Name On the road to the Dauntless~
+Desc As you approach the Dauntless you finally gain an understanding of how
+powerfull it really is.  With over 250 disruptor cannon and state of the art
+shields it is a force to be reckoned with.  From here you can see that the
+hatch is open allowing any and everyone free access to the ship.  However,
+this is not supprising considering it has the most advanced armory humanity
+has ever known.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11170
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11168
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11170
+Name In front of the Dauntless~
+Desc As you step up to the door into the Dauntless you are suddenly afraid of
+what lurks inside.  You've heard amazing stories about John Silence, the
+captain, and their investigator Frost.  Supposedly they have gained
+supernatural powers that enable them to do whatever they please.  Yet they
+still remain loyal to the Empire.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+11171
+leaves north~
+Exit
+2
+~
+~
+0
+0
+11169
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11171
+Name In a corridor of the Dauntless~
+Desc You glance around and see that the corridor splits in two directions.  A
+handy sign on the wall says that the passageway to the east leads to the
+bridge while the left passageway leads to the living quarters.  As you look
+around you notice that there are no other crew members present, not a single
+person.  You get the strange feeling that you are not going to find pleasant
+things aboard this ship.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+1
+0
+11170
+leaves south~
+Exit
+3
+~
+~
+0
+0
+11172
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11172
+Name The living quarters~
+Desc The hallway is lined with doors that lead off to living quarters.  As you
+continue down the hallway you try to open a few of the doors only to find
+that they are all locked.  This seems odd as only the captain has permision
+to lock personal quarters.  Farther down the hallway you can see a faint
+glow spilling out into the hallway.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+11171
+leaves east~
+Exit
+3
+~
+~
+0
+0
+11173
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11173
+Name The living quarters~
+Desc Now you can see that the glow you saw earlier is comeing from an open
+door.  Past the door the lights suddenly cut off basking the rest of the
+hallway in shadows.  Behind you the hallway stretches earily away back
+towards the entrance.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+11174
+leaves north~
+Exit
+1
+~
+~
+0
+0
+11172
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 11174
+Name Officer V. Stelmach's Quarters~
+Desc As you step through the doorway you are suddenly surrounded by shattered
+furniture and other items.  Blood is splattered over everything and there
+isn't a clean place in the entire room.  In the back corner you notice a
+corpse of what appears to be an officer.  He has been disembowled and maimed
+and he is barely recognizable as human.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+11173
+leaves south~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 11029 1 1
+D 0 11029 3 1
+D 0 11031 1 1
+D 0 11031 3 1
+D 0 11032 0 2
+D 0 11033 2 2
+D 0 11034 1 1
+D 0 11034 4 1
+D 0 11035 5 1
+D 0 11036 3 1
+D 0 11037 1 1
+D 0 11038 3 1
+D 0 11063 0 1
+D 0 11064 2 1
+D 0 11066 1 1
+D 0 11067 3 1
+D 0 11069 0 1
+D 0 11069 2 1
+D 0 11070 2 1
+D 0 11076 0 1
+D 0 11084 0 1
+D 0 11085 2 1
+D 0 11089 1 1
+D 0 11090 3 1
+D 0 11100 1 1
+D 0 11101 3 1
+D 0 11117 2 1
+D 0 11118 0 1
+D 0 11158 0 1
+D 0 11159 2 1
+D 0 11170 0 1
+D 0 11171 2 1
+M 0 11000 20 11001 1
+E 0 11002 0 16
+M 0 11002 1 11007 1
+E 0 11003 0 20
+E 0 11018 0 16
+M 0 11003 1 11011 1
+E 0 11006 0 16
+M 0 11004 1 11012 1
+E 0 11057 0 8
+M 0 11005 1 11013 1
+E 0 11058 0 6
+M 0 11006 1 11014 1
+E 0 11056 0 11
+M 0 11007 1 11016 1
+M 0 11008 1 11023 1
+G 0 11009 0
+G 0 11010 0
+G 0 11011 0
+M 0 11009 2 11027 10
+E 0 11004 0 11
+E 0 11012 0 12
+M 0 11009 2 11029 10
+E 0 11004 0 11
+E 0 11012 0 12
+E 0 11012 0 5
+M 0 11009 2 11030 10
+E 0 11012 0 5
+M 0 11009 1 11031 1
+M 0 11009 2 11031 10
+E 0 11012 0 5
+M 0 11020 1 11032 1
+E 0 11028 0 16
+E 0 11029 0 5
+M 0 11011 20 11034 1
+E 0 11015 0 16
+M 0 11010 1 11035 1
+G 0 11013 0
+E 0 11014 0 16
+M 0 11011 20 11036 1
+E 0 11015 0 16
+M 0 11011 20 11037 1
+E 0 11015 0 16
+M 0 11011 20 11038 1
+E 0 11015 0 16
+M 0 11012 1 11063 1
+E 0 11020 0 9
+E 0 11016 0 16
+M 0 11012 1 11065 1
+M 0 11013 1 11075 1
+E 0 11017 0 16
+M 0 11014 1 11081 1
+E 0 11019 0 6
+M 0 11015 1 11088 1
+E 0 11021 0 3
+E 0 11022 0 10
+M 0 11016 10 11091 2
+E 0 11023 0 6
+E 0 11024 0 19
+M 0 11016 10 11093 2
+E 0 11023 0 6
+E 0 11024 0 19
+M 0 11016 10 11095 2
+E 0 11023 0 6
+E 0 11024 0 19
+M 0 11016 10 11098 2
+M 0 11017 1 11103 1
+E 0 11025 0 16
+M 0 11018 10 11104 1
+E 0 11026 0 16
+M 0 11018 1 11105 10
+E 0 11026 0 16
+M 0 11019 10 11106 1
+E 0 11027 0 16
+M 0 11018 10 11108 1
+E 0 11026 0 16
+M 0 11019 10 11109 1
+E 0 11027 0 16
+M 0 11009 1 11110 1
+E 0 11012 0 5
+E 0 11004 0 11
+E 0 11002 0 16
+M 0 11009 1 11115 1
+E 0 11012 0 5
+E 0 11004 0 11
+E 0 11002 0 16
+M 0 11021 1 11126 1
+E 0 11030 0 7
+M 0 11023 1 11132 1
+E 0 11033 0 16
+M 0 11024 1 11138 1
+E 0 11034 0 16
+E 0 11035 0 5
+M 0 11025 1 11144 1
+E 0 11036 0 16
+E 0 11031 0 12
+M 0 11026 1 11153 1
+E 0 11037 0 16
+M 0 11027 1 11156 1
+E 0 11038 0 9
+M 0 11028 1 11158 1
+E 0 11040 0 3
+M 0 11029 1 11162 1
+E 0 11043 0 16
+M 0 11030 1 11163 1
+E 0 11039 0 16
+M 0 11031 1 11164 1
+E 0 11044 0 16
+E 0 11042 0 6
+M 0 11032 1 11173 1
+E 0 11045 0 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#11000
+mobprog_greet 100
+murder $n
+~
+#11001
+mobprog_greet 100
+dual guantlet
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

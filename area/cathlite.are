@@ -1,0 +1,62 @@
+#AREADATA
+Name Cathedral of Light~
+Builders Akmaro~
+VNUMs 28000 28199
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 28000
+Name Before the Cathedral~
+Desc You are standing at twin archways carved of stone, the entrance into the
+Cathedral of Light.  The walls are etched and worn smooth by time, but still
+stand as strong as the day they were created.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

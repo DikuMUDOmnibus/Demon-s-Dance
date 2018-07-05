@@ -1,0 +1,423 @@
+#AREA
+cathedral.are~
+Cathedral~
+{C{{  ALL  } {WVincent     {GThe Cathedral       {x~
+112000 112099
+
+
+#MOBILES
+#112000
+Bishop~
+The Bishop~
+The trainer of the Bishops
+~
+You realize immediately that this man knows power. From his every move you know
+that this man is not someone you should anger. Tall and thin, this man is not
+like the bishops you have seen before. To further illustrate this point, you
+notice the hilt of a sword peeking out from under his mantel. The bishop is
+clearly a man who earned this position in combat, and from the look of him, he's
+seen a lot of it. You hope that he will be willing to share some of his
+knowledge.
+~
+human~
+ABJKb 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand male 0 
+0 0 medium 0
+#112001
+Priest~
+The Priest~
+The Trainer of the Priests
+~
+At first glance, you notice nothing remarkable about the man, but closer
+study reveals that he moves with surprising grace, revealing something more then 
+first thought. Could this be the trainer of the priest class?
+~
+human~
+ABJKb 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand male 0 
+0 0 medium 0
+#112002
+Paladin Templar trainer~
+The Paladin and Templar Trainer~
+The trainer of the Paladins and Templars
+~
+The first thing you notice about this man is the large scar that runs up from 
+his neck. It moves up his cheeck and crosses his left eye to stop just below 
+the hairline. His hair is grey, and closely trimmed, allmost making it
+invisible.
+This man has obviously been in battle, and survived. Now you notice the clothing
+the man wears, distinguishing him as a trainer. A little puzzled, you realise
+that this man wears both the insignia of the paladin guild and the templar 
+guild. This man must surely be someone who can teach a great many things.
+~
+human~
+ABJKb 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand male 0 
+0 0 medium 0
+#112003
+Monk trainer~
+The Monk trainer~
+The trainer of the Monks
+~
+As you kneel with the monk, you glance at him. A lean face, allmost too lean,
+is the only visible part of the man's body. But from the way the dull brown
+robe he wears falls on his shoulders, you can tell that this man is very skinny.
+The lifestyle of the monks ensures that no excess fat can be found, as you well
+know yourself. You allso know that though usually quite skinny, monks are as 
+strong as any you have come across.
+~
+human~
+ABJKb 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand male 0 
+0 0 medium 0
+#112004
+Cleric trainer~
+The Cleric Trainer~
+The trainer of the Clerics
+~
+Amazed by the obvious youth of the man, you stare a moment. "Magic does wonders 
+for the complexion," the man says with a smile in his voice. "Actually, i am 
+allmost 100 years old, give or take a few." Your mind briefly wonders what you 
+will look like in a 100 years. Then it hits you, if this man is 100 years old, 
+he must have gathered a lot of knowledge.
+~
+human~
+ABJKb 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand male 0 
+0 0 medium 0
+#112005
+Bishops aide~
+The aide to the Bishop~
+You look at the aide to the Bishop
+~
+Behind the desk you see a young looking man, dressed in a cassock. As you look
+into his eyes, you see a hint of steel. This man is not as much a mere clerk 
+as you thought at first. You suspect that this person might very well be a 
+loyal soldier to the bishop. Functioning both as a personal assistant and a 
+bodyguard.
+~
+human~
+AB 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand male 0 
+0 0 medium 0
+#112006
+Paladin nurse~
+The duty nurse~
+You look at the duty nurse for the paladin hospital
+~
+Dressed in simple, practical clothes, this woman has a small basin in one 
+hand and a piece of cloth in the other. Behind her you notice a patient with
+an obviously high temperature. She must have been cooling him down when you 
+walked in here. From the look in her eyes, you learn that it would be quite
+foolish to do something she does not want. Not only is she obviously working
+for the paladins and templars, but she has an aura of inmovability over her
+that comes from working with obstinate patients for years.
+~
+human~
+AB 0 1000 0
+260 0 100d100+1000 1d1+1 100d100+1000 beating
+-1000 -1000 -1000 -1000
+0 ABCD 0 0
+stand stand female 0 
+0 0 medium 0
+#0
+
+#ROOMS
+#112000
+Before the Cathedral~
+As you look up, you see the twin towers of the Cathedral rising up. The front 
+of the Cathedral has two huge doors, that appear as though it would take giants
+to move them. The outer walls are richly adorned with sculptures.
+~
+0 KS 1
+D2
+To the entrance of the Cathedral~
+~
+0 -1 112001
+D3
+~
+~
+0 -1 3096
+S
+#112001
+Entrance~
+As you step out of the sun, into the cool hall of the Cathedral, you realise
+that all the sounds of the city are muted to an allmost inaudible murmur here.
+The hall is not decorated much, only a statue of the god worshipped here stands
+between the twin arches leading to the nave of the Cathedral.
+To the west and east, you see doors leading to the towers.
+~
+0 DKS 1
+D0
+Out of the Cathedral~
+~
+0 -1 112000
+D1
+To the eastern tower~
+~
+0 -1 112012
+D2
+To the Nave of the Cathedral~
+~
+0 -1 112002
+D3
+To the western tower~
+~
+0 -1 112010
+E
+statue~
+You look at a statue of ******, the god of Light. This god is the patron of all
+who are good. Standing tall, and wearing armor adorned with a large sunburst,
+the image you see is of a champion, able to vanquish any foe.
+~
+S
+#112002
+The Nave~
+Forming two rows, you stand between the benches that seat the congregation.
+There are enough seats to accomodate all the believers, though at the moment
+there are only a few worshippers. As you look south, you see the main altar.
+~
+0 DKS 1
+D0
+To the entrance~
+~
+0 -1 112001
+D2
+To the altar~
+~
+0 -1 112003
+S
+#112003
+At the altar~
+The first thing you notice, as you approach the altar, is the aura of power that 
+surrounds it. Apart from the aura, there is also something a little more earthly
+surrounding the magnificent altar, a sturdy looking fence has been placed to
+keep the holy symbol safe.There seems to be a door behind the altar, as well as 
+corridors leading of to the west and east.
+~
+0 DKS 1
+D0
+To the Nave~
+~
+0 -1 112002
+D1
+East from the altar~
+~
+0 -1 112006
+D2
+Through a door~
+~
+1 0 112004
+D3
+West from the altar~
+~
+0 -1 112008
+E
+altar~
+You see an altar made of pure white gold. It has been crafted with much skill 
+and care. The base of the altar has been beatifulle wrought in an intricate 
+pattern, and inlaid with stones of every sort. The top of the altar is flat and
+smooth, except for a small statue at the center. It is a smaller version of the
+statue you have seen outside.
+~
+S
+#112004
+Entrance Bishop Guild~
+You stand in a small ante-room. To your left is a small desk where an aide to
+the bishop handles all worldly matters. On the other wall, a large tapestry
+depicts a holy scene.
+~
+0 DKS 1
+D0
+To the altar~
+~
+1 0 112003
+D2
+To the bishop's quarters~
+~
+1 0 112005
+E
+tapistry~
+The tapistry depicts a small group of men, kneeling in front of the man you 
+have seen outside. It is the god worshipped here. It appears that they are 
+receiving a blessing from him.
+~
+S
+#112005
+Bishop's room~
+Looking around, you find yourself in a richly decorated room. It has the feel of
+the ages, and some of the artifacts are clearly from ancient times. As you look
+around in amazement, you hear someone saying: "What you see here, are all all 
+tributes made by the bishop, he donates it as he takes office. "Turning to the 
+voice, you see a lean looking man, wearing the robes of his office. This is 
+the high bishop of the world, the only man who has enough experience to train 
+others in their ways.
+~
+0 271364 0
+S
+#112006
+East from the altar~
+Walking east from the altar, you find yourself in a hallway with several double 
+cubicles. You realise that this is where believers can come to confess their
+sins and find absolution. On the other wall is a small shrine, dedicated to one
+of the saints from old times. It is the saint of forgiveness, and people who
+have confessed can do their penance here. Further to the east, you notice a
+small door.
+~
+0 DKS 1
+D1
+To the Priest guild~
+~
+1 0 112007
+D3
+To the altar~
+~
+0 -1 112003
+S
+#112007
+Priest's quarters~
+Opening the small door, you enter a surprisingly light and airy hall. It is the 
+hall of the priests, they each have a narrow bunk here, lined up on the far
+wall. In the center of the hall is a long table, where the priests can eat, converse
+or study. At the moment, the hall is empty, except for a solitairy figure
+sweeping the floor.
+~
+0 271364 0
+S
+#112008
+West from the altar~
+Travelling west from the altar, you find yourself in a hallway with a row of
+beds seperated from the world by heavy drapes. Peering behind one of the
+curtains, you are surprised to find what only can be described as a sickbed. The
+hallways is a hospital of sorts. Towards the end of the hallway, you notice an
+ornately carved door. As you study it more closely, you hear a female voice say:
+"That door was given to the leader of the paladins and templars allmost a
+century ago, by a farmer who was rescued from a band of goblins by the leader.
+He put it here, to remind the soldiers what their godgiven task was, protect the
+innocent."
+~
+0 DKS 1
+D1
+To the altar~
+~
+0 -1 112003
+D3
+To the Bunkhouse~
+~
+1 0 112009
+S
+#112009
+Paladin/templar bunkhouse~
+Still marveling at the door, you step through it into a large sleeping hall and 
+dining room. Along both sides of the hall, there are beds and chests at the foot
+of those beds. Just like in the priest's quarter, there is a long table in the 
+center of the room. The big difference though, are the large double doors
+leading out at the back of the room. From what you can see, there are stables
+behind those doors. Around the room, you notice several men, all of who appear
+to be working on weapons or armour. As you look around, an old looking soldier
+approaches you. From the look of his face, he has seen many battles. "Can i help
+you with anything, young man?"
+~
+0 271364 0
+S
+#112010
+At the base of the west tower~
+AS you look up, you see one of the famous twin towers of the Cathedral. On this
+tower, all the decorations have a natural theme. Magnificent animals, trees and
+plants adorn the full height of the tower. Allmost hidden away by a sculpture,
+a low door allows you entrance to the tower.
+~
+0 DKS 1
+D1
+To the Cathedral entrance~
+~
+0 -1 112001
+D3
+Into the west tower~
+~
+1 0 112011
+S
+#112011
+In the west tower~
+This is the residence of the monks of the Cathedral. Bare and austere, these
+are not for those who enjoy the finer things in life. You see several small
+"cells" at this level, along with a simple shrine at the far wall. Though there
+is a staircase leading up, presumably to the library and the workshops, only
+those who live here are allowed up the stairs. A single monk approaches you
+beckoning you to be silent and join him in prayer.
+~
+0 271364 0
+S
+#112012
+At the base of the east tower~
+The clerics occupy this tower. They practice their arts in this tower. As you
+look at the tower, you realise that it is the opposite of the western tower.
+Where the western tower had a natural theme, this tower has a definate unnatural
+theme. 
+Many demons and gargoyles. An entrance to the tower stand open before you,
+allmost inviting you in...
+~
+0 DKS 1
+D1
+Into the east tower~
+~
+1 0 112013
+D3
+To the entrance of the Cathedral~
+~
+0 -1 112001
+S
+#112013
+In the east tower~
+Somehow the space inside the tower looks a lot larger then it should have been.
+Along one side you see several beds, most of which are occupied by patients.
+Along the other side of the hall, there are several doors. To what they lead,
+you dont know. And just as  you are about to go to the doors to see what's 
+behind them, a surprisingly young man approaches you from you dont know where, 
+and asks you: "How can i help you, my son? What knowledge do you seek?"
+~
+0 271364 0
+S
+#0
+
+
+#RESETS
+*mob resets
+M 0 112000 1 112005 1
+M 0 112001 1 112007 1
+M 0 112002 1 112009 1
+M 0 112003 1 112011 1
+M 0 112004 1 112013 1
+M 0 112005 1 112004 1
+M 0 112006 1 112008 1
+
+*door resets
+D 0 112003 2 1 *altar
+D 0 112004 0 1 *aide
+D 0 112004 2 1 *aide
+D 0 112006 1 1
+D 0 112008 3 1
+D 0 112008 3 1
+D 0 112010 3 1
+D 0 112012 1 1 
+S
+
+#$

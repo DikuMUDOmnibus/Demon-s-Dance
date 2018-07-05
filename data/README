@@ -1,0 +1,6 @@
+This is the data directory, defined in merc.h
+by DATA_DIR.  Not much is actually stored here,
+but the CLASS_DIR is underneath it, so it's
+fairly important.
+
+DO NOT DELETE

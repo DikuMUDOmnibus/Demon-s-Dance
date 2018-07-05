@@ -1,0 +1,346 @@
+#CLASS
+Name taomaster~
+WhoN Tao
+Prime 1
+Weapon 3701
+Guild1 3018
+Guild2 9618
+Skill 80
+Thac00 50
+Thac32 10
+HPMin 11
+HPMax 15
+FMana 1
+Remort 1
+Base tao basics~
+Default tao default~
+End
+#SKILLS
+mind thrust~
+101 0
+mind blast~
+101 0
+mind crush~
+101 0
+mind thrust~
+10 1
+mind blast~
+35 1
+mind crush~
+50 2
+thermonuclear blast~
+110 1
+reserved~
+0 0
+hold person~
+40 1
+cause critical~
+101 0
+cause light~
+101 0
+cause serious~
+101 0
+chain lightning~
+101 0
+cure critical~
+101 0
+earthquake~
+101 0
+fireball~
+101 0
+flamestrike~
+101 0
+harm~
+101 0
+invisibility~
+101 0
+lightning bolt~
+101 0
+mass invis~
+101 0
+shocking grasp~
+101 0
+sleep~
+101 0
+backstab~
+101 0
+acid blast~
+10 1
+armor~
+4 1
+bless~
+8 2
+burning hands~
+7 1
+call lightning~
+26 1
+calm~
+45 1
+cancellation~
+18 1
+cause light~
+101 0
+cause serious~
+101 0
+change sex~
+90 1
+charm person~
+101 0
+chill touch~
+4 1
+colour spray~
+16 1
+continual light~
+4 1
+control weather~
+15 1
+cure blindness~
+50 2
+cure disease~
+48 1
+cure light~
+0 0
+cure poison~
+70 1
+create golem~
+70 4
+cure serious~
+0 0
+curse~
+60 1
+demonfire~
+34 1
+detect evil~
+11 1
+detect good~
+11 1
+detect hidden~
+15 1
+detect invis~
+3 1
+detect magic~
+2 1
+detect poison~
+15 1
+discern weakness~
+58 1
+dispel evil~
+19 1
+dispel good~
+19 1
+dispel magic~
+25 1
+enchant armor~
+70 1
+enchant weapon~
+80 1
+energy drain~
+17 1
+faerie fire~
+6 1
+faerie fog~
+21 1
+farsight~
+13 0
+fireproof~
+13 1
+fly~
+10 1
+floating disc~
+4 1
+frenzy~
+34 1
+gate~
+17 1
+giant strength~
+4 1
+haste~
+20 1
+heal~
+0 0
+holy word~
+60 1
+identify~
+15 1
+infravision~
+9 1
+know alignment~
+12 0
+locate object~
+27 1
+magic missile~
+1 1
+mass healing~
+101 0
+nexus~
+60 1
+pass door~
+23 1
+portal~
+30 1
+protection evil~
+43 1
+protection good~
+43 1
+ray of truth~
+67 1
+recharge~
+12 1
+refresh~
+8 1
+remove curse~
+22 2
+sanctuary~
+36 2
+shield~
+14 2
+stone skin~
+40 1
+teleport~
+79 1
+ventriloquate~
+1 1
+precover~
+0 0
+mrecover~
+0 0
+erecover~
+0 0
+phase~
+15 3
+fireshield~
+20 1
+minsc power~
+0 0
+find dragon~
+0 0
+sever~
+0 0
+venom lance~
+0 0
+thermonuclear blast~
+0 0
+haduken~
+0 0
+triple kick~
+0 0
+shadowslip~
+0 0
+fatality~
+0 0
+smite~
+0 0
+holy armor~
+0 0
+divine right~
+0 0
+greater healing~
+0 0
+fanatics flame~
+0 0
+heavenly justice~
+0 0
+vise grip~
+44 1
+giga blast~
+44 1
+supernova~
+77 1
+elemental shield~
+36 2
+repulsar~
+97 2
+acid breath~
+31 1
+fire breath~
+40 1
+frost breath~
+34 1
+gas breath~
+39 1
+lightning breath~
+37 1
+general purpose~
+0 0
+high explosive~
+0 0
+axe~
+1 5
+dagger~
+1 3
+flail~
+1 4
+mace~
+1 3
+polearm~
+1 5
+shield block~
+1 4
+spear~
+1 5
+sword~
+1 3
+whip~
+1 4
+bow~
+1 6
+counter~
+90 8
+phalanx~
+0 0
+strike~
+0 0
+shield wall~
+0 0
+fortify~
+0 0
+dodge~
+22 3
+enhanced damage~
+65 6
+whirlwind~
+101 0
+envenom~
+15 0
+hand to hand~
+1 5
+kick~
+12 3
+parry~
+22 4
+second attack~
+32 5
+third attack~
+74 7
+fourth attack~
+101 0
+fifth attack~
+101 0
+second cast~
+20 3
+third cast~
+55 5
+fast healing~
+9 0
+haggle~
+18 0
+forging~
+18 7
+hide~
+12 0
+meditation~
+6 2
+peek~
+50 0
+scrolls~
+1 2
+staves~
+1 2
+wands~
+1 2
+recall~
+1 2
+elemental wrath~
+80 1
+End~
+#END

@@ -1,0 +1,322 @@
+#AREADATA
+Name Player's End~
+Builders None~
+VNUMs 12050 12075
+Credits { ALL } Enzo    Players End~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 12050
+Name no name~
+Short (no short description)~
+Orig_short (no short description)~
+Desc (no description)~
+Material stone~
+Item_type trash
+Extra O
+Wear P
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 12050
+Name Player's End Cemetary~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+12051
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12053
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12056
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12052
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12051
+Name Player's End Cemetary~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+12055
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12050
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12054
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12052
+Name Player's End Cemetary~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+12054
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12050
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12053
+Name Player's End Cemetary~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+12055
+leaves north~
+Exit
+3
+~
+~
+0
+0
+12050
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12054
+Name Player's End Cemetary~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+12051
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12052
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12055
+Name Player's End Cemetary~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+12053
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12051
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12056
+Name A dusty old path~
+Desc The dust billows in fitful bursts as the wind sighs through the trees. 
+The Player's End Cemetary lies just up ahead.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+12050
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12057
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12057
+Name A dusty old path~
+Desc The dust billows in fitful bursts as the wind sighs through the trees. 
+The Player's End Cemetary lies just up ahead.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+12056
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12058
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12058
+Name A dusty old path~
+Desc Past some rusty old iron gates, a gravel path leads north, into the
+dreary Player's Cemetary of Midgaard.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+12057
+leaves north~
+Exit
+3
+~
+~
+0
+0
+3030
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

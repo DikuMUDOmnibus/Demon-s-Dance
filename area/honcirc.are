@@ -1,0 +1,131 @@
+#AREADATA
+Name Honor Circle~
+Builders None~
+VNUMs 30000 30008
+Credits { ALL } Enzo    Honor Circle~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 30000
+Name Honor Circle~
+Desc ~
+Room_flags 2105348
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30001
+Name Waiting room of the Challenger~
+Desc ~
+Room_flags 8196
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30002
+Name Waiting room of the Challenged~
+Desc ~
+Room_flags 8196
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30003
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30004
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30005
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30006
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30007
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 30008
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

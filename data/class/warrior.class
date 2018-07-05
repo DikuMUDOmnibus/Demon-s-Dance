@@ -1,0 +1,192 @@
+#CLASS
+Name warrior~
+WhoN War
+Prime 0
+Weapon 3702
+Guild1 3022
+Guild2 9633
+Skill 75
+Thac00 20
+Thac32 -10
+HPMin 11
+HPMax 15
+FMana 0
+Remort 0
+Base warrior basics~
+Default warrior default~
+End
+#SKILLS
+thermonuclear blast~
+110 1
+armor~
+5 2
+bless~
+48 2
+blindness~
+15 2
+calm~
+20 2
+cancellation~
+34 2
+charm person~
+50 2
+continual light~
+9 2
+cure blindness~
+50 2
+cure disease~
+50 2
+cure poison~
+16 2
+curse~
+22 2
+detect evil~
+12 2
+detect good~
+12 2
+detect hidden~
+12 2
+detect invis~
+6 2
+detect magic~
+5 2
+detect poison~
+5 2
+dispel evil~
+21 2
+dispel good~
+21 2
+dispel magic~
+30 2
+faerie fire~
+8 2
+faerie fog~
+24 2
+fireproof~
+18 2
+fly~
+22 2
+floating disc~
+16 2
+frenzy~
+50 2
+gate~
+28 2
+giant strength~
+20 2
+haste~
+29 2
+identify~
+18 2
+infravision~
+16 2
+know alignment~
+10 2
+locate object~
+11 2
+nexus~
+45 4
+pass door~
+37 2
+plague~
+26 2
+poison~
+21 2
+portal~
+40 4
+protection evil~
+11 2
+protection good~
+11 2
+refresh~
+9 2
+remove curse~
+22 2
+sanctuary~
+70 2
+shield~
+40 2
+sleep~
+11 2
+slow~
+32 2
+stone skin~
+45 2
+summon~
+22 2
+teleport~
+36 2
+weaken~
+17 2
+phase~
+40 6
+fireshield~
+40 2
+discern weakness~
+50 2
+axe~
+1 2
+dagger~
+1 4
+flail~
+1 4
+mace~
+1 5
+polearm~
+1 5
+shield block~
+1 2
+spear~
+1 3
+sword~
+1 3
+whip~
+1 6
+bow~
+1 5
+counter~
+25 6
+bash~
+1 4
+berserk~
+10 4
+dirt kicking~
+6 4
+disarm~
+11 4
+dodge~
+18 6
+enhanced damage~
+1 3
+hand to hand~
+6 4
+kick~
+8 3
+parry~
+24 5
+rescue~
+30 4
+trip~
+15 5
+second attack~
+10 3
+third attack~
+25 4
+fourth attack~
+40 5
+whirlwind~
+32 4
+fast healing~
+6 2
+forging~
+1 4
+scrolls~
+1 8
+staves~
+1 8
+wands~
+1 8
+recall~
+1 2
+End~
+#END

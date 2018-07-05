@@ -1,0 +1,1 @@
+[ 3046] Sera: The sneak command has a little typo, successful is spelt as succsessful

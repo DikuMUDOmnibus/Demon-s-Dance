@@ -1,0 +1,1 @@
+c:\progra~1\rom2\rom24\Debug\rom24.exe 4000

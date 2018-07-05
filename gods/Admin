@@ -1,0 +1,69 @@
+#PLAYER
+Name Admin~
+Id   984262888
+LogO 986176166
+Vers 5
+LnD  Admin is here.
+
+ 
+
+~
+Immtitle {YY{cou{Yr {BG{yo{Bd{x~
+Prom {c<%hhp %mm %vmv>{x ~
+Race human~
+Sex  1
+Cla  1
+Levl 110
+Sec  60
+Plyd 103242
+Not  0 0 0 0 0
+Scro 22
+Room 11016
+HMV  660 660 218 218 454 454
+Gold 1
+Silv 428
+Exp  60000
+Act  CDEFGNQT
+Comm NO
+Pos  8
+Prac 64
+Trai 62
+Alig  0
+ACs 100 100 100 100
+Attr 16 13 13 13 13
+AMod 0 0 0 0 0
+Pass admin~
+Titl  the Implementor~
+Pnts 40
+TSex 1
+LLev 1
+HMVP 660 218 454
+Cnd  0 46 47 47
+Incr 1
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 1 'shield block'
+Sk 1 'spear'
+Sk 41 'sword'
+Sk 1 'whip'
+Sk 1 'bash'
+Sk 1 'disarm'
+Sk 1 'enhanced damage'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Gr 'rom basics'
+Gr 'warrior basics'
+Gr 'warrior default'
+Gr 'weaponsmaster'
+End
+
+#END

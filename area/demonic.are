@@ -1,0 +1,156 @@
+#AREADATA
+Name Demonic SlayerZ Clan Hall~
+Builders Enzo~
+VNUMs 25600 25699
+Credits { ALL } Enzo Demonic SlayerZ Clan Hall~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 25600
+Name questmaster lan~
+Short Questmaster Lan~
+Long Questmaster Lan idles here, bored....
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff DFH
+Aff2 0
+Align 0
+Group 0
+Level 109
+Hitroll 5000
+Hit_dice 1000d1000+5000
+Mana_dice 0d0+0
+Dam_dice 1000d1000+5000
+Dam_type crush
+Armor 500 500 500 500
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 25600
+Name {rDe{Rmon{ric {DSl{waye{WrZ{x Clan Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25601
+leaves north~
+Exit
+5
+~
+~
+0
+0
+25602
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25601
+Name {RL{rair {Wo{wf {Dth{we {DDa{wmn{Ded{x~
+Desc ~
+Room_flags 1024
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25600
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25602
+Name SlayerZ Tomb~
+Desc ~
+Room_flags 9280
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+25600
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25603
+Name SlayerZ Prep Room~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 25600 spec_questmaster
+S
+
+
+
+#RESETS
+O 0 25005 0 25600
+M 0 25600 1 25601 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

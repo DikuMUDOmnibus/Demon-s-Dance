@@ -1,0 +1,22 @@
+#
+Snmbr 0
+SName ribcage~
+PName ~
+TVict {W$n {Gfound the quickest way to your {rheart{G, through your {RRIBCAGE{G! Then $e shows it to you.{x~
+TChar {GYou rip through {W$N's {RRIBCAGE {Gand tear out $S still beating {rheart{G!{x~
+TRoom {W$n {rrips {Gthrough {W$N's {Gchest and removes $S still beating {rheart{G!{x~
+#
+Snmbr 100
+SName wayaspa~
+PName Taka~
+TVict {GWith a sharp pain {W$n {Gsinks $s {wteeth {Ginto your flesh and you life slips away!{x~
+TChar {GYou bite into $S flesh and savor their life as it drains from their body!{x~
+TRoom {W$n {Gsinks $s {wteeth {Ginto {W$N's {Gflesh and watches as $E dies slowly and painfully!{x~
+#
+Snmbr 999
+SName ~
+PName ~
+TVict {W$n {Gslays you in {Bcold {rblood{G!{x~
+TChar {RYou have been killed!{x~
+TRoom {W$n {Gslays {W$N {Gin {Bcold {rblood{G!{x~
+$

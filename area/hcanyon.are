@@ -1,0 +1,770 @@
+#AREADATA
+Name Hellfire Canyon~
+Builders Kashmir~
+VNUMs 12100 12199
+Credits {80 101} Kashmir  Hellfire Canyon~
+Security 1
+End
+
+
+
+#MOBILES
+{
+12100
+Name dark imp dalethorn~
+Short a small, dirty imp~
+Long A small, figure darts across the shadows to avoid your eye.
+~
+Description ~
+Race goblin~
+Act_flags ACGW
+Aff JPQ
+Aff2 0
+Align -400
+Group 0 0
+Level 85
+Hitroll 47
+Hit_dice 50d100+2000
+Mana_dice 1d1+100
+Dam_dice 8d8+40
+Dam_type bite
+Armor -87 -92 -92 -85
+Off NP
+Teach A
+Imm ABP
+Res IQ
+Vuln CR
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 200
+Form ABHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+}
+
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+{
+12100
+Name Along a Wilderness Path~
+Desc You leave the main road to venture along a large wilderness path. All
+around you trees, bushes and other shrubs prevent you from leaving 
+the path.  From here the path continues to the south, deeper into
+the forest and to the <dir> towards the road.
+~
+Room_flags 4 Sector_type 3
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12101
+Exit_string leaves south~
+]
+
+}
+
+{
+12101
+Name Along a Wilderness Path~
+Desc As you venture along a wilderness path light from the north seems
+to become less and less adequate.  Looking south the light seems
+to almost disappear as the trees get larger and the path grows
+smaller and smaller.  To the north, the path turns east.
+~
+Room_flags 0 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12100
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12102
+Exit_string leaves south~
+]
+
+}
+
+{
+12102
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 0 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12101
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12103
+Exit_string leaves south~
+]
+
+}
+
+{
+12103
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12102
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12105
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12106
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12104
+Exit_string leaves west~
+]
+
+}
+
+{
+12104
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12110
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12103
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12107
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12105
+Exit_string leaves west~
+]
+
+}
+
+{
+12105
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12111
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12104
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12108
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12103
+Exit_string leaves west~
+]
+
+}
+
+{
+12106
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12103
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12108
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12109
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12107
+Exit_string leaves west~
+]
+
+[
+Orig_door 4
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12112
+Exit_string leaves up~
+]
+
+}
+
+{
+12107
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12104
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12106
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12110
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12108
+Exit_string leaves west~
+]
+
+}
+
+{
+12108
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12105
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12107
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12111
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12106
+Exit_string leaves west~
+]
+
+}
+
+{
+12109
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12106
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12111
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12110
+Exit_string leaves west~
+]
+
+}
+
+{
+12110
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12107
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12109
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12104
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12111
+Exit_string leaves west~
+]
+
+}
+
+{
+12111
+Name {DA Dark Path{x~
+Desc Darkness surrounds you as you stand deep within a large forest.
+Your eyes fail to pick out anything discernable beyond two or
+three feet from where you stand.  Your light almost disappears
+as you hold your arm out.  What kind of magic could cause such
+darkness?
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12108
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12110
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12105
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12109
+Exit_string leaves west~
+]
+
+}
+
+{
+12112
+Name Climbing a {GTree{x~
+Desc Using your hands as your only guide, you blindly make your way
+up a large tree.  Above you, you can see light poking through the
+top of the tree.  Below you, darkness engulfs everything.
+~
+Room_flags 1 Sector_type 3
+[
+Orig_door 4
+Exit_desc Light streams into the top portions of the tree you are
+climbing.
+~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12113
+Exit_string leaves up~
+]
+
+[
+Orig_door 5
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12106
+Exit_string leaves down~
+]
+
+}
+
+{
+12113
+Name The Top of a Huge Tree~
+Desc After a great deal of climbing you have finally reach the top
+of what appears to be the tallest tree in the forest.  The light
+from the sky makes the visibility from the location almost endless.
+You can see a dragon circling a tower FAR off in the distance.  You
+feel as if you could almost see the Gods themselves from this high.
+Apparently you are not the first person to climb this tree. A very
+primitive rope bridge is attached to the trunk of the tree and 
+stretches off towards a tree to the south.
+~
+Room_flags 0 Sector_type 3
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12114
+Exit_string leaves south~
+]
+
+[
+Orig_door 5
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12112
+Exit_string leaves down~
+]
+
+}
+
+{
+12114
+Name High Above a Forest on a Rope~
+Desc This isn't the brightest idea you've ever had, but you still
+decide to do it.  The rope wobbles to the south, heading back
+to the north would be impossible.
+~
+Room_flags 4 Sector_type 3
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12115
+Exit_string leaves south~
+]
+
+}
+
+{
+12115
+Name High Above a Forest on a Rope~
+Desc You very quickly realize why this was a bad idea...
+ 
+ 
+ 
+You Are ..... F
+                 A
+                    L
+                       L
+                          I
+                             N
+                                G
+                                   !
+ 
+{R***OOOOOFFFFF***{x
+~
+Room_flags 4 Sector_type 3
+[
+Orig_door 4
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12116
+Exit_string leaves up~
+]
+
+}
+
+{
+12116
+Name Atop a Pile of Rubble~
+Desc You are standing upon a large pile a crumbled rock caused
+by your fall from high above.  Your footing is very unstable
+as the rocks are sharp and jagged.  Darkness surrounds you making
+your visibility very little.  Looking far above you can see the forest
+towering high above the canyon.  The canyon continues to the east and the
+west from here.
+~
+Room_flags 5 Sector_type 5
+}
+
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#12100
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

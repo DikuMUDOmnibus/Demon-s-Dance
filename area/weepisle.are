@@ -1,0 +1,59 @@
+#AREADATA
+Name The Weeping Isle~
+Builders Rhum~
+VNUMs 27400 27599
+Credits { 80+ } Rhum    The Weeping Isle~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 27400
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

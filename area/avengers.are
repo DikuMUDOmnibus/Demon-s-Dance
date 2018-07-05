@@ -1,0 +1,182 @@
+#AREADATA
+Name Avengers Clan Hall~
+Builders Enzo~
+VNUMs 25100 25199
+Credits { ALL } Enzo Avengers Clan Hall~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 25100
+Name thorr questmaster master~
+Short {GT{Rh{Yo{Gr{Rr{x~
+Long {GT{Rh{Yo{Gr{Rr{x the {GA{Rv{Ye{Gn{Rg{Ge{Yr{Gs' {xQuestmaster is here
+~
+Description I am a Questmaster, a Questmaster is what I am 
+~
+Race human~
+Act_flags ABPT
+Aff CDEFGH
+Aff2 0
+Align 0
+Group 0
+Level 110
+Hitroll 4000
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 4000d4000+4000
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm ABEFGHIJKMN
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 25100
+Name {GA{Rv{Ye{Gn{Rg{Ge{Yr{Gs {xClan Hall~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25104
+leaves north~
+Exit
+3
+~
+~
+0
+0
+25101
+leaves west~
+Exit
+5
+~
+~
+0
+0
+25102
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25101
+Name {GA{Rv{Ye{Gn{Rg{Ge{Yr{Gs{x Trophy Room~
+Desc ~
+Room_flags 9216
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25100
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25102
+Name Tomb of the Avengers~
+Desc ~
+Room_flags 9280
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+25100
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25103
+Name Avenger's Prep Room~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25104
+Name Avenger's Clan Temple~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25100
+leaves south~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 25100 spec_questmaster
+S
+
+
+
+#RESETS
+O 0 25005 0 25100
+M 0 25100 1 25101 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

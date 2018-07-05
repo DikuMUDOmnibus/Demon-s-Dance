@@ -1,0 +1,42 @@
+So, you've downloaded the only version of Demon's Dance.
+I suppose writing detailed instructions would be a little
+useless, as it is most likely that the only people downloading
+this will be other coders curious as to what I wrote. But here
+are some rudimentary instructions anyways:
+
+1.  There is already a MSVC .NET project in the root dir
+    of the mud, but if you have a different version, it
+    shouldn't be hard to create your own.  You want an
+    empty win32 console project.
+2.  You need to add wsock32.lib into the linker libraries 
+    under the project options.
+3.  Copyover was sort of working, the only problem is
+    MSVC cannot rebuild onto a program currently running.
+    When I was fiddling, I had it switch between two
+    seperate programs, which I would build as needed.
+    Rom24.exe is the main executable.
+4.  Upon execution, create a character, save, and quit.
+    Open up the file "../player/<name>.dir" and change your
+    level to 110, and your security to 60.  This should allow
+    you to use all the immortal commands.
+
+5.  For all you linux junkies out there, I have successfully
+    ported this to linux, the only difficulties arise from
+    comments using "//" instead of "/* */", and from the
+    #ifdef (WIN32) things.  The major changes will occur
+    in comm.c where you'll have to make it use the correct
+    embedded socket functions, instead of the windows ones.
+    Just search for WIN32, and use your intelligence to change
+    it.
+
+6.  If you need help, contact me at:
+	AIM:	Drax1983
+	Email:	narf1983@hotmail.com
+
+Hope you enjoy,
+Stan/Enzo.
+
+
+
+Demon's Dance is the Intellectual Property of Eric Goetschalckx,
+and the diku rom merc and startermud teams.

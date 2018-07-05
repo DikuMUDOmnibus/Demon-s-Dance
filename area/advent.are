@@ -1,0 +1,4018 @@
+#AREADATA
+Name Adventurers' Guild~
+Builders Akmaro~
+VNUMs 26200 26299
+Credits { ALL } Akmaro  The Adventurers' Guild~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 26200
+Name Doctor Nic~
+Short Doctor Nic~
+Long Doctor Nic is here, treating patients.
+~
+Description Doctor Nic hums happily to himself.  "The arm bone is connected to the
+hand bone, the hand bone is connected to my wrist watch!  Oh that can't be
+good..."  Perhaps you should stay out of his operating room if possible.  
+~
+Race human~
+Act_flags ABPQa
+Aff CDEFGJVZ
+Aff2 0
+Align 1000
+Group 0
+Level 110
+Hitroll 999
+Hit_dice 1000d1000+10000
+Mana_dice 1000d1000+100000
+Dam_dice 100d100+100
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm CD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+MobTrig GRALL 26200 100~
+EndMob
+
+#MOB
+Vnum 26201
+Name knight dupre~
+Short Dupre~
+Long Dupre is here, waiting to train new adventurers in the art of war.
+~
+Description Dupre is of the Order of Cinncinatus, bound by honor to help those weaker
+than themselves...  Which includes almost everyone.  He is a powerful, but
+very kind, man.  
+~
+Race human~
+Act_flags ABJKPTb
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 400
+Hit_dice 1000d1000+100
+Mana_dice 1000d1000+10
+Dam_dice 100d100+100
+Dam_type slash
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm CD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+MobTrig GRALL 26201 100~
+EndMob
+
+#MOB
+Vnum 26202
+Name jovial fat shopkeeper~
+Short the jovial shopkeeper~
+Long A jovial shopkeeper is here, selling goods.
+~
+Description A fat, jovial man stands behind the counter, offering various weapons to
+you on your travels.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 123
+Hit_dice 1000d1000+1
+Mana_dice 12d12+12
+Dam_dice 100d100+1
+Dam_type cleave
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+MobTrig GRALL 26202 100~
+EndMob
+
+#MOB
+Vnum 26203
+Name quiet shopkeeper man~
+Short the quiet shopkeeper~
+Long A quiet shopkeeper is here, timidly offering to sell you goods.
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff V
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 999
+Hit_dice 1000d1000+1000
+Mana_dice 0d0+0
+Dam_dice 100d100+10
+Dam_type stab
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm CD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26204
+Name wounded kobold~
+Short a wounded kobold~
+Long A wounded kobold is here, snarling at you viciously
+~
+Description This kobold is severely injured, and shouldn't pose too much of a threat
+to you.  
+~
+Race kobold~
+Act_flags AB
+Aff J
+Aff2 0
+Align -200
+Group 0
+Level 5
+Hitroll 5
+Hit_dice 8d10+10
+Mana_dice 10d10+10
+Dam_dice 2d4+1
+Dam_type pound
+Armor 20 20 20 20
+Off 0
+Teach A
+Imm 0
+Res L
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form ABHMV
+Parts ABCDEFGHIJKQZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26205
+Name large rat~
+Short a large rat~
+Long A large rat is here, scampering around your feet
+~
+Description This rat has coarse grey hair, and very sharp incisors.  It looks
+half-starved, and will eat almost anything for a meal.  
+~
+Race kobold~
+Act_flags ABC
+Aff J
+Aff2 0
+Align -200
+Group 0
+Level 6
+Hitroll 6
+Hit_dice 9d11+10
+Mana_dice 10d10+10
+Dam_dice 2d3+2
+Dam_type bite
+Armor 22 22 22 22
+Off 0
+Teach A
+Imm 0
+Res LQ
+Vuln CH
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 30
+Form ABHMV
+Parts ABCDEFGHIJKQZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26206
+Name wounded gargoyle~
+Short a wounded gargoyle~
+Long A wounded gargoyle is here, clawing it's way towards you
+~
+Description E s The wounded gargoyle is severely wounded, and shouldn't be too much
+of a challenge.  
+~
+Race gargoyle~
+Act_flags AB
+Aff ET
+Aff2 0
+Align -300
+Group 0
+Level 8
+Hitroll 8
+Hit_dice 10d12+10
+Mana_dice 10d10+10
+Dam_dice 3d3+2
+Dam_type claw
+Armor -25 -25 -25 -25
+Off 0
+Teach A
+Imm L
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 35
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26207
+Name tangle vines~
+Short a tangle vine~
+Long A vine entwines itself around your foot!
+~
+Description The tangle vine is a mass of thick thorn-covered vines, writhing without
+any noticeable pattern.  
+~
+Race plant~
+Act_flags AB
+Aff J
+Aff2 0
+Align -300
+Group 0
+Level 10
+Hitroll 10
+Hit_dice 11d13+10
+Mana_dice 10d10+10
+Dam_dice 3d3+2
+Dam_type whip
+Armor -22 -22 -22 -22
+Off E
+Teach A
+Imm 0
+Res EF
+Vuln GH
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 40
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26208
+Name small orc~
+Short a small orc~
+Long A small orc is here, cleaning his nails with a short sword
+~
+Description The small orc is actually a hybrid of gnome and orc, but the experiment
+was considered a bitter failure.  Physically weak and small in stature, it
+is the same strength as a gnome, but has vulnerability to light like an orc.
+~
+Race orc~
+Act_flags AB
+Aff JV
+Aff2 0
+Align -400
+Group 0
+Level 12
+Hitroll 14
+Hit_dice 14d14+10
+Mana_dice 10d10+100
+Dam_dice 4d3+3
+Dam_type slash
+Armor -30 -30 -30 -30
+Off 0
+Teach A
+Imm 0
+Res Q
+Vuln CS
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 45
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26209
+Name orc shaman~
+Short an orc shaman~
+Long An orc shaman is here, shaking a stick at you angrily!
+~
+Description The orc shaman shakes a worthless looking stick at you, and mutters
+incantations under his breath.  
+~
+Race orc~
+Act_flags ABQ
+Aff J
+Aff2 0
+Align -400
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 17d15+10
+Mana_dice 100d3+10
+Dam_dice 4d4+2
+Dam_type magic
+Armor -30 -30 -30 -30
+Off 0
+Teach A
+Imm 0
+Res Q
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26210
+Name injured ogre~
+Short an injured ogre~
+Long An injured ogre is here, bleeding all over the place
+~
+Description The ogre is wounded, and very angry.  Even weakened ogres are physically
+strong, so weaker players beware.  
+~
+Race ogre~
+Act_flags AB
+Aff Jac
+Aff2 0
+Align -400
+Group 0
+Level 17
+Hitroll 17
+Hit_dice 20d16+10
+Mana_dice 10d10+10
+Dam_dice 4d4+3
+Dam_type crush
+Armor -30 -30 -30 -30
+Off O
+Teach A
+Imm P
+Res EHL
+Vuln GI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 55
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26211
+Name large viper~
+Short a large viper~
+Long A large viper is here, slithering towards you
+~
+Description The viper is at least 10 feet long, and has very sharp-looking fangs.  If
+an adventurer isn't careful, it could do some serious damage.  
+~
+Race snake~
+Act_flags AB
+Aff VZ
+Aff2 0
+Align -300
+Group 0
+Level 20
+Hitroll 20
+Hit_dice 22d18+10
+Mana_dice 10d10+10
+Dam_dice 4d5+3
+Dam_type bite
+Armor -30 -30 -30 -30
+Off 0
+Teach A
+Imm Q
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 60
+Form AGXYc
+Parts ADEFKLQVXZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26212
+Name gnome warrior~
+Short a gnome warrior~
+Long A gnome warrior is here, polishing his sword
+~
+Description The gnome warrior stands four feet tall, and armed to the teeth. 
+Although small in stature, he could easily dispatch unwary adventurers.  
+ 
+~
+Race gnome~
+Act_flags AB
+Aff EV
+Aff2 0
+Align -200
+Group 0
+Level 23
+Hitroll 23
+Hit_dice 30d20+10
+Mana_dice 10d10+10
+Dam_dice 5d5+2
+Dam_type slice
+Armor -30 -30 -30 -30
+Off 0
+Teach A
+Imm 0
+Res EKP
+Vuln GLQ
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 60
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26213
+Name dragon hatchling~
+Short a dragon hatchling~
+Long A dragon hatchling is here, searching for it's mother
+~
+Description The dragon hatchling is 3 feet tall, but considered tiny for it's race. 
+Small fledging wings are growing from it's back, and it's claws are already
+sharpening to razor-sharp killing tools.  
+~
+Race dragon~
+Act_flags AB
+Aff JTVa
+Aff2 0
+Align -200
+Group 0
+Level 25
+Hitroll 25
+Hit_dice 32d22+30
+Mana_dice 20d10+50
+Dam_dice 5d6+3
+Dam_type claw
+Armor -35 -35 -35 -35
+Off 0
+Teach A
+Imm 0
+Res BEH
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 75
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26214
+Name shopkeeper Grisham~
+Short Grisham~
+Long Grisham is here, selling weapons to newbies
+~
+Description Grisham is powerfully muscled, and could rip most men into two seperate
+pieces without breaking a sweat.  He is very friendly, and offers you a
+handshake as you enter into his store.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 500
+Hit_dice 1000d1000+10000
+Mana_dice 100d100+100
+Dam_dice 100d100+100
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26215
+Name Colin shopkeeper~
+Short Colin~
+Long Colin is here, selling armor to newbies
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 102
+Hitroll 600
+Hit_dice 1000d1000+10000
+Mana_dice 100d100+100
+Dam_dice 100d100+1000
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26216
+Name shopkeeper Kaliphi~
+Short Kaliphi~
+Long Kaliphi is here, selling magical items to adventurers
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 102
+Hitroll 400
+Hit_dice 1000d1000+1000
+Mana_dice 1000d1000+1000
+Dam_dice 100d100+1000
+Dam_type punch
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 100000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 26200
+Name broad sword broadsword~
+Short a broadsword~
+Orig_short a broadsword~
+Desc A broadsword is here, lying on the ground.~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 3 7 slash DJ
+Level 5
+Weight 10
+Cost 500
+Condition P
+AffectObj
+18 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 26201
+Name rune-etched dagger etched~
+Short a rune-etched dagger~
+Orig_short a rune-etched dagger~
+Desc A rune-etched dagger is here, collecting dust.~
+Material steel~
+Item_type weapon
+Extra G
+Wear AN
+Values dagger 3 5 pierce DK
+Weapon_spell chill touch
+Level 5
+Weight 4
+Cost 500
+Condition P
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 26202
+Name short sword shortsword~
+Short a short sword~
+Orig_short a short sword~
+Desc A short sword lies forgotten on the ground.~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 3 6 stab K
+Level 5
+Weight 8
+Cost 500
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26203
+Name spiked mace~
+Short a spiked mace~
+Orig_short a spiked mace~
+Desc A spiked mace lies on the ground, getting rusty.~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values mace 3 7 pound 0
+Level 5
+Weight 15
+Cost 500
+Condition P
+AffectObj
+18 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 26204
+Name two-handed battleaxe axe~
+Short a two-handed battle axe~
+Orig_short a two-handed battle axe~
+Desc A two-handed battle axe is here, the metal glinting in the light.~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values axe 4 8 cleave DF
+Level 5
+Weight 20
+Cost 800
+Condition P
+AffectObj
+18 2
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 26205
+Name metal-studded whip~
+Short a metal-studded whip~
+Orig_short a metal-studded whip~
+Desc A metal-studded whip is lying on the ground, waiting to be used.~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values whip 2 9 whip 0
+Level 5
+Weight 8
+Cost 500
+Condition P
+AffectObj
+18 2
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26206
+Name polished steel breastplate plate~
+Short a polished steel breastplate~
+Orig_short a polished steel breastplate~
+Desc A breastplate shimmers in the light, highly polished.~
+Material steel~
+Item_type armor
+Extra 0
+Wear AD
+Values BD D ABD BC 0
+Level 5
+Weight 20
+Cost 800
+Condition P
+AffectObj
+19 1
+AffectObj
+13 20
+EndObj
+
+#OBJ
+Vnum 26207
+Name steel bracer polished~
+Short a polished steel bracer~
+Orig_short a polished steel bracer~
+Desc A polished steel bracer catches the light.~
+Material steel~
+Item_type armor
+Extra 0
+Wear AM
+Values AC C BC B 0
+Level 5
+Weight 5
+Cost 500
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 26208
+Name worn leather boots~
+Short a pair of worn leather boots~
+Orig_short a pair of worn leather boots~
+Desc A pair of worn leather boots lie on the ground, forgotten by their owner.~
+Material unknown~
+Item_type armor
+Extra GSY
+Wear AG
+Values AB AB AB AB 0
+Level 5
+Weight 3
+Cost 550
+Condition P
+AffectObj
+2 3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 26209
+Name polished steel greaves~
+Short a pair of polished steel greaves~
+Orig_short a pair of polished steel greaves~
+Desc Some polished steel greaves have been left here on the ground.~
+Material steel~
+Item_type armor
+Extra 0
+Wear AF
+Values BC C D AB 0
+Level 5
+Weight 10
+Cost 500
+Condition P
+AffectObj
+1 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26210
+Name torch old flickering~
+Short an old flickering torch~
+Orig_short an old flickering torch~
+Desc An old flickering torch has been left on the ground.~
+Material wood~
+Item_type light
+Extra ASY
+Wear A
+Values 0 0 ABDG 0 0
+Level 5
+Weight 2
+Cost 50
+Condition P
+AffectObj
+18 3
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26211
+Name old beaten leather backpack~
+Short an old leather backpack~
+Orig_short an old leather backpack~
+Desc A beaten leather backpack lies forgotten on the ground.~
+Material leather~
+Item_type container
+Extra SY
+Wear AK
+Values 1000 0 0 200 5
+Level 5
+Weight 2
+Cost 100
+Condition P
+EndObj
+
+#OBJ
+Vnum 26212
+Name spear knight polished steel~
+Short a knight's polished steel spear~
+Orig_short a knight's polished steel spear~
+Desc A knight's polished steel spear is lying here on the ground, getting rusty.~
+Material steel~
+Item_type weapon
+Extra 0
+Wear AN
+Values staff 4 8 lunge DF
+Level 5
+Weight 20
+Cost 800
+Condition P
+AffectObj
+19 2
+AffectObj
+18 4
+EndObj
+
+#OBJ
+Vnum 26213
+Name akmaro sign chalk~
+Short Akmaro's Sign~
+Orig_short Akmaro's Sign~
+Desc A sign is here, with {Wread sign{x written in chalk~
+Material wood~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+ExtraDesc
+sign~
+Your character will be more powerful in the long run if you train your
+wisdom, constitution, and intelligence when you are a lower level.  For
+first tier characters, it is recommended you train wisdom to max (40), then
+intelligence, and then constitution.  Your character will be stronger if you
+do this early on, than if you waste trains on strength or dexterity at lower
+levels.  
+~
+EndObj
+
+#OBJ
+Vnum 26214
+Name newbie sword~
+Short newbie sword~
+Orig_short newbie sword~
+Desc A newbie sword lies on the ground, awaiting an owner~
+Material newbie ore~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 2 5 slash J
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 2
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26215
+Name newbie short sword~
+Short newbie short sword~
+Orig_short newbie short sword~
+Desc A newbie short sword is here, looking for an owner~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 2 4 slash K
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26216
+Name newbie dagger~
+Short newbie dagger~
+Orig_short newbie dagger~
+Desc A newbie dagger is here, ready to be wielded~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values dagger 2 4 pierce DK
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26217
+Name newbie mace~
+Short newbie mace~
+Orig_short newbie mace~
+Desc A newbie mace lies here, ready to bash some skulls~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values mace 2 5 pound K
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 26218
+Name newbie whip~
+Short newbie whip~
+Orig_short newbie whip~
+Desc A newbie whip is here, ready for an owner~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values whip 2 4 whip K
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 26219
+Name newbie axe~
+Short newbie axe~
+Orig_short newbie axe~
+Desc A newbie axe is ready to cleave some mobs~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values axe 3 6 cleave DF
+Level 1
+Weight 5
+Cost 250
+Condition P
+AffectObj
+18 3
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 26220
+Name newbie spear~
+Short newbie spear~
+Orig_short newbie spear~
+Desc A newbie spear is here, waiting to impale some mobs~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values staff 2 9 lunge DF
+Level 1
+Weight 5
+Cost 250
+Condition P
+AffectObj
+18 3
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 26221
+Name newbie bracer~
+Short newbie bracer~
+Orig_short newbie bracer~
+Desc A newbie bracer is here, lying forgotten on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AM
+Values AB AB AB B 0
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 1
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 26222
+Name newbie gloves~
+Short newbie gloves~
+Orig_short newbie gloves~
+Desc A pair of newbie gloves are here, collecting dust on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AH
+Values A A A A 0
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 1
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 26223
+Name newbie boots~
+Short newbie boots~
+Orig_short newbie boots~
+Desc A pair of newbie boots are here, waiting for an owner~
+Material unknown~
+Item_type armor
+Extra 0
+Wear 0
+Values AB AB AB B 0
+Level 0
+Weight 0
+Cost 100
+Condition P
+AffectObj
+2 1
+AffectObj
+14 30
+EndObj
+
+#OBJ
+Vnum 26224
+Name newbie cloak~
+Short newbie cloak~
+Orig_short newbie cloak~
+Desc A newbie cloak is here, lying on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AC
+Values B B B A 0
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+18 1
+AffectObj
+12 20
+EndObj
+
+#OBJ
+Vnum 26225
+Name newbie helmet~
+Short newbie helmet~
+Orig_short newbie helmet~
+Desc A newbie helmet is here, awaiting an owner~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AE
+Values C C C B 0
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+13 10
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 26226
+Name newbie belt~
+Short newbie belt~
+Orig_short newbie belt~
+Desc A newbie belt lies here on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AL
+Values AB AB AB A 0
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+13 10
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 26227
+Name newbie armor~
+Short newbie armor~
+Orig_short newbie armor~
+Desc A suit of newbie armor lies on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AD
+Values D D D BC 0
+Level 1
+Weight 5
+Cost 250
+Condition P
+AffectObj
+13 30
+AffectObj
+18 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 26228
+Name rune-covered staff covered lightning~
+Short a {Yrune{W-{Ycovered{x staff of lightning~
+Orig_short a {Yrune{W-{Ycovered{x staff of lightning~
+Desc A rune-covered staff of lightning crackles with energy~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 5 5 shbite J
+Weapon_spell lightning bolt
+Level 5
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+18 5
+AffectObj
+19 5
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 26229
+Name rune-covered staff covered fire~
+Short a {Rrune{W-{Rcovered{x staff of fire~
+Orig_short a {Rrune{W-{Rcovered{x staff of fire~
+Desc A rune-covered staff of fire blazes on the ground~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 5 5 flbite J
+Weapon_spell fireball
+Level 5
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+18 5
+AffectObj
+19 5
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 26230
+Name rune-covered staff covered ice~
+Short a {Crune{W-{Ccovered{x staff of ice~
+Orig_short a {Crune{W-{Ccovered{x staff of ice~
+Desc (no description)~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 5 5 frbite J
+Weapon_spell frost breath
+Level 5
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+18 5
+AffectObj
+19 5
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 26231
+Name rune-covered ring~
+Short rune-covered ring~
+Orig_short rune-covered ring~
+Desc A rune-covered ring lies carelessly on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AB
+Values 0 0 0 0 0
+Level 5
+Weight 0
+Cost 2000
+Condition P
+AffectObj
+18 5
+AffectObj
+19 5
+AffectObj
+12 25
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 26232
+Name magicians robes~
+Short magicians' robe~
+Orig_short magicians' robe~
+Desc A magician's robe has been tossed onto the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AK
+Values 0 0 0 0 0
+Level 5
+Weight 0
+Cost 1500
+Condition P
+AffectObj
+18 3
+AffectObj
+19 3
+AffectObj
+12 30
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 26233
+Name newbie potion frenzy~
+Short {WNewbie's Potion of Frenzy{x~
+Orig_short {WNewbie's Potion of Frenzy{x~
+Desc A potion of frenzy bubbles on the ground~
+Material unknown~
+Item_type potion
+Extra G
+Wear AO
+Values 25 'frenzy' '' '' ''
+Level 1
+Weight 0
+Cost 50
+Condition P
+EndObj
+
+#OBJ
+Vnum 26234
+Name newbie potion bless~
+Short {WNewbie's Potion of Bless{x~
+Orig_short {WNewbie's Potion of Bless{x~
+Desc A potion of bless lies carelessly discarded on the ground~
+Material unknown~
+Item_type potion
+Extra 0
+Wear AO
+Values 25 'bless' '' '' ''
+Level 1
+Weight 0
+Cost 50
+Condition P
+EndObj
+
+#OBJ
+Vnum 26235
+Name newbie potion haste~
+Short {WNewbie's Potion of Haste{x~
+Orig_short {WNewbie's Potion of Haste{x~
+Desc A potion of haste lies here on the ground, carelessly forgotten~
+Material unknown~
+Item_type potion
+Extra 0
+Wear AO
+Values 25 'haste' '' '' ''
+Level 1
+Weight 0
+Cost 50
+Condition P
+EndObj
+
+#OBJ
+Vnum 26236
+Name newbie potion sanctuary~
+Short {WNewbie's Potion of Sanctuary{x~
+Orig_short {WNewbie's Potion of Sanctuary{x~
+Desc A potion of sanctuary lies here on the ground, reflecting the light~
+Material unknown~
+Item_type potion
+Extra G
+Wear AO
+Values 25 'sanctuary' '' '' ''
+Level 1
+Weight 0
+Cost 50
+Condition P
+EndObj
+
+#OBJ
+Vnum 26237
+Name newbie potion giant~
+Short {WNewbie's Potion of Giant Strength~
+Orig_short {WNewbie's Potion of Giant Strength~
+Desc A potion of strength lies here~
+Material unknown~
+Item_type potion
+Extra 0
+Wear AO
+Values 25 'giant strength' '' '' ''
+Level 1
+Weight 0
+Cost 50
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 26200
+Name Adventurers' Guild~
+Desc Welcome to the Adventurers' Guild!  You will find many useful things
+here, as well as the dungeons below which have monsters for the brave
+adventurer to slay.  
+~
+Room_flags 1028
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26201
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26292
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26205
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26291
+leaves west~
+Exit
+4
+~
+~
+0
+0
+3001
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26201
+Name Center of the Guild~
+Desc This is the central room of the Adventurers' Guild.  To the west is the
+Infirmary for injured travellers, to the north an adventurer may train, to
+the east is the weapon shop with many useful weapons, and two rooms to the
+south is the armor shop.  Below are the dungeons.  Beware!  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26204
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26202
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26200
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26203
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26293
+leaves up~
+Exit
+5
+~
+~
+0
+0
+26206
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26202
+Name The Adventurers' Den~
+Desc Weapons of all kinds hang from the walls here, waiting to be used by a
+brave adventurer.  Type {Glist{x to see what goods the shopkeeper is
+selling.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26201
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26203
+Name The Infirmary~
+Desc This is the place for wounded travellers to come and rest.  Ancient,
+magical glyphs cover the entire room, preventing any monsters, and also
+restoring your health more quickly.  The good doctor offers his services for
+a small fee, type {Gheal{x to see which spells he is offering.  
+~
+Room_flags 1028
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26201
+leaves east~
+ManaRate 100
+HealRate 600
+EndRoom
+
+#ROOM
+Vnum 26204
+Name Training Yard~
+Desc Various broken practice dummies, tires and ropes, and all sorts of
+training gear litter this room.  Read {Ghelp train{x for more information.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26201
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26205
+Name Adventurers' Haven~
+Desc Numerous tools and appliances of all types are here, ready to be sold to
+an adventurer preparing to set out on a journey.  All sorts of gear can be
+purchased here, including torches, backpacks, and armor.  Comparing objects
+is a helpful and free way to see if a weapon or piece of armor is better
+than your current equipment.  Read {Ghelp compare{x for more details.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26200
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26206
+Name Dungeon, Floor 1~
+Desc Beware, you are entering into the dungeons!  Bones litter the floor,
+doubtless those of adventurers that over-estimated their own ability.  To
+make sure the same thing doesn't happen to you, read {Ghelp wimpy{x and
+learn to evaluate when you need to run.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26209
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26211
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26219
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26207
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26201
+leaves up~
+Exit
+5
+~
+~
+0
+0
+26223
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26207
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26213
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26206
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26214
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26208
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26208
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26207
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26209
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26210
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26216
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26206
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26215
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26210
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26209
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26211
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26217
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26212
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26218
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26206
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26212
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26211
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26213
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26207
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26214
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26207
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26215
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26209
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26216
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26209
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26217
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26211
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26218
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26211
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26219
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26206
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26222
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26220
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26221
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26220
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26219
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26221
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26219
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26222
+Name Floor 1~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26219
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26223
+Name Dungeon, Floor 2~
+Desc Caution!  You are entering the second floor of the dungeon!  Crushed
+skulls of adventurers that have gone before you litter the floor.  To make
+sure you don't end up like them, be sure to use skills during combat.  To
+see a full list of the skills you have and the level at which you can use
+them, type {Gskills all{x.  And hopefully you have better luck than those
+that came before you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26224
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26228
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26230
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26226
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26206
+leaves up~
+Exit
+5
+~
+~
+0
+0
+26240
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26224
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26225
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26237
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26223
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26236
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26225
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26224
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26226
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26232
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26223
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26233
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26227
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26227
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26226
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26228
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26235
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26229
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26234
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26223
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26229
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26228
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26230
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26223
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26238
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26231
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26239
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26231
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26230
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26232
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26226
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26233
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26226
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26234
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26228
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26235
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26228
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26236
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26224
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26237
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26224
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26238
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26230
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26239
+Name Floor 2~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26230
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26240
+Name Dungeon, Floor 3~
+Desc A torch flickers on the wall, then goes out.  Bones litter the ground
+everywhere you look, obviously of past adventurers that didn't have what it
+takes to survive in the dungeon.  To make sure you don't end up like them,
+magic is an extremely important factor of your battles.  Be sure to read
+{Ghelp cast{x to learn more about magic.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26241
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26245
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26249
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26253
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26223
+leaves up~
+Exit
+5
+~
+~
+0
+0
+26257
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26241
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26242
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26244
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26240
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26243
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26242
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26241
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26243
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26241
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26244
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26241
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26245
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26247
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26246
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26248
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26240
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26246
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26245
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26247
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26245
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26248
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26245
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26249
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26240
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26251
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26250
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26252
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26250
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26249
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26251
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26249
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26252
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26249
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26253
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26255
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26240
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26256
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26254
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26254
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26253
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26255
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26253
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26256
+Name Floor 3~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26253
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26257
+Name Dungeon, Floor 4~
+Desc Beware!  You are entering the fourth floor of the dungeons.  The bones
+littering the floor seem fewer here, and no doubt not many adventurers make
+it this far, but to ensure that your good luck continues, be sure to
+{Gpractice{x your skills.  From recall, go 3 south, 3 east, south, and you
+can practice your skills there.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26258
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26262
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26266
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26270
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26240
+leaves up~
+Exit
+5
+~
+~
+0
+0
+26274
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26258
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26259
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26261
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26257
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26260
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26259
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26258
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26260
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26258
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26261
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26258
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26262
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26264
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26263
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26265
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26257
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26263
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26262
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26264
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26262
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26265
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26262
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26266
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26257
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26268
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26267
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26269
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26267
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26266
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26268
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26266
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26269
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26266
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26270
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26272
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26257
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26273
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26271
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26271
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26270
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26272
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26270
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26273
+Name Floor 4~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26270
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26274
+Name Dungeon, Floor 5~
+Desc You enter into the fifth level of the dungeon.  Very few bones lie
+scattered around the room, but you can smell freshly spilled blood.  To make
+sure you don't become another smear on the ground, be sure to {Ggain{x new
+skills and practice them, which can also be done at the sailor 3 south, 3
+east, and south of recall.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26275
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26279
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26283
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26287
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26257
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26275
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26276
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26278
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26274
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26277
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26276
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26275
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26277
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26275
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26278
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26275
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26279
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26281
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26280
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26282
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26274
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26280
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26279
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26281
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26279
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26282
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26279
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26283
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26274
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26285
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26284
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26286
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26284
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26283
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26285
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26283
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26286
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26283
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26287
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26289
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26274
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26290
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26288
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26288
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26287
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26289
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26287
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26290
+Name Floor 5~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26287
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26291
+Name Newbie Weapon Shop~
+Desc This is the shop where newbies can buy various goods for their
+adventures.  It is well-stocked with newbie weapons and equipment.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26200
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26292
+Name Newbie Armor Shop~
+Desc Various armors adorn the walls here, including a large assortment of
+newbie-level armor.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26200
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26293
+Name Magic Shop~
+Desc Items of various magical natures are being sold here, to the adventurer
+that can afford them.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+5
+~
+~
+0
+0
+26201
+leaves down~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 26205 spec_poison
+M 26209 spec_cast_cleric
+M 26211 spec_poison
+S
+
+
+
+#RESETS
+M 0 26202 1 26202 1
+G 0 26204 0
+G 0 26212 0
+G 0 26205 0
+G 0 26203 0
+G 0 26200 0
+G 0 26202 0
+G 0 26201 0
+M 0 26200 1 26203 1
+M 0 26201 1 26204 1
+O 0 26213 0 26204
+M 0 26203 1 26205 1
+G 0 26211 0
+G 0 26210 0
+G 0 26208 0
+G 0 26209 0
+G 0 26207 0
+G 0 26206 0
+M 0 26204 20 26207 1
+M 0 26205 20 26208 1
+M 0 26204 20 26209 1
+M 0 26205 20 26210 1
+M 0 26204 20 26211 1
+M 0 26205 20 26212 1
+M 0 26204 20 26213 1
+M 0 26204 20 26214 1
+M 0 26204 20 26215 1
+M 0 26204 20 26216 1
+M 0 26204 20 26217 1
+M 0 26204 20 26218 1
+M 0 26204 20 26219 1
+M 0 26205 20 26220 1
+M 0 26204 20 26221 1
+M 0 26204 20 26222 1
+M 0 26206 20 26224 1
+M 0 26207 20 26225 1
+M 0 26206 20 26226 1
+M 0 26207 20 26227 1
+M 0 26206 20 26228 1
+M 0 26207 20 26229 1
+M 0 26206 20 26230 1
+M 0 26207 20 26231 1
+M 0 26206 20 26232 1
+M 0 26206 20 26233 1
+M 0 26206 20 26234 1
+M 0 26206 20 26235 1
+M 0 26206 20 26236 1
+M 0 26206 20 26237 1
+M 0 26206 20 26238 1
+M 0 26206 20 26239 1
+M 0 26208 20 26241 1
+M 0 26209 20 26242 1
+M 0 26208 20 26243 1
+M 0 26208 20 26244 1
+M 0 26208 20 26245 1
+M 0 26209 20 26246 1
+M 0 26208 20 26247 1
+M 0 26208 20 26248 1
+M 0 26209 20 26250 1
+M 0 26208 20 26253 1
+M 0 26209 20 26254 1
+M 0 26208 20 26255 1
+M 0 26208 20 26256 1
+M 0 26210 20 26258 1
+M 0 26211 20 26259 1
+M 0 26210 20 26260 1
+M 0 26210 20 26261 1
+M 0 26210 20 26262 1
+M 0 26211 20 26263 1
+M 0 26210 20 26264 1
+M 0 26210 20 26265 1
+M 0 26210 20 26266 1
+M 0 26211 20 26267 1
+M 0 26210 20 26268 1
+M 0 26210 20 26269 1
+M 0 26210 20 26270 1
+M 0 26211 20 26271 1
+M 0 26210 20 26272 1
+M 0 26210 20 26273 1
+M 0 26212 20 26275 1
+M 0 26213 20 26276 1
+M 0 26212 20 26277 1
+M 0 26212 20 26278 1
+M 0 26212 20 26279 1
+M 0 26213 20 26280 1
+M 0 26212 20 26281 1
+M 0 26212 20 26282 1
+M 0 26212 20 26283 1
+M 0 26213 20 26284 1
+M 0 26212 20 26285 1
+M 0 26212 20 26286 1
+M 0 26212 20 26287 1
+M 0 26213 20 26288 1
+M 0 26212 20 26289 1
+M 0 26212 20 26290 1
+M 0 26214 1 26291 1
+G 0 26220 0
+G 0 26219 0
+G 0 26218 0
+G 0 26217 0
+G 0 26214 0
+G 0 26215 0
+G 0 26216 0
+M 0 26215 1 26292 1
+G 0 26227 0
+G 0 26226 0
+G 0 26221 0
+G 0 26222 0
+G 0 26224 0
+G 0 26225 0
+M 0 26216 1 26293 1
+G 0 26230 0
+G 0 26229 0
+G 0 26228 0
+G 0 26231 0
+G 0 26232 0
+G 0 26236 0
+G 0 26235 0
+G 0 26234 0
+G 0 26233 0
+S
+
+
+
+#SHOPS
+26202 5 0 0 0 0 100 50 0 23
+26203 9 33 15 0 0 100 75 0 23
+26214 5 0 0 0 0 100 100 0 23
+26215 9 0 0 0 0 100 50 0 23
+26216 5 9 33 10 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#26200
+say Welcome, $n!
+say Type {Gheal {Yto see a list of spells offered.
+~
+#26201
+say Welcome, $n.
+say Be sure to read the {Ghelp train {Yfile.
+~
+#26202
+say Greetings, $n!
+say Type {Glist{Y to see a list of goods I offer.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

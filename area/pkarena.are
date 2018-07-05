@@ -1,0 +1,1113 @@
+#AREADATA
+Name PK Arena~
+Builders None~
+VNUMs 12000 12049
+Credits { ALL } Enzo    PK Arena~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 12000
+Name warmonger shopkeeper~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags ABT
+Aff CDEFGH
+Aff2 0
+Align 0
+Group 0
+Level 110
+Hitroll 0
+Hit_dice 30000d200+304050506
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 1000 1000 1000 1000
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 12000
+Name The Ready Room~
+Desc You stand in a small sized room, the walls are painted scarlet, and the
+floor is made of sturdy red tiles, because red is said to inspire one's best
+fighting efforts.  Adventurers of all shapes, sizes, and callings surround
+you, psyching for the upcoming battle.  You could cut the tension in here
+with a dull, rusty knife.  
+~
+Room_flags 271364
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12001
+Name The center of the forest~
+Desc This is the middle of the surrounding forest.  All around your feet are
+piles of corpses and puddles of blood from previous battles.  Body parts lie
+strewn across the forest floor.  Only the skeletons of the warriors remain
+as the forest has claimed everything else.  
+~
+Room_flags 1056768
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12017
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12013
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12002
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12025
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12002
+Name The entrance to the southern trails~
+Desc From here you can either go e or w to the corresponding trails in the
+forest.  To the north the forest seems brighter than the usual gloom that
+seems to follow you.  Every few feet there is a skeleton that was slain in
+an earlier skirmish.  Great battles have been won and lost in this forest.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12001
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12003
+leaves east~
+Exit
+3
+~
+~
+0
+0
+12010
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12003
+Name Entrance to the southeastern trails~
+Desc You are at a fork in the primitive trail in the forest.  From here there
+are a number of directions you can go.  The eastern and southern trails seem
+a little more foreboding.  The trail to the north does seem a bit brighter
+but the amount of blood and carnage does not seem to diminish.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12013
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12007
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12004
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12002
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12004
+Name A south bound trail in the forest~
+Desc This a north south bound trail in the forest.  To the south the trail
+seems to grow darker and it looks as if the sun will eventually be blocked
+out totally by the trees.  Skeletons and bodies lie scatered around the
+ground.  The trees have grown through some of the corpses making them seem
+like an actuall growth of the tree.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12003
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12005
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12005
+Name Approaching the end of the southern trail~
+Desc The light is getting dimmer and dimmer as you travel down the trail.  You
+can see that this did not stop earlier fighters from their duels.  Blood
+driping from the trees has formed massive puddles of blood on the floor. 
+Remains of entrails and organs lie strewn about the ground.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12004
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12006
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12006
+Name The end of a southern trail~
+Desc You have reached a dead end in the trail.  Here no light at all pierces
+the forest canopy.  Things seem to move right outside your vision but it is
+hard to tell with the amount of light.  The carnage and blood are think in
+this dead end.  You cannot walk without stepping in some gore.  Several
+skulls are on the floor and they seem to stare with blank eyes.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12005
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12007
+Name Entrance to an eastern trail~
+Desc A trail is here that travels east.  Farther down the trail the light
+seems to diminish greatly.  The thick smell of death comes from the trail. 
+You can see several corpses that litter the ground.  Some seemed to be still
+trying to fight each other even after their death.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12008
+leaves east~
+Exit
+3
+~
+~
+0
+0
+12003
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12008
+Name Approaching the end of an eastern trail~
+Desc The light is dark here.  But you can still make out the gore and blood
+that covers the ground.  You can scarcely make out a spot that hasn't been
+drenched with blood.  The fights here must have been massive and often. 
+Skeletons remain only half buried in the ground.  You can still see quite a
+few of them that have remained after countless years.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12009
+leaves east~
+Exit
+3
+~
+~
+0
+0
+12007
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12009
+Name The end of an eastern trail~
+Desc The light is so dim here that you can scarcely make out anything.  It
+would be difficult to tell if anything was actually moving this far into the
+forest.  However, you can still make out the gore and carnage that litter
+the ground.  There seems to be no end to the amount of death in this unholy
+place.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+3
+~
+~
+0
+0
+12008
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12010
+Name An entrance to a south bound trail.~
+Desc Here lies another south bound trail.  Farther down the light grows thin
+and it is hard to make out anything.  There is a giant puddle of blood that
+is pooled at the entrance to the trail.  Peices of creatures and humans lie
+scattered about everywhere.  Appendages and organs lie amoung the wreckage
+of the dead.  
+~
+Room_flags 1056768
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12025
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12002
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12011
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12026
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12011
+Name Approaching the end of a southern trail~
+Desc Darkness seems to penetrate everything here.  Although there is some
+light there is not much.  The gore seems thicker in this part of the woods. 
+Many battles must have been fought here but the numbers must be amoung the
+thousands.  Nothing seems untouched by the massacres that occured here.  
+~
+Room_flags 1056768
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12010
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12012
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12012
+Name The end of a southern trail~
+Desc You have reached the end of the southern trail.  There is no light in
+this corner of the woods.  Everything seems like a shadow of a shadow.  This
+didn't seem to slow down the warriors though.  Blood is spattered everywhere
+and bodies lie in awkward positions all across the ground.  Some are even
+strewn over the tallest branches of some of the trees.  
+~
+Room_flags 1056768
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12011
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12013
+Name A fork that leads to east bound trails~
+Desc Here the road branches off to two different trails heading to the east. 
+Behind you, you can see the center of the forest which is the only place
+that clear light comes through.  Blood seems to lay everywhere in this dark
+forest.  Not a space on the ground was saved from the bloody past wars that
+were fought here.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12014
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12003
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12001
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12014
+Name An entrance to an easterly path.~
+Desc You stand before a small path that runs east into the dense forest.  The
+path twists and turns and is eventually lost from sight.  The crunch of
+bones echoes loudly from under your boot.  There seems to be nowhere that
+you can go in this forest that will take you away from this bloodbath. 
+Everywhere you look the sight of death follows you.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12018
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12015
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12013
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12017
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12015
+Name Approaching the end of the easterly path~
+Desc As you travel down this heavy traveled path you notice that the trees
+form a barrier around you.  It would be highly unlikely that you could
+escape this place by any normal means.  Your boots splash in the puddles of
+gore and blood that have been freshly spilled.  Dead bodies are everywhere
+in this forest and their seems to be no end to the fighting.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12016
+leaves east~
+Exit
+3
+~
+~
+0
+0
+12014
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12016
+Name A dead end on an easterly path~
+Desc You have reached the dead end of the small path.  There is nothing here
+except for the usual carnage and foilage.  The smell of death is thick.  The
+amount of corpses here are evidence that several large wars were fought in
+this forest throughout time.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+3
+~
+~
+0
+0
+12015
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12017
+Name The entrance to the northerly trails~
+Desc You stand at a fork in the forest.  From here you can either go northeast
+or northwest.  Either way the gore seems about the same.  There seems to be
+no way to escape from it.  Everywhere you look slain enimies lie on the
+ground twisted in postion.  It looks as if the apocalypse has occured here. 
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12014
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12001
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12021
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12018
+Name A north bound path~
+Desc Before a path twists and turns into the darker parts of the forest. 
+Eventually it is devoured by the darkness and lost from sight.  Sw of here
+the forest seems a little less foreboding.  However the dead still litter
+the groud like leaves in the autumn.  The amount of bloodshed is almost
+unbearable.  The stench of death surrounds you like the blood at your feet. 
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12019
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12014
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12019
+Name In the middle of a north bound path~
+Desc As you plunge into the depths of the forest you notice that the light
+doesn't seem to penetrate the foliage here.  The bodies are still visible. 
+You can see them clear as day.  There seems to be no limit to the number of
+casualties.  The scars of the battles are still present in the form of
+broken bones and shattered limbs.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12020
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12018
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12020
+Name A dead end on a north bound path~
+Desc You stand at a dead end on the small path.  In front of you is a line of
+giant trees.  There is hardly any light here.  The darkness swirls around
+you and the forest seems to be alive with creatures.  Tree limbs are broken
+and snapped off as if two giants had been wrestling here.  Also there are
+piles of bodies some as high as your eye level.  Blood runs from them like a
+waterfall.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+12019
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12021
+Name Entrance to north and west bound trails~
+Desc Another fork is here in the forest.  Two paths lead off one to the north
+and one to the west.  The light seems to fade the farther you look down the
+paths.  Until eventually they are swallowed up by the darkness.  Blood seeps
+around your boots and pools at the entrance to the two paths.  It would seem
+that even the trees themselves were bleeding.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12022
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12017
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12025
+leaves south~
+Exit
+3
+~
+~
+0
+0
+12024
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12022
+Name In the middle of a north bound trail~
+Desc As you near the end of the path you notice that the light seems to
+disapear all together.  However, the bodies of corpses are still plainly
+visable.  Some stacked up to 5 feet tall.  It was as if all the warriors
+just collapsed on each other with their final breath.  Bloond and gore leak
+out of the piles and pool on the ground.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12023
+leaves north~
+Exit
+2
+~
+~
+0
+0
+12021
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12023
+Name A dead end on a path~
+Desc At this portion of the trail all the light is blocked out by the
+vegetation.  It is hard to make out anything but the carnage that happened
+earlier can be seen no matter the light.  Piles of intestines and other
+organs are strewn along the ground like so many leaves.  The blood pools at
+your feet almost as if you were walking in a shallow pool.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+12022
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12024
+Name A dead end in the forest~
+Desc The path you were travelling on has stopped abruptly.  In front of you is
+a wall of impassible vines.  The vines have deadly looking thorns
+crisscrossing them in every direction.  Bodies lay impaled on the thorns. 
+There mouths are open in silent screams of death and hatred.  The plants sag
+under the weight of the bodies but still hold true.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12021
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12025
+Name A fork in the road~
+Desc You stand at a fork in the many trails of the forest.  Which way you go
+is entirely up to you.  However behind you, you can see the comforting light
+of the sun.  Farther to the west the light is absorbed by the foliage.  The
+trees here have cuts and dents in them from fighters throwing their weapons
+or opponents at them.  Some bodies still lay transfixed onto some of the
+sharper branches.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+12021
+leaves north~
+Exit
+1
+~
+~
+0
+0
+12001
+leaves east~
+Exit
+2
+~
+~
+0
+0
+12010
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12026
+Name Along a westerly path~
+Desc As you travel down this path you see that the carnage has not decreased
+in amount.  All around you are corpses and bodies of all the different races
+of the world.  Some dismembered some still whole with mortal wounds.  The
+only thing similar between them is that they cease to live.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12010
+leaves east~
+Exit
+3
+~
+~
+0
+0
+12027
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12027
+Name At the end of the road~
+Desc It seems you have reached the end of line.  This trail rounds off into a
+small clearing where bodies lie broken and battered across the ground.  Some
+seem to have been rather recent kills while other are mere skeletons of
+their former self.  Their faces are twisted in looks of terror and pain.  
+~
+Room_flags 1056772
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+12026
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12028
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12030
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12031
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12032
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12033
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12034
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12035
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12036
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12037
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12038
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12039
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12040
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12041
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12042
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12043
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12044
+Name ~
+Desc ~
+Room_flags 1048580
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 12045
+Name Hall of Champions~
+Desc All who compete in the wars come here at some point or another.  Whether
+it be to collect thier prize or to mourn their losses remains up to you. 
+Let us hope you come here for the former.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+5
+~
+~
+0
+0
+3001
+leaves down~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

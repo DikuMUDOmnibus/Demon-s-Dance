@@ -1,0 +1,348 @@
+#CLASS
+Name zealot~
+WhoN Zlt
+Prime 0
+Weapon 3702
+Guild1 3022
+Guild2 9633
+Skill 80
+Thac00 50
+Thac32 10
+HPMin 11
+HPMax 15
+FMana 1
+Remort 1
+Base zealot basics~
+Default zealot default~
+End
+#SKILLS
+judgement~
+50 4
+mind thrust~
+101 0
+mind blast~
+101 0
+mind crush~
+101 0
+thermonuclear blast~
+110 1
+reserved~
+0 0
+acid blast~
+101 0
+burning hands~
+101 0
+change sex~
+101 0
+chill touch~
+101 0
+colour spray~
+101 0
+control weather~
+101 0
+enchant armor~
+101 0
+enchant weapon~
+101 0
+energy drain~
+22 2
+harm~
+38 1
+invisibility~
+101 0
+magic missile~
+101 0
+mass invis~
+101 0
+ventriloquate~
+101 0
+acid breath~
+101 0
+fire breath~
+101 0
+lightning breath~
+101 0
+gas breath~
+101 0
+frost breath~
+101 0
+backstab~
+101 0
+envenom~
+101 0
+fourth attack~
+101 0
+whirlwind~
+101 0
+armor~
+2 1
+bless~
+4 2
+blindness~
+15 2
+call lightning~
+18 1
+calm~
+20 1
+cancellation~
+25 1
+cause critical~
+10 1
+cause light~
+1 1
+cause serious~
+7 1
+chain lightning~
+33 1
+charm person~
+50 2
+continual light~
+4 1
+create food~
+5 1
+create spring~
+17 1
+create water~
+3 1
+cure blindness~
+6 1
+cure critical~
+13 1
+cure disease~
+13 1
+cure light~
+1 1
+cure poison~
+14 1
+cure serious~
+7 1
+curse~
+18 1
+demonfire~
+34 1
+detect evil~
+4 1
+detect good~
+4 1
+detect hidden~
+11 1
+detect invis~
+8 1
+detect magic~
+6 1
+detect poison~
+7 1
+discern weakness~
+78 1
+dispel evil~
+15 1
+dispel good~
+15 1
+dispel magic~
+24 1
+earthquake~
+10 1
+faerie fire~
+3 1
+faerie fog~
+21 1
+farsight~
+16 1
+fireball~
+4 1
+fireproof~
+12 1
+flamestrike~
+44 1
+fly~
+18 1
+frenzy~
+20 1
+gate~
+17 1
+giant strength~
+11 1
+haste~
+20 1
+heal~
+21 1
+holy word~
+36 1
+identify~
+16 1
+infravision~
+13 1
+know alignment~
+9 1
+lightning bolt~
+23 1
+locate object~
+15 1
+mass healing~
+38 2
+nexus~
+35 1
+pass door~
+32 1
+plague~
+17 1
+poison~
+12 1
+portal~
+30 1
+protection evil~
+9 1
+protection good~
+9 1
+ray of truth~
+35 1
+refresh~
+5 1
+remove curse~
+18 1
+sanctuary~
+20 1
+shield~
+35 1
+shocking grasp~
+10 1
+slow~
+30 1
+stone skin~
+30 1
+summon~
+12 1
+teleport~
+22 1
+weaken~
+14 1
+precover~
+0 0
+mrecover~
+0 0
+erecover~
+0 0
+phase~
+15 3
+fireshield~
+35 1
+minsc power~
+0 0
+find dragon~
+0 0
+sever~
+0 0
+venom lance~
+0 0
+thermonuclear blast~
+0 0
+haduken~
+0 0
+triple kick~
+0 0
+shadowslip~
+0 0
+fatality~
+0 0
+smite~
+55 4
+holy armor~
+35 3
+divine right~
+50 3
+greater healing~
+30 1
+fanatics flame~
+44 1
+heavenly justice~
+77 1
+hold person~
+78 1
+general purpose~
+0 0
+high explosive~
+0 0
+axe~
+1 0
+dagger~
+1 4
+flail~
+1 3
+mace~
+1 2
+polearm~
+1 4
+shield block~
+1 3
+spear~
+1 4
+sword~
+1 4
+whip~
+1 3
+bow~
+1 4
+counter~
+40 8
+bash~
+10 3
+berserk~
+25 4
+phalanx~
+0 0
+strike~
+0 0
+shield wall~
+0 0
+fortify~
+0 0
+dirt kicking~
+4 4
+disarm~
+11 4
+dodge~
+22 4
+enhanced damage~
+30 5
+hand to hand~
+10 0
+kick~
+8 3
+parry~
+20 4
+rescue~
+22 5
+trip~
+4 3
+second attack~
+24 4
+third attack~
+50 5
+second cast~
+20 3
+third cast~
+45 5
+fast healing~
+9 3
+sneak~
+101 0
+hide~
+101 0
+haggle~
+18 0
+forging~
+18 6
+meditation~
+1 2
+peek~
+21 0
+scrolls~
+1 2
+staves~
+1 2
+wands~
+1 2
+recall~
+1 2
+End~
+#END

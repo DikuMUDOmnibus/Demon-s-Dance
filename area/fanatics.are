@@ -1,0 +1,4789 @@
+#AREADATA
+Name Fanatics' Tower~
+Builders None~
+VNUMs 19900 19999
+Credits {70 99} Artema  Fanatics' Tower~
+Security 9
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 19900
+Name hiryuu pet silvery dragon~
+Short Hiryuu, the Silvery Dragon~
+Long A Silvery Dragon is here, keeping Artema's cliff clean.
+~
+Description Hiryuu is a beautiful silvery Dragon.  This one is
+quite loyal to her master, the great Platinum Dragon.
+~
+Race dragon~
+Act_flags ABGJKOPQRTVabcd
+Aff DFJTUZ
+Aff2 0
+Align 1000
+Group 0
+Level 100
+Hitroll 999
+Hit_dice 1d1+29999
+Mana_dice 1d1+29999
+Dam_dice 1d1+999
+Dam_type claw
+Armor -999 -999 -999 -999
+Off ADGHLMS
+Teach A
+Imm BEHKLQR
+Res BCEGHIMNOPS
+Vuln DFIJY
+Start_pos rest
+Default_pos stand
+Sex female
+Wealth 10000
+Form ACDGHIJKLXZc
+Parts ACDEFGHIJKLPQUVXZ
+Size giant
+Material unknown
+EndMob
+
+#MOB
+Vnum 19901
+Name avatar 1st draconian archmage~
+Short avatar of 1st {8Draconian {4ArchMage{0~
+Long The Avatar of the first {8Draconian {4ArchMage{0 is here!
+~
+Description This is the undead avatar of the very first {8Draconian {4ArchMage{0!  He camly
+stares at you and snickers that you would come this far with so little help.  He
+is obviously the cause for all the strange weather lately, but why was there only
+fire and ice, yet no real lightning?
+~
+Race unique~
+Act_flags ABCGORTVc
+Aff DFJLPQTZa
+Aff2 0
+Align -1000
+Group 0
+Level 100
+Hitroll 700
+Hit_dice 500d500+1200000
+Mana_dice 1d1+29999
+Dam_dice 5d30+100
+Dam_type claw
+Armor -100 -100 -100 -100
+Off ADMOR
+Teach A
+Imm ABLQ
+Res GKOP
+Vuln FJMNRSYZ
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100000
+Form CIJKLZc
+Parts ABCLPQUVWXY
+Size giant
+Material unknown
+EndMob
+
+#MOB
+Vnum 19902
+Name level 71 magic mage~
+Short L.71 Magic~
+Long A mage is here, determined to kill you dead!
+~
+Description This is the weakest of the magical beings of the Fanatics' Tower.  It has
+devoted its life to the 11th {8Draconian {4ArchMage{0.  Its robes are inlaid
+with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 71
+Hitroll 71
+Hit_dice 100d10+25000
+Mana_dice 10d10+1300
+Dam_dice 6d8+22
+Dam_type magic
+Armor -11 -11 -11 -11
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 526
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19903
+Name level 75 magic mage~
+Short L.75 Magic~
+Long A fanatical mage is here, determined to kill you dead!
+~
+Description This is the second weakest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 10th {8Draconian {4ArchMage{0.  Its robes
+are inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 75
+Hitroll 75
+Hit_dice 100d20+35000
+Mana_dice 10d10+1600
+Dam_dice 6d8+24
+Dam_type magic
+Armor -12 -12 -12 -12
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 526
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19904
+Name level 79 magic mage~
+Short L.79 Magic~
+Long An ugly mage is here, determined to kill you dead!
+~
+Description This is an ugly mage, one of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 9th {8Draconian {4ArchMage{0.  Its robes
+are inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 79
+Hitroll 79
+Hit_dice 100d30+43000
+Mana_dice 15d10+1850
+Dam_dice 6d9+26
+Dam_type magic
+Armor -13 -13 -13 -13
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 678
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19905
+Name level 83 magic mage~
+Short L.83 Magic~
+Long A great mage is here, determined to kill you dead!
+~
+Description This is a great mage, one of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 8th {8Draconian {4ArchMage{0.  Its robes
+are inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 83
+Hitroll 83
+Hit_dice 100d40+50000
+Mana_dice 25d10+2250
+Dam_dice 5d13+28
+Dam_type magic
+Armor -14 -14 -14 -14
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 900
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19906
+Name level 87 magic mage~
+Short L.87 Magic~
+Long A grinning mage is here, determined to kill you dead!
+~
+Description This is one of the happiest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 7th {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 87
+Hitroll 87
+Hit_dice 100d50+55000
+Mana_dice 25d10+2500
+Dam_dice 5d13+30
+Dam_type magic
+Armor -15 -15 -15 -15
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 978
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19907
+Name level 91 magic mage~
+Short L.91 Magic~
+Long A mage is here, determined to kill you dead!
+~
+Description This is one of the magical beings of the Fanatics' Tower.  It has devoted
+its life to the 6th {8Draconian {4ArchMage{0.  Its robes are inlaid with
+beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 91
+Hitroll 91
+Hit_dice 100d60+60000
+Mana_dice 25d10+3000
+Dam_dice 9d6+32
+Dam_type magic
+Armor -15 -15 -15 -15
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1005
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19908
+Name level 95 magic mage~
+Short L.95 Magic~
+Long An evil mage is here, determined to kill you dead!
+~
+Description This is an evil being from the magical beings of the Fanatics' Tower.  It has
+devoted its life to the 5th {8Draconian {4ArchMage{0.  Its robes are inlaid
+with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 95
+Hitroll 95
+Hit_dice 100d70+68000
+Mana_dice 25d10+3750
+Dam_dice 7d8+36
+Dam_type magic
+Armor -18 -18 -18 -18
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1042
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19909
+Name level 99 magic mage~
+Short L.99 Magic~
+Long A strong mage is here, determined to kill you dead!
+~
+Description This is a strong mage from the Fanatics' Tower.  It has devoted its life
+to the 4th {8Draconian {4ArchMage{0.  Its robes are inlaid with beautiful
+designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 99
+Hitroll 99
+Hit_dice 100d80+75000
+Mana_dice 50d10+4500
+Dam_dice 7d9+38
+Dam_type magic
+Armor -20 -20 -20 -20
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1152
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19910
+Name level 102 magic mage~
+Short L.102 Magic~
+Long A powerful mage is here, determined to kill you dead!
+~
+Description This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 3rd {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 100
+Hitroll 102
+Hit_dice 100d90+85000
+Mana_dice 50d10+5500
+Dam_dice 7d8+40
+Dam_type magic
+Armor -22 -22 -22 -22
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1459
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19911
+Name level 105 magic mage~
+Short L.105 Magic~
+Long A powerful mage is here, determined to kill you dead!
+~
+Description This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 2nd {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 105
+Hit_dice 100d100+100000
+Mana_dice 50d10+7000
+Dam_dice 11d5+46
+Dam_type magic
+Armor -25 -25 -25 -25
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1700
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19912
+Name level 107 magic mage~
+Short L.107 Magic~
+Long A very powerful mage is here, determined to kill you dead!
+~
+Description This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 250
+Hit_dice 1500d100+350000
+Mana_dice 50d10+8000
+Dam_dice 9d10+70
+Dam_type magic
+Armor -27 -27 -27 -27
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1865
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19913
+Name level 109 magic mage~
+Short L.109 Magic~
+Long One of the strongest mages is here, determined to kill you dead!
+~
+Description This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Race human~
+Act_flags AGPRc
+Aff DJT
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 1800d120+500000
+Mana_dice 50d10+9000
+Dam_dice 12d10+110
+Dam_type magic
+Armor -29 -29 -29 -29
+Off FGJO
+Teach A
+Imm 0
+Res BHIK
+Vuln CGJLNQSY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1840
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19914
+Name level 71 weapon warrior~
+Short L.71 Weapon~
+Long A warrior is here, ready to cleave your head off!
+~
+Description This is the weakest of the war-like beings of the Fanatics' Tower.  It has
+devoted its life to the 11th {8Draconian {4ArchMage{0.  Its armour has been
+etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 71
+Hitroll 71
+Hit_dice 100d10+25000
+Mana_dice 10d10+1300
+Dam_dice 6d8+22
+Dam_type slash
+Armor -11 -11 -11 -11
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 529
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19915
+Name level 75 weapon warrior~
+Short L.75 Weapon~
+Long A fanatical warrior is here, ready to cleave your head off!
+~
+Description This is the second weakest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 10th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 75
+Hitroll 75
+Hit_dice 100d20+35000
+Mana_dice 10d10+1600
+Dam_dice 7d7+24
+Dam_type slash
+Armor -12 -12 -12 -12
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 634
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19916
+Name level 79 weapon warrior~
+Short L.79 Weapon~
+Long An ugly warrior is here, ready to cleave your head off!
+~
+Description This is an ugly mob, one of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 9th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 79
+Hitroll 79
+Hit_dice 100d30+43000
+Mana_dice 15d10+1850
+Dam_dice 6d9+26
+Dam_type slash
+Armor -13 -13 -13 -13
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 758
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19917
+Name level 83 weapon warrior~
+Short L.83 Weapon~
+Long A great warrior is here, ready to cleave your head off!
+~
+Description This is a great warrior, one of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 8th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 83
+Hitroll 83
+Hit_dice 100d40+50000
+Mana_dice 25d10+2250
+Dam_dice 5d13+28
+Dam_type slash
+Armor -14 -14 -14 -14
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 849
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19918
+Name level 87 weapon warrior~
+Short L.87 Weapon~
+Long A grinning warrior is here, ready to cleave your head off!
+~
+Description This is one of the happiest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 7th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 87
+Hitroll 87
+Hit_dice 100d50+55000
+Mana_dice 25d10+2500
+Dam_dice 5d13+30
+Dam_type slash
+Armor -15 -15 -15 -15
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 814
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19919
+Name level 91 weapon warrior~
+Short L.91 Weapon~
+Long A warrior is here, ready to cleave your head off!
+~
+Description This is one of the war-like beings of the Fanatics' Tower.  It has devoted
+its life to the 6th {8Draconian {4ArchMage{0.  Its armour has been etched
+with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 91
+Hitroll 91
+Hit_dice 100d60+60000
+Mana_dice 25d10+3000
+Dam_dice 9d6+32
+Dam_type slash
+Armor -15 -15 -15 -15
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 950
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19920
+Name level 95 weapon warrior~
+Short L.95 Weapon~
+Long An evil warrior is here, ready to cleave your head off!
+~
+Description This is an evil being from the war-like beings of the Fanatics' Tower.  It has
+devoted its life to the 5th {8Draconian {4ArchMage{0.  Its armour has been
+etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 95
+Hitroll 95
+Hit_dice 100d70+68000
+Mana_dice 25d10+3750
+Dam_dice 7d8+36
+Dam_type slash
+Armor -18 -18 -18 -18
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 995
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19921
+Name level 99 weapon warrior~
+Short L.99 Weapon~
+Long A strong warrior is here, ready to cleave your head off!
+~
+Description This is a strong warrior from the Fanatics' Tower.  It has devoted its life
+to the 4th {8Draconian {4ArchMage{0.  Its armour has been etched with some
+beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 99
+Hitroll 99
+Hit_dice 100d80+75000
+Mana_dice 50d10+4500
+Dam_dice 7d9+38
+Dam_type slash
+Armor -20 -20 -20 -20
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1043
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19922
+Name level 102 weapon warrior~
+Short L.102 Weapon~
+Long A powerful warrior is here, ready to cleave your head off!
+~
+Description This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 3rd {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 100
+Hitroll 102
+Hit_dice 100d90+85000
+Mana_dice 50d10+5500
+Dam_dice 7d8+40
+Dam_type slash
+Armor -22 -22 -22 -22
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1120
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19923
+Name level 105 weapon warrior~
+Short L.105 Weapon~
+Long A powerful warrior is here, ready to cleave your head off!
+~
+Description This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 2nd {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 105
+Hit_dice 100d100+100000
+Mana_dice 50d10+7000
+Dam_dice 11d5+46
+Dam_type slash
+Armor -25 -25 -25 -25
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln CDJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1169
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19924
+Name level 107 weapon warrior~
+Short L.107 Weapon~
+Long A very powerful warrior is here, ready to cleave your head off!
+~
+Description This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 250
+Hit_dice 1500d110+350000
+Mana_dice 50d10+8000
+Dam_dice 9d10+70
+Dam_type slash
+Armor -27 -27 -27 -27
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln CDJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1534
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19925
+Name level 109 weapon warrior~
+Short L.109 Weapon~
+Long One of the strongest warriors is here, ready to cleave your head off!
+~
+Description This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Race human~
+Act_flags AGPTc
+Aff FJa
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 300
+Hit_dice 1800d120+500000
+Mana_dice 50d10+9000
+Dam_dice 12d10+110
+Dam_type slash
+Armor -29 -29 -29 -29
+Off DEKO
+Teach A
+Imm Q
+Res BEHI
+Vuln DJKNS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 1923
+Form ABCHJMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19926
+Name adept healer~
+Short an Adept of Eriana~
+Long The Adept of Eriana is here to restore you.
+~
+Description The Adept of Eriana tells you "{6asking for restores is the best way {1*not*{6
+to get one!  }:>{0"
+~
+Race elf~
+Act_flags ABGJKQRTVabcd
+Aff DFJTUZ
+Aff2 0
+Align 1000
+Group 0
+Level 100
+Hitroll 999
+Hit_dice 1000d1000+200000
+Mana_dice 1d1+29999
+Dam_dice 1d1+9999
+Dam_type slap
+Armor -999 -999 -999 -999
+Off AGHO
+Teach L
+Imm ABCDEFGHIJKLMNOPQRS
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 9999
+Form ACDHJKLMVc
+Parts ABCDEFGHIJKUZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 19927
+Name draconian archmage~
+Short a former Draconian ArchMage~
+Long A long defeated Draconian ArchMage is here.
+~
+Description The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated by Artema...
+~
+Race unique~
+Act_flags ABGORTc
+Aff DFJLTZ
+Aff2 0
+Align -1000
+Group 0
+Level 80
+Hitroll 80
+Hit_dice 100d40+35000
+Mana_dice 15d10+1850
+Dam_dice 6d10+26
+Dam_type claw
+Armor -13 -13 -13 -13
+Off ADGM
+Teach A
+Imm ABELQ
+Res HIK
+Vuln FJMNRSY
+Start_pos sleep
+Default_pos rest
+Sex male
+Wealth 10000
+Form CDHIJKLZ
+Parts ACPQUVWXY
+Size giant
+Material unknown
+EndMob
+
+#MOB
+Vnum 19928
+Name draconian archmage~
+Short a former Draconian ArchMage~
+Long A long defeated Draconian ArchMage is here.
+~
+Description The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated so long ago...
+~
+Race unique~
+Act_flags ABGORTc
+Aff DFJLTZ
+Aff2 0
+Align -1000
+Group 0
+Level 85
+Hitroll 85
+Hit_dice 100d80+45000
+Mana_dice 25d10+2500
+Dam_dice 5d14+30
+Dam_type claw
+Armor -15 -15 -15 -15
+Off ADGM
+Teach A
+Imm ABELQ
+Res HIK
+Vuln FJMNRSY
+Start_pos sleep
+Default_pos rest
+Sex male
+Wealth 10000
+Form CDHIJKLZ
+Parts ACPQUVWXY
+Size giant
+Material unknown
+EndMob
+
+#MOB
+Vnum 19929
+Name draconian archmage~
+Short a former Draconian ArchMage~
+Long A long defeated Draconian ArchMage is here.
+~
+Description The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated so long ago...
+~
+Race unique~
+Act_flags ABGORTc
+Aff DFJLTZ
+Aff2 0
+Align -1000
+Group 0
+Level 95
+Hitroll 95
+Hit_dice 100d120+65000
+Mana_dice 25d10+3500
+Dam_dice 8d8+36
+Dam_type claw
+Armor -18 -18 -18 -18
+Off ADGM
+Teach A
+Imm ABELQ
+Res HIK
+Vuln FJMNRSY
+Start_pos sleep
+Default_pos rest
+Sex male
+Wealth 10000
+Form CDHIJKLZ
+Parts ACPQUVWXY
+Size giant
+Material unknown
+EndMob
+
+#MOB
+Vnum 19930
+Name draconian archmage~
+Short a former Draconian ArchMage~
+Long A long defeated Draconian ArchMage is here.
+~
+Description The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated so long ago...
+~
+Race unique~
+Act_flags ABGORTc
+Aff DFJLTZ
+Aff2 0
+Align -1000
+Group 0
+Level 100
+Hitroll 105
+Hit_dice 100d160+150000
+Mana_dice 50d10+7000
+Dam_dice 12d6+46
+Dam_type claw
+Armor -25 -25 -25 -25
+Off ADGM
+Teach A
+Imm ABELQ
+Res HIK
+Vuln FJMNRSY
+Start_pos sleep
+Default_pos rest
+Sex male
+Wealth 10000
+Form CDHIJKLZ
+Parts ACPQUVWXY
+Size giant
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 19900
+Name mystical waterfall icewine~
+Short a Mystical Waterfall~
+Orig_short a Mystical Waterfall~
+Desc A Mystical Waterfall flows down the side of this mountain.~
+Material etherealness~
+Item_type fountain
+Extra AGOSTY
+Wear 0
+Values 99999 99999 'icewine' 0 0
+Level 104
+Weight 60
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 19901
+Name artema wisdom claw~
+Short {&Platinum{0 {^Claws{0~
+Orig_short {&Platinum{0 {^Claws{0~
+Desc The claws of the great {&Platinum{0 {8Dragon{0 lie here!~
+Material platinum~
+Item_type weapon
+Extra ABCFGIMPRTY
+Wear AN
+Values exotic 20 19 claw CDEJ
+Level 101
+Weight 1
+Cost 0
+Condition P
+F
+Fres 0 0 CD
+F
+Faff 0 0 LTUZbc
+AffectObj
+17 -100
+EndObj
+
+#OBJ
+Vnum 19902
+Name scroll parchment health~
+Short Parchment of {@Health{0~
+Orig_short Parchment of {@Health{0~
+Desc an acient piece of parchment lies here, {zemenating{0 a powerful aura.~
+Material parchment~
+Item_type scroll
+Extra AGISTY
+Wear AO
+Values 102 'mass healing' 'mass healing' 'mass healing' 'mass healing'
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 19903
+Name artema platinum scales~
+Short {8Platinum scales{0~
+Orig_short {8Platinum scales{0~
+Desc Artema's dragon scales have been ripped from his body and dropped here.~
+Material dragonscale~
+Item_type armor
+Extra MOSTY
+Wear AK
+Values BCDE BCDE BCDE BCDE 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+19 10
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 19904
+Name seal dragon archmage~
+Short {WSeal {xof the {WDra{xgon Arch{Wmage{x~
+Orig_short {WSeal {xof the {WDra{xgon Arch{Wmage{x~
+Desc The legenedary Seal of the Dragon Archmage.~
+Material ash~
+Item_type armor
+Extra ABFGSTY
+Wear AC
+Values BCDE BCDE BCDE BCDE A
+Level 101
+Weight 1
+Cost 50000
+Condition P
+AffectObj
+20 -7
+AffectObj
+12 0
+AffectObj
+13 0
+AffectObj
+19 12
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 19905
+Name thoth's protection shield~
+Short {&Thoth's Protection{0~
+Orig_short {&Thoth's Protection{0~
+Desc Thoth's ultimate protection floats in mid-air.~
+Material nothingness~
+Item_type armor
+Extra ABFGMOSTY
+Wear AJ
+Values BCDE BCDE BCDE BCDE A
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+17 -100
+EndObj
+
+#OBJ
+Vnum 19906
+Name level 70 magical force~
+Short L.70 {#Magical Force{0~
+Orig_short L.70 {#Magical Force{0~
+Desc A magical force throbbs here.~
+Material quartz~
+Item_type weapon
+Extra ABEFGMSTY
+Wear AN
+Values exotic 10 14 drain ABCGJ
+Level 70
+Weight 2
+Cost 0
+Condition P
+F
+Fres 0 0 B
+F
+Faff 0 0 FLc
+AffectObj
+23 -15
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19907
+Name level 80 magical force~
+Short L.80 {#Magical Force{0~
+Orig_short L.80 {#Magical Force{0~
+Desc A strong magical force throbbs here.~
+Material quartz~
+Item_type weapon
+Extra ABEFGMSTY
+Wear AN
+Values exotic 10 16 drain ABCGJ
+Level 80
+Weight 2
+Cost 0
+Condition P
+F
+Fres 0 0 B
+F
+Faff 0 0 FLc
+AffectObj
+23 -15
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19908
+Name level 90 magical force~
+Short L.90 {#Magical Force{0~
+Orig_short L.90 {#Magical Force{0~
+Desc A powerful force throbbs here.~
+Material quartz~
+Item_type weapon
+Extra ABEFGMSTY
+Wear AN
+Values exotic 10 18 drain ABCGJ
+Level 90
+Weight 2
+Cost 0
+Condition P
+F
+Fres 0 0 B
+F
+Faff 0 0 FLc
+AffectObj
+23 -15
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19909
+Name level 100 magical force~
+Short L.100 {#Magical Force{0~
+Orig_short L.100 {#Magical Force{0~
+Desc A magical force throbbs here.~
+Material quartz~
+Item_type weapon
+Extra ABEFGMSTY
+Wear AN
+Values exotic 10 20 drain ABCGJ
+Level 100
+Weight 2
+Cost 0
+Condition P
+F
+Fres 0 0 B
+F
+Faff 0 0 FLc
+AffectObj
+23 -15
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19910
+Name level 70 physical power~
+Short L.70 {8Physical Power{0~
+Orig_short L.70 {8Physical Power{0~
+Desc A physical power lies here.~
+Material silver~
+Item_type weapon
+Extra ABCEMTY
+Wear AN
+Values sword 10 14 slice DEHJ
+Level 70
+Weight 5
+Cost 0
+Condition P
+F
+Faff 0 0 Db
+AffectObj
+1 2
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19911
+Name level 80 physical power~
+Short L.80 {8Physical Power{0~
+Orig_short L.80 {8Physical Power{0~
+Desc A physical power lies here.~
+Material silver~
+Item_type weapon
+Extra ABCEMTY
+Wear AN
+Values sword 10 16 slice DEHJ
+Level 80
+Weight 5
+Cost 0
+Condition P
+F
+Faff 0 0 Db
+AffectObj
+1 2
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19912
+Name level 90 physical power~
+Short L.90 {8Physical Power{0~
+Orig_short L.90 {8Physical Power{0~
+Desc A physical power lies here.~
+Material silver~
+Item_type weapon
+Extra ABCEMTY
+Wear AN
+Values sword 10 18 slice DEHJ
+Level 90
+Weight 5
+Cost 0
+Condition P
+F
+Faff 0 0 Db
+AffectObj
+1 2
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19913
+Name level 100 physical power~
+Short L.100 {8Physical Power{0~
+Orig_short L.100 {8Physical Power{0~
+Desc A physical power lies here.~
+Material silver~
+Item_type weapon
+Extra ABCEMTY
+Wear AN
+Values sword 10 20 slice DEHJ
+Level 100
+Weight 5
+Cost 0
+Condition P
+F
+Faff 0 0 Db
+AffectObj
+1 2
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 19914
+Name potion quest cursed treasure fanatic~
+Short Treasure of Fanatics' Tower~
+Orig_short Treasure of Fanatics' Tower~
+Desc The treasure of the Fanatics' Tower has been smashed on the floor.~
+Material glass~
+Item_type potion
+Extra ABEFGSTWY
+Wear AO
+Values 110 'greater healing' 'repulsar' 'elemental shield' ''
+Level 99
+Weight 5
+Cost 0
+Condition A
+EndObj
+
+#OBJ
+Vnum 19915
+Name gogo shroud cloak~
+Short {3Gogo{0's Shroud~
+Orig_short {3Gogo{0's Shroud~
+Desc Gogo's shroud is here.. All that is left of him after his demise.~
+Material wool~
+Item_type npc_corpse
+Extra ABGJKSTUY
+Wear AK
+Values 0 0 0 0 0
+Level 85
+Weight 5
+Cost 0
+Condition P
+F
+Fres 0 0 M
+F
+Faff 0 0 CPUZc
+AffectObj
+20 -15
+AffectObj
+17 -50
+EndObj
+
+#OBJ
+Vnum 19916
+Name leveling sphere~
+Short a leveling sphere~
+Orig_short a leveling sphere~
+Desc a leveling sphere lies here.~
+Material etherealness~
+Item_type light
+Extra GPTUa
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 40
+Cost 75
+Condition P
+EndObj
+
+#OBJ
+Vnum 19917
+Name seal platinum dragon~
+Short Seal of the {wPlatinum Dragon{x~
+Orig_short Seal of the {wPlatinum Dragon{x~
+Desc The Legendary Seal of the {wPlatinum Dragon{x~
+Material ash~
+Item_type armor
+Extra ABEFGMOSTY
+Wear AC
+Values BCDE BCDE BCDE BCDE A
+Level 104
+Weight 1
+Cost 0
+Condition P
+F
+Fres 0 0 BCD
+F
+Faff 0 0 Tc
+AffectObj
+23 -100
+EndObj
+
+#OBJ
+Vnum 19918
+Name ice crystal god embrace~
+Short a small {Wice crystal{x~
+Orig_short a small {Wice crystal{x~
+Desc {^A small Ice Crystal floats here in mid-air.{0~
+Material ice~
+Item_type warp_stone
+Extra AGHTUY
+Wear AO
+Values 0 0 0 0 0
+Level 104
+Weight 0
+Cost 0
+Condition P
+F
+Fimm 20 -99 ABCDEFGHIJKLMNOPQRST
+EndObj
+
+#OBJ
+Vnum 19919
+Name light eriana lantern~
+Short The {#LIGHT{0 of Eriana~
+Orig_short The {#LIGHT{0 of Eriana~
+Desc The {#LIGHT{0 of Eriana brightens your path ahead.~
+Material glass~
+Item_type light
+Extra A
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 10000
+Condition P
+F
+Faff 17 -15 CDEFGJLUZ
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 19900
+Name Path to the Fanatics' Tower~
+Desc You hear a strange droning sound from somewhere nearby.  A huge tower bustling
+with activity lies to the north.
+   Off to the left, a big sign is stuck in the ground.
+~
+Room_flags 4
+Sector_type 1
+ExtraDesc
+sign big fanatics~
+Loosely based on a tower in Final Fantasy III, the Fanatics' Tower is my first
+work in area building.  This tower is 13 stories tall (averaging 6 rooms wide),
+and contains a total of 100 all original rooms.  The first story starts with
+level 75 mobs, and their level inicreases slightly as you go up.  Each story
+has a "boss" mobile with some pretty nice weapons.  The final boss gives you
+a very special prize if beaten.
+
+{&-{$Artema{&-{0 the {8Dragon {4ArchMage{0.
+~
+Exit
+0
+To the north you see the Fanatics' Tower.
+~
+~
+0
+-1
+19901
+leaves north~
+Exit
+2
+~
+~
+0
+0
+6004
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19901
+Name Entrance to the Fanatics' Tower~
+Desc You are standing in front of the Fanatics' Tower.  The droning noise is coming
+from some robed fanatics walking in a circle in front of the door to the tower.
+Some guys are sitting off to the left whispering.
+~
+Room_flags 4
+Sector_type 1
+ExtraDesc
+guys~
+These guys are over in the corner discussing the untilmate treasure to be found
+at the top of the tower.  One offers to tell you a secret for 10000 gold.  Heh
+~
+ExtraDesc
+fanatics' tower~
+This thing is huge, at least 100 total rooms.  You will come across some very
+powerful enemies on your trek to the top.
+~
+ExtraDesc
+robed men~
+These guys are like zombies, walking around in circles chanting something you
+can't make out.  You better walk around them.
+~
+ExtraDesc
+door big~
+This door isn't much to look at.
+~
+Exit
+0
+You see a huge door leading inside the tower.
+~
+~
+1
+-1
+19902
+leaves north~
+Exit
+2
+Don't go that way, the cool area is to the north!
+~
+~
+0
+-1
+19900
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19902
+Name A safe room with stairs leading up~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up to the next level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+The exit is to the south.
+~
+~
+1
+-1
+19901
+leaves south~
+Exit
+4
+A very old staircase leads up to the next level of the tower.
+~
+stairs staircase~
+0
+-1
+19903
+leaves up~
+ManaRate 100
+HealRate 110
+EndRoom
+
+#ROOM
+Vnum 19903
+Name A safe room with stairs leading down.~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19904
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19902
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19904
+Name First story of the Fanatics' Tower~
+Desc You are on the first story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 20 foot fall.
+It is slightly drafty up here.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19903
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19905
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19905
+Name Fanatics' Tower:  Floor 1~
+Desc You are on the first story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 20 foot fall.
+It is slightly drafty up here.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19906
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19904
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19906
+Name Fanatics' Tower:  Floor 1~
+Desc You are on the first story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 20 foot fall.
+It is slightly drafty up here.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19908
+leaves north~
+Exit
+1
+~
+~
+1
+-1
+19907
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19905
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19907
+Name Chamber of the 11th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by Artema in 1996.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+3
+~
+~
+1
+-1
+19906
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19908
+Name A safe room with stairs leading up~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up to the next level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19906
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19909
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19909
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19910
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19908
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19910
+Name Second story of the Fanatics' Tower~
+Desc You are on the second story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 20 foot fall.
+It is slightly drafty up here.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19909
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19911
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19911
+Name Fanatics' Tower:  Floor 2~
+Desc You are on the second story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 40 foot fall.
+The wind is picking up.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19910
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19912
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19912
+Name Fanatics' Tower:  Floor 2~
+Desc You are on the second story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 40 foot fall.
+The wind is picking up.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19911
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19913
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19913
+Name Fanatics' Tower:  Floor 2~
+Desc You are on the second story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 40 foot fall.
+The wind is picking up.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19912
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19914
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19914
+Name Fanatics' Tower:  Floor 2~
+Desc You are on the second story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 40 foot fall.
+The wind is picking up.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19916
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19913
+leaves east~
+Exit
+3
+~
+~
+1
+-1
+19915
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19915
+Name Chamber of the 10th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 11th in 1896.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+1
+~
+~
+1
+-1
+19914
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19916
+Name A safe room with stairs leading up~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19914
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19917
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19917
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19918
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19916
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19918
+Name Third story of the Fanatics' Tower~
+Desc You are on the third story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 60 foot fall.
+A draft chills you to the bones.
+Edgar's corpse is rotting in the corner.
+~
+Room_flags 0
+Sector_type 1
+ExtraDesc
+corpse~
+King Edgar died here long ago, all that is left is some bones.~
+Exit
+0
+~
+~
+0
+-1
+19917
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19919
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19919
+Name Fanatics' Tower:  Floor 3~
+Desc You are on the third story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 60 foot fall.
+A draft chills you to the bones.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19920
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19918
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19920
+Name Fanatics' Tower:  Floor 3~
+Desc You are on the third story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 60 foot fall.
+A draft chills you to the bones.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19921
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19919
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19921
+Name Fanatics' Tower:  Floor 3~
+Desc You are on the third story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 60 foot fall.
+A draft chills you to the bones.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19922
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19920
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19922
+Name Fanatics' Tower:  Floor 3~
+Desc You are on the third story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 60 foot fall.
+A draft chills you to the bones.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19924
+leaves north~
+Exit
+1
+~
+~
+1
+-1
+19923
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19921
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19923
+Name Chamber of the 9th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 10th in 1796.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+3
+~
+~
+1
+-1
+19922
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19924
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19922
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19925
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19909
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19925
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to a previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19926
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19924
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19926
+Name Fourth story of the Fanatics' Tower~
+Desc You are on the fourth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 80 foot fall.
+Chilling gusts of wind slow your progress.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19925
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19927
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19927
+Name Fanatics' Tower:  Floor 4~
+Desc You are on the fourth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 80 foot fall.
+Chilling gusts of wind slow your progress.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19926
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19928
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19928
+Name Fanatics' Tower:  Floor 4~
+Desc You are on the fourth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 80 foot fall.
+Chilling gusts of wind slow your progress.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19927
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19929
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19929
+Name Fanatics' Tower:  Floor 4~
+Desc You are on the fourth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 80 foot fall.
+Chilling gusts of wind slow your progress.
+The corpse of Realm is here.
+~
+Room_flags 0
+Sector_type 1
+ExtraDesc
+corpse~
+You wonder how Realm could have gotten this far!  But she just couldn't
+make it to the top...~
+Exit
+1
+~
+~
+0
+-1
+19928
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19930
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19930
+Name Fanatics' Tower:  Floor 4~
+Desc You are on the fourth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 80 foot fall.
+Chilling gusts of wind slow your progress.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19932
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19929
+leaves east~
+Exit
+3
+~
+~
+1
+-1
+19931
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19931
+Name Chamber of the 8th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 9th in 1696.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+1
+~
+~
+1
+-1
+19930
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19932
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19930
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19933
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19917
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19933
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to a previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19934
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19932
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19934
+Name Fifth story of the Fanatics' Tower~
+Desc You are on the fifth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 100 foot fall.
+You're being sprayed by a thick fog, it feels so good!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19933
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19935
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19935
+Name Fanatics' Tower:  Floor 5~
+Desc You are on the fifth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 100 foot fall.
+You're being sprayed by a thick fog, it feels so good!
+Gau's corpse is here, being weeped over by all small animals.
+~
+Room_flags 0
+Sector_type 1
+ExtraDesc
+corpse~
+Gau's corpse is here, all the small animals that pass by stay, and weep for
+a few minutes at his passing.  He died happy.~
+Exit
+1
+~
+~
+0
+-1
+19936
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19934
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19936
+Name Fanatics' Tower:  Floor 5~
+Desc You are on the fifth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 100 foot fall.
+You're being sprayed by a thick fog, it feels so good!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19937
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19935
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19937
+Name Fanatics' Tower:  Floor 5~
+Desc You are on the fifth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 100 foot fall.
+You're being sprayed by a thick fog, it feels so good!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19938
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19936
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19938
+Name Fanatics' Tower:  Floor 5~
+Desc You are on the fifth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 100 foot fall.
+You're being sprayed by a thick fog, it feels so good!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19940
+leaves north~
+Exit
+1
+~
+~
+1
+-1
+19939
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19937
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19939
+Name Chamber of the 7th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 8th in 1596.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+3
+~
+~
+1
+-1
+19938
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19940
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19938
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19941
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19925
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19941
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to a previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19942
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19940
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19942
+Name Sixth story of the Fanatics' Tower~
+Desc You are on the sixth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 120 foot fall.
+You're up pretty high, but except the occasional refreshing mist, the
+wind is quite calm.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19941
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19943
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19943
+Name Fanatics' Tower:  Floor 6~
+Desc You are on the sixth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 120 foot fall.
+You're up pretty high, but except the occasional refreshing mist, the
+wind is quite calm.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19942
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19944
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19944
+Name Fanatics' Tower:  Floor 6~
+Desc You are on the sixth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 120 foot fall.
+You're up pretty high, but except the occasional refreshing mist, the
+wind is quite calm.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19943
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19945
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19945
+Name Fanatics' Tower:  Floor 6~
+Desc You are on the sixth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 120 foot fall.
+You're up pretty high, but except the occasional refreshing mist, the
+wind is quite calm.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19944
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19946
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19946
+Name Fanatics' Tower:  Floor 6~
+Desc You are on the sixth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 120 foot fall.
+You're up pretty high, but except the occasional refreshing mist, the
+wind is quite calm.
+Setzer's corpse is here, slowly rotting.
+~
+Room_flags 0
+Sector_type 1
+ExtraDesc
+corpse~
+For all his life, Setzer has been playing with aces; not too long ago
+he drew a joker.~
+Exit
+0
+~
+~
+0
+-1
+19948
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19945
+leaves east~
+Exit
+3
+~
+~
+1
+-1
+19947
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19947
+Name Chamber of the 6th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 7th in 1496.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+1
+~
+~
+1
+-1
+19946
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19948
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19946
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19949
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19933
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19949
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19950
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19948
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19950
+Name Seventh story of the Fanatics' Tower~
+Desc You are on the seventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 140 foot fall.
+The wind at this hight is deafening... Hell you're 140 feet up!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19949
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19951
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19951
+Name Fanatics' Tower:  Floor 7~
+Desc You are on the seventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 140 foot fall.
+The wind at this hight is deafening... Hell you're 140 feet up!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19952
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19950
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19952
+Name Fanatics' Tower:  Floor 7~
+Desc You are on the seventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 140 foot fall.
+The wind at this hight is deafening... Hell you're 140 feet up!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19953
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19951
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19953
+Name Fanatics' Tower:  Floor 7~
+Desc You are on the seventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 140 foot fall.
+The wind at this hight is deafening... Hell you're 140 feet up!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19954
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19952
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19954
+Name Fanatics' Tower:  Floor 7~
+Desc You are on the seventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 140 foot fall.
+The wind at this hight is deafening... Hell you're 140 feet up!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19956
+leaves north~
+Exit
+1
+~
+~
+1
+-1
+19955
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19953
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19955
+Name Chamber of the 5th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 6th in 1396.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+3
+~
+~
+1
+-1
+19954
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19956
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19954
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19957
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19941
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19957
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19958
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19956
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19958
+Name Eighth story of the Fanatics' Tower~
+Desc You are on the eighth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 160 foot fall.
+You're being soaked with rain!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19957
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19959
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19959
+Name Fanatics' Tower:  Floor 8~
+Desc You are on the eighth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 160 foot fall.
+You're being soaked with rain!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19958
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19960
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19960
+Name Fanatics' Tower:  Floor 8~
+Desc You are on the eighth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 160 foot fall.
+You're being soaked with rain!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19959
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19961
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19961
+Name Fanatics' Tower:  Floor 8~
+Desc You are on the eighth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 160 foot fall.
+You're being soaked with rain!
+Mog's frail little corpse is here.
+~
+Room_flags 0
+Sector_type 1
+ExtraDesc
+corpse~
+Mog danced his last dance in this spot not too long ago.~
+Exit
+1
+~
+~
+0
+-1
+19960
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19962
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19962
+Name Fanatics' Tower:  Floor 8~
+Desc You are on the eighth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 160 foot fall.
+You're being soaked with rain!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19964
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19961
+leaves east~
+Exit
+3
+~
+~
+1
+-1
+19963
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19963
+Name Chamber of the 4th {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 5th in 1296.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a manacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+1
+~
+~
+1
+-1
+19962
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19964
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19962
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19965
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19949
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19965
+Name A safe room with stairs.~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19966
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19964
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19966
+Name Ninth story of the Fanatics' Tower~
+Desc You are on the ninth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 180 foot fall.
+The wind is mauling you with raindrops going at 200 Kph!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19965
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19967
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19967
+Name Fanatics' Tower:  Floor 9~
+Desc You are on the ninth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 180 foot fall.
+The wind is mauling you with raindrops going at 200 Kph!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19968
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19966
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19968
+Name Fanatics' Tower:  Floor 9~
+Desc You are on the ninth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 180 foot fall.
+The wind is mauling you with raindrops going at 200 Kph!
+A corpse used to be here, but has been worn down by the wind.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19969
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19967
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19969
+Name Fanatics' Tower:  Floor 9~
+Desc You are on the ninth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 180 foot fall.
+The wind is mauling you with raindrops going at 200 Kph!
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19970
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19968
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19970
+Name Fanatics' Tower:  Floor 9~
+Desc You are on the ninth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 180 foot fall.
+The wind is mauling you with raindrops going at 200 Kph!
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19972
+leaves north~
+Exit
+1
+~
+~
+1
+-1
+19971
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19969
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19971
+Name Chamber of the 3rd {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 4th in 1196.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 8
+Sector_type 0
+Exit
+3
+~
+~
+1
+-1
+19970
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19972
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19970
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19973
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19957
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19973
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19974
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19972
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19974
+Name Tenth story of the Fanatics' Tower~
+Desc You are on the tenth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 200 foot fall.
+At 200 feet up your nose & ears start to bleed, and the air is getting thin.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19973
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19975
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19975
+Name Fanatics' Tower:  Floor 10~
+Desc You are on the tenth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 200 foot fall.
+At 200 feet up your nose & ears start to bleed, and the air is getting thin.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19974
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19976
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19976
+Name Fanatics' Tower:  Floor 10~
+Desc You are on the tenth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 200 foot fall.
+At 200 feet up your nose & ears start to bleed, and the air is getting thin.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19975
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19977
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19977
+Name Fanatics' Tower:  Floor 10~
+Desc You are on the tenth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 200 foot fall.
+At 200 feet up your nose & ears start to bleed, and the air is getting thin.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+~
+~
+0
+-1
+19976
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19978
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19978
+Name Fanatics' Tower:  Floor 10~
+Desc You are on the tenth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 200 foot fall.
+At 200 feet up your nose & ears start to bleed, and the air is getting thin.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19980
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19977
+leaves east~
+Exit
+3
+~
+~
+1
+-1
+19979
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19979
+Name Chamber of the 2nd {8Draconian {4ArchMage{0~
+Desc This is the chamber of the avatar of the {8Draconian {4ArchMage{0 beaten
+by the 3rd in 1096.  But now, he is nothing more than an avatar of the real
+thing.  Still very powerful, he towers over you in a menacing manner.
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+-1
+19978
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19980
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19978
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19981
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19965
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19981
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19982
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19980
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19982
+Name Eleventh story of the Fanatics' Tower~
+Desc You are on the eleventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 220 foot fall.
+The wind is tearing at your clothing and pulling you toward the railing!
+~
+Room_flags 0
+Sector_type 10
+Exit
+0
+~
+~
+0
+-1
+19981
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19983
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19983
+Name Fanatics' Tower:  Floor 11~
+Desc You are on the eleventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 220 foot fall.
+The wind is tearing at your clothing and pulling you toward the railing!
+~
+Room_flags 0
+Sector_type 10
+Exit
+1
+~
+~
+0
+-1
+19984
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19982
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19984
+Name Fanatics' Tower:  Floor 11~
+Desc You are on the eleventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 220 foot fall.
+The wind is tearing at your clothing and pulling you toward the railing!
+~
+Room_flags 0
+Sector_type 10
+Exit
+1
+~
+~
+0
+-1
+19985
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19983
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19985
+Name Fanatics' Tower:  Floor 11~
+Desc You are on the eleventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 220 foot fall.
+The wind is tearing at your clothing and pulling you toward the railing!
+~
+Room_flags 0
+Sector_type 10
+Exit
+1
+~
+~
+0
+-1
+19986
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19984
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19986
+Name Fanatics' Tower:  Floor 11~
+Desc You are on the eleventh story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 220 foot fall.
+The wind is tearing at your clothing and pulling you toward the railing!
+~
+Room_flags 0
+Sector_type 10
+Exit
+0
+~
+~
+0
+-1
+19987
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19985
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19987
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19986
+leaves south~
+Exit
+4
+~
+~
+0
+-1
+19988
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19973
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19988
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the previous level of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+2
+~
+~
+0
+-1
+19989
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19987
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19989
+Name Twelfth story of the Fanatics' Tower~
+Desc You are on the twelfth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 240 foot fall.
+The wind is ROARING and pulling you toward the edge of the railing!  Fire
+and ice are bolting through the clouds where lighting normally should be...
+~
+Room_flags 0
+Sector_type 10
+Exit
+0
+~
+~
+0
+-1
+19988
+leaves north~
+Exit
+3
+~
+~
+0
+-1
+19990
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19990
+Name Fanatics' Tower:  Floor 12~
+Desc You are on the twelfth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 240 foot fall.
+The wind is ROARING and pulling you toward the edge of the railing!  Fire
+and ice are bolting through the clouds where lighting normally should be...
+~
+Room_flags 0
+Sector_type 10
+Exit
+1
+~
+~
+0
+-1
+19989
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19991
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19991
+Name Fanatics' Tower:  Floor 12~
+Desc You are on the twelfth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 240 foot fall.
+The wind is ROARING and pulling you toward the edge of the railing!  Fire
+and ice are bolting through the clouds where lighting normally should be...
+~
+Room_flags 0
+Sector_type 10
+Exit
+1
+~
+~
+0
+-1
+19990
+leaves east~
+Exit
+3
+~
+~
+0
+-1
+19992
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19992
+Name Fanatics' Tower:  Floor 12~
+Desc You are on the twelfth story of the Fanatics' Tower.  The south wall is non-
+exsistant, only a railing is between you and a 240 foot fall.
+The wind is ROARING and pulling you toward the edge of the railing!  Fire
+and ice are bolting through the clouds where lighting normally should be...
+~
+Room_flags 0
+Sector_type 10
+Exit
+0
+~
+~
+0
+-1
+19994
+leaves north~
+Exit
+1
+~
+~
+0
+-1
+19991
+leaves east~
+Exit
+3
+~
+~
+1
+-1
+19993
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19993
+Name Healing room.~
+Desc This room is for all the weary travelers about to journey up to the first
+{8Draconian {4ArchMage{0.  An Adept of Eriana is here telling people that
+asking for restores is the way {1*not*{0 to get one!  }:>
+~
+Room_flags 9228
+Sector_type 0
+Exit
+1
+~
+~
+1
+-1
+19992
+leaves east~
+ManaRate 100
+HealRate 200
+EndRoom
+
+#ROOM
+Vnum 19994
+Name A safe room with stairs leading down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+1
+~
+~
+0
+-1
+19995
+leaves east~
+Exit
+2
+~
+~
+0
+-1
+19992
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19981
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19995
+Name A safe room with stairs leading up and down~
+Desc You are in a room, safe from all the scary mobs outside.  A staircase is in
+the back of the room leading up and down to the other levels of the tower.
+~
+Room_flags 1036
+Sector_type 0
+Exit
+3
+~
+~
+0
+-1
+19994
+leaves west~
+Exit
+4
+~
+~
+0
+-1
+19996
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+19903
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19996
+Name The top of the Fanatics' Tower~
+Desc You have entered the chamber of the avatar of the very 1st {8Draconian
+{4ArchMage{0 beaten by the 2nd in 996.  But now, he is nothing more than
+an avatar of the real thing.  Still very powerful, he towers over you in
+a menacing manner.
+n
+~
+Room_flags 8192
+Sector_type 1
+Exit
+2
+~
+~
+0
+-1
+19997
+leaves south~
+Exit
+5
+~
+~
+0
+-1
+19995
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19997
+Name Balcony over the Fanatics' Tower~
+Desc From 275 feet up, too the east, west, and south you can see almost all
+of Thoth's Realm!  To the north is the chamber of the first {8Draconian
+{4ArchMage{0, long deafeated he is back as his undead Avatar.
+~
+Room_flags 1028
+Sector_type 1
+Exit
+0
+~
+~
+0
+-1
+19996
+leaves north~
+Exit
+5
+If jump jump really straight, you could land at the bottom of the tower without
+a scrape.  Though, I don't know anyone who has *grin
+~
+~
+0
+-1
+19901
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19998
+Name The top of Thoth's Great Mountain.~
+Desc A Mystical Waterfall of IceWine bubbles from the ground here and spills over
+the side of the mountain.  You would think the view here would be better, but
+you're over the 5th layer of clouds and all you see is white.  Far below is a
+ledge... Dare you risk the jump?
+~
+Room_flags 1028
+Sector_type 5
+ExtraDesc
+waterfall icewine~
+Icewine is bubbling over the edge here!  You can't get close enough
+to drink any unless you jump!~
+Exit
+0
+~
+~
+0
+-1
+19997
+leaves north~
+Exit
+5
+~
+~
+0
+-1
+19999
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 19999
+Name Cliff looking over all of Thoth's Realm~
+Desc You are the side of a mountain that reaches up past what even
+an Avian could see.  The view here is spectacular; you are right under
+the second line of clouds, allowing you to see most all of the Realms
+of Thoth!  This is the perch used by all the Dragon ArchMages in
+the past. The wind is chilling You to the bones, but for some strange
+reason.. You don't care!  You feel totally at peace; all your senses
+seem to expand infinitely, and you feel is if you're on
+a ({3Magical{0) high.
+~
+Room_flags 262656
+Sector_type 5
+Exit
+4
+~
+~
+0
+-1
+19998
+leaves up~
+Exit
+5
+~
+~
+0
+-1
+3014
+leaves down~
+ManaRate 100
+HealRate 400
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 19900 spec_janitor
+M 19901 spec_cast_mage
+M 19902 spec_cast_mage
+M 19903 spec_cast_mage
+M 19904 spec_cast_mage
+M 19905 spec_cast_mage
+M 19906 spec_cast_mage
+M 19907 spec_cast_mage
+M 19908 spec_cast_mage
+M 19909 spec_cast_mage
+M 19910 spec_cast_mage
+M 19911 spec_cast_mage
+M 19912 spec_cast_mage
+M 19913 spec_cast_mage
+M 19926 spec_cast_adept
+M 19927 spec_cast_mage
+M 19928 spec_cast_mage
+M 19929 spec_cast_mage
+M 19930 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 19902 3 19904 1
+M 0 19914 3 19904 1
+M 0 19902 3 19905 1
+M 0 19914 3 19905 1
+M 0 19902 3 19906 1
+M 0 19914 3 19906 1
+M 0 19927 1 19907 1
+G 0 19906 0
+G 0 19910 0
+M 0 19903 5 19910 1
+M 0 19915 5 19910 1
+M 0 19903 5 19911 1
+M 0 19915 5 19911 1
+M 0 19903 5 19912 1
+M 0 19915 5 19912 1
+M 0 19903 5 19913 1
+M 0 19915 5 19913 1
+M 0 19903 5 19914 1
+M 0 19915 5 19914 1
+M 0 19928 2 19915 1
+G 0 19906 0
+G 0 19910 0
+M 0 19904 5 19918 1
+M 0 19916 5 19918 1
+M 0 19904 5 19919 1
+M 0 19916 5 19919 1
+M 0 19904 5 19920 1
+M 0 19916 5 19920 1
+M 0 19904 5 19921 1
+M 0 19916 5 19921 1
+M 0 19904 5 19922 1
+M 0 19916 5 19922 1
+M 0 19928 2 19923 1
+G 0 19906 0
+G 0 19910 0
+M 0 19905 5 19926 1
+M 0 19917 5 19926 1
+M 0 19905 5 19927 1
+M 0 19917 5 19927 1
+M 0 19905 5 19928 1
+M 0 19917 5 19928 1
+M 0 19905 5 19929 1
+M 0 19917 5 19929 1
+M 0 19905 5 19930 1
+M 0 19917 5 19930 1
+M 0 19929 4 19931 1
+G 0 19907 0
+G 0 19911 0
+M 0 19906 5 19934 1
+M 0 19918 5 19934 1
+M 0 19906 5 19935 1
+M 0 19918 5 19935 1
+M 0 19906 5 19936 1
+M 0 19918 5 19936 1
+M 0 19906 5 19937 1
+M 0 19918 5 19937 1
+M 0 19906 5 19938 1
+M 0 19918 5 19938 1
+M 0 19929 4 19939 1
+G 0 19907 0
+G 0 19911 0
+M 0 19907 5 19942 1
+M 0 19919 5 19942 1
+M 0 19907 5 19943 1
+M 0 19919 5 19943 1
+M 0 19907 5 19944 1
+M 0 19919 5 19944 1
+M 0 19907 5 19945 1
+M 0 19919 5 19945 1
+M 0 19907 5 19946 1
+M 0 19919 5 19946 1
+M 0 19929 4 19947 1
+G 0 19908 0
+G 0 19912 0
+O 0 19915 0 19950
+M 0 19908 5 19950 1
+M 0 19920 5 19950 1
+M 0 19908 5 19951 1
+M 0 19920 5 19951 1
+M 0 19908 5 19952 1
+M 0 19920 5 19952 1
+M 0 19908 5 19953 1
+M 0 19920 5 19953 1
+M 0 19908 5 19954 1
+M 0 19920 5 19954 1
+M 0 19929 4 19955 1
+G 0 19908 0
+G 0 19912 0
+M 0 19909 5 19958 1
+M 0 19921 5 19958 1
+M 0 19909 5 19959 1
+M 0 19921 5 19959 1
+M 0 19909 5 19960 1
+M 0 19921 5 19960 1
+M 0 19909 5 19961 1
+M 0 19921 5 19961 1
+M 0 19909 5 19962 1
+M 0 19921 5 19962 1
+M 0 19930 3 19963 1
+G 0 19908 0
+G 0 19912 0
+M 0 19910 5 19966 1
+M 0 19922 5 19966 1
+M 0 19910 5 19967 1
+M 0 19922 5 19967 1
+M 0 19910 5 19968 1
+M 0 19922 5 19968 1
+M 0 19910 5 19969 1
+M 0 19922 5 19969 1
+M 0 19910 5 19970 1
+M 0 19922 5 19970 1
+M 0 19930 3 19971 1
+G 0 19909 0
+G 0 19913 0
+M 0 19911 5 19974 1
+M 0 19923 5 19974 1
+M 0 19911 5 19975 1
+M 0 19923 5 19975 1
+M 0 19911 5 19976 1
+M 0 19923 5 19976 1
+M 0 19911 5 19977 1
+M 0 19923 5 19977 1
+M 0 19911 5 19978 1
+M 0 19923 5 19978 1
+M 0 19930 3 19979 1
+G 0 19909 0
+G 0 19913 0
+M 0 19912 5 19982 1
+M 0 19924 5 19982 1
+M 0 19912 5 19983 1
+M 0 19924 5 19983 1
+M 0 19912 5 19984 1
+M 0 19924 5 19984 1
+M 0 19912 5 19985 1
+M 0 19924 5 19985 1
+M 0 19912 5 19986 1
+M 0 19924 5 19986 1
+M 0 19913 4 19989 1
+M 0 19925 4 19989 1
+M 0 19913 4 19990 1
+M 0 19925 4 19990 1
+M 0 19913 4 19991 1
+M 0 19925 4 19991 1
+M 0 19913 4 19992 1
+M 0 19925 4 19992 1
+M 0 19926 1 19993 1
+M 0 19901 1 19996 1
+E 0 19904 0 3
+E 0 19904 0 4
+G 0 19914 0
+O 0 19900 0 19999
+M 0 19900 1 19999 1
+E 0 19903 0 12
+G 0 19901 0
+G 0 19904 0
+G 0 19904 0
+G 0 19905 0
+G 0 19902 0
+G 0 19917 0
+G 0 19918 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

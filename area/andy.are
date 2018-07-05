@@ -1,0 +1,2566 @@
+#AREADATA
+Name Andy~
+Builders None~
+VNUMs 11000 11999
+Credits (null)~
+Security 52
+End
+
+
+
+#MOBILES
+#11000
+guard soldier imerial~
+An Imperial Soldier~
+An Imperial Soldier stands here waiting for the next attack
+~
+You see a well armored man standing here.  He is completely covered in
+full scale chainmail battle armor.  With him he carries a sword and a mean
+looking gun.  He seems particullary distressed right now.  You'd do best to
+keep away from him.  
+~
+human~
+AT 0 0 0
+101 300 200d20+17000 0d0+0 20d20+100 punch
+-50 -50 -50 -50
+CFIU 0 0 OT
+stand stand male 200
+AHMV ABCDEFGHIJKZ large unknown
+#11001
+iron bitch emperess~
+The Iron Bitch~
+The Iron Bitch is sitting on her throne here
+~
+Here sits the grand emperess, also know as the iron bitch.  She sits atop
+a throne of a brilliant black stone and atop her head sits a diamond crown. 
+~
+human~
+ABT DFH -1000 0
+50 300 100d20+10000 100d20+10000 200d20+750 thrust
+-200 -200 -200 -200
+ACDEFGHIKNO ABELX BCFGIJKMOQRY N
+stand stand none 0
+AHMV ABCDEFGHIJKZ medium unknown
+#11002
+masked gladiator~
+The Masked Gladiator~
+The Masked Gladiator stands here
+~
+A man of slightly large purportions stands here.  He starts to take off a
+impressive looking helmet but your entrance shocks him and he drops his
+helmet back onto his head.  It seems you have managed to anger the greatest
+fighter in the world.  Why you would want to do this is beyond me but not it
+seems you shall have to defend yourself.  
+~
+human~
+ABFT DFH 0 0
+101 400 500d50+200000 0d0+0 75d20+250 slash
+0 0 0 0
+EGHIKN AB E O
+stand stand male 0
+AHMV ABCDEFGHIJKZ large unknown
+#11003
+investigator razor~
+Investigator Razor~
+Investigator Razor stands here waiting for his next opponent
+~
+Before stands a great burly man.  In his hand he carries a glowing sword
+that looks quite odd.  You immagine that its quite sharp and deadly.  
+~
+human~
+ABT H 0 0
+101 300 200d20+100000 0d0+0 90d20+250 slash
+35 35 35 35
+CEF AB DJMN G
+stand stand male 0
+AHMV ABCDEFGHIJKZ large unknown
+#11004
+chameleon reptile alien creature lizard~
+A Chameleon lizard~
+A Chameleon lizard slinks along here
+~
+You see a very long very mean looking lizard.  Well maybe see isn't the
+right word.  It seems to blend in with its surroundings and you have a hard
+time tracking it.  
+~
+lizard~
+AB Q -300 0
+101 300 75d20+15000 0d0+0 85d20+270 claw
+37 37 37 37
+DFIKM AB L IJ
+stand stand none 0
+AGXc ACDEFHKQVZ large unknown
+#11005
+plant vegetation alien~
+a Small Plant~
+A Small Plant is growing here
+~
+You see a rather small plant growing in the middle of the arena.  Upon
+close examination it would seem like the plant is moving; but, maybe thats
+just your immagination.  
+~
+snake~
+AB 0 0 0
+101 300 500d20+10000 0d0+0 200d20+100 sting
+40 40 40 40
+EHM AB L I
+stand stand none 0
+AGXYc ADEFKLQVXZ small unknown
+#11006
+auric skye~
+Auric Skye~
+Auric Skye, fighter, is here
+~
+Here stands Auric Skye.  He is one of the high memebers of the clan Skye.
+He could probably kill you in an instant.  
+~
+human~
+ABT 0 0 0
+101 350 500d50+30000 200d20+1000 50d20+200 magic
+-150 -150 -150 -150
+FGK AB CP DE
+stand stand male 0
+AHMV ABCDEFGHIJKZ medium unknown
+#11007
+short stocky man weaponsmith~
+A short stocky man~
+A short stocky man is here with some weapons.
+~
+You see your typicall blacksmith.  What else is there to say other than
+hes quite short and looks like he could bash your head in with one hit.  
+~
+human~
+AB DF 0 0
+50 10 10d10+10 0d0+0 10d10+0 punch
+1 1 1 1
+0 AB 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJKZ medium unknown
+#11008
+man short grocer~
+A grocer~
+A grocer is here
+~
+You see a mildly short man with an apron on.  He is standing at a cash
+register ringing people up with the food they have purchased.  
+~
+human~
+AB DF 0 0
+50 10 10d10+10 0d0+0 10d10+0 punch
+1 1 1 1
+0 AB 0 0
+stand stand none 10000
+AHMV ABCDEFGHIJKZ medium unknown
+#11009
+campbell guard~
+Clan Campbell Guard~
+A Clan Campbell Guard.
+~
+Before you is a huge man.  Easily seven feet tall clothed in imperial
+regulation battle armor.  He looks as if he could crush you with his bare
+hands.  
+~
+human~
+ABFT 0 0 0
+101 250 4000d10+30000 0d0+0 10d20+100 punch
+-100 -100 -100 -100
+AEFK AB DHIJKQ P
+stand stand none 200
+AHMV ABCDEFGHIJKZ large unknown
+#11010
+valentine drug dealer~
+the drug dealer~
+Valentines Drug Dealer
+~
+Here stands lord valentines personal drug dealer.  He is known to carry
+every chemical known to man.  
+~
+human~
+ABCGST DFV -500 0
+126 400 100d200+75000 0d0+0 10d30+400 slap
+-150 -150 -150 -150
+EFGK ABL KP J
+stand stand male 300
+AHMV ABCDEFGHIJKZ medium unknown
+#11011
+campbell sentry robot~
+{RC{Ra{rm{wp{wb{re{Rl{Rl {WR{Wo{wb{Wo{Wt {rSentry{x~
+A {RC{Ra{rm{wp{wb{re{Rl{Rl {WR{Wo{wb{Wo{Wt {rSentry{x is here
+~
+Before you stands a giant robot approximately ten feet tall.  Its arms
+look like they could deal enough damage to kill you but on top of that it
+has two disruptors.  It towers over you as its eyes glow red at the sight of
+your intrusion.  
+~
+human~
+AGTY DFH 0 0
+101 400 400d20+40000 0d0+0 20d20+250 blast
+-150 -150 -150 -150
+CEFKU AB H J
+stand stand none 100
+0 Z large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11012
+finlay campbell leader~
+{GF{gi{Gn{gl{Ga{gy {BC{Wa{Bm{Wp{Bb{We{Bl{Wl{x~
+{GF{gi{Gn{gl{Ga{gy {BC{Wa{Bm{Wp{Bb{We{Bl{Wl{x is here
+~
+Before you is a slim yet muscular man.  He appears to be in his late 30's
+yet he is not at all unfit.  Throughtout the empire he was known as a pansy,
+that is until the rebellion came along.  Now he is known as one of the
+greatest swordfighters in the universe.  
+~
+human~
+ABT DFH 500 0
+101 650 4000d20+300000 0d0+0 20d20+300 punch
+-150 -150 -150 -150
+ACEFIKN AB JP M
+stand stand male 2000
+AHMV ABCDEFGHIJKZ medium unknown
+#11013
+giant robot~
+{WG{Wi{wa{Wn{Wt {RR{Ro{rb{Ro{Rt{x~
+The {WG{Wi{wa{Wn{Wt {RR{Ro{rb{Ro{Rt{x
+~
+Its Gigantic.  The robot easilly takes up the entire wall.  Never before
+have you seen such a mamoth piece of machinary.  It could easily bring down
+this entire building if it felt the need to.  
+~
+human~
+ABST DFH 0 0
+101 650 20000d20+100000 0d0+0 20d20+300 beating
+-100 -100 -100 -100
+ACDEFGHIKNO AB D J
+stand stand none 2000
+0 Z large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#11014
+campbell esper man~
+Campbell Esper~
+The Campbell Esper is here
+~
+In front of you stands a man who seems utterly crazy.  His eyes dart
+about constantly always trying to search for some far away place or meaning.
+You wonder what he could be thinking.  
+~
+human~
+ABR DF 0 0
+101 300 400d20+200000 700d20+50000 30d20+175 magic
+-50 -50 -50 -50
+EF AB CP E
+stand stand male 0
+AHMV ABCDEFGHIJKZ medium unknown
+#11015
+giant man wampyr~
+{rW{Wa{wm{wp{Wy{rr{x~
+{RA {rW{Wa{wm{wp{Wy{rr{x is here
+~
+The man you see before you is a reanimated corpse.  Brought back to life
+with the super human blood of the wampyr.  They are stronger faster and
+better than any human.  They were discarded as the empires schock troops
+because they were too expensive to produce en mass.  
+~
+human~
+ABORT DFHVXc -200 0
+101 550 1000d20+250000 1000d20+100000 32d20+400 crush
+-50 -50 -50 -50
+AEFGIKO AB LM N
+stand stand male 0
+AHMV ABCDEFGHIJKZ large unknown
+#11016
+chef cook man~
+A campbell cook~
+A campbell cook is here
+~
+Here stands a campbell cook.  He looks like he is in a great hurry and he
+probably does not want to be disturbed.  On top of his head is a grand chefs
+hat.  And in his hand he holds a giant wooden spoon.  
+~
+human~
+AGT H 0 0
+101 345 150d50+150000 0d0+0 40d20+175 smash
+-30 -30 -30 -30
+CEFGIK AB HI 0
+stand stand male 400
+AHMV ABCDEFGHIJKZ medium unknown
+#0
+
+
+
+#OBJECTS
+#11000
+anchor demonic~
+{RD{Re{rm{ro{wn{wi{Wc {WA{wn{wc{rh{ro{Rr {x~
+{RD{Re{rm{ro{wn{wi{Wc {WA{wn{wc{rh{ro{Rr {x is embedded in a skull here~
+unknown~
+weapon ABCEGY AN
+exotic 2000 20 none ABCDEGH
+110 0 0 P
+A
+19 200
+A
+18 200
+A
+19 500
+#11001
+burning skull death~
+{RB{Ru{rr{wr{wn{ri{Rn{Rg {wS{Wk{wu{Wl{wl {Yo{yf {RD{Re{ra{rt{RH {x~
+{RB{Ru{rr{wr{wn{ri{Rn{Rg {wS{Wk{wu{Wl{wl {Yo{yf {RD{Re{ra{rt{RH {x burns on here~
+unknown~
+light ABY AQ
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 P
+A
+17 500
+A
+14 500
+A
+12 500
+A
+13 500
+A
+19 200
+A
+18 200
+#11002
+sword imperial~
+an Imperial Sword~
+An Imperial Sword is here~
+iron~
+weapon 0 AN
+sword 10 14 slash 0
+101 0 100 P
+A
+18 10
+A
+19 10
+A
+2 1
+#11003
+helmet mask gladiator~
+{RM{wasked {RG{wladiators {RH{welmet {x~
+The {RM{wasked {RG{wladiators {RH{welmet {x is here~
+unknown~
+armor ABJK AE
+BEF BEF BEF BEF 0
+40 5 0 P
+A
+2 3
+A
+1 5
+A
+19 30
+A
+18 30
+A
+12 75
+A
+13 75
+#11004
+shield force imperial~
+{BT{ch{ce {BI{cm{cp{ce{cr{ci{ca{cl {BF{co{cr{cc{ce {BS{ch{ci{ce{cl{cd {x~
+{BT{ch{ce {BI{cm{cp{ce{cr{ci{ca{cl {BF{co{cr{cc{ce {BS{ch{ci{ce{cl{cd {x is here~
+unknown~
+armor ABGY AJ
+BCDE BCDE BCDE BCDE 0
+101 2 0 P
+A
+20 -10
+A
+18 5
+A
+19 5
+#11005
+last wolf wolflings mane~
+{YT{yh{Ye {yL{Ya{ys{Yt {yW{Yo{yl{Yf{yl{Yi{yn{Yg{ys {YM{ya{Yn{ye {x~
+{YT{yh{Ye {yL{Ya{ys{Yt {yW{Yo{yl{Yf{yl{Yi{yn{Yg{ys {YM{ya{Yn{ye {x is here~
+unknown~
+armor ABIK AC
+CFG CFG CFG CFG 0
+101 1 0 P
+A
+12 100
+A
+13 100
+A
+19 15
+A
+18 15
+A
+104 10
+A
+114 10
+#11006
+monofillament sword~
+a Monofillament Sword~
+A Monofillament Sword is here throbing softly~
+unknown~
+weapon A AN
+sword 17 20 slash DE
+101 10 0 P
+A
+19 20
+A
+18 15
+#11007
+skull~
+{bA {RD{ri{Rs{re{Rm{rb{Ro{rd{Ri{re{Rd {WS{wk{Wu{wl{Wl {x~
+{bA {RD{ri{Rs{re{Rm{rb{Ro{rd{Ri{re{Rd {WS{wk{Wu{wl{Wl {x is resting here.~
+unknown~
+armor ABCEGY AO
+CGHIL CGHIL CGHIL CGHIL 0
+0 0 0 P
+A
+19 300
+A
+18 1000
+A
+13 20000
+#11008
+hand skull~
+{RA {WS{wk{We{wl{We{wt{Wo{wn{W's {YH{ya{Yn{yd {x~
+{RA {WS{wk{We{wl{We{wt{Wo{wn{W's {YH{ya{Yn{yd {x is here.~
+unknown~
+armor ABCEG AH
+CGHIL CGHIL CGHIL CGHIL 0
+0 0 0 P
+A
+19 400
+A
+18 400
+#11009
+cookie energy food~
+an energy cookie~
+A small round cookie with sparks of energy flying off it.~
+unknown~
+food 0 A
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef BEF 0 0 0
+1 1 500 P
+#11010
+fresh baked bread~
+fresh Bread~
+A piece of freshly baked bread~
+unknown~
+food 0 A
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef CFG 0 0 0
+1 1 1000 P
+#11011
+small green treat~
+a small green treat~
+A small little candy wrapped in clear foil.~
+unknown~
+food 0 A
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef A 0 A 0
+1 1 30 P
+#11012
+imperial armor~
+imperial Armor~
+A suit of chainmail with the imperial symbol.~
+unknown~
+armor AB AK
+ACDE ACDE ACDE ACDE 0
+101 2 12000 P
+A
+2 -1
+A
+1 6
+A
+19 10
+A
+18 10
+#11013
+campbell key~
+the Campbell key~
+A key with the Campbell symbol is here~
+unknown~
+key AB AO
+0 0 0 0 0
+0 0 0 P
+#11014
+psychedelic mist~
+{GPs{By{Wc{Mhe{yd{Re{gli{Bc {MM{yi{Rs{Wt{x~
+Some {Gps{By{Wc{Mhe{yd{Re{gli{Bc {Mm{yi{Rs{Wt{x floats here~
+titanium~
+weapon ABEGHJMY AN
+exotic 20 10 digestion EFH
+101 2 5000000 P
+A
+18 20
+A
+19 15
+A
+1 2
+A
+13 -100
+#11015
+disruptor gun~
+{GD{gi{Bs{br{bu{Bp{gt{Go{Gr{x~
+A hand held {GD{gi{Bs{br{bu{Bp{gt{Go{Gr{x is here~
+unknown~
+weapon AB AN
+exotic 20 20 blast E
+101 0 0 P
+#11016
+rebellion rebellions aid~
+{rR{we{rb{we{rl{wl{ri{wo{rn{ws {BA{Wi{Bd{X~
+The {rR{we{rb{we{rl{wl{ri{wo{rn{ws {BA{Wi{Bd{X is here~
+steel~
+weapon ABK AN
+sword 40 20 divine ABEG
+101 0 0 P
+A
+2 1
+A
+12 100
+A
+13 100
+A
+19 27
+A
+18 27
+A
+1 4
+#11017
+disruptor cannon~
+{BD{Bi{Gs{Gr{Bu{Bp{Gt{Go{Br {wC{Wa{wn{Wn{wo{Wn{x~
+A {BD{Bi{Gs{Gr{Bu{Bp{Gt{Go{Br {wC{Wa{wn{Wn{wo{Wn{x is here~
+unknown~
+weapon ABG AN
+exotic 27 20 blast AEG
+101 3 0 P
+A
+12 30
+A
+13 30
+A
+19 22
+A
+18 22
+#11018
+morgana sword~
+{GM{Yo{Gr{Yg{Ga{Yn{Ga{x~
+{GM{Yo{Gr{Yg{Ga{Yn{Ga{x the sword is here~
+steel~
+weapon ABKY AN
+sword 35 20 slash BE
+101 1 0 P
+A
+2 1
+A
+1 1
+A
+18 20
+A
+19 20
+#11019
+esp blocker~
+{BE{Gs{Bp {RB{rl{Ro{rc{Rk{re{Rr{x~
+An {BE{Gs{Bp {RB{rl{Ro{rc{Rk{re{Rr{x is here~
+unknown~
+armor ABE AE
+BEF BEF BEF DF 0
+101 1 0 P
+A
+24 100
+A
+3 3
+A
+4 3
+A
+12 300
+A
+115 10
+#11020
+sword swordsman gloves~
+{wS{Ww{wo{wr{Wd{ws{wm{Wa{wn{ws {YG{yl{Yo{yv{Ye{ys{x~
+A pair of {wS{Ww{wo{wr{Wd{ws{wm{Wa{wn{ws {YG{yl{Yo{yv{Ye{ys{x are here~
+unknown~
+armor ABK AH
+BCG BCG BCEH AG 0
+101 0 0 P
+A
+1 4
+A
+18 13
+A
+13 50
+A
+108 10
+#11021
+wampyr blood pack packet~
+{rW{Wa{wm{wp{Wy{rr {RB{Rl{ro{ro{rd {GP{ga{wc{wk{ge{Gt{x~
+A {rW{Wa{wm{wp{Wy{rr {RB{Rl{ro{ro{rd {GP{ga{wc{wk{ge{Gt{x lies here.~
+unknown~
+armor ABCEJ AC
+CDFGHIJKLMNOPQRSTUVWXYZabcdef CDFGHIJKLMNOPQRSTUVWXYZabcdef CDFGHIJKLMNOPQRSTUVWXYZabcdef ABCDFGHIJKLMNOPQRSTUVWXYZabcdef 0
+101 0 0 P
+A
+18 10
+A
+19 10
+A
+13 -300
+A
+12 -100
+A
+2 12
+A
+1 10
+A
+110 5
+#11022
+wampyr arm guards~
+{rW{Wa{wm{wp{Wy{rr {GA{Br{Gm {YG{yu{wa{wr{yd{Ys{x~
+A pair of {rW{Wa{wm{wp{Wy{rr {GA{Br{Gm {YG{yu{wa{wr{yd{Ys{x are here.~
+unknown~
+armor ABCEJ AI
+ADE ADE ADE ADE 0
+101 1 0 P
+A
+110 5
+A
+13 -100
+A
+12 -100
+A
+19 10
+A
+18 10
+A
+1 3
+A
+2 5
+#11023
+giant chef chefs hat~
+{WA {YG{yi{Ya{yn{Yt {RC{rh{re{Rf {wH{Wa{wt{x~
+{WA {YG{yi{Ya{yn{Yt {RC{rh{re{Rf {wH{Wa{wt{x lays here.~
+unknown~
+armor ABJK AE
+CE CE CE CE 0
+101 1 0 P
+A
+13 50
+A
+12 50
+A
+3 3
+A
+4 3
+A
+5 5
+A
+18 9
+#11024
+spoon wood wooden light~
+A {Yw{yo{yo{yd{ye{yn {Bs{bp{bo{bo{bn{x~
+A {Yw{yo{yo{yd{ye{yn {Bs{bp{bo{bo{bn{x sits here.~
+unknown~
+light ABJK AQ
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 0 0 P
+A
+18 7
+A
+19 7
+A
+13 50
+A
+12 50
+#11026
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#11050
+test bow~
+test bow~
+A test bow~
+unknown~
+weapon 0 AN
+bow 50 50 shock 0
+10 1 1 P
+#11051
+test quiver~
+a test quiver~
+A test quiver~
+unknown~
+quiver 0 AL
+100 50 50 0 0
+1 1 1 P
+#11052
+test arrow~
+a test arrow~
+A test arrow~
+unknown~
+arrow V AV
+0 20 20 0 0
+1 1 1 P
+#11055
+fortification castle fortify wall~
+a wooden fort~
+A wooden fortification protects the people inside~
+unknown~
+fort 0 0
+0 0 0 0 0
+1 0 0 P
+#11671
+vortex~
+the {CV{cor{mte{Mx{x~
+A vortex in space lies here~
+adamantite~
+armor ABGI AD
+BCEH BCEH BCEH BCEH 0
+1 1 1 P
+A
+17 -200
+#11672
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#11673
+crown thorns~
+{YC{wr{yo{ww{Yn {wof {YT{wh{yo{wr{Yn{ws{x~
+A crown is here~
+holy~
+armor ABGI AE
+BCEH BCEH BCEH BCEH 0
+0 1 1 P
+A
+19 100
+A
+18 100
+A
+17 -200
+#11674
+crom faer hammer~
+{DC{wr{Wo{Ym F{Wa{we{Dr{x~
+A hammer list propped against the wall here~
+ethrealness~
+weapon ABGI AN
+mace 20 20 crush BDE
+1 1 1 P
+A
+19 2000
+A
+18 2000
+#11675
+deaths gate death's~
+{DD{Re{ra{Rt{Dh'{ws {RG{Dat{Re{x~
+A devilish warpstone is here~
+unknown~
+warp_stone 0 AQ
+0 0 0 0 0
+1 1 10000 P
+A
+1 10
+A
+4 10
+A
+3 10
+A
+2 10
+A
+5 10
+A
+13 2000
+#0
+
+
+
+#ROOMS
+#11999
+Entrance to Deathstalker~
+BEWARE this is an extremely hard area and is not meant for ANYBODY under
+level 101.  Chances are that if you enter this area with less than three
+other heros with you, you will not do anything but die.  So if you value
+your life do not enter this area.  All Mobs in this world do massive amounts
+of damage so please leave if you are UNDER level **101**.  
+~
+0 0 0
+D0
+~
+~
+0 0 11000
+D1
+~
+~
+0 0 16795
+S
+#11000
+Entrance to the Parade of the Endless-~
+You stand at the entrance to a great city.  All along the sides you can
+see incredible buildings that touch the sky.  All around you are signs of
+wonderful technology and knowledge.  Through all this awe and wonder you
+somehow manage to make out the sounds of battle.  They seem to becoming from
+deep inside the city.  Perhaps you should go investigate.  
+~
+0 4 1
+D0
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 11999
+S
+#11001
+The Parade of the Endless~
+You are continuing along this grand entryway into the city.  Along you
+are towers that dwarf even the tallest of normal buildings.  You wonder what
+could be in these giant behemoths of buildings.  You hear the sounds of
+fighting coming from deeper inside the city.  Perhaps you'd best go
+investigate the cause of all this comotion.  
+~
+0 4 1
+D0
+~
+~
+0 0 11002
+D2
+~
+~
+0 0 11000
+D3
+~
+~
+0 0 11024
+S
+#11002
+The Parade of the Endless~
+You are still walking along this grand street through a city so
+magnificent it mesmerizes you.  Behind you, you can see the grand towers
+that dwarf all other buildings.  The sounds of battle come nearer still and
+you can see quite a few people along the rodes.  However, these people are
+all but calm and appear to be trying to run out of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11001
+S
+#11003
+Entrance to the Arena Square~
+The street widens out at this point and before you is a giant town
+square.  In the center of this square you can see a gigantic colosseum.  All
+around you are the sounds of fighting.  You can see three main forces
+fighting.  One is the famous Imperial Army.  Another is the Emperess'
+Imperial Guard.  The last appears to be a mob of rebels.  
+~
+0 0 1
+D0
+~
+~
+0 0 11004
+D1
+~
+~
+0 0 11022
+D2
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11015
+S
+#11004
+Before the Grand Arena~
+You stand before the grand arena.  This is where the greatest fighters
+come to test their strength against all challengers.  Very few gladiators
+have ever survived for very long in this blood thirsty sport.  However, one
+man continues to amaze everybody.  He has never been defeated and is praised
+as the greatest fighter ever.  
+~
+0 0 1
+D2
+~
+~
+0 0 11003
+D5
+~
+~
+0 0 11005
+S
+#11005
+Underneath the Grand Arena~
+You appear to be underneath the greatest of all arenas.  Here is where
+the more know fighters have private rooms for rest and medical attention. 
+Several fighters have maintained a considerable winning streak but no
+fighter has yet to match the impressive record of the Masked Gladiator. 
+Supposedly there is a fight going on right now with an even greater fighter
+but who could think that possible.  
+~
+0 4 0
+D0
+~
+~
+0 0 11006
+D4
+~
+~
+0 0 11004
+S
+#11006
+The hallway under the Grand Arena~
+Down this hallway are many doors.  Each one leading to a well know
+fighters personal room.  They often do not like to be disturbed however and
+it would be wise to stay well away from some of the more dangerous ones. 
+Every fighter that has earned a room in this hall has proven his worth in
+strength, speed, and agility.  Are you ready to face up to their wrath?  
+~
+0 0 0
+D0
+~
+~
+0 0 11009
+D1
+~
+~
+0 0 11008
+D2
+~
+~
+0 0 11005
+D3
+~
+~
+0 0 11007
+S
+#11007
+The Room of the Masked Gladiator~
+You are in the room of the famous masked gladiator.  Little is know about
+this fighter because of his concealed identity.  When you look closer at the
+room you notice many famous classical paintings and sculptures.  You wonder
+how a gladiator can pay for this.  
+~
+0 0 0
+D1
+~
+~
+0 0 11006
+S
+#11008
+A Grand Fighters Room~
+You are in the room of a great fighter.  Who it is no one can tell for
+sure.  Only one thing is know, and that is that this fighter has managed to
+surpass everyone who has gotten in his way so far.  He doesn't appear to be
+in right now but i wouldn't want to be the one he caught snooping around in
+his private room.  
+~
+0 0 0
+D3
+~
+~
+0 0 11006
+S
+#11009
+Under the Grand Arena~
+It seems that you have wandered into a strange place.  Above you are
+several grates and through these you can see the brilliant sun shinning. 
+You must be under the actuall sands of the arena.  There must be a way up
+there you think to yourself and then maybe you could test your luck against
+one of the mighty fighters.  
+~
+0 4 0
+D2
+~
+~
+0 0 11006
+D4
+~
+~
+0 0 11010
+S
+#11010
+The Brilliant Sands of the Grand Arena~
+You made it.  Before you is a mass of people all standing chearing for
+someone or something on the sands.  The sheer maginitude of the stands is
+amazing.  You can scarcely believe that something like this was acutally
+built by the human race.  You can hear the shuffling of feet near by and it
+begs investigation.  
+~
+0 4 10
+D0
+~
+~
+0 0 11011
+D1
+~
+~
+0 0 11012
+D2
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11014
+D5
+~
+~
+0 0 11009
+S
+#11011
+The Northern Sector of the Sands~
+From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the histor of time.  It would seem that this
+arena has been here before time was time.  
+~
+0 0 10
+D2
+~
+~
+0 0 11010
+S
+#11012
+The Eastern Sector of the Sands~
+From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was truly time.  
+~
+0 0 10
+D3
+~
+~
+0 0 11010
+S
+#11013
+The Southern Sector of the Sands~
+From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was truly time.  
+~
+0 0 10
+D0
+~
+~
+0 0 11010
+S
+#11014
+The Western Sector of the Sands~
+From this point you can see the majority of the crowd in the stands.  All
+of them are screaming and yelling for their favorite fighter, hoping he will
+come out victorious.  Throughout the sand you can see blood stains and
+footprints.  Long forgotten in the history of time.  It would seem that this
+arena has been here before time was truly time.  
+~
+0 0 10
+D1
+~
+~
+0 0 11010
+S
+#11015
+The South West Corner of the Arena Square~
+You are in the southwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+0 0 1
+D0
+~
+~
+0 0 11017
+D1
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11023
+S
+#11016
+The Weaponsmith~
+You have wandered into a small cozy shop.  All around you are various
+weapons ranging from small swords to great axes.  Anyone of these fine
+weapons could be yours, for a price.  Although the Golgotha weaponsmiths'
+are known for their quality, they are also known for their high prices and
+conning abilities.  So watch your pocket while your in here.  
+~
+0 263168 0
+D0
+~
+~
+0 0 11015
+S
+#11017
+The West Side of the Arena Square~
+You are in the southwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+0 0 0
+D0
+~
+~
+0 0 11018
+D2
+~
+~
+0 0 11015
+S
+#11018
+The North Western Corner of the Arena Square~
+You are in the northwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+0 4 0
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11017
+S
+#11019
+The Northern Side of the Arena Square~
+You are in the northwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+0 0 0
+D1
+~
+~
+0 0 11020
+D3
+~
+~
+0 0 11018
+S
+#11020
+The North Eastern Corner of the Arena Square~
+You are in the northwestern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+0 0 0
+D2
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11019
+S
+#11021
+The Eastern Side of the Arena Square~
+You are on the eastern side of the arena square.  Shops are on all sides
+of you ranging from a grocery store to a weapons smith.  It is said that
+everything you could want, you can buy in this square.  So take your time
+and look around.  Who knows you actually might find something worth buying. 
+~
+0 0 0
+D0
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11022
+S
+#11022
+The South Eastern Corner of the Arena Square~
+You are in the southeastern corner of the arena square.  Shops are on all
+sides of you ranging from a grocery store to a weapons smith.  It is said
+that everything you could want, you can buy in this square.  So take your
+time and look around.  Who knows you actually might find something worth
+buying.  
+~
+0 0 0
+D0
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11003
+S
+#11023
+The Arena Grocery Market~
+You have just entered the grocery market of the arena.  All around you,
+you can see hundreds of items lining the walls.  It would seem that this
+shop carries every edible thing in the world.  You see some people milling
+about and there is a line waiting at the cash register.  
+~
+0 263168 0
+D1
+~
+~
+0 0 11015
+S
+#11024
+A side street leading twoards the towers~
+As you turn off of the main stree the commotion of the fighting seems to
+dim.  Before you are the grand towers of the clans.  The clans run anything
+that goes on in this part of town and they are the real force behind the
+empire.  It has been said that it is impossible to infiltrate their towers
+because of the amount of security that they have.  
+~
+0 0 1
+D1
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 11025
+S
+#11025
+A side street nearing the towers~
+As you walk further down this street you can see that you are almost at
+the towers.  Their size is immense and they dwarf everything within miles. 
+They seem to touch they clouds as you lose sight of them in the sky.  Not
+many people walk down this street as it often leads to suffering and death. 
+~
+0 0 1
+D1
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11026
+S
+#11026
+Between the first of the towers~
+You are now in between the first two magnificent towers.  Huge doorways
+lead into the depths of them and there are several guards standing ready to
+fight.  There are no people walking along this street except you and it
+gives you a sense of dread.  Should you enter the towers or turn and run?  
+~
+0 0 1
+D0
+~
+~
+0 0 11027
+D1
+~
+~
+0 0 11025
+S
+#11027
+Before the Door of the Campbell Clan Tower~
+You stand before the tower belonging to the Clan Campbell.  The doorway
+is inlaid with gold and silver and it is easily 30 feet tall.  Several
+guards are milling about here ever watchful.  This tower is said to house
+one of the greatest personal armies.  As You approach the door you sense
+that you are being watched by the door.  Upon closer examination you can see
+that there are many small cameras inlaid in the frame of the door.  
+~
+0 0 1
+D0
+~
+~
+1 0 11028
+D2
+~
+~
+0 0 11026
+S
+#11028
+Inside Clan Campbell Tower~
+As you step into the lobby of the tower you can finally see the magnitude
+of its size.  Above you the tower extendeds until it is lost from view.  The
+lobby itself is rather narrow but its length extends on for a considerable
+length.  Throughout this hall are guards and servants ready to attack at a
+moments notice.  
+~
+0 0 0
+D0
+~
+~
+0 0 11029
+D2
+~
+~
+1 0 11027
+S
+#11029
+Inside Clan Campbell Tower~
+As you continue along the hall you notice more and more guards.  At the
+end of the hall is a barracaded door with several people dressed in heavy
+armor.  However, getting to the door presents another problem.  Now that you
+have been noticed as an outisder the guards seem to be swarming twoards you
+with their swords drawn.  
+~
+0 0 0
+D0
+~
+~
+0 0 11030
+D1
+~
+~
+1 0 11036
+D2
+~
+~
+0 0 11028
+D3
+~
+~
+1 0 11034
+S
+#11030
+Inside Clan Campbell Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11029
+S
+#11031
+Approaching the Door at the end of the Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 11032
+D1
+~
+~
+1 0 11038
+D2
+~
+~
+0 0 11030
+D3
+~
+~
+1 0 11037
+S
+#11032
+In front of the door at the end of the tunnel~
+~
+0 0 0
+D0
+~
+~
+4 11013 11033
+D2
+~
+~
+0 0 11031
+S
+#11033
+At The bottom of the Giant Stairway~
+~
+0 0 0
+D2
+~
+~
+4 11013 11032
+D4
+~
+~
+0 0 11039
+S
+#11034
+A side room in the Tower~
+You have entered a side room.  Don't you feel special.  This is where
+some of the guards come to rest and so forth.  The noise doesn't seem as
+loud from here but maybe its just the room.  
+~
+0 0 0
+D1
+~
+~
+1 0 11029
+D4
+~
+~
+4 0 11035
+S
+#11035
+A secret room~
+This is a secret compartment in one of the many rooms of Clan Campbells
+tower.  There seems to be a man standing here with a big trenchcoat on. 
+Maybe you should explore or talk to the funny man.  
+~
+0 0 0
+D5
+~
+~
+4 0 11034
+S
+#11036
+A side room in the Great Tower~
+~
+0 0 0
+D3
+~
+~
+1 0 11029
+S
+#11037
+A side room in the Campbell Tower~
+~
+0 0 0
+D1
+~
+~
+1 0 11031
+S
+#11038
+A side room in the Great Tower~
+~
+0 0 0
+D3
+~
+~
+1 0 11031
+S
+#11039
+Near the Bottom of the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11040
+D5
+~
+~
+0 0 11033
+S
+#11040
+Near the Bottom of the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11041
+D5
+~
+~
+0 0 11039
+S
+#11041
+Somewhere in the Great Stairway~
+~
+0 0 0
+D1
+~
+~
+0 0 11066
+D4
+~
+~
+0 0 11042
+D5
+~
+~
+0 0 11040
+S
+#11042
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11043
+D5
+~
+~
+0 0 11041
+S
+#11043
+Somewhere in the Great Stairway~
+~
+0 0 0
+D1
+~
+~
+0 0 11089
+D4
+~
+~
+0 0 11044
+D5
+~
+~
+0 0 11042
+S
+#11044
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11045
+D5
+~
+~
+0 0 11043
+S
+#11045
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11046
+D5
+~
+~
+0 0 11044
+S
+#11046
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11047
+D5
+~
+~
+0 0 11045
+S
+#11047
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11048
+D5
+~
+~
+0 0 11046
+S
+#11048
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11049
+D5
+~
+~
+0 0 11047
+S
+#11049
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11050
+D5
+~
+~
+0 0 11048
+S
+#11050
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11051
+D5
+~
+~
+0 0 11049
+S
+#11051
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11052
+D5
+~
+~
+0 0 11050
+S
+#11052
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11053
+D5
+~
+~
+0 0 11051
+S
+#11053
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11054
+D5
+~
+~
+0 0 11052
+S
+#11054
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11055
+D5
+~
+~
+0 0 11053
+S
+#11055
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11056
+D5
+~
+~
+0 0 11054
+S
+#11056
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11057
+D5
+~
+~
+0 0 11055
+S
+#11057
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11058
+D5
+~
+~
+0 0 11056
+S
+#11058
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11059
+D5
+~
+~
+0 0 11057
+S
+#11059
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11060
+D5
+~
+~
+0 0 11058
+S
+#11060
+Somewhere in the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11061
+D5
+~
+~
+0 0 11059
+S
+#11061
+Near the top of the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11062
+D5
+~
+~
+0 0 11060
+S
+#11062
+Near the top of the Great Stairway~
+~
+0 0 0
+D4
+~
+~
+0 0 11063
+D5
+~
+~
+0 0 11061
+S
+#11063
+The top of the Great Stairway~
+You finally made it.  After several minutes of intense climbing you have
+reached what appears to be the top of the stairway.  In front of you is
+another large door much like the one at the entrance to this tower.  The
+fighting down below cannot even be heard at this height.  
+~
+0 0 0
+D0
+~
+~
+1 0 11064
+D5
+~
+~
+0 0 11062
+S
+#11064
+Entrance to the Great Hall~
+As you pass through the giant door you step into a giant room.  The size
+is enormous and decorations are everywhere.  Along the walls you can see
+poster of the great campbell leaders of the past.  Right in front of you
+however is a great table easily taking up half of the room at the head is a
+sloitary figure.  
+~
+0 0 0
+D0
+~
+~
+0 0 11065
+D2
+~
+~
+1 0 11063
+S
+#11065
+In front of Finlay Campbell's seat~
+As you approach the giant table you notice that one seat is noticeably
+larger than the rest.  This is no doubt the great Finlay's seat.  As you
+approach he swivels in his chair to face you.  He doesn't seem happy to see
+you but he isn't hostile either.  
+~
+0 0 0
+D2
+~
+~
+0 0 11064
+S
+#11066
+The Second Floor of Clan Campbell Headquarters~
+At this point the staircase has turned to allow room for a small standing
+space.  In front of this space is a door with the number 2 on it.  This must
+be the second floor.  Here is where all the guards sleep and train.  
+~
+0 0 0
+D1
+~
+~
+1 0 11067
+D3
+~
+~
+0 0 11041
+S
+#11067
+Hallway of the Second Floor~
+Before you stretches out another hallway much like the lobby but not as
+big.  Down the hall you can see several doors which probably lead off to the
+sleeping quarters of the guards.  At then end of the hall is a large robot
+taking up the entire wall.  It looks very mean and very hostile.  
+~
+0 0 0
+D1
+~
+~
+0 0 11068
+D3
+~
+~
+1 0 11066
+S
+#11068
+The Hallway of the Second Floor~
+As you continue down the hallway you can see more and more doors that
+span the entire length.  The hallway seems to be devoid of people but you
+can hear noises comming from the various rooms.  Each door is barraced with
+reinforced steel to prevent any mishaps.  
+~
+0 0 0
+D1
+~
+~
+0 0 11069
+D3
+~
+~
+0 0 11067
+S
+#11069
+In front of two doors on the Second Floor~
+You stand in front of the first set of doors in the hall.  Upon closer
+inspection you can see that the doors would be almost impossible to break
+down.  The steel prevents anything from penetrating it, even a disruptor
+shot.  The door also looks mighty unpickable so it may be best not to try. 
+On the other side of the door you can hear voices of soldiers.  
+~
+0 0 0
+D0
+~
+~
+1 0 11070
+D1
+~
+~
+0 0 11082
+D2
+~
+~
+1 0 11076
+D3
+~
+~
+0 0 11068
+S
+#11070
+A Barracks in the Clan Campbell Headquarters~
+You stand at the entrance to one of the many barracks in clan campbell
+headquarters.  In front of you are long lines of beds each used to house a
+soldier.  You can see a few soldiers moving about here but it seems most of
+them have gone off to fight in the rebellion.  
+~
+0 0 0
+D0
+~
+~
+0 0 11071
+D2
+~
+~
+1 0 11069
+S
+#11071
+In a Clan Campbell Barracks~
+As you continue down the barracks hall the line of bunks seems to go on
+for ever.  Each is spaced only a few feet apart allowing the soldier little
+privacy.  Very few soldiers are here at the moment.  However, you can still
+see the occansional one wandering about.  
+~
+0 4 0
+D0
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11070
+S
+#11072
+In a Clan Campbell Barracks~
+You are about midway now if the long hallway.  You wonder how a single
+family could afford to keep so many guards around.  The money probably comes
+from their illegal trade routes.  Every family in the empire is said to have
+several underground dealings which is why they ended up on top of the
+economy.  
+~
+0 0 0
+D0
+~
+~
+0 0 11073
+D2
+~
+~
+0 0 11071
+S
+#11073
+Nearing the end of a Clan Campbell Barracks~
+Nearing the end of the room you notice the robot again.  It really does
+appear quite large.  Taking up the whole wall from top to bottom left to
+right its one mass of weaponry.  Chances are these robots are only used in
+the most extreme cases as getting them out of the room would require the
+destruction of a wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 11074
+D2
+~
+~
+0 0 11072
+S
+#11074
+A few feet away from the end of the hall~
+Only a few feet from you is the giant robot now.  All the bunks in the
+barracks have stopped by this point and it 's just you and the machine. 
+Looking back you now realize how hard it would be to run away from anything
+attacking you in the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 11075
+D2
+~
+~
+0 0 11073
+S
+#11075
+In front of the giant robot~
+Well, you finally made it.  I hope your happy.  You get to test your
+fighting skills against the best of modern weaponry and technology.  All the
+bunks seem to have fallen a long way away from you now.  Looking closer at
+the robot you notice that it has several large guns mounted on its arms. 
+Best be careful.  
+~
+0 0 0
+D2
+~
+~
+0 0 11074
+S
+#11076
+A Barracks in the Clan Campbell Headquarters~
+You stand at the entrance to one of the many barracks in clan campbell
+headquarters.  In front of you are long lines of beds each used to house a
+soldier.  You can see a few soldiers moving about here but it seems most of
+them have gone off to fight in the rebellion.  
+~
+0 0 0
+D0
+~
+~
+1 0 11069
+D2
+~
+~
+0 0 11077
+S
+#11077
+In a Clan Campbell Barracks~
+As you continue down the barracks hall the line of bunks seems to go on
+for ever.  Each is spaced only a few feet apart allowing the soldier little
+privacy.  Very few soldiers are here at the moment.  However, you can still
+see the occansional one wandering about.  
+~
+0 0 0
+D0
+~
+~
+0 0 11076
+D2
+~
+~
+0 0 11078
+S
+#11078
+In a Clan Campbell Barracks~
+You are about midway now if the long hallway.  You wonder how a single
+family could afford to keep so many guards around.  The money probably comes
+from their illegal trade routes.  Every family in the empire is said to have
+several underground dealings which is why they ended up on top of the
+economy.  
+~
+0 0 0
+D0
+~
+~
+0 0 11077
+D2
+~
+~
+0 0 11079
+S
+#11079
+Nearing the end of a Clan Campbell Barracks~
+Upon approaching the end of the room you notice a lone figure standing at
+the end.  He doesn't appear deformed or unusual in any way.  Just a normal
+person.  You wonder how a single family could afford to keep so many guards
+around.  The money probably comes from their illegal trade routes.  
+~
+0 0 0
+D0
+~
+~
+0 0 11078
+D2
+~
+~
+0 0 11080
+S
+#11080
+A few feet away from the end of the hall~
+In front of you now is the man that you had seen earlier.  He appears no
+different from any ordinary person.  However, he does seem a little nervous.
+Behind you the bunks seem to have stopped and the door looks rather far away
+now.  
+~
+0 0 0
+D0
+~
+~
+0 0 11079
+D2
+~
+~
+0 0 11081
+S
+#11081
+In front of the lone figure at the end of the hall~
+In front of you stands the lone figure that you saw a while back.  He has
+the appearance of a normal man but his eyes are constantly darting in a
+state of paranoia.  The bunks seem eerily far behind you and you don't feel
+quite safe with this man.  He is probably the familys personal esper making
+escape almost impossible.  
+~
+0 0 0
+D0
+~
+~
+0 0 11080
+S
+#11082
+In a clan campbell hall~
+You are approaching the end of the hall which ends in a solid concrete
+wall.  It seems it was put there from protection from outside explosions
+rather than decoration.  Along the walls are several mounted security
+cameras.  There must be hundreds of them throughout the tower and you wonder
+how anyone could watch that many at once.  
+~
+0 0 0
+D1
+~
+~
+0 0 11083
+D3
+~
+~
+0 0 11069
+S
+#11083
+Approaching the end of a hall~
+As you move farther down the hall you notice less and less soldiers. 
+There probably isn't anything at all interesting down here.  But you do
+notice a door on the northern side.  What could be behind it nobody knows. 
+The clan familys are said to have several nasty defense mechanisms just
+waiting for an intruder to disturb them.  
+~
+0 0 0
+D1
+~
+~
+0 0 11084
+D3
+~
+~
+0 0 11082
+S
+#11084
+In front of a door~
+Ah you have finally reached the big concrete wall and the door in the
+northern wall.  There is nothing extraordinary about the wall or the door. 
+It seems just like all the others.  There seems to be no obvious reason why
+it should be set apart like it is.  But obviously there is a reason and
+probably a really good one.  
+~
+0 0 0
+D0
+~
+~
+1 0 11085
+D3
+~
+~
+0 0 11083
+S
+#11085
+In a clan campbell barracks~
+This hall of bunks stretches away just like all the others.  However, it
+is not as long and you can clearly make out a man of gigantic stature
+standing at the end.  You also notice the complete lack of any personel in
+this room except the man at the end.  
+~
+0 0 0
+D0
+~
+~
+0 0 11086
+D2
+~
+~
+1 0 11084
+S
+#11086
+In a clan campbell barracks~
+As you walk past the numerous bunks you notice that several of them seem
+to have been abandoned a long time ago.  As you look behind you you see a
+large security camera placed right above the door.  Appaerently whatever
+happens in this room the family wants to know about it.  
+~
+0 0 0
+D0
+~
+~
+0 0 11087
+D2
+~
+~
+0 0 11085
+S
+#11087
+Near the end of the barracks~
+The line of bunks has stopped and fallen away behind you now.  Only a few
+feet of space remain in between you and the giant.  From here you notice
+that he looks rather pale.  He must be over 8 feet tall and could probably
+break every bone in your body without trying.  
+~
+0 0 0
+D0
+~
+~
+0 0 11088
+D2
+~
+~
+0 0 11086
+S
+#11088
+In front of the giant~
+Well you made it.  Don't you feel proud.  Only a foot in front of you is
+the giant man.  He is well over 9 feet tall and he looks as pale as a ghost.
+Escape seems rather impossible as the door to the room seems very far away
+now.  You made it this far might as well fight.  
+~
+0 0 0
+D2
+~
+~
+0 0 11087
+S
+#11089
+Door to the second floor~
+Here stands a door with a large number 2 painted on it.  A sign beside
+the door states that this way leads to the towers kitchens.  You can smell
+wonderful smells coming from the rooms behind the door.  It seems that the
+cooks don't even stop their work even in a time of emergency such as this. 
+The rebellion seems to have effected everybody except them.  
+~
+0 0 0
+D1
+~
+~
+1 0 11090
+D3
+~
+~
+0 0 11043
+S
+#11090
+Entrance to the kitchen~
+Before you stands a large square room with kitchen appliances stacked
+everywhere.  Several cooks are running around trying to prepare for the next
+meal.  Its a wonder that they can all fit in such a small place.  They seem
+to make due though but they probably wouldn't want an extra person in their
+midst.  
+~
+0 4 0
+D1
+~
+~
+0 0 11091
+D3
+~
+~
+1 0 11089
+S
+#11091
+The western wall of the kitchen.~
+As you enter the main part of the kitchen you are assaulted by a number
+of wonderful smells.  Each cook is busy working on his special dish for
+tonights feast.  There must be at least 25 cooks running around the cramped
+room.  The heat from the stoves and ovens makes it even more uncomfortable. 
+~
+0 0 0
+D0
+~
+~
+0 0 11094
+D1
+~
+~
+0 0 11092
+D2
+~
+~
+0 0 11097
+D3
+~
+~
+0 0 11090
+S
+#11092
+The center of the kitchen~
+This is the center of the small room.  From here you can view everything
+that happens in the kitchen.  Cooks shove and push you out of the way as the
+surge to get to the pots and pans.  They seem very annoyed that you have
+trespased to the kitchen but no one will raise a voice at you for fear they
+will not meet their deadline.  
+~
+0 0 0
+D0
+~
+~
+0 0 11095
+D1
+~
+~
+0 0 11093
+D2
+~
+~
+0 0 11098
+D3
+~
+~
+0 0 11091
+S
+#11093
+Eastern wall of the kitchen~
+You stand at the wall opposite of the entrance.  The hustle and bustle of
+the cooking staff is almost overwhelming.  Everyone is in a hurry to finish
+for fear they will be killed if they are not on time.  Cooks run by you
+carrying elaborate dishes that seem fit for a king.  
+~
+0 0 0
+D0
+~
+~
+0 0 11096
+D2
+~
+~
+0 0 11099
+D3
+~
+~
+0 0 11092
+S
+#11094
+Northwestern corner of the kitchen~
+At this corner of the kitchen appears to be the washing station.  Dishes
+are stacked up almost to the ceiling and most have fallen off their stacks
+and broken.  It looks like many of the dishes will remain unclean judging by
+the way they overflow the sink.  The cooks seem to avoid this part of the
+room as nobody really wants to clean.  
+~
+0 0 0
+D1
+~
+~
+0 0 11095
+D2
+~
+~
+0 0 11091
+S
+#11095
+Northern wall of the kitchen~
+Here at the northern part of the kitchen are all of the ovens and stoves.
+The heat is incredible and your sweat evaporates as soon as it forms.  You
+wonder how these people are able to withstand so much discomforate as they
+wait for their respective dishes to finish baking.  
+~
+0 0 0
+D1
+~
+~
+0 0 11096
+D2
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11094
+S
+#11096
+Northeastern corner of the kitchen~
+Here at the northeastern corner stands the food storage containers.  You
+can see piles upon piles of food waiting to be used by the cooks.  All the
+cooks seem to be fighting over the food.  It would appear that the good food
+was hard to get and the cooks that got it first got the best bonus for their
+food.  
+~
+0 0 0
+D2
+~
+~
+0 0 11093
+D3
+~
+~
+0 0 11095
+S
+#11097
+Southwest corner of the kitchen~
+In this corner are rows upon rows of pots and pans.  They hang from the
+ceiling like bats in a cave.  There is almost no limit to the amount of
+cooking untensils available.  Spoons and knives are stacked almost to the
+pots on the ceiling.  Cooks rush buy and grab different things every minute,
+not caring whether you were there or not.  
+~
+0 0 0
+D0
+~
+~
+0 0 11091
+D1
+~
+~
+0 0 11098
+S
+#11098
+Southern wall of the kitchen~
+Opposite of the northern wall here is where the freezers and
+refrigerators are.  Of course soom have been left open by careless cooks. 
+The cold air the blasts from these is almost unbearable.  You begin to
+shiver despite all the clothing that you have on.  
+~
+0 0 0
+D0
+~
+~
+0 0 11092
+D1
+~
+~
+0 0 11099
+D3
+~
+~
+0 0 11097
+S
+#11099
+Southeast corner of the kitchen~
+The southeast corner contains all of the finished dishes waiting to be
+sent to the grand table.  A dumbwaiter is in the wall constantly in use
+carrying dishes to the top floor.  Its a miracle that the waiter is able to
+lift some of these dishes.  Some look like they weight at least 30 pounds or
+more.  
+~
+0 0 0
+D0
+~
+~
+0 0 11093
+D3
+~
+~
+0 0 11098
+S
+#0
+
+
+
+#SPECIALS
+M 11014 spec_cast_mage
+M 11015 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 11029 1 1
+D 0 11029 3 1
+D 0 11031 1 1
+D 0 11031 3 1
+D 0 11032 0 2
+D 0 11033 2 2
+D 0 11034 1 1
+D 0 11034 4 1
+D 0 11035 5 1
+D 0 11036 3 1
+D 0 11037 1 1
+D 0 11038 3 1
+D 0 11063 0 1
+D 0 11064 2 1
+D 0 11066 1 1
+D 0 11067 3 1
+D 0 11069 0 1
+D 0 11069 2 1
+D 0 11070 2 1
+D 0 11076 0 1
+D 0 11084 0 1
+D 0 11085 2 1
+D 0 11089 1 1
+D 0 11090 3 1
+M 0 11000 20 11001 1
+E 0 11002 0 16
+M 0 11002 1 11007 1
+E 0 11003 0 6
+E 0 11018 0 16
+M 0 11003 1 11011 1
+E 0 11006 0 16
+M 0 11004 1 11012 1
+M 0 11005 1 11013 1
+M 0 11006 1 11014 1
+M 0 11007 1 11016 1
+G 0 11002 0
+G 0 11004 0
+M 0 11008 1 11023 1
+G 0 11009 0
+G 0 11010 0
+G 0 11011 0
+M 0 11009 100 11027 2
+E 0 11012 0 5
+E 0 11004 0 11
+E 0 11002 0 16
+M 0 11009 100 11029 2
+E 0 11012 0 5
+E 0 11002 0 16
+E 0 11004 0 11
+M 0 11009 1 11030 1
+E 0 11012 0 5
+E 0 11004 0 11
+E 0 11002 0 16
+M 0 11009 1 11032 1
+E 0 11012 0 5
+E 0 11002 0 5
+M 0 11011 20 11034 1
+E 0 11015 0 16
+M 0 11010 1 11035 1
+E 0 11014 0 16
+G 0 11013 0
+M 0 11011 20 11036 1
+E 0 11015 0 16
+M 0 11011 20 11037 1
+E 0 11015 0 16
+M 0 11011 20 11038 1
+E 0 11015 0 16
+M 0 11012 1 11065 1
+E 0 11016 0 16
+E 0 11020 0 9
+M 0 11013 1 11075 1
+E 0 11017 0 16
+M 0 11014 1 11081 1
+E 0 11019 0 6
+M 0 11015 1 11088 1
+E 0 11021 0 3
+E 0 11022 0 10
+M 0 11016 10 11091 2
+E 0 11023 0 6
+E 0 11024 0 19
+M 0 11016 10 11093 2
+E 0 11023 0 6
+E 0 11024 0 19
+M 0 11016 10 11095 2
+E 0 11023 0 6
+E 0 11024 0 19
+M 0 11016 10 11098 2
+E 0 11023 0 6
+E 0 11024 0 19
+S
+
+
+
+#SHOPS
+11007 5 9 15 0 0 120 80 0 23
+11008 0 19 0 0 0 10 100 6 20
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

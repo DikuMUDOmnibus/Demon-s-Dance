@@ -1,0 +1,132 @@
+0: reserved
+1: acid blast
+2: armor
+3: bless
+5: burning hands
+6: call lightning
+7: calm
+8: cancellation
+9: cause critical
+10: cause light
+11: cause serious
+12: chain lightning
+13: change sex
+15: chill touch
+16: colour spray
+17: continual light
+18: control weather
+19: create food
+20: create rose
+21: create spring
+22: create water
+23: cure blindness
+24: cure critical
+25: cure disease
+26: cure light
+27: cure poison
+28: cure serious
+30: demonfire
+31: detect evil
+32: detect good
+33: detect hidden
+34: detect invis
+35: detect magic
+36: detect poison
+37: discern weakness
+38: dispel evil
+39: dispel good
+40: dispel magic
+41: divine right
+42: dragonfury
+43: elemental shield
+44: earthquake
+45: enchant armor
+46: enchant weapon
+47: energy drain
+48: erecover
+49: exodus
+50: faerie fire
+51: faerie fog
+52: farsight
+53: fanatics flame
+54: fireball
+55: fireshield
+56: fireproof
+57: flamestrike
+58: judgement
+59: fly
+60: floating disc
+61: frenzy
+62: gate
+63: giant strength
+64: giga blast
+66: greater healing
+67: harm
+68: haste
+69: heal
+70: heat metal
+71: heavenly justice
+72: hold person
+73: holy armor
+74: holy word
+75: identify
+76: infravision
+78: know alignment
+79: lightning bolt
+80: locate object
+81: magic missile
+82: mass healing
+84: minsc power
+85: mind thrust
+86: mind blast
+87: mind crush
+88: mrecover
+89: mystic sight
+90: nexus
+91: pass door
+94: portal
+95: precover
+96: protection evil
+97: protection good
+98: ray of truth
+99: recharge
+100: refresh
+101: remove curse
+102: repulsar
+103: runic scribing
+104: rune of warding
+106: shield
+107: shocking grasp
+108: skeleton dance
+110: slow
+111: stone skin
+112: summon
+113: supernova
+114: teleport
+115: thermonuclear blast
+116: venom lance
+117: ventriloquate
+118: vise grip
+119: weaken
+120: spectral hand
+121: acid breath
+122: fire breath
+123: frost breath
+124: gas breath
+125: lightning breath
+126: elemental wrath
+127: wrath fire
+128: wrath cold
+129: wrath acid
+130: wrath lightning
+131: wrath negative
+132: wrath holy
+133: skeletal mage
+134: skeletal archer
+135: skeletal warrior
+136: phantasmal wraith
+137: general purpose
+138: high explosive
+203: smiling death
+204: mantis dance
+205: deadly fingertips

@@ -1,0 +1,380 @@
+#CLASS
+Name dagashi~
+WhoN Dag
+Prime 3
+Weapon 3701
+Guild1 3028
+Guild2 9639
+Skill 80
+Thac00 50
+Thac32 10
+HPMin 11
+HPMax 15
+FMana 1
+Remort 1
+Base dagashi basics~
+Default dagashi default~
+End
+#SKILLS
+gouge~
+90 6
+mantis dance~
+85 7
+mind thrust~
+101 0
+mind blast~
+101 0
+mind crush~
+101 0
+thermonuclear blast~
+110 1
+reserved~
+101 0
+armor~
+10 2
+bless~
+48 2
+blindness~
+17 2
+burning hands~
+101 0
+call lightning~
+101 0
+calm~
+50 1
+cancellation~
+34 1
+cause light~
+101 0
+cause serious~
+101 0
+chain lightning~
+101 0
+change sex~
+101 0
+charm person~
+101 0
+chill touch~
+101 0
+colour spray~
+101 0
+continual light~
+6 1
+control weather~
+101 0
+cure blindness~
+50 1
+cure critical~
+101 0
+cure disease~
+55 1
+cure light~
+101 0
+cure poison~
+50 1
+cure serious~
+101 0
+curse~
+26 1
+demonfire~
+101 0
+detect evil~
+12 1
+detect good~
+12 1
+detect hidden~
+12 1
+detect invis~
+12 1
+detect magic~
+12 1
+detect poison~
+12 1
+dispel evil~
+45 1
+dispel good~
+45 1
+dispel magic~
+30 1
+earthquake~
+101 0
+enchant armor~
+101 0
+enchant weapon~
+101 0
+energy drain~
+101 0
+faerie fire~
+5 1
+faerie fog~
+24 1
+farsight~
+16 1
+fireball~
+101 0
+fireproof~
+18 1
+flamestrike~
+101 0
+fly~
+22 1
+floating disc~
+7 1
+frenzy~
+50 1
+gate~
+32 1
+giant strength~
+22 1
+harm~
+101 0
+haste~
+29 1
+heal~
+101 0
+heat metal~
+101 0
+holy word~
+101 0
+identify~
+18 1
+infravision~
+16 1
+invisibility~
+9 1
+know alignment~
+60 1
+lightning bolt~
+101 0
+locate object~
+11 1
+magic missile~
+101 0
+mass healing~
+101 0
+mass invis~
+101 0
+nexus~
+80 1
+pass door~
+18 1
+plague~
+36 1
+poison~
+21 1
+portal~
+45 1
+protection evil~
+17 1
+protection good~
+17 1
+ray of truth~
+101 0
+recharge~
+101 0
+refresh~
+12 1
+remove curse~
+22 1
+sanctuary~
+60 1
+shield~
+40 1
+shocking grasp~
+101 0
+sleep~
+11 1
+slow~
+29 1
+stone skin~
+40 1
+summon~
+29 1
+teleport~
+25 1
+ventriloquate~
+101 0
+weaken~
+17 1
+precover~
+101 0
+mrecover~
+101 0
+erecover~
+101 0
+phase~
+16 2
+fireshield~
+70 1
+discern weakness~
+50 1
+minsc power~
+101 0
+find dragon~
+101 0
+sever~
+101 0
+venom lance~
+101 0
+thermonuclear blast~
+101 0
+haduken~
+101 0
+triple kick~
+101 0
+shadowslip~
+40 4
+fatality~
+101 0
+smite~
+101 0
+holy armor~
+101 0
+divine right~
+101 0
+greater healing~
+101 0
+fanatics flame~
+101 0
+heavenly justice~
+101 0
+vise grip~
+101 0
+hold person~
+101 0
+giga blast~
+101 0
+supernova~
+101 0
+elemental shield~
+101 0
+burst of speed~
+55 4
+coat~
+50 3
+create golem~
+101 0
+acid breath~
+101 0
+fire breath~
+101 0
+frost breath~
+101 0
+gas breath~
+101 0
+lightning breath~
+101 0
+general purpose~
+101 0
+high explosive~
+101 0
+axe~
+1 4
+dagger~
+1 2
+flail~
+1 4
+mace~
+1 5
+polearm~
+1 0
+shield block~
+1 3
+spear~
+1 5
+sword~
+1 4
+whip~
+1 4
+bow~
+1 3
+backstab~
+10 3
+circle~
+72 5
+counter~
+25 4
+bash~
+101 0
+berserk~
+101 0
+phalanx~
+101 0
+strike~
+101 0
+shield wall~
+101 0
+fortify~
+101 0
+dirt kicking~
+3 2
+disarm~
+12 3
+dodge~
+1 3
+enhanced damage~
+15 3
+envenom~
+10 2
+hand to hand~
+1 4
+kick~
+1 3
+parry~
+1 2
+rescue~
+101 4
+trip~
+1 3
+second attack~
+20 2
+third attack~
+30 3
+fourth attack~
+60 5
+fifth attack~
+101 0
+whirlwind~
+101 0
+second cast~
+101 0
+third cast~
+101 0
+fast healing~
+16 3
+haggle~
+1 3
+forging~
+10 4
+hide~
+1 1
+meditation~
+10 0
+peek~
+1 1
+pick lock~
+1 1
+sneak~
+4 1
+steal~
+5 2
+scrolls~
+1 2
+staves~
+1 2
+wands~
+1 2
+recall~
+1 2
+acid blast~
+101 0
+cause critical~
+101 0
+cause light~
+101 0
+cause serious~
+101 0
+harm~
+101 0
+End~
+#END

@@ -1,0 +1,3262 @@
+#AREADATA
+Name Kontovar~
+Builders Hirahim~
+VNUMs 12600 12699
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+{
+12600
+Name ~
+Short dEaTh~
+Orig_short dEaTh~
+Desc DeAtH dEaTh~
+Material unknown~
+Item_type weapon
+Extra HMOPY
+Wear AN
+Values dagger 199 199 blaze ABCDEGHI
+Level 1
+Weight 10
+Cost 1
+Condition P
+A
+5 40
+A
+3 40
+A
+2 40
+A
+1 40
+A
+4 40
+A
+19 999
+A
+18 999
+}
+
+{
+12601
+Name ~
+Short {RSash of the {WLight{Dfoot{x~
+Orig_short {RSash of the {WLight{Dfoot{x~
+Desc The legendary sash once belonging to Lord Lightfoot~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AL
+Values EIJKN EIJKN EIJKN EIJKN 0
+Level 1
+Weight 10
+Cost 10000
+Condition P
+A
+20 -100
+A
+12 9999
+A
+14 9999
+A
+13 9999
+}
+
+#0
+
+
+
+#ROOMS
+{
+12600
+Name {WGates before Kontovar.{x~
+Desc The Gates to Kontovar are made of an unknown alloy.  They gleam and
+glisten as if polished, but bear no marks of craftmens tools.  To enter this
+kingdom you have to be proven worthy, prepare yourself young traveller, if
+you are found unworthy...  
+~
+Room_flags 1 Sector_type 2
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword gates~
+Locks 1
+Key 0
+To_room 12601
+Exit_string leaves north~
+]
+
+}
+
+{
+12601
+Name {W Bridge to Kontovar.{x~
+Desc As you enter the room you realize your test is to the death.  The warrior
+that greets you is not going to just test your skill at arms, he's going to
+test what you are made of.  Lest a weakling be allowed into the Great
+Kingdom.  The time has come to defend yourself.  You may make the first move
+of battle, honor demands it.  You can not hide from this, you must defeat
+Evark to enter.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12602
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12600
+Exit_string leaves south~
+]
+
+}
+
+{
+12602
+Name {W Bridge to Kontovar.{x~
+Desc After your fight with Evark you need a little bit of rest.  There are
+many people here to help you with whatever help you might need.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12601
+Exit_string leaves south~
+]
+
+[
+Orig_door 4
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12603
+Exit_string leaves up~
+]
+
+}
+
+{
+12603
+Name Further along the bridge to Kontovar~
+Desc The bridge seems to last forever, this might be another test of the
+kingdom to see if you also have the will to go on after Evark.  Push on
+adventurer, only the faint of heart quit.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12604
+Exit_string leaves north~
+]
+
+[
+Orig_door 5
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12602
+Exit_string leaves down~
+]
+
+}
+
+{
+12604
+Name Before the enterance to the kingdom~
+Desc The Kingdom has one final test.  Pass it and the gates of Kontovar shall
+always be open to you.  This test is going to be tough on even a seasoned
+warrior, let us see how you fare.  PREPARE TO DIE!  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12603
+Exit_string leaves south~
+]
+
+[
+Orig_door 4
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12605
+Exit_string leaves up~
+]
+
+}
+
+{
+12605
+Name {?E{?N{?T{?E{?R{?A{?N{?C{?E {?T{?O {?K{?O{?T{?O{?V{?A{?R{?.{x~
+Desc As you gaze at the beautiful enterance to the Castle of Kontovar your
+attention is lured away by all of the noise coming from the east and west of
+the enterance.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12651
+Exit_string leaves north~
+]
+
+[
+Orig_door 5
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12604
+Exit_string leaves down~
+]
+
+}
+
+{
+12606
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12609
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12607
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12699
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12615
+Exit_string leaves west~
+]
+
+}
+
+{
+12607
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12610
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12608
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12606
+Exit_string leaves west~
+]
+
+}
+
+{
+12608
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12611
+Exit_string leaves north~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12607
+Exit_string leaves west~
+]
+
+}
+
+{
+12609
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12612
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12610
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12606
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12617
+Exit_string leaves west~
+]
+
+}
+
+{
+12610
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12613
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12611
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12607
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12609
+Exit_string leaves west~
+]
+
+}
+
+{
+12611
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12614
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12608
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12610
+Exit_string leaves west~
+]
+
+}
+
+{
+12612
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12621
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12613
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12609
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12619
+Exit_string leaves west~
+]
+
+}
+
+{
+12613
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12614
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12610
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12612
+Exit_string leaves west~
+]
+
+}
+
+{
+12614
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12611
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12613
+Exit_string leaves west~
+]
+
+}
+
+{
+12615
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12617
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12606
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12616
+Exit_string leaves west~
+]
+
+}
+
+{
+12616
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12618
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12615
+Exit_string leaves east~
+]
+
+}
+
+{
+12617
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12619
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12609
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12615
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12618
+Exit_string leaves west~
+]
+
+}
+
+{
+12618
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12620
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12617
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12616
+Exit_string leaves south~
+]
+
+}
+
+{
+12619
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12612
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12617
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12620
+Exit_string leaves west~
+]
+
+}
+
+{
+12620
+Name Courtyard of the Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12619
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12618
+Exit_string leaves south~
+]
+
+}
+
+{
+12621
+Name Gates to the Palace~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12624
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12623
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12612
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12622
+Exit_string leaves west~
+]
+
+}
+
+{
+12622
+Name Watchguard Tower~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12621
+Exit_string leaves east~
+]
+
+}
+
+{
+12623
+Name Watchguard Tower~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12621
+Exit_string leaves west~
+]
+
+}
+
+{
+12624
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12628
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12625
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12621
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12627
+Exit_string leaves west~
+]
+
+}
+
+{
+12625
+Name Statues of past Kings.~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12624
+Exit_string leaves west~
+]
+
+}
+
+{
+12627
+Name Statues of past Kings.~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12624
+Exit_string leaves east~
+]
+
+}
+
+{
+12628
+Name Waiting room for the King.~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12629
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12624
+Exit_string leaves south~
+]
+
+}
+
+{
+12629
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12634
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12632
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12628
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12631
+Exit_string leaves west~
+]
+
+}
+
+{
+12630
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12629
+Exit_string leaves south~
+]
+
+}
+
+{
+12631
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12633
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12629
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword quiet~
+Locks 1
+Key 0
+To_room 12646
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword curtain~
+Locks 1
+Key 0
+To_room 12647
+Exit_string leaves west~
+]
+
+}
+
+{
+12632
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12635
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword quiet~
+Locks 1
+Key 0
+To_room 12644
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword curtain~
+Locks 1
+Key 0
+To_room 12645
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12629
+Exit_string leaves west~
+]
+
+}
+
+{
+12633
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12636
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12634
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12631
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword chamber~
+Locks 1
+Key 0
+To_room 12648
+Exit_string leaves west~
+]
+
+}
+
+{
+12634
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12637
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12635
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12629
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12633
+Exit_string leaves west~
+]
+
+}
+
+{
+12635
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12638
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword chamber~
+Locks 1
+Key 0
+To_room 12643
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12632
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12634
+Exit_string leaves west~
+]
+
+}
+
+{
+12636
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12650
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12637
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12633
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword curtain~
+Locks 1
+Key 0
+To_room 12649
+Exit_string leaves west~
+]
+
+}
+
+{
+12637
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12639
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12638
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12634
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12636
+Exit_string leaves west~
+]
+
+}
+
+{
+12638
+Name Kings Court~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12641
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword curtain~
+Locks 1
+Key 0
+To_room 12642
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12635
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12637
+Exit_string leaves west~
+]
+
+}
+
+{
+12639
+Name Throne of the King.~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12637
+Exit_string leaves south~
+]
+
+[
+Orig_door 4
+Exit_desc ~
+Exit_keyword trapdoor~
+Locks 1
+Key 0
+To_room 12640
+Exit_string leaves up~
+]
+
+}
+
+{
+12640
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 5
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12639
+Exit_string leaves down~
+]
+
+}
+
+{
+12641
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12638
+Exit_string leaves south~
+]
+
+}
+
+{
+12642
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12638
+Exit_string leaves west~
+]
+
+}
+
+{
+12643
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12635
+Exit_string leaves west~
+]
+
+}
+
+{
+12644
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12632
+Exit_string leaves west~
+]
+
+}
+
+{
+12645
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12632
+Exit_string leaves north~
+]
+
+}
+
+{
+12646
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12631
+Exit_string leaves north~
+]
+
+}
+
+{
+12647
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12631
+Exit_string leaves east~
+]
+
+}
+
+{
+12648
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12633
+Exit_string leaves east~
+]
+
+}
+
+{
+12649
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12636
+Exit_string leaves east~
+]
+
+}
+
+{
+12650
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 1
+Key 0
+To_room 12636
+Exit_string leaves south~
+]
+
+}
+
+{
+12651
+Name Before the Castle~
+Desc Even from this distance you can see the magnificance of the gates leading
+into the castle.  You can't help but feel dwarfed by the size and beauty. 
+Now you understand why you were tested.  Anyone who did not have the courage
+and commitment to continue no matter the cost.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12699
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12672
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12605
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12652
+Exit_string leaves west~
+]
+
+}
+
+{
+12652
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12651
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12653
+Exit_string leaves west~
+]
+
+}
+
+{
+12653
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12652
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12654
+Exit_string leaves west~
+]
+
+}
+
+{
+12654
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12653
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12655
+Exit_string leaves west~
+]
+
+}
+
+{
+12655
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12656
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12654
+Exit_string leaves east~
+]
+
+}
+
+{
+12656
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12657
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12655
+Exit_string leaves south~
+]
+
+}
+
+{
+12657
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12658
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12656
+Exit_string leaves south~
+]
+
+}
+
+{
+12658
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12659
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12657
+Exit_string leaves south~
+]
+
+}
+
+{
+12659
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12660
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12658
+Exit_string leaves west~
+]
+
+}
+
+{
+12660
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12661
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12659
+Exit_string leaves west~
+]
+
+}
+
+{
+12661
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12662
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12660
+Exit_string leaves west~
+]
+
+}
+
+{
+12662
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12673
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12663
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12661
+Exit_string leaves west~
+]
+
+}
+
+{
+12663
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12664
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12662
+Exit_string leaves west~
+]
+
+}
+
+{
+12664
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12665
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12663
+Exit_string leaves west~
+]
+
+}
+
+{
+12665
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12666
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12664
+Exit_string leaves west~
+]
+
+}
+
+{
+12666
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12667
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12665
+Exit_string leaves west~
+]
+
+}
+
+{
+12667
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12666
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12668
+Exit_string leaves south~
+]
+
+}
+
+{
+12668
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12667
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12669
+Exit_string leaves south~
+]
+
+}
+
+{
+12669
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12668
+Exit_string leaves north~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12670
+Exit_string leaves west~
+]
+
+}
+
+{
+12670
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12669
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12671
+Exit_string leaves west~
+]
+
+}
+
+{
+12671
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12670
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12672
+Exit_string leaves west~
+]
+
+}
+
+{
+12672
+Name Marketplace around Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12671
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12651
+Exit_string leaves west~
+]
+
+}
+
+{
+12673
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12674
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12662
+Exit_string leaves south~
+]
+
+}
+
+{
+12674
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12675
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12673
+Exit_string leaves south~
+]
+
+}
+
+{
+12675
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12679
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12676
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12674
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12677
+Exit_string leaves west~
+]
+
+}
+
+{
+12676
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12680
+Exit_string leaves north~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12675
+Exit_string leaves west~
+]
+
+}
+
+{
+12677
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12678
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12675
+Exit_string leaves east~
+]
+
+}
+
+{
+12678
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12685
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12679
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12677
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12681
+Exit_string leaves west~
+]
+
+}
+
+{
+12679
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12684
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12680
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12675
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12678
+Exit_string leaves west~
+]
+
+}
+
+{
+12680
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12683
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12682
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12676
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12679
+Exit_string leaves west~
+]
+
+}
+
+{
+12681
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12678
+Exit_string leaves east~
+]
+
+}
+
+{
+12682
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12680
+Exit_string leaves west~
+]
+
+}
+
+{
+12683
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12686
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12680
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12684
+Exit_string leaves west~
+]
+
+}
+
+{
+12684
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12687
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12683
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12679
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12685
+Exit_string leaves west~
+]
+
+}
+
+{
+12685
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12688
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12684
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12678
+Exit_string leaves south~
+]
+
+}
+
+{
+12686
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12691
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12690
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12683
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12687
+Exit_string leaves west~
+]
+
+}
+
+{
+12687
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12692
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12686
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12684
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12688
+Exit_string leaves west~
+]
+
+}
+
+{
+12688
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12693
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12687
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12685
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12689
+Exit_string leaves west~
+]
+
+}
+
+{
+12689
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12688
+Exit_string leaves east~
+]
+
+}
+
+{
+12690
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12686
+Exit_string leaves west~
+]
+
+}
+
+{
+12691
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12694
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12686
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12692
+Exit_string leaves west~
+]
+
+}
+
+{
+12692
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12695
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12691
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12687
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12693
+Exit_string leaves west~
+]
+
+}
+
+{
+12693
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12697
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12692
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12688
+Exit_string leaves south~
+]
+
+}
+
+{
+12694
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12696
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12691
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12695
+Exit_string leaves west~
+]
+
+}
+
+{
+12695
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12694
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12692
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12697
+Exit_string leaves west~
+]
+
+}
+
+{
+12696
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12694
+Exit_string leaves west~
+]
+
+}
+
+{
+12697
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12695
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12693
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12698
+Exit_string leaves west~
+]
+
+}
+
+{
+12698
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12697
+Exit_string leaves east~
+]
+
+}
+
+{
+12699
+Name Drawbridge before the Kontovar Castle~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword gate~
+Locks 1
+Key 0
+To_room 12606
+Exit_string leaves north~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12651
+Exit_string leaves south~
+]
+
+}
+
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12600 0 1
+D 0 12601 2 1
+D 0 12606 2 1
+D 0 12621 0 1
+D 0 12624 2 1
+D 0 12631 2 1
+D 0 12631 3 1
+D 0 12632 1 1
+D 0 12632 2 1
+D 0 12633 3 1
+D 0 12635 1 1
+D 0 12636 0 1
+D 0 12636 3 1
+D 0 12638 0 1
+D 0 12638 1 1
+D 0 12639 4 1
+D 0 12640 5 1
+D 0 12641 2 1
+D 0 12642 3 1
+D 0 12643 3 1
+D 0 12644 3 1
+D 0 12645 0 1
+D 0 12646 0 1
+D 0 12647 1 1
+D 0 12648 1 1
+D 0 12649 1 1
+D 0 12650 2 1
+D 0 12699 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

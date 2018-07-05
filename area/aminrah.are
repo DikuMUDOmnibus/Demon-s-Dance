@@ -1,0 +1,2857 @@
+#AREADATA
+Name Amminrah~
+Builders Purinial~
+VNUMs 27800 27999
+Credits { 80+ } Purinial Amminrah~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 27804
+Name A Giant Bear~
+Short A Giant Bear~
+Long A Giant Bear sits here ready to charge.
+~
+Description ~
+Race bear~
+Act_flags AFGPW
+Aff HQ
+Aff2 L
+Align 500
+Group 0
+Level 95
+Hitroll 478
+Hit_dice 3d500+120000
+Mana_dice 0d0+0
+Dam_dice 10d50+500
+Dam_type claw
+Armor 37 37 37 40
+Off DEO
+Teach A
+Imm L
+Res EI
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ABCDEFGHJKVZ
+Size giant
+Material unknown
+Fpar U
+EndMob
+
+#MOB
+Vnum 27809
+Name A Forest Protector~
+Short a forest protector~
+Long A Forest Protector stands here. 
+~
+Description a man of honor and prestige stands before you cloaked
+in the aura of the forest.
+~
+Race human~
+Act_flags APRW
+Aff HZ
+Aff2 H
+Align 550
+Group 0
+Level 101
+Hitroll 570
+Hit_dice 2d500+300000
+Mana_dice 10d20+500
+Dam_dice 10d15+500
+Dam_type magic
+Armor 47 47 47 55
+Off R
+Teach J
+Imm ACKL
+Res L
+Vuln F
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2743
+Form C
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+Ffor AHMV
+EndMob
+
+#MOB
+Vnum 27810
+Name A Mistic Warrior~
+Short A Mistic Warrior~
+Long A warrior stands here ready for attack
+~
+Description Here stands a warrior of great skill.  The look in his eyes tell you this
+is going to be one of your toughest battles.  
+~
+Race human~
+Act_flags ABP
+Aff HVa
+Aff2 0
+Align 900
+Group 0
+Level 99
+Hitroll 575
+Hit_dice 2d500+200000
+Mana_dice 10d10+799
+Dam_dice 10d10+799
+Dam_type slash
+Armor 70 70 70 60
+Off KU
+Teach A
+Imm AG
+Res G
+Vuln CP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3000
+Form E
+Parts ABCDEFGHJKZ
+Size medium
+Material unknown
+Ffor AHMV
+Fpar I
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 27801
+Name A crack in the mist~
+Short a crack within the mist~
+Orig_short a crack within the mist~
+Desc A crack in the mist~
+Material unknown~
+Item_type portal
+Extra 0
+Wear 0
+Values EGIJOP KL A ABDEHKLNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27804
+Name Shimmering Claws of the Bear~
+Short bear claws~
+Orig_short bear claws~
+Desc A glowing set of claws~
+Material unknown~
+Item_type armor
+Extra ABFW
+Wear AH
+Values ABCDFH ABCDFH ABCDFH ABCDFH 0
+Level 95
+Weight 10
+Cost 5000000
+Condition P
+AffectObj
+1 4
+AffectObj
+19 12
+AffectObj
+18 12
+EndObj
+
+#OBJ
+Vnum 27810
+Name a purple pill~
+Short a purple pill~
+Orig_short a purple pill~
+Desc A purple pill~
+Material unknown~
+Item_type pill
+Extra AW
+Wear AP
+Values 106 'sanctuary' 'haste' 'shield' 'armor'
+Level 106
+Weight 0
+Cost 5555555
+Condition P
+EndObj
+
+#OBJ
+Vnum 27822
+Name Purinials Wrath~
+Short Purinials Wrath~
+Orig_short Purinials Wrath~
+Desc Here lies The Purinials Wrath~
+Material unknown~
+Item_type weapon
+Extra MW
+Wear AN
+Values sword 50 50 none ADF
+Level 105
+Weight 1000
+Cost 248521250
+Condition P
+AffectObj
+17 10000
+AffectObj
+2 20
+AffectObj
+5 20
+AffectObj
+4 20
+AffectObj
+3 20
+AffectObj
+13 5000
+AffectObj
+19 500
+AffectObj
+18 500
+EndObj
+
+#OBJ
+Vnum 27843
+Name An altar of an unknown god.~
+Short a dusty altar~
+Orig_short a dusty altar~
+Desc A small altar sits here layered in dust.~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EGIJOP KL A BCFGHKLNO 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 27800
+Name A mist filled room~
+Desc The mist seems to cover every corner of the room.
+~
+Room_flags 524288
+Sector_type 0
+ExtraDesc
+exit~
+~
+Exit
+2
+~
+~
+1
+0
+27802
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27801
+Name A mist filled room~
+Desc The mist seems to cover every coner of the room. Almost every corner..... 
+There seems to be a small crack in the mist. Is this a way out or a trap!!!
+~
+Room_flags 4
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+27802
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27802
+Name A mist filled room~
+Desc The mist seems to cover every corner of the room.
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+27800
+leaves north~
+Exit
+5
+~
+~
+0
+0
+27801
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27803
+Name Entrance to the Enchanted Forest~
+Desc Mesmericed by the overwhelming presense of magic, you find yourself
+standing at the entrance to a vast forest.  The trees, almost as tall as the
+heavens, seem to be made of a crystal like material.  Your breath begins to
+deminish as thoughts of an ancient realm flood your mind.  Could this be the
+fabled Amminrah or is all that awaits you nothing more than a dream?  
+~
+Room_flags 4
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+27805
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27804
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost. 
+~
+Room_flags 8196
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27805
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27816
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27813
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27817
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27805
+Name Enchanted Forest~
+Desc A translucent light filters through the leaves, in this new section of
+the forest.  The path is linded in what resembles daisies, only, like the
+trees, these flowers are somewhat crystalline.  The faint howl of the wind
+echos mournfully throughout the air, and even though the landscape seems to
+be devoid of any signs of animal life, you feel as if your every movement is
+being observed by some unknown being.  A sense of danger pervades the very
+air, and suddenly retreat seems like quite the good idea.  
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27803
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27804
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27806
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27809
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27807
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27807
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27810
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27808
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27816
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27806
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27808
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27811
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27809
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27817
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27807
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27809
+Name Enchanted Forest~
+Desc Deep within the forest.  You seem to be lost.  
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27813
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27810
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27806
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27808
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27810
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27814
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27811
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27807
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27809
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27811
+Name Enchaned Forest ~
+Desc Deep within the forest. You seem to be lost
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27815
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27812
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27808
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27810
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27812
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27820
+leaves north~
+Exit
+3
+~
+~
+0
+0
+27811
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27813
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27804
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27814
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27809
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27814
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27816
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27815
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27810
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27813
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27815
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27817
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27811
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27814
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27816
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27807
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27817
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27814
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27804
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27817
+Name Enchanted Forest~
+Desc Deep within the forest. You seem to be lost.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+27808
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27804
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27815
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27816
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27818
+Name Entrance to AMMINRAH~
+Desc Before you lies the ancient city of AMMINRAH.
+Long forgoten you are suprised to see it is in exelent condition.
+Do your ears decieve you or is that the sound of weapons in the distance....
+~
+Room_flags 0
+Sector_type 1
+Exit
+3
+~
+~
+0
+0
+27819
+leaves west~
+Exit
+4
+~
+~
+0
+0
+27820
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27819
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27822
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27818
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27821
+leaves south~
+Exit
+3
+~
+~
+3
+0
+27827
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27820
+Name A clearing in the forest~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+27812
+leaves south~
+Exit
+5
+~
+~
+0
+0
+27818
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27821
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27819
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27822
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27823
+leaves north~
+Exit
+1
+~
+~
+3
+0
+27819
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27819
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27823
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27824
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27825
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27822
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27824
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27823
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27828
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27825
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27823
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27826
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27827
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27827
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27819
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27826
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27833
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27828
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27829
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27824
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27830
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27829
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27828
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27830
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27828
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27831
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27831
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27830
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27832
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27834
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27832
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27831
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27833
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27833
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27832
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27827
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27835
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27834
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27831
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27841
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27835
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27833
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27836
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27840
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27836
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27835
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27837
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27837
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27836
+leaves north~
+Exit
+3
+~
+~
+0
+0
+27839
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27838
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27839
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27839
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27837
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27838
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27847
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27840
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27835
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27845
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27841
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27842
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27834
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27844
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27842
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27843
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27841
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27843
+Name The Temple of Amminrah~
+Desc You see before the remains of a temple.  Once glorious and grand, it is
+now cover in years of dust.  The walls which stood several feet tall, now
+lie crumbled at your feet.  In the center of the room sits an altar with
+stange markings on it.  
+~
+Room_flags 1024
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27842
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27844
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27841
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27850
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27845
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27840
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27846
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27848
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27846
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27845
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27847
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27847
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27846
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27839
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27848
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27849
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27845
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27856
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27849
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27850
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27848
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27857
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27850
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27851
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27844
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27849
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27851
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27852
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27850
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27859
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27852
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27853
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27851
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27853
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27854
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27852
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27854
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27853
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27855
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27856
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27856
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27857
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27848
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27855
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27857
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27858
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27849
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27856
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27858
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27859
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27857
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27859
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27851
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27858
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27860
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27880
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27861
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27861
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27860
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27862
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27862
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27861
+leaves north~
+Exit
+3
+~
+~
+0
+0
+27863
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27863
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27862
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27864
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27864
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27863
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27865
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27865
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27864
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27866
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27866
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27865
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27868
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27867
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27867
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27866
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27868
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27869
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27866
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27869
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27889
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27870
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27868
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27870
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27869
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27871
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27871
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27870
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27873
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27872
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27872
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27871
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27873
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27874
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27871
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27874
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27875
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27873
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27875
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27879
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27876
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27874
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27876
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27875
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27877
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27877
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27876
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27878
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27878
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27877
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27879
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27875
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27880
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27881
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27860
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27881
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27882
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27883
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27880
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27882
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27881
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27883
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27881
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27884
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27884
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27883
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27886
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27885
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27886
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27886
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27884
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27887
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27888
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27885
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27887
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27886
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27888
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27886
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27890
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27889
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27890
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27869
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27890
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27888
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27891
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27889
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27891
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27892
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27890
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27892
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27891
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 27819 3 2
+D 0 27822 1 2
+M 0 27804 1 27804 1
+E 0 27804 0 9
+M 0 27804 1 27804 1
+E 0 27804 0 9
+M 0 27809 1 27809 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

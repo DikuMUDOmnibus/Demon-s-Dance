@@ -1,0 +1,285 @@
+#AREADATA
+Name Clan Rooms~
+Builders None~
+VNUMs 13000 13999
+Credits { ALL } Enzo    Clan Rooms~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 13110
+Name MAZE~
+Desc ~
+Room_flags 271364
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+13111
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13111
+Name MAZE~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+13112
+leaves north~
+Exit
+2
+~
+~
+0
+0
+13110
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13112
+Name MAZE~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+13111
+leaves south~
+Exit
+3
+~
+~
+0
+0
+13113
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13113
+Name MAZE~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+13114
+leaves north~
+Exit
+1
+~
+~
+0
+0
+13112
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13114
+Name Amid the Snowfields~
+Desc A driving wind coupled with flurries of snow hamper your ability to see. 
+The snow has built up to an unpleasant knee-deep depth and makes your
+movement sluggish.  In every direction you look all you see is the glaring
+sun reflecting off of snow.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+13115
+leaves east~
+Exit
+2
+~
+~
+0
+0
+13113
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13115
+Name Amid the Snowfields~
+Desc The snow drives harder and the wind pushes with greater force.  The snow
+has built up considerably and reduces your moving capabilites even more.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+13116
+leaves north~
+Exit
+3
+~
+~
+0
+0
+13114
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13116
+Name Amid the Snowfields~
+Desc The snow lessens its rage here, and a sluggish river flows nearby.  Huge
+sheets of ice ride atop the waves and loud cracking sounds can be heard in
+the distance.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+13115
+leaves south~
+Exit
+3
+~
+~
+0
+0
+13119
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13117
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+13116
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13118
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+13116
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 13119
+Name MAZE~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25000
+leaves north~
+Exit
+1
+~
+~
+0
+0
+13116
+leaves east~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

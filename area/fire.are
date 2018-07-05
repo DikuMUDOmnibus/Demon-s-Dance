@@ -1,0 +1,4961 @@
+#AREADATA
+Name Planes of Fire~
+Builders Akmaro~
+VNUMs 25700 26099
+Credits { 80+ } Akmaro  Planes of Fire~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 25700
+Name mountain creature troll~
+Short a mountain troll~
+Long A seething, grotesque creature looks hungrliy in your direction.
+~
+Description From the deepest caves comes the hideous mountain troll.  Its matted
+grey-white hair and sickly pale skin are only off-set by its dull black
+eyes, black within black, empty and soulless.  It covers the mountainous
+terrain here with ease upon sinouos limbs to tear and rend the flesh from
+its prey with the razor sharp efficiency of talon-like claws.  
+~
+Race troll~
+Act_flags ABGP
+Aff FJPc
+Aff2 0
+Align 0
+Group 0
+Level 70
+Hitroll 3
+Hit_dice 10d10+1500
+Mana_dice 0d0+0
+Dam_dice 3d10+12
+Dam_type claw
+Armor -50 -55 -60 -50
+Off DJ
+Teach A
+Imm 0
+Res I
+Vuln HK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1
+Form ABHMV
+Parts ABCDEFGHIJKUVZ
+Size medium
+Material unknown
+Fres BE
+EndMob
+
+#MOB
+Vnum 25760
+Name old dwarf Gloin Copperanger~
+Short A grisled and scarred old dwarf is here, ready to hand out implements of war to those in need.~
+Long (no long description)
+~
+Description ~
+Race dwarf~
+Act_flags AGP
+Aff HJNZc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach C
+Imm 0
+Res LQ
+Vuln R
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 25786
+Name quasi being dragon Thrordsgwar~
+Short the {MP{mh{Ma{mn{Mt{ma{Ms{mm{Ma{md{Mr{ma{Mg{mo{Mn{x {RT{ch{Yr{ro{Mr{Dd{Rs{cg{Yw{ra{Mr{x~
+Long A shimmering quasi-being of darkness and light is here in the form of a massive winged dragon.
+~
+Description ~
+Race dragon~
+Act_flags ABQRST
+Aff HJTc
+Aff2 AGHIO
+Align 0
+Group 0
+Level 100
+Hitroll 500
+Hit_dice 500d2+1000
+Mana_dice 250d4+250
+Dam_dice 750d2+500
+Dam_type claw
+Armor -150 -220 -200 -200
+Off CDFGHIJKMNO
+Teach A
+Imm ACHJKMNP
+Res BGHZ
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form CHc
+Parts ACDEFGHIJKPQUVXZ
+Size giant
+Material unknown
+Fres E
+Ffor AZ
+EndMob
+
+#MOB
+Vnum 25787
+Name clone evil twin ullssiccorr doppleganger~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags ABGRS
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 600
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type blast
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 25796
+Name deadwood~
+Short a dead tree~
+Long A {Dgreyish{x dead tree lies here, uprooted and bare.
+~
+Description ~
+Race plant~
+Act_flags ABO
+Aff H
+Aff2 0
+Align 0
+Group 0
+Level 99
+Hitroll 0
+Hit_dice 2d10+2
+Mana_dice 0d0+0
+Dam_dice 3d6+2
+Dam_type thwack
+Armor 0 0 0 0
+Off CEJKN
+Teach A
+Imm ABIRX
+Res CLP
+Vuln GHJN
+Start_pos stand
+Default_pos sit
+Sex none
+Wealth 1000
+Form EHM
+Parts ABCGHI
+Size large
+Material unknown
+Faff1 J
+Ffor AV
+Fpar DEFJKZ
+EndMob
+
+#MOB
+Vnum 26000
+Name lesser flame mite~
+Short a lesser {Rf{rl{Ra{rm{Re {rm{Ri{rt{Re{x~
+Long A lesser flame mite is here, happily flaming away
+~
+Description ~
+Race human~
+Act_flags AB
+Aff V
+Aff2 A
+Align 0
+Group 0
+Level 70
+Hitroll 200
+Hit_dice 100d10+2500
+Mana_dice 100d100+1000
+Dam_dice 5d6+10
+Dam_type flbite
+Armor -60 -60 -60 -60
+Off FGHK
+Teach A
+Imm ABH
+Res DJ
+Vuln IR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form 0
+Parts 0
+Size small
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 26001
+Name greater flame mite~
+Short a greater {Rf{rl{Ra{rm{Re {rm{Ri{rt{Re{x~
+Long A greater flame mite is here, blazing away to itself
+~
+Description ~
+Race human~
+Act_flags AB
+Aff V
+Aff2 A
+Align 0
+Group 0
+Level 80
+Hitroll 300
+Hit_dice 100d20+3000
+Mana_dice 100d100+2000
+Dam_dice 6d7+14
+Dam_type flbite
+Armor -100 -100 -100 -100
+Off FGHK
+Teach A
+Imm ABH
+Res DJ
+Vuln IR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form 0
+Parts AFK
+Size small
+Material unknown
+Ffor AHMV
+Fpar BCDEGHIJZ
+EndMob
+
+#MOB
+Vnum 26002
+Name lesser flame demon~
+Short a lesser {Rf{rl{Ra{rm{Re {rd{Re{rm{Ro{rn{x~
+Long A lesser flame demon is here, blazing brightly
+~
+Description ~
+Race human~
+Act_flags AB
+Aff V
+Aff2 A
+Align 0
+Group 0
+Level 92
+Hitroll 400
+Hit_dice 100d40+4000
+Mana_dice 200d10+3000
+Dam_dice 8d9+20
+Dam_type flbite
+Armor -120 -120 -120 -120
+Off FGHK
+Teach A
+Imm ABH
+Res DJ
+Vuln IR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 6000
+Form 0
+Parts ABCFKZ
+Size medium
+Material unknown
+Ffor AHMV
+Fpar DEGHIJ
+EndMob
+
+#MOB
+Vnum 26003
+Name greater flame demon~
+Short a greater {Rf{rl{Ra{rm{Re {rd{Re{rm{Ro{rn{x~
+Long A greater flame demon is here, writhing in flames
+~
+Description ~
+Race human~
+Act_flags AB
+Aff V
+Aff2 A
+Align 0
+Group 0
+Level 97
+Hitroll 450
+Hit_dice 100d60+5000
+Mana_dice 200d20+3000
+Dam_dice 9d10+27
+Dam_type flbite
+Armor -140 -140 -140 -140
+Off FGHK
+Teach A
+Imm ABH
+Res DJ
+Vuln IR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 7500
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 26004
+Name fire king planes inferno~
+Short {RI{Wn{Rf{We{Rr{Wn{Ro {WK{Ri{Wn{Rg{x~
+Long The king of the Planes of Fire is here, sitting upon his throne
+~
+Description This man is very confident of his right to be king of the planes of fire,
+as though he commands all the power of the element of fire...  Which he
+does.  His eyes blaze with an inner flame as he looks at you.  
+~
+Race human~
+Act_flags ABP
+Aff HV
+Aff2 A
+Align 0
+Group 0
+Level 101
+Hitroll 900
+Hit_dice 200d10+600000
+Mana_dice 1000d100+10000
+Dam_dice 50d30+150
+Dam_type cleave
+Armor -200 -200 -200 -200
+Off AFGHKO
+Teach A
+Imm ABH
+Res JLMNOPQT
+Vuln IR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 26005
+Name dying phoenix fire bird firebird~
+Short the {wd{ry{wi{rn{wg {rp{wh{ro{we{rn{wi{rx{x~
+Long The dying phoenix is here, resting in it's nest
+~
+Description The dying phoenix is resting in it's nest that will serve as it's funeral
+pyre, awaiting it's rebirth after five thousand years of life in it's
+current form.  
+~
+Race song bird~
+Act_flags ABP
+Aff HTV
+Aff2 A
+Align 0
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 1000d20+2200000
+Mana_dice 1000d10+10000
+Dam_dice 60d10+170
+Dam_type peck
+Armor -300 -300 -300 -300
+Off FH
+Teach A
+Imm ABH
+Res EGJKNO
+Vuln IR
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50000
+Form AGW
+Parts ACDEFHKPZ
+Size large
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 25700
+Name muddied heavy boots~
+Short {Da pair of {ymu{Dddi{yed {Dheavy boots{x~
+Orig_short {Da pair of {ymu{Dddi{yed {Dheavy boots{x~
+Desc {Da pair of {ymu{Dddi{yed {Dheavy boots{x~
+Material unknown~
+Item_type armor
+Extra CGJK
+Wear AG
+Values BDEFGH BDEFGH BDEFGH BDEFGH 0
+Level 106
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25701
+Name tarnished gothic field plate~
+Short {ca t{yar{cni{yshed pl{ca{yte of g{yoth{cic {yfie{cld ar{ymor{x~
+Orig_short {ca t{yar{cni{yshed pl{ca{yte of g{yoth{cic {yfie{cld ar{ymor{x~
+Desc {ca t{yar{cni{yshed pl{ca{yte of g{yoth{cic {yfie{cld ar{ymor{x~
+Material unknown~
+Item_type armor
+Extra ABGIY
+Wear AD
+Values CEFGHI CEFGHI CEFGHI CEFGHI 0
+Level 106
+Weight 10
+Cost 100000000
+Condition P
+AffectObj
+18 50
+AffectObj
+13 500
+AffectObj
+102 25
+AffectObj
+106 25
+AffectObj
+113 25
+AffectObj
+24 50
+EndObj
+
+#OBJ
+Vnum 25702
+Name stag horn battle~
+Short {ya battle-trumpet of stag horn~
+Orig_short {ya battle-trumpet of stag horn~
+Desc A horn of crude craftsmanship is here resonating with the sound of battle.~
+Material unknown~
+Item_type weapon
+Extra ABCGJKY
+Wear AN
+Values exotic 1000 666 blast G
+Level 106
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 100
+AffectObj
+19 100
+EndObj
+
+#OBJ
+Vnum 25703
+Name victorious silk sash ~
+Short {ra bl{Roodi{red s{Rilk s{rash{x~
+Orig_short {ra bl{Roodi{red s{Rilk s{rash{x~
+Desc {ra gift of blood awarded to the victorious in battle...worthy of a {Rgod{r.{x~
+Material unknown~
+Item_type armor
+Extra ABSY
+Wear AL
+Values CFG CFG CFG CFG 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+12 1500
+AffectObj
+19 20
+AffectObj
+18 10
+AffectObj
+13 3000
+EndObj
+
+#OBJ
+Vnum 25704
+Name vial glowing liquid angels tears~
+Short {wa vial of {Wglowing{x clear liquid~
+Orig_short {wa vial of {Wglowing{x clear liquid~
+Desc A small vial of crystal clear liquid glows with a holy light like tears shed by angels.  ~
+Material unknown~
+Item_type potion
+Extra AKU
+Wear A
+Values 101 'bless' 'sanctuary' 'holy armor' ''
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25705
+Name concealing hood~
+Short {ya c{gonc{Dealin{gg ho{yod{x~
+Orig_short {ya c{gonc{Dealin{gg ho{yod{x~
+Desc {ya c{gonc{Dealin{gg ho{yod{x~
+Material wool~
+Item_type armor
+Extra CGIY
+Wear AE
+Values CFG BCEH CFG CFG 0
+Level 106
+Weight 1
+Cost 50000
+Condition P
+EndObj
+
+#OBJ
+Vnum 25706
+Name robe hooded~
+Short {ya w{gell-{Dworn hood{ged ro{ybe~
+Orig_short {ya w{gell-{Dworn hood{ged ro{ybe~
+Desc {ya w{gell-{Dworn hood{ged ro{ybe~
+Material wool~
+Item_type armor
+Extra CGIJY
+Wear AK
+Values CFG CFG CFG CFG 0
+Level 106
+Weight 2
+Cost 10000
+Condition P
+EndObj
+
+#OBJ
+Vnum 25707
+Name box tele~
+Short an ACME television set~
+Orig_short an ACME television set~
+Desc A simulated wood grain box showing strange pictures {Wg{Cl{Wo{Cw{Ws{X {Wbrightly{x~
+Material plastic~
+Item_type portal
+Extra AB
+Wear 0
+Values ABFGHKLQRVYZbe 0 0 ADEFHIJL 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25708
+Name no name~
+Short {Ca {gd{yr{gu{yn{gk{ye{gn{C, {cg{Dri{Wnn{Din{cg {Csprite{x~
+Orig_short {Ca {gd{yr{gu{yn{gk{ye{gn{C, {cg{Dri{Wnn{Din{cg {Csprite{x~
+Desc (no description)~
+Material unknown~
+Item_type armor
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 20
+EndObj
+
+#OBJ
+Vnum 25709
+Name chalice kindred hunger blood~
+Short {wa chalice of {Ddark {rblood{x~
+Orig_short {wa chalice of {Ddark {rblood{x~
+Desc A tarnished chalice filled with dark blood was once known to quench the hunger of the Kindred.~
+Material unknown~
+Item_type potion
+Extra CJU
+Wear A
+Values 101 'frenzy' 'haste' 'giant strength' 'reserved'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25710
+Name acorn natures embrace~
+Short {wa tiny acorn {Chums{x with an ancient magic~
+Orig_short {wa tiny acorn {Chums{x with an ancient magic~
+Desc This tiny acorn has been magicked with Nature's elemental embrace.~
+Material unknown~
+Item_type pill
+Extra BGU
+Wear A
+Values 101 'stone skin' 'fireshield' 'elemental shield' 'reserved'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25711
+Name tattered scroll of protection mixed blessing~
+Short {wa tattered old scroll of protection...{x~
+Orig_short {wa tattered old scroll of protection...{x~
+Desc A tattered old scroll hurriedly scrawled with mismatched spells of protection and other blessings...~
+Material unknown~
+Item_type scroll
+Extra GY
+Wear AO
+Values 101 'armor' 'shield' 'fly' 'pass door'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25712
+Name dimensional rift~
+Short {Da dimensional rift{x~
+Orig_short {Da dimensional rift{x~
+Desc A tear in the fabric of space-time seems to pull at everything around it~
+Material unknown~
+Item_type container
+Extra FGY
+Wear AQ
+Values 1000000 0 0 1000 0
+Level 106
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25784
+Name portal black sphere void~
+Short a dark spherical void~
+Orig_short a dark spherical void~
+Desc A {Ddark{x spherical void hovers nearby.~
+Material darkness~
+Item_type portal
+Extra CG
+Wear 0
+Values GIJLOSTW G AB BDEFHKNO 0
+Level 107
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25786
+Name glimmering pool~
+Short a black, glimmering pool~
+Orig_short a black, glimmering pool~
+Desc An {Dobsidian{x {xpool glimmers with a reflection of moonlight.~
+Material obsidian~
+Item_type portal
+Extra G
+Wear 0
+Values IKNOQSTWXYabc G A CGHKNO 0
+Level 107
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25796
+Name plush satin couch~
+Short {Ra {rs{Ra{rt{Ri{rn {Rc{ro{Ru{rc{Rh{x~
+Orig_short {Ra {rs{Ra{rt{Ri{rn {Rc{ro{Ru{rc{Rh{x~
+Desc A plush {Rs{ra{Rt{ri{Rn{x couch beckons you to rest upon its cushions.~
+Material Celestial Satin~
+Item_type furniture
+Extra AGSY
+Wear A
+Values AB DHIJM EHK DFGHIJ DFGHIJ
+Level 0
+Weight 100
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25797
+Name fountain midnight ale~
+Short a sculptured fountain~
+Orig_short a sculptured fountain~
+Desc A fountain filled with a strong {Dm{bi{Dd{bn{Di{bg{Dh{bt{x {Da{bl{De{x quietly gurgles here.~
+Material unknown~
+Item_type fountain
+Extra 0
+Wear 0
+Values 50000000 50000000 'dark ale' 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25798
+Name shadow of fear~
+Short {RF{De{Ra{Dr{x~
+Orig_short {RF{De{Ra{Dr{x~
+Desc To look upon this face is to know its true form...that of {RF{De{Ra{Dr{x.~
+Material darkness~
+Item_type armor
+Extra CEGY
+Wear AW
+Values DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+Level 106
+Weight 0
+Cost 1
+Condition P
+AffectObj
+20 -20
+AffectObj
+18 100
+AffectObj
+19 100
+EndObj
+
+#OBJ
+Vnum 26000
+Name fire rose firerose~
+Short a legendary {Rf{ri{Rr{Re{W-{rr{Ro{rs{Re{x~
+Orig_short a legendary {Rf{ri{Rr{Re{W-{rr{Ro{rs{Re{x~
+Desc {x~
+Material fire~
+Item_type scroll
+Extra CFGIUWY
+Wear AO
+Values 3000 'fireproof' '' '' ''
+Level 101
+Weight 1
+Cost 100000
+Condition P
+EndObj
+
+#OBJ
+Vnum 26001
+Name throne fire~
+Short the {Rt{rh{Rr{ro{Rn{re {Wof {RF{ri{Rr{re{x~
+Orig_short the {Rt{rh{Rr{ro{Rn{re {Wof {RF{ri{Rr{re{x~
+Desc The throne of fire is here, engulfed in flames.~
+Material firestone~
+Item_type furniture
+Extra BGI
+Wear 0
+Values A ABCDEHJKPQ EH DEFHIJL DEFHIJL
+Level 101
+Weight 1000
+Cost 100000
+Condition P
+EndObj
+
+#OBJ
+Vnum 26002
+Name mantle king inferno~
+Short {RM{Wa{Rn{Wt{Rl{We {wof the {RI{Wn{Rf{We{Rr{Wn{Ro {WK{Ri{Wn{Rg{x~
+Orig_short {RM{Wa{Rn{Wt{Rl{We {wof the {RI{Wn{Rf{We{Rr{Wn{Ro {WK{Ri{Wn{Rg{x~
+Desc A flaming mantle is left on the ground here...~
+Material unknown~
+Item_type armor
+Extra GI
+Wear AK
+Values ACEG ACEG ACEG ACEG 0
+Level 101
+Weight 10
+Cost 100000
+Condition P
+AffectObj
+102 10
+AffectObj
+13 100
+AffectObj
+18 15
+AffectObj
+19 15
+AffectObj
+20 -10
+EndObj
+
+#OBJ
+Vnum 26004
+Name stone fiery portal phoenix~
+Short {Wa portal stone etched in {Rf{ri{Re{rr{Ry {rr{Ru{rn{Re{rs{x~
+Orig_short {Wa portal stone etched in {Rf{ri{Re{rr{Ry {rr{Ru{rn{Re{rs{x~
+Desc {Wa portal stone etched in {Rf{ri{Re{rr{Ry {rr{Ru{rn{Re{rs{W is here{x~
+Material stone~
+Item_type portal
+Extra W
+Wear AO
+Values BD 0 0 BGHIKNO 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26005
+Name talons phoenix gauntlets~
+Short {RT{wa{rl{wo{rn{Rs {W of the {RP{wh{ro{we{rn{wi{Rx{x~
+Orig_short {RT{wa{rl{wo{rn{Rs {W of the {RP{wh{ro{we{rn{wi{Rx{x~
+Desc The talons of the Phoenix are here, burning with an inner light~
+Material bone~
+Item_type armor
+Extra IW
+Wear AH
+Values ACEG ACEG ACEG ACEG 0
+Level 101
+Weight 3
+Cost 100000
+Condition P
+AffectObj
+13 150
+AffectObj
+102 5
+AffectObj
+18 18
+AffectObj
+19 18
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 25700
+Name The Cliffs above.~
+Desc A rock face above a beautiful valley.  The trip was well worth the vision
+laid before you.  From this vantage point you can see the entire valley that
+holds the ancient wonders of the forest of Twil'Fanor.  Far off in the
+distant east, the far side of the valley below, the jagged peaks of
+snow-capped mountains create a majestic backdrop for the green pines below. 
+To the west is a well-worn trail leading to parts unknown, while to the
+south is the trail that got you here.  
+~
+Room_flags 0
+Sector_type 5
+Exit
+3
+~
+~
+0
+0
+25701
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25701
+Name A well-worn trail.~
+Desc This trail shows sign of recent use. 
+~
+Room_flags 0
+Sector_type 5
+Exit
+0
+~
+~
+0
+0
+25702
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25700
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25702
+Name Loose footing.~
+Desc The trail becomes hazardous as it slopes downward towards the valley below. 
+~
+Room_flags 0
+Sector_type 5
+Exit
+2
+~
+~
+0
+0
+25701
+leaves south~
+Exit
+5
+~
+~
+0
+0
+25703
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25703
+Name ~
+Desc Your footing becomes precarious as you realize the well-worn path you
+thought you were following ends abruptly.  Deep underbrush and large
+boulders block the trails direction toward the valley below.  
+~
+Room_flags 0
+Sector_type 5
+Exit
+4
+~
+~
+0
+0
+25702
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25704
+Name A mountain trail~
+Desc Your footing appears to be somewhat more stable here though the mist
+makes visibilty virtually impossible.  The only assurance of not falling to
+a horrible death is to feel along the rocky face.  
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25706
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25705
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25702
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25705
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25706
+Name A narrow outcropping~
+Desc ~
+Room_flags 0
+Sector_type 5
+Exit
+0
+~
+~
+0
+0
+25707
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25704
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25707
+Name A hidden path~
+Desc ~
+Room_flags 0
+Sector_type 5
+Exit
+2
+~
+~
+0
+0
+25706
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25708
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25708
+Name A hidden path~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25713
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25707
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25709
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25710
+Name The chasms edge~
+Desc ~
+Room_flags 4
+Sector_type 5
+Exit
+3
+~
+~
+0
+0
+25744
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25711
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25712
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 3
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25713
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25714
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25708
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25714
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+25713
+leaves south~
+Exit
+4
+~
+~
+0
+0
+25715
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25715
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+25716
+leaves west~
+Exit
+5
+~
+~
+0
+0
+25714
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25716
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25715
+leaves east~
+Exit
+5
+~
+~
+0
+0
+25717
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25717
+Name The Orc Encampment~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25721
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25734
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25718
+leaves west~
+Exit
+4
+~
+~
+0
+0
+25716
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25718
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25722
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25717
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25735
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25719
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25719
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25723
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25718
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25736
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25720
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25720
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+25719
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25721
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25727
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25717
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25722
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25722
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25729
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25721
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25718
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25723
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25723
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25730
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25722
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25719
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25724
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25724
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+25723
+leaves east~
+Exit
+3
+~
+~
+0
+0
+25725
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25725
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25726
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25724
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25726
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+25725
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25727
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25728
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25721
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25729
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25728
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+3
+~
+~
+0
+0
+25727
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25729
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25732
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25727
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25722
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25730
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25730
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25733
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25729
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25723
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25731
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25731
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25730
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25732
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+25729
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25733
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25730
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25734
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25717
+leaves north~
+Exit
+1
+~
+~
+3
+0
+25794
+leaves east~
+Exit
+3
+~
+~
+0
+0
+25735
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25735
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25718
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25734
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25740
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25736
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25736
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25719
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25735
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25741
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25737
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25737
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25736
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25742
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25738
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25738
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25739
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25737
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25739
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25738
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25740
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25735
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25741
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25736
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25742
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25737
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25743
+Name A mountain trail~
+Desc Another precarious bend in the trail turns you now to the south but even
+steeper up the mountainside.  You feel as though you are now climbing as you
+must now grasp for handholds in the cold, harsh rock.  Your fingers feel
+chapped from the sharp cracks--smears of red mark your passage along the
+stone.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25744
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25705
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25744
+Name Before a crumbling rock bridge~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25743
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25710
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25745
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25745
+Name The Guardians of the Pass~
+Desc Worked by dwarven artisans of ages past, two monoliths guard the bridge
+to Twil'Fanor.  Nearest the mountain and ever part of it, carved directly
+from the cold rock, is Heorn, dwarven war chief of Fanorgarok, his
+double-edged battle axe in hand, ready to strike as he steadfastly watches
+the mountain pass about you.  Nearest the edge of the pass but wrought of
+elven marble, is Saelinae, elf-daughter and ranger.  With bow nocked, she
+watches tirelessly for danger from across the mount as her falcon, Norrsk
+awaits her slightest command at her shoulder.  Past the guardian statues to
+the south lies the bridge to Twil'Fanor, while northward a mountain pass
+opens up.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25744
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25746
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25746
+Name Some massive steps~
+Desc Great carved steps rise towards a giant bridge of stone.  Lining the foot
+of each step intricate carvings retell a long forgotton story in a hand no
+longer used by mortal men.  These crumbling rocks are a peoples last vestige
+to their time, immortalized here so future generations may also walk their
+path and know them.  
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25745
+leaves north~
+Exit
+4
+~
+~
+0
+0
+25747
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25747
+Name A carved stone bridge~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25748
+leaves south~
+Exit
+5
+~
+~
+0
+0
+25746
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25748
+Name Stone steps~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25747
+leaves north~
+Exit
+5
+~
+~
+0
+0
+25749
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25749
+Name Before the gates of Twil'Fanor~
+Desc The outer gate of Twil'Fanor.  To the south, rising from the moutain mist
+like some massive beast, is the keep itself.  Here, the granite-carved walls
+defend against any who seek entrance to its secrets.  Great steps carved
+directly from the surrounding rock lead up towards a stone bridge.  The
+huge, iron gates of this porticulus lay torn asunder, ripped from their
+hinges.  A cold wind rushes up from the valley below.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25750
+leaves south~
+Exit
+4
+~
+~
+0
+0
+25748
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25750
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25749
+leaves north~
+Exit
+4
+~
+~
+0
+0
+25751
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25751
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+25752
+leaves up~
+Exit
+5
+~
+~
+0
+0
+25750
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25752
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+25753
+leaves west~
+Exit
+5
+~
+~
+0
+0
+25751
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25753
+Name The Killing Room~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25752
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25754
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25754
+Name The Teeth~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25753
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25755
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25755
+Name Before The Courtyard~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25754
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25756
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25757
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25756
+Name Before The Courtyard~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25755
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25768
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25757
+Name Stone Steps~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25755
+leaves east~
+Exit
+4
+~
+~
+0
+0
+25758
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25758
+Name Entrance To The Guard Tower~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25759
+leaves north~
+Exit
+5
+~
+~
+0
+0
+25757
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25759
+Name Guards Mess Hall~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25758
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25763
+leaves west~
+Exit
+4
+~
+~
+0
+0
+25760
+leaves up~
+Exit
+5
+~
+~
+0
+0
+25767
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25760
+Name The Armoury~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+4
+~
+~
+0
+0
+25761
+leaves up~
+Exit
+5
+~
+~
+0
+0
+25759
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25761
+Name Atop the Parapet~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+5
+~
+~
+0
+0
+25760
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25762
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25763
+Name Along The Western Wall~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25759
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25764
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25764
+Name Along The Western Wall~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25763
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25765
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25765
+Name Along The Western Wall~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25764
+leaves north~
+Exit
+2
+~
+~
+0
+0
+25766
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25766
+Name Along The Western Wall~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25765
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25767
+Name A dark storeroom~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+25759
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25768
+Name Keep Courtyard~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+25756
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25769
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25769
+Name Keep Courtyard~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25770
+leaves north~
+Exit
+3
+~
+~
+0
+0
+25768
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25770
+Name The Stables~
+Desc ~
+Room_flags 4
+Sector_type 3
+Exit
+2
+~
+~
+0
+0
+25769
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25771
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25772
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 3
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25773
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25774
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+3
+~
+~
+3
+0
+25744
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25775
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25776
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25777
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25778
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25779
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25780
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 3
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25781
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25782
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+2
+~
+~
+4
+0
+25784
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25783
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25784
+Name .~
+Desc ~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+4
+0
+25782
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25785
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25786
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 2
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25787
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25788
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 3
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25789
+Name .~
+Desc ~
+Room_flags 8204
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25790
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25791
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25792
+Name .~
+Desc ~
+Room_flags 8205
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25793
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25794
+Name .~
+Desc ~
+Room_flags 8200
+Sector_type 3
+Exit
+3
+~
+~
+3
+0
+25734
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25795
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25796
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 2
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25797
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25798
+Name .~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25799
+Name Nowhere but here~
+Desc For as far as can be seen, a backdrop of stars amid the darkness of
+space.  Constellations come alive to dance before you in silence, their
+fluid movements captivate the senses with a beauty unequaled.  
+~
+Room_flags 557060
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26000
+Name Entrance to the Planes of Fire~
+Desc As you enter the Planes of Fire, your skin begins to feel hot, and you
+become increasingly uncomfortable.  The ground crackles with flames, and
+even the sky is a bright pink-orange.  To the south the land suddenly drops
+off, leaving you staring into a desolate void, and to the north the planes
+of fire continue for as far as you can see.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26001
+leaves north~
+Exit
+2
+~
+~
+0
+0
+3360
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26001
+Name Planes of Fire~
+Desc The air around you crackles and becomes hazy with heat.  Flames cover the
+land for as far as the eye can see.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26006
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26007
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26000
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26002
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26002
+Name Planes of Fire~
+Desc The heat is unbearable, and scanning the planes all you see are flames. 
+The Planes of Fire continue to the north, east, and west.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26005
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26001
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26003
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26003
+Name Planes of Fire~
+Desc Fire sizzles around you.  Flames blaze in every direction that you look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26004
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26002
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26036
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26004
+Name Planes of Fire~
+Desc The fires around you sear your flesh, but you continue on.  You are
+absolutely blinded by the flames.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26013
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26005
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26003
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26035
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26005
+Name Planes of Fire~
+Desc The flames leap and dance all about you, obscuring your view.  The
+shimmering red of fire is all about you.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26012
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26006
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26002
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26004
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26006
+Name Planes of Fire~
+Desc The winds cause the flames to flare up into your face, forcing you to
+turn your head quickly.  Not surprisingly, you can see nothing but fire
+everywhere you look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26011
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26010
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26001
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26005
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26007
+Name Planes of Fire~
+Desc Searing heat overpowers you for a moment.  The ground itself seems to be
+made of fire!  There is nothing but flames in every direction.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26010
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26008
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26001
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26008
+Name Planes of Fire~
+Desc A solid wall of fire looms everywhere you look.  North, east, and west...
+All you see is fire.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26009
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26042
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26007
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26009
+Name Planes of Fire~
+Desc Sizzling all about you, the flames leap and dance about.  In every
+direction is nothing but more fire.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26018
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26041
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26008
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26010
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26010
+Name Planes of Fire~
+Desc The flames crackle all about you, making forward progress slow, tedious,
+and difficult due to lack of visibility.  Glancing about, you are not
+surprised to see fire in all directions.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26017
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26009
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26007
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26006
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26011
+Name Planes of Fire~
+Desc Everywhere you look is a crimson, flaming red; even the sky is a bright
+red-orange.  Flames are in every direction that you look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26016
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26017
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26006
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26012
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26012
+Name Planes of Fire~
+Desc Looking up at the sky, you can see crimson clouds gathering on the
+horizon.  Everywhere you look there are more flames.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26015
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26011
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26005
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26013
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26013
+Name Planes of Fire~
+Desc The winds gust about you, sending flames leaping all about.  There are
+more flames in every direction.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26014
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26012
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26004
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26034
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26014
+Name Planes of Fire~
+Desc Twin suns burn down unbearably on you from above.  Fires blaze every
+which way.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26023
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26015
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26013
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26033
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26015
+Name Planes of Fire~
+Desc The flames dance all around you, blocking everything except the
+shimmering red of fire from your view.  You are surrounded by flames.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26022
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26016
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26012
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26014
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26016
+Name Planes of Fire~
+Desc A burning sensation all over your body overpowers you for a moment.  The
+ground itself seems to be made of pure fire!  There is nothing but fire
+everywhere you look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26021
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26020
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26011
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26015
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26017
+Name Planes of Fire~
+Desc Two suns orbit each other in the sky, the larger one a vicious blood-red
+beating down on you.  Fires blaze in all directions around you.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26020
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26018
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26010
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26011
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26018
+Name Planes of Fire~
+Desc The crackling sound of fire is deafening, and coming from all directions.
+Glancing about, you see only more fire everywhere you look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26019
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26040
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26009
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26017
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26019
+Name Planes of Fire~
+Desc Fires sizzle and crackle all around you.  At every glance there is
+nothing but fire.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26028
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26039
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26018
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26020
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26020
+Name Planes of Fire~
+Desc Everywhere you look is a brilliant flaming red.  The sky itself is a
+bright firey orange.  Flames leap up in all directions.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26027
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26019
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26017
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26016
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26021
+Name Planes of Fire~
+Desc You look down at the ground very closely to double check what you thought
+you saw.  There is a {Rf{ri{Rr{re{W-{Rr{ro{Rs{re{w growing here!  Legendary
+for their abilities to nullify fire-based attacks, this is one of the most
+rare plants there are.  
+~
+Room_flags 8192
+Sector_type 0
+ExtraDesc
+fire~
+There is a beautiful red {Rf{ri{Rr{re{W-{Rr{ro{Rs{re{x growing here. 
+Perhaps you could take it?...  
+~
+ExtraDesc
+rose~
+There is a beautiful red {Rf{ri{Rr{re{W-{Rr{ro{Rs{re{x growing here. 
+Perhaps you could take it?...  
+~
+Exit
+0
+~
+~
+0
+0
+26026
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26027
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26016
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26022
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26022
+Name Planes of Fire~
+Desc The very ground is made of fire!  Everywhere you look there is nothing
+but more flames.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26025
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26021
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26015
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26023
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26023
+Name Planes of Fire~
+Desc The suns Sol and Remus bear down on you mercilessly, making your flesh
+crawl uncomfortably.  Flames leap in every direction that you happen a
+glance.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26024
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26022
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26014
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26032
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26024
+Name Planes of Fire~
+Desc The winds pick up, causing the flames to leap into your eyes and obscure
+your vision!  All you can see is the burning of more flames.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26025
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26023
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26031
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26025
+Name Planes of Fire~
+Desc The merciless suns Sol and Remus burn away your flesh, even as the flames
+from the Planes of Fire burn at you.  There is only fire everywhere you
+look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26026
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26022
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26024
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26026
+Name Planes of Fire~
+Desc Even the ground is made of fire, just like everything else!  To the north
+there seems to be some sort of hallway, and in all other directions the hazy
+blur of dancing flames can be seen.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26043
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26030
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26021
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26025
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26027
+Name Planes of Fire~
+Desc The twin suns burn viciously down on you, although becoming hotter in
+these cursed planes seems impossible.  Fire is in every direction that you
+look.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26030
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26028
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26020
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26021
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26028
+Name Planes of Fire~
+Desc The red of flames is the only color that you can make out on these
+planes.  Fire burns in everything direction.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26029
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26038
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26019
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26027
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26029
+Name Planes of Fire~
+Desc Fire jumps at you from every angle.  At every glance there is only more
+fire.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26037
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26028
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26030
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26030
+Name Planes of Fire~
+Desc Fires crackle up from the ground, searing your legs.  No matter where you
+turn, you can't get away from the flames.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26029
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26027
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26026
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26031
+Name Planes of Fire~
+Desc The northwest corner of the Planes of Fire suddenly drops away, leaving
+you on the brink of nothingness.  You can see more flames to the south, and
+east.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26024
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26032
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26032
+Name Planes of Fire~
+Desc The western planes drop off abruptly, leaving you toppling for balance to
+keep from falling into the endless void.  The ground almost seems to be
+crumbling away, making the Planes of Fire smaller and smaller.  In time it
+will be gone entirely.  Flames dance in the north, south, and east.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26031
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26023
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26033
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26033
+Name Planes of Fire~
+Desc The edge of the planes drop off suddenly, leaving you staring into a
+black, empty void.  The Planes of Fire continue to the north, east, and
+south.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26032
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26014
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26034
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26034
+Name Planes of Fire~
+Desc Twin suns beat down on you from the sky, but you couldn't possibly get
+any hotter than you already are.  You are blinded by the flames in your
+eyes.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26033
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26013
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26035
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26035
+Name Planes of Fire~
+Desc You can hardly see your hand in front of your face because of all the
+flames.  You can see nothing but flames surrounding you.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26034
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26004
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26036
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26036
+Name Planes of Fire~
+Desc To the west, the land abruptly drops off, revealing that the planes are
+somehow floating on...  Nothing at all.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26035
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26003
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26037
+Name Planes of Fire~
+Desc The northeastern corner of the Planes of Fire drops abruptly into void,
+leaving you groping for your balance.  There is pure nothingness as you gaze
+out to the north and east.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26038
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26029
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26038
+Name Planes of Fire~
+Desc The edge of the world suddenly drops away into nothingness.  It looks as
+though the Planes of Fire are slowly disintegrating...  There is more fire
+to the north, south, and west.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26037
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26039
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26028
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26039
+Name Planes of Fire~
+Desc Looking out into the void to the east, you see nothing at all.  Not a
+single star, nor any light whatsoever.  It's completely black.  Fires sizzle
+to the north, south, and west.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26038
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26040
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26019
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26040
+Name Planes of Fire~
+Desc The edge of the Planes of Fire drop abruptly, leaving you staring into a
+vast void to the east.  Flames surround you on the north, south, and west
+sides.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26039
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26041
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26018
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26041
+Name Planes of Fire~
+Desc Flames leap and dance all around you, blinding everything from sight.  A
+solid wall of nothingness is to the east.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26040
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26042
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26009
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26042
+Name Planes of Fire~
+Desc The edge of the planes suddenly drop off into oblivion!  Staring out into
+the void, you see nothing at all...  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26041
+leaves north~
+Exit
+3
+~
+~
+0
+0
+26008
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26043
+Name Hall of Fire~
+Desc You enter into the Halls of Fire.  The stones of the walls seem to be
+made of a red material, which of course is flaming like everything else. 
+There are doors to the north, east, and west.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26046
+leaves north~
+Exit
+1
+~
+~
+1
+0
+26045
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26026
+leaves south~
+Exit
+3
+~
+~
+1
+0
+26044
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26044
+Name Room of Lesser Fire Demons~
+Desc This entire room is carved from some sort of red stone, but amazingly the
+stones are not flaming like the rest of the Halls of Fire.  There is a door
+to the east, allowing you to exit.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+26043
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26045
+Name Room of Lesser Fire Demons~
+Desc The whole room is carved from a blood red stone, but surprisingly the
+stones are not flaming like the rest of the Halls of Fire.  There is a door
+to the west, allowing you to exit.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+1
+0
+26043
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26046
+Name Hall of Fire~
+Desc You enter into a grand room, lined with enumerous mirrors.  The dancing
+flames and the blinking mirrors give this room an eerie, almost supernatural
+quality.  There is a throne room to the north, and doors on either side of
+you.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26049
+leaves north~
+Exit
+1
+~
+~
+1
+0
+26048
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26043
+leaves south~
+Exit
+3
+~
+~
+1
+0
+26047
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26047
+Name Room of Greater Fire Demons~
+Desc The room is filled with ancient swords and other combat gear, which is
+seemingly unaffected by the flames filling the entire room.  There is a door
+allowing you to exit to the east.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+26046
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26048
+Name Room of Greater Fire Demons~
+Desc The room is filled with gleaming armor from the days of antiquity, which
+is unaffected by the flames filling the entire room.  There is a door to the
+west.  
+~
+Room_flags 8192
+Sector_type 0
+Exit
+3
+~
+~
+1
+0
+26046
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26049
+Name Throne of Fire~
+Desc Before you is a grand throne, burning with an intensity almost akin to a
+small star's.  The fiery throne fills the entire room with heat and light,
+almost blinding you with it's strength.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26046
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26050
+Name Perch of the Phoenix~
+Desc There is a giant nest here, lined with all sorts of dry twigs and sticks,
+ready to go up into flames at any moment.  The sky is a dark, overcast grey,
+and the twin suns make the clouds a dark orange-red.  The entire atmosphere
+is somber, but in a way also very tranquil.  A soft breeze is blowing,
+carrying to you the scent of the fire-rose, which blooms only once every
+five thousand years.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 26000 spec_breath_fire
+M 26001 spec_breath_fire
+M 26002 spec_breath_fire
+M 26003 spec_breath_fire
+M 26004 spec_breath_fire
+M 26005 spec_breath_fire
+S
+
+
+
+#RESETS
+D 0 25734 1 1
+D 0 25774 3 1
+D 0 25782 2 2
+D 0 25784 0 2
+D 0 25794 3 1
+D 0 26043 1 1
+D 0 26043 3 1
+D 0 26044 1 1
+D 0 26045 3 1
+D 0 26046 1 1
+D 0 26046 3 1
+D 0 26047 1 1
+D 0 26048 3 1
+M 0 26000 45 26001 1
+M 0 26000 45 26002 1
+M 0 26000 45 26003 1
+M 0 26000 45 26004 1
+M 0 26000 45 26005 1
+M 0 26000 45 26006 1
+M 0 26000 45 26007 1
+M 0 26000 45 26008 1
+M 0 26000 45 26009 1
+M 0 26000 45 26010 1
+M 0 26000 45 26011 1
+M 0 26000 45 26012 1
+M 0 26000 45 26013 1
+M 0 26001 40 26014 1
+M 0 26001 40 26015 1
+M 0 26001 40 26016 1
+M 0 26000 45 26017 1
+M 0 26000 45 26018 1
+M 0 26001 40 26019 1
+M 0 26001 40 26020 1
+O 0 26000 0 26021
+M 0 26001 40 26021 1
+M 0 26001 40 26022 1
+M 0 26001 40 26023 1
+M 0 26001 40 26024 1
+M 0 26001 40 26025 1
+M 0 26001 40 26026 1
+M 0 26001 40 26027 1
+M 0 26001 40 26028 1
+M 0 26001 40 26029 1
+M 0 26001 40 26030 1
+M 0 26001 40 26031 1
+M 0 26001 40 26032 1
+M 0 26001 40 26033 1
+M 0 26000 45 26034 1
+M 0 26000 45 26035 1
+M 0 26000 45 26036 1
+M 0 26001 40 26037 1
+M 0 26001 40 26038 1
+M 0 26001 40 26039 1
+M 0 26000 45 26040 1
+M 0 26000 45 26041 1
+M 0 26000 45 26042 1
+M 0 26002 4 26044 2
+M 0 26002 4 26045 2
+M 0 26003 4 26047 2
+M 0 26003 4 26048 2
+O 0 26001 0 26049
+M 0 26004 1 26049 1
+E 0 26002 0 12
+E 0 26004 0 18
+M 0 26005 1 26050 1
+E 0 26005 0 9
+S
+
+
+
+#SHOPS
+25760 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

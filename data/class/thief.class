@@ -1,0 +1,188 @@
+#CLASS
+Name thief~
+WhoN Thi
+Prime 3
+Weapon 3701
+Guild1 3028
+Guild2 9639
+Skill 75
+Thac00 20
+Thac32 -4
+HPMin 8
+HPMax 13
+FMana 0
+Remort 0
+Base thief basics~
+Default thief default~
+End
+#SKILLS
+thermonuclear blast~
+110 1
+armor~
+20 2
+bless~
+32 2
+blindness~
+35 2
+calm~
+74 2
+cancellation~
+42 2
+charm person~
+60 2
+continual light~
+18 2
+cure blindness~
+33 2
+cure disease~
+33 2
+cure poison~
+33 2
+curse~
+54 2
+detect evil~
+22 2
+detect good~
+22 2
+detect hidden~
+26 2
+detect invis~
+26 2
+dispel evil~
+41 2
+dispel good~
+41 2
+dispel magic~
+41 2
+faerie fire~
+5 2
+faerie fog~
+28 2
+fireproof~
+22 2
+fly~
+20 2
+frenzy~
+30 2
+gate~
+24 2
+giant strength~
+28 2
+haste~
+22 2
+identify~
+14 2
+infravision~
+12 2
+invisibility~
+25 1
+know alignment~
+27 2
+locate object~
+38 2
+nexus~
+50 4
+pass door~
+25 2
+plague~
+36 2
+poison~
+15 2
+portal~
+45 4
+protection evil~
+46 2
+protection good~
+46 2
+refresh~
+12 2
+remove curse~
+32 2
+sanctuary~
+75 2
+shield~
+35 2
+sleep~
+20 2
+slow~
+30 2
+stone skin~
+40 2
+summon~
+40 2
+teleport~
+32 2
+weaken~
+37 2
+phase~
+35 6
+fireshield~
+60 2
+discern weakness~
+50 2
+dagger~
+1 2
+mace~
+1 5
+shield block~
+1 6
+spear~
+1 6
+sword~
+1 4
+whip~
+1 4
+bow~
+1 3
+backstab~
+1 4
+counter~
+38 6
+dirt kicking~
+3 4
+disarm~
+12 4
+dodge~
+1 4
+enhanced damage~
+30 5
+envenom~
+5 2
+hand to hand~
+15 6
+kick~
+14 3
+parry~
+1 4
+trip~
+1 4
+second attack~
+20 4
+third attack~
+54 6
+fast healing~
+1 6
+haggle~
+15 3
+forging~
+25 4
+hide~
+1 4
+peek~
+1 3
+pick lock~
+7 4
+sneak~
+1 4
+steal~
+14 4
+scrolls~
+1 5
+staves~
+1 5
+wands~
+1 5
+recall~
+1 2
+End~
+#END

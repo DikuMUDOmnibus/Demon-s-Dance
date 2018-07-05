@@ -1,0 +1,838 @@
+#AREADATA
+Name Fortitude Clan Hall~
+Builders Enzo~
+VNUMs 25200 25299
+Credits { ALL } Enzo Fortitude Clan Hall~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 25200
+Name Ghengis Kahn~
+Short Ghengis Kahn~
+Long Ghengis Kahn, the {WF{Bo{brt{Wi{btu{Bd{We {xQuest Master is here
+~
+Description ~
+Race human~
+Act_flags ABPT
+Aff DFH
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 2000
+Hit_dice 5000d5000+5000000
+Mana_dice 0d0+0
+Dam_dice 500d500+1000
+Dam_type wrath
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm ABCDEFGHIJKLMNOPQT
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 25201
+Name shaia fortitude healer~
+Short Shaia, {WF{Bo{brt{Wi{btu{Bd{We{x's Healer~
+Long Shaia, {WF{Bo{brt{Wi{btu{Bd{We{x's Healer, stands here.
+~
+Description ~
+Race human~
+Act_flags ABPa
+Aff CDFGH
+Aff2 H
+Align 1000
+Group 0
+Level 110
+Hitroll 3000
+Hit_dice 5000d5000+50000
+Mana_dice 0d0+0
+Dam_dice 5000d5000+5000
+Dam_type crush
+Armor 500 500 500 500
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 25202
+Name Attila Hun~
+Short Attila the Hun~
+Long Attila the Hun is here, offering you various equipment
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff Z
+Aff2 0
+Align 0
+Group 0
+Level 105
+Hitroll 999
+Hit_dice 1000d1000+1000000
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type punch
+Armor -800 -800 -800 -800
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50000000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 25203
+Name Dupre shopkeeper~
+Short Dupre~
+Long Dupre is here, selling you equipment
+~
+Description Dupre is a wise old man that has been in the lands for many years.  He is
+a paladin of the Order of Cinncinatus, the Order on which Fortitude was
+created.  
+~
+Race human~
+Act_flags ABP
+Aff Z
+Aff2 BC
+Align 500
+Group 0
+Level 110
+Hitroll 999
+Hit_dice 0d0+0
+Mana_dice 1000d1000+10000
+Dam_dice 100d100+1000
+Dam_type punch
+Armor -600 -600 -600 -600
+Off 0
+Teach A
+Imm ACD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100000000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 25200
+Name pool fresh water~
+Short a pool of fresh water~
+Orig_short a pool of fresh water~
+Desc A pool of fresh water is here.~
+Material unknown~
+Item_type fountain
+Extra I
+Wear 0
+Values 1215752192 1215752192 'water' 0 0
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25201
+Name fortitude crystal dagger~
+Short {D[{WF{Bo{brt{Wi{btu{Bd{We{D] {xcrystal dagger~
+Orig_short {D[{WF{Bo{brt{Wi{btu{Bd{We{D] {xcrystal dagger~
+Desc {D[{WF{Bo{brt{Wi{btu{Bd{We{D]{x's crystal dagger lies here on the ground~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values dagger 8 8 pierce DK
+Weapon_spell chill touch
+Level 1
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+1 1
+AffectObj
+13 20
+AffectObj
+2 1
+AffectObj
+3 1
+AffectObj
+4 1
+AffectObj
+5 1
+AffectObj
+18 5
+AffectObj
+19 5
+EndObj
+
+#OBJ
+Vnum 25202
+Name crystal dagger fortitude~
+Short {BCr{Wy{Cs{Wt{Bal {BD{Wa{Cg{Wg{Ber{x~
+Orig_short {BCr{Wy{Cs{Wt{Bal {BD{Wa{Cg{Wg{Ber{x~
+Desc A crystal dagger is lying on the ground~
+Material crystal~
+Item_type weapon
+Extra I
+Wear AN
+Values dagger 20 19 pierce DJ
+Level 101
+Weight 3
+Cost 7500000
+Condition P
+AffectObj
+12 200
+AffectObj
+13 200
+AffectObj
+19 35
+AffectObj
+18 35
+AffectObj
+1 10
+EndObj
+
+#OBJ
+Vnum 25203
+Name ring fortitude~
+Short {BR{Ding {Wof {BF{Dortitude{x~
+Orig_short {BR{Ding {Wof {BF{Dortitude{x~
+Desc A ring of Fortitude lies here on the ground~
+Material starfire~
+Item_type armor
+Extra I
+Wear AB
+Values BDEFGH BDEFGH BDEFGH BDEFGH 0
+Level 101
+Weight 1
+Cost 5000000
+Condition P
+AffectObj
+13 200
+AffectObj
+12 200
+AffectObj
+14 200
+AffectObj
+18 55
+AffectObj
+20 -40
+AffectObj
+19 55
+EndObj
+
+#OBJ
+Vnum 25204
+Name no name~
+Short {WH{bea{Drt {Wof {DS{Bto{bn{De{X~
+Orig_short {WH{bea{Drt {Wof {DS{Bto{bn{De{X~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25205
+Name glass dagger fortitude~
+Short {BG{class {BD{cagger{x~
+Orig_short {BG{class {BD{cagger{x~
+Desc A glass dagger of the Fortitude clan lies here~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values dagger 8 8 pierce DK
+Level 1
+Weight 0
+Cost 10000
+Condition P
+AffectObj
+5 3
+AffectObj
+4 3
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 25206
+Name ring wisdom fortitude~
+Short {CR{Wing {cof {CW{Wisdom{x~
+Orig_short {CR{Wing {cof {CW{Wisdom{x~
+Desc The fortitude clan ring of wisdom is here~
+Material sapphire~
+Item_type armor
+Extra GI
+Wear AB
+Values ABF ABF ABF ABF 0
+Level 1
+Weight 0
+Cost 7500
+Condition P
+AffectObj
+4 3
+AffectObj
+19 5
+AffectObj
+18 5
+AffectObj
+12 20
+AffectObj
+13 20
+EndObj
+
+#OBJ
+Vnum 25207
+Name rock shelves shelf~
+Short a rock shelf~
+Orig_short a rock shelf~
+Desc Rock shelves are built into the walls~
+Material unknown~
+Item_type container
+Extra 0
+Wear P
+Values 1000000 0 0 100 10
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25208
+Name light eternal justice~
+Short {YL{Wight {Mof {YJ{Wustice{x~
+Orig_short {YL{Wight {Mof {YJ{Wustice{x~
+Desc The Light of Justice of clan Fortitude is here~
+Material starpiece~
+Item_type light
+Extra 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 101
+Weight 0
+Cost 5000000
+Condition P
+AffectObj
+3 10
+AffectObj
+4 10
+AffectObj
+12 200
+AffectObj
+13 200
+AffectObj
+17 -300
+AffectObj
+19 35
+AffectObj
+18 35
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 25200
+Name {WF{Bo{brt{Wi{btu{Bd{We{x Encampment~
+Desc Having a base set up completely on a frozen lake has many advantages.  As
+well as disadvantages.  The flowing river to the east fills this vast area
+with water to be frozen by the frigid temperatures.  Deep layers of snow
+cover the twinkling ice and the occasional crack of the ice can be heard in
+the distance.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25220
+leaves north~
+Exit
+1
+~
+~
+0
+0
+25201
+leaves east~
+Exit
+5
+~
+~
+0
+0
+25206
+sucks in a breath of air and dives beneath the ice.~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25201
+Name Beneath the {WI{wc{De F{wal{Wls{x~
+Desc Numbing water crashes over the cliff's edge, slamming to the ground
+beneath it.  Meditating directly beneath the stream of water is the
+Fortitude quest master, Ghengis Khan.  The water flows downs the rocks to
+form a river flowing to the west.  Within the icy waters, ice begins to form
+huge blocks of ice large enough to stand on.  The embankment leads with a
+path behind the falls into a cave.  
+~
+Room_flags 9216
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25202
+splashes through the waterfall to the north.~
+Exit
+3
+~
+~
+0
+0
+25200
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25202
+Name {DCe{wn{Wt{wr{Dal {DC{wav{De{x~
+Desc The huge expanse of this cave is filled with the sound of the crashing
+water to the south.  A soft glimmering of yellow light comes from the north,
+where the healer's sanctuary is.  The eastern and western directions are
+blocked by doors and a pool of water rests within the center of the room.  
+~
+Room_flags 8
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+25204
+leaves north~
+Exit
+1
+~
+~
+1
+0
+25205
+leaves east~
+Exit
+2
+~
+~
+0
+0
+25201
+splashes through the waterfall to the south.~
+Exit
+3
+~
+~
+1
+0
+25203
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25203
+Name {WF{Bo{brt{Wi{btu{Bd{We's Assistant Quarters{x~
+Desc The hospitable conditions that the assistant of Fortitude live in are not
+completely luxurious, but not without luxuries.  A cherry wood bookshelf
+rests against one of the cavern's walls, while a woven tapestry covers
+another.  Rugs adorn the floor and a sturdy bed sits against an opposing
+wall.  
+~
+Room_flags 9224
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+25202
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25204
+Name {wH{We{wa{Wl{we{Wr{w'{Ws {wS{Wa{wn{Wc{wt{Wu{wa{Wr{wy{x~
+Desc The northern most cavern in the Fortitude clanhall is the Healer's
+Sanctuary.  The healer is hard at work administering heals and curing the
+sick.  A thick carpet of natural moss grows on the floor, making it a
+comfortable room to sleep in.  Behind the healers are shelves cut into the
+natural rock holding many devices for healing and other natural grooves are
+perfectly sized for resting or sleeping.  
+~
+Room_flags 9224
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25202
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25205
+Name {WF{Bo{brt{Wi{btu{Bd{We's Leader Quarters{x~
+Desc The leader of Fortitude allows himself every luxury he wants, and
+forunately, that isn't much.  A long wooden bed filled with goose down rests
+against one wall, while a crackling fire takes up the wall opposite it.  The
+floor is fully carpeted to seal in all the warmth and thick tapestries cover
+the wall, absorbing the cold.  
+~
+Room_flags 9224
+Sector_type 0
+Exit
+3
+~
+~
+1
+0
+25202
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25206
+Name {BB{ben{De{bat{Bh {bt{Dh{be {BI{Dc{Be~
+Desc There is a thick layer of ice above you, and through it you can see light
+shining from above...  Around you everything is dark, and you feel cold and
+numb.  The permeating darkness and the cold make you want to let everything
+go and slowly drift from consciousness.  There seem to be magical forces at
+work in this room.  
+~
+Room_flags 9280
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+25200
+swims back up to the story, lungs burning for air.~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25210
+Name The Ice Tunnel~
+Desc The walls glisten and sparkle in the sunlight and a thin layer of
+hard-packed snow covers the ground.  Jutting up from the ground in several
+places are blocks of ice, nearly unmovable.  Temperatue fluxuations within
+the cave have thawed and refrozen the blocks solidly into the ground over
+many years.  
+~
+Room_flags 271364
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25211
+Name The Ice Tunnel~
+Desc The snow of the tunnel floor is bleached of all colour and rests with a
+thin shell of protection unbroken upon the ground.  The ice walls slope up
+to the cavern ceiling, but a jagged hole has been cut into the center. 
+Around the black darkness above, icicles have formed and stretch towards the
+floor.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25212
+Name The Ice Tunnel~
+Desc A small crack runs from the floor up the eastern wall, creating a natural
+ladder.  High above on the eastern wall you can see an opening, the room of
+an archer, no doubt.  The corrider of ice takes a swift turn to the west and
+bright streams of sunlight can be seen in the area ahead of you.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25213
+Name The Ice Tunnel~
+Desc Here the snowy floor slants at a gradual incline to the north, leading up
+into the sun.  A howling wind is clearly audible and several flakes of snow
+flicker across the exit hole.  The exit itself is a rough and jagged hole
+straight through a wall of ice.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25214
+Name Amid the Snowfields~
+Desc A driving wind coupled with flurries of snow hamper your ability to see. 
+The snow has built up to an unpleasant knee-deep depth and makes your
+movement sluggish.  In every direction you look all you see is the glaring
+sun reflecting off of snow.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25215
+Name Amid the Snowfields~
+Desc The snow drives harder and the wind pushes with greater force.  The snow
+has built up considerably and reduces your moving capabilites even more.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25216
+Name Amid the Snowfields~
+Desc The snow lessens its rage here, and a sluggish river flows nearby.  Huge
+sheets of ice ride atop the waves and loud cracking sounds can be heard in
+the distance.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25217
+Name Amid the Snowfields~
+Desc Following the river, you come near a camp.  The river flows from the top
+of a glacier, cascading down the side of it creating a beautiful waterfall. 
+Shouts can be heard from within the camp as you approach its entrance and
+several warriors take up arms.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25218
+Name Sentry's Tunnel~
+Desc After you climb the ladder, you reach a room nestled within the ice.  The
+walls are smooth and glisten in the torchlight and the floors are covered in
+a dull sheet of ice.  To the east you see an archer aiming his down into the
+hole, waiting for intruders.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25219
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25219
+Name Above the Hole~
+Desc Looking down through the hole, you see a part of the tunnel you have
+previously entered through.  Around the top of the hole is a small ledge,
+large enough for an archer to stand upon and fire arrows down to the
+unsuspecting foe.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+25218
+leaves west~
+Exit
+5
+~
+~
+0
+0
+25211
+dives down the archer's hole~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25220
+Name Fortitude Hero Equipment Shop~
+Desc This shop is carved into the rock cliff.  Here heros of the Fortitude
+clan can buy some of the most powerful equipment in the lands.  The
+equipment shop for lower ranks is to the west.  
+~
+Room_flags 9216
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+25200
+leaves south~
+Exit
+3
+~
+~
+0
+0
+25221
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 25221
+Name Fortitude Equipment Shop~
+Desc Here members of the Fortitude clan can buy basic equipment.  There are
+shelves carved from the rock face to contain equipment.  
+~
+Room_flags 9216
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+25220
+leaves east~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 25200 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 25202 1 1
+D 0 25202 3 1
+D 0 25203 1 1
+D 0 25205 3 1
+M 0 25200 1 25201 1
+O 0 25200 0 25202
+M 0 25201 1 25204 1
+M 0 25202 1 25220 1
+G 0 25203 0
+G 0 25208 0
+G 0 25202 0
+M 0 25203 1 25221 1
+G 0 25205 0
+G 0 25206 0
+O 0 25207 0 25221
+S
+
+
+
+#SHOPS
+25202 5 9 26 10 0 100 100 0 23
+25203 5 9 10 15 0 100 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

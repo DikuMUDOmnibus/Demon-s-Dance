@@ -1,0 +1,835 @@
+#AREADATA
+Name Forsaken Citadel~
+Builders Augustus~
+VNUMs 28200 28399
+Credits { U  } The Forsaken Citadel~
+Security 56
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 28200
+Name skeletal skeleton warrior~
+Short a skeletal warrior~
+Long A skeletal warrior is here, guarding the drawbridge.
+~
+Description ~
+Race human~
+Act_flags ABOP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 40
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor -12 -12 -12 -12
+Off BCDFKU
+Teach A
+Imm A
+Res FLMQR
+Vuln GHN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form AHIMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 28200
+Name Cane~
+Short A {YGlowing{W Cane{x~
+Orig_short A {YGlowing{W Cane{x~
+Desc A {YGlowing{W Cane{x Lies here~
+Material starfire~
+Item_type weapon
+Extra AGIUW
+Wear AN
+Values sword 20 25 beating ABDG
+Level 106
+Weight 10
+Cost 10000
+Condition P
+AffectObj
+17 -2000
+AffectObj
+19 200
+AffectObj
+18 200
+EndObj
+
+#OBJ
+Vnum 28201
+Name shilling~
+Short shilling~
+Orig_short shilling~
+Desc Shilling~
+Material unknown~
+Item_type money
+Extra 0
+Wear A
+Values GJOQRST 0 0 0 0
+Level 0
+Weight 0
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 28202
+Name no name~
+Short (no short description)~
+Orig_short (null)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 28200
+Name The road to the Citadel~
+Desc You see a strange looking building off in the distance.
+Still to faar to be made out clearly, there appears to be a fort of somekind,
+but from this distance it is hard to be exactly sure of what it is.
+~
+Room_flags 0
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+28201
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28201
+Name The road to the Citadel~
+Desc Off in the distance, you are able to slowly make out the form of the structure.
+It seems to be somewhat like a fort, actually a very large fort.
+~
+Room_flags 0
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+28202
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28200
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28202
+Name The road to the Citadel~
+Desc ~
+Room_flags 0
+Sector_type 2
+Exit
+0
+~
+~
+0
+0
+28209
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28201
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28203
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28203
+Name The western battle front~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28208
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28202
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28204
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28204
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28207
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28203
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28205
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28205
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28206
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28204
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28206
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28216
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28207
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28205
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28207
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28217
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28208
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28204
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28206
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28208
+Name The western battle front~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28218
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28209
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28203
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28207
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28209
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28222
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28202
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28208
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28216
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28217
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28206
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28217
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28218
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28207
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28216
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28218
+Name The western battle front~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28222
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28208
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28217
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28222
+Name The Entrance to the Citadel~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28223
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28209
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28218
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28223
+Name Hall of Worriors~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28224
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28222
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28224
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28225
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28223
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28225
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28226
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28224
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28226
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28227
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28225
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28227
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28228
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28226
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28228
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28229
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28227
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28229
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28230
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28228
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28230
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28231
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28229
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28231
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28231
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28232
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28230
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28232
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28231
+leaves north~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

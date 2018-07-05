@@ -1,0 +1,1484 @@
+#AREADATA
+Name Crystal Village~
+Builders Saik~
+VNUMs 27000 27099
+Credits { 101 } Saik   Crystal Village~
+Security 6
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 27000
+Name Crystal Guard~
+Short The Crystal Guard~
+Long A Crystal Guard stands silently wanting to do justice.
+~
+Description ~
+Race gnome~
+Act_flags ABPT
+Aff EHOVa
+Aff2 B
+Align 1000
+Group 0
+Level 100
+Hitroll 700
+Hit_dice 1200d425+48
+Mana_dice 20d20+10
+Dam_dice 20d20+200
+Dam_type slash
+Armor -500 -500 -500 -500
+Off FK
+Teach A
+Imm AL
+Res EKP
+Vuln GJN
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Fvul LQ
+Ffor M
+EndMob
+
+#MOB
+Vnum 27001
+Name Patrol-Man~
+Short Patrol-Man~
+Long A patrol-man is patrolling the village looking for evil doings.
+~
+Description ~
+Race gnome~
+Act_flags APT
+Aff EHNVc
+Aff2 B
+Align 1000
+Group 0
+Level 101
+Hitroll 1000
+Hit_dice 500d500+100000
+Mana_dice 20d20+100
+Dam_dice 20d15+65
+Dam_type slash
+Armor -500 -500 -500 -500
+Off FHKQ
+Teach A
+Imm ABH
+Res EKP
+Vuln GLQX
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Ffor H
+EndMob
+
+#MOB
+Vnum 27002
+Name Undead Body~
+Short Undead Body~
+Long An undead body hanging by shackles.
+~
+Description ~
+Race human~
+Act_flags ABOPQ
+Aff HJV
+Aff2 HN
+Align -1000
+Group 0
+Level 101
+Hitroll 900
+Hit_dice 1765d700+1000
+Mana_dice 100d20+1000
+Dam_dice 25d30+88
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm ALQ
+Res N
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form I
+Parts ABCDEFGHIJKMX
+Size medium
+Material unknown
+Ffor AHMV
+Fpar Z
+EndMob
+
+#MOB
+Vnum 27003
+Name Mutant Spider~
+Short A Mutant Spider~
+Long A giant spider hangs off the wall.
+~
+Description ~
+Race vampire~
+Act_flags AHOP
+Aff HJMPVa
+Aff2 B
+Align -1000
+Group 0
+Level 101
+Hitroll 800
+Hit_dice 1400d500+100000
+Mana_dice 100d100+100
+Dam_dice 30d30+125
+Dam_type bite
+Armor -250 -250 -250 -250
+Off 0
+Teach A
+Imm AM
+Res FIT
+Vuln EHN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMPV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Faff1 CG
+EndMob
+
+#MOB
+Vnum 27004
+Name caged angel~
+Short Caded {WA{Cn{Wg{Ce{Wl{x~
+Long A caged animal seeming to be like an{WA{Cn{Wg{Ce{Wl{x.
+~
+Description ~
+Race angel~
+Act_flags ABPT
+Aff CEHNTVac
+Aff2 0
+Align 1000
+Group 0
+Level 101
+Hitroll 1000
+Hit_dice 1000d1000+100
+Mana_dice 100d100+1000
+Dam_dice 40d40+250
+Dam_type warp
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm AN
+Res IJ
+Vuln HM
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AEHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27005
+Name Fulmar~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race song bird~
+Act_flags ACPS
+Aff HTVc
+Aff2 O
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off FH
+Teach A
+Imm AJT
+Res LP
+Vuln EFG
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AGW
+Parts ACDEFHKPZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 27000
+Name Crystal Sabre~
+Short {CC{Br{Cy{Bs{Ct{Ba{Cl{BS{Ca{Bb{Cr{Be{x~
+Orig_short {CC{Br{Cy{Bs{Ct{Ba{Cl{BS{Ca{Bb{Cr{Be{x~
+Desc In bac~
+Material unknown~
+Item_type weapon
+Extra ABGIY
+Wear AN
+Values sword 10 15 slash BDEJ
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+2 4
+AffectObj
+19 7
+AffectObj
+18 7
+EndObj
+
+#OBJ
+Vnum 27001
+Name Man Fountain~
+Short a fountain~
+Orig_short a fountain~
+Desc A fountain with a weird threee armed man on top is here.~
+Material unknown~
+Item_type fountain
+Extra A
+Wear P
+Values 0 0 'champagne' 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27003
+Name dark blade~
+Short long sword~
+Orig_short long sword~
+Desc You see a bright blade with gloomy aura around it.~
+Material unknown~
+Item_type weapon
+Extra ABGIY
+Wear AN
+Values dagger 600 300 slash ABDGIK
+Level 1
+Weight 0
+Cost 0
+Condition P
+AffectObj
+17 -27680
+AffectObj
+13 10000
+AffectObj
+12 10000
+AffectObj
+14 10000
+AffectObj
+1 40
+AffectObj
+2 40
+AffectObj
+5 40
+AffectObj
+3 40
+AffectObj
+4 40
+AffectObj
+18 20000
+AffectObj
+19 3392
+AffectObj
+16 10000
+EndObj
+
+#OBJ
+Vnum 27004
+Name ARMS key~
+Short ARMS C. key~
+Orig_short ARMS C. key~
+Desc A small crystal key with writing on it~
+Material unknown~
+Item_type key
+Extra Y
+Wear AO
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27005
+Name Rainbow Legplates~
+Short standard issue leggings~
+Orig_short standard issue leggings~
+Desc An~
+Material unknown~
+Item_type armor
+Extra ABGIY
+Wear AF
+Values ACEG ACEG ACEG BDEG 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+110 5
+AffectObj
+101 5
+AffectObj
+106 5
+AffectObj
+102 5
+AffectObj
+13 10000
+AffectObj
+12 10000
+AffectObj
+14 10000
+AffectObj
+1 40
+AffectObj
+2 40
+AffectObj
+3 40
+AffectObj
+5 40
+AffectObj
+3 40
+AffectObj
+4 40
+AffectObj
+17 0
+EndObj
+
+#OBJ
+Vnum 27006
+Name Key To Nourishment~
+Short Key To Nourishment~
+Orig_short Key To Nourishment~
+Desc You see a key which smells like food.~
+Material unknown~
+Item_type key
+Extra A
+Wear AO
+Values 0 0 0 0 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27010
+Name no name~
+Short (no short description)~
+Orig_short (null)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27011
+Name sword~
+Short (no short description)~
+Orig_short (null)~
+Desc (no description)~
+Material unknown~
+Item_type token
+Extra 0
+Wear A
+Values DEFHIJL 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 27000
+Name The Crystal Entrance~
+Desc Out of no where bright lights start to flash, faster and faster.  Now
+You're surrounded by infinite crystals, to the east and th west all you see
+is what's in frount of you.  Straight ahead you see little shadows and hear
+voices saying crystals.  You notice a little further north a road begins.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27001
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27001
+Name South Crystal Road~
+Desc As you reach the road you realize it's made out of pure crystal.  You
+also notice a guard staring at you.  He begins telling you where things are
+: To the north the crystal road continues and to the west and east are the
+market places.  
+~
+Room_flags 4
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+27002
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27007
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27000
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27004
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27002
+Name Crystal Square~
+Desc You have a feeling that you're in the middleof the village.  Everthing
+around you is flecting off each other.  You are surrounded by many
+reflections of yourself as if you where inside a weird shaped crystal.  You
+notice the ground is still the same old crystal road.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+27003
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27033
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27001
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27003
+Name North Crystal Road~
+Desc You begin to realize the Crystal Road is becoming lumiescent.  The area
+is lit up with lights from distict crystals that shine brightly in the
+darkened sky.  The road continues to show indistict signs of heavy travel. 
+Towards the end you see a huge tower that shows no benevolence in its
+appearence, all that surround it is darkness.  The only light is from the
+crystals and they don't venture that far into the piercing night.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+0
+0
+27013
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27002
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27004
+Name ARMS Center~
+Desc There Are three buildings in the North, South and West of you.  Like the
+streets and everythings in else in this village they are made from crystal. 
+To the north lies the Weapon's Smith, to the south is the Armory, last but
+not least The Village's Barrack in the west.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+3
+27004
+27005
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27001
+leaves east~
+Exit
+2
+~
+~
+3
+27004
+27006
+leaves south~
+Exit
+3
+~
+~
+3
+27004
+27008
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27005
+Name Weapon's Shop~
+Desc You see the weapon's smith hard at work, making weapons out of some fire
+crystal.  You notice nothing is made by pure crystal, it all has this fire
+crystal.  You also notice nothing is made by pure crystal, it all has this
+fire has this low class setting.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+3
+0
+27004
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27006
+Name The Armory~
+Desc You see an armoroer hammering a crystal plate without it breaking.  You
+can see the magic in the air as you get a cold chill.  Noticing that its
+colder inside than out the Armorer shines his bright and frosty crsytal
+platemail and says "May i help you?"  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+3
+0
+27004
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27007
+Name Nourishment Center~
+Desc The streets look very familar and there are three buildings from the
+North, South, and East.  There is also a fountain with a man on top.  The
+man has hree arms pointing in each direction, and has champagne coming from
+his mouth.  As you explore around, you smeel food coming from all
+directions, especially from the south.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+3
+27006
+27012
+leaves north~
+Exit
+1
+~
+~
+3
+27006
+27009
+leaves east~
+Exit
+2
+~
+~
+3
+27006
+27010
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27001
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27008
+Name Village's Barrack~
+Desc As you walk into the barrack you so many soldiers from all over the
+Village.  Many of them are drunk and fighting each other, but a certain few
+are training to before great warriors.  You also see in front of you many
+chairs going acroos the room.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+3
+0
+27004
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27009
+Name High Class Tavern~
+Desc You have just entered the Crystal Village's Crystal Tavern.  Here they
+serve many drink and have an INN up stair.  This tavern is the richest part
+of the village, only the rish cillagers are allowed to even sit in the
+tavern.  To the right you see spiraling stair going straight to the top
+floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+3
+0
+27007
+leaves west~
+Exit
+4
+~
+~
+0
+0
+27011
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27010
+Name Bakery Shop~
+Desc By the smell of food you alrdy know you have reached the Bakery.  Many
+people are standing in line wait to get what they loves most.  As you wait
+in line you wonder and hope the food isn't made out of crystals like
+everything else on the village.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+3
+0
+27007
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27011
+Name Second Floor (INN)~
+Desc As you finally reach the top floor the Inn Keeper greets you and starts
+the describe whats going on.  He says " Greetings, as you might know down
+below us is the tavern.  We are repairing how rooms so this is the only room
+you can stay in." You start to explore the Inn and you notice not
+many people stay here, stuff is either neat or dusty.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+5
+~
+~
+0
+0
+27009
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27012
+Name Pet Store~
+Desc As you enter the store you become very suprised.  Your sense of smell has
+deceived you.  What smells like bakery with freshly made apple pie is a
+dirty old pet store.  You continue to walk into the store and you see many
+creature of unknown speices runing around growling and fighting each other,
+none seemed to be tamed.  
+~
+Room_flags 4096
+Sector_type 0
+Exit
+2
+~
+~
+3
+0
+27007
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27013
+Name Dark Crystal Tower~
+Desc Finally you reach the entrance of the dark crystal tower.  The only light
+is from you the the crystals back at the village.  You know there something
+magical about this tower because of the aura around it and the dark crystals
+glaring inside of it.  
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+~
+~
+1
+0
+27014
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27003
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27014
+Name Main Hall~
+Desc You walk into a room which is surrounded byt darkmess.  The only light is
+coming from a small crystal chandelier, not handing, but floating near the
+top of the ceiling in the middle of the room.  As you look around you notice
+there are no exits except for the trap door which the light barly hits at
+the edge of the room.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+1
+0
+27013
+leaves south~
+Exit
+5
+~
+~
+0
+0
+27015
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27015
+Name The Basement~
+Desc As you enter the basement of this crystal tower you notice someone
+quickly locks thetrap door behind you from the outside.  The walls around
+you are brick with these crystal rock as your light and your path to the
+next room.  As you walk around you can feel the crack of dry bones on the
+floor and you can i hear rats running around as you get near them.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27016
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27016
+Name Square~
+Desc This seems to be the center of the basement.  There really isn't much to
+look at except to your east you see many crystals and to the north it's very
+dark.  If you look close enough you can see metal bars as if it was the
+dungeon.  
+~
+Room_flags 5
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27017
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27021
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27015
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27017
+Name The Dungeon~
+Desc As you walk into this dark room you notice the jail cells lining up. 
+Everything in here is so old, you never seen so much moss on crystals. 
+They're also huge spider webs hanging off the wall, you never know a giant
+mutant spider might just jump on your back and kill you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27020
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27016
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27018
+Name JAIL CELL~
+Desc As you walk into the next jail cell, you still notice that there is alot
+of dry bones, but this time the only fresh body is yours.  You start if feel
+something wierd about this place as if something or someone is watching you.
+A clicking sound starts up as if someone was rubbing two bones together.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27020
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27019
+Name The Green Room~
+Desc You walk in preparing to see all green.  Oddly enough everything was
+green, you were surround by plants.  You look up and you notice you were in
+a green house, you know for plants.  The roof is made out of crystal which
+shines off the sun at day and off the moon at night.  This is what the
+plants feed off of.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27028
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27020
+Name Jail Cell~
+Desc You walk into the jail cell, you see dried up bones everywhere.  There is
+only one fresh body and he's dead too.  To your east you see one other jail
+cell, but the cell door is lock, wonder who has the key.  The cell door is
+rusted and old, even if you had a key the door prolly is rusted shut. 
+Prolly rusted shut.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27018
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27017
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27021
+Name Crystal Hallway~
+Desc This room is very dark, all you see and many small crystals on the floor,
+ceiling , and the walls.  These crystals guide you to the east and to the
+west.  As you walk you can see all of the crystals light up with your
+motion.  The closer you get to the crystal the brighter its becomes, but as
+you get closer to one crystal the other get darker there is no way you can
+have the whole room lit up.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27023
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27022
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27016
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27022
+Name Traps~
+Desc As you walk into the room you seem very shocked, you are surround by
+manying kind of traps.  All around the walls are small spikes and in between
+each spike there are holes with arrows pointing out.  Also, in the middle of
+the room there is a huge box with a long stick and string holding it up. 
+Inside the box you can see a pile of gold with sign saying take me.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27021
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27024
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27023
+Name The Pit~
+Desc You walk into the room and you see this huge sqaure pit in the middle of
+the room.  Inside it you see many shape spikes and it seems The pit is from
+wall to wall see there is no way to get around it, the only way is to jump
+or even fly across.  
+~
+Room_flags 1
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27025
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27021
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27024
+Name Stairway~
+Desc You se the begininnings of a unique spiral stairway.  The stairs are
+cutless undamaged crystal.  The light in the room slices through the crystal
+and a small rainbows glows on your eyes.  The support beam for the stairwell
+is also made of crystal.  The shining cylinder gleams and lights the room up
+and the stairs seem less radiant.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27022
+leaves west~
+Exit
+4
+~
+~
+0
+0
+27030
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27025
+Name Light Effects~
+Desc You think its just your eyes, as you walk into the room the light begans
+to dim then brighten.  The dimming start out slow, but begans to get faster.
+You just barely see the exit as complete darkness comes.  Soon after light
+quickly comes back, but brighter than ever.  This keeps going on and on, you
+can't even see how the room looks or even if your going into the right
+directions, now and then you see a door then a crystal wall.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27023
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27026
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27026
+Name The Ladder~
+Desc In the middle of the floor lies a large gold ladder with bright crystal
+edges.  This ladder seems to lead upwards to the next floor.  As you look up
+you see a small crystal chandelier, but also i very blinding light and loud
+noises.  You see the ladder shake as whatever is making this noise rumbles. 
+As you explore this room you can't find anymore exits other than going back.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27025
+leaves north~
+Exit
+4
+~
+~
+0
+0
+27027
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27027
+Name Main Hall~
+Desc As you enter the room you notice alot of familar things.  There is a
+small chandelier float in the middle of the room.  The one thing that is
+very odd is that there is a bright light bursting out of the door to the
+west.  You hear loud noises as if and animal was screaming for its life, as
+if it was dieing.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27028
+leaves north~
+Exit
+3
+~
+~
+1
+0
+27029
+leaves west~
+Exit
+5
+~
+~
+0
+0
+27026
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27028
+Name Indigo~
+Desc To your surpise as you walk into the room you notice that almost
+everythings is indigo.  Except this small dark blue/white sea gull.  On this
+sea gull next there is a tag which says fulmarus glacialis (fulmar).  As you
+look around you find a door to the south and on it says green room.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27019
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27029
+Name The Cage~
+Desc As you enter this room you notice it should be really dark but the shine
+of this caged animal brightens it.  This caged animal is like an angel its
+aura lightens up th room so bright that you can barely see anything.  All
+You can hear is this angel screaming for its life, swinging its large white
+wings around.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+1
+0
+27027
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27030
+Name Top stairway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27034
+leaves north~
+Exit
+5
+~
+~
+0
+0
+27024
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27031
+Name Treasure room~
+Desc ~
+Room_flags 4
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27034
+leaves west~
+Exit
+4
+~
+~
+0
+0
+27032
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27032
+Name Back Alley~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27033
+leaves west~
+Exit
+5
+~
+~
+0
+0
+27031
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27033
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27032
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27002
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27034
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27031
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27030
+leaves south~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 27004 0 2
+D 0 27004 2 2
+D 0 27004 3 2
+D 0 27005 2 2
+D 0 27006 0 2
+D 0 27007 0 2
+D 0 27007 1 2
+D 0 27007 2 2
+D 0 27008 1 2
+D 0 27009 3 2
+D 0 27010 0 2
+D 0 27012 2 2
+D 0 27013 0 1
+D 0 27014 2 1
+D 0 27027 3 2
+D 0 27029 1 2
+M 0 27001 2 27004 1
+G 0 27006 0
+M 0 27001 2 27007 1
+G 0 27004 0
+O 0 27001 0 27007
+M 0 27003 2 27017 1
+M 0 27003 1 27017 1
+M 0 27002 1 27020 1
+M 0 27004 1 27029 1
+E 0 27005 0 7
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

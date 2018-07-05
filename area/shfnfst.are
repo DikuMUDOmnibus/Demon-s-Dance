@@ -1,0 +1,401 @@
+#AREADATA
+Name Schaffenfest~
+Builders Quaden~
+VNUMs 12200 12299
+Credits {40 65} Quaden  Schaffenfest~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+{
+12299
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12200
+Exit_string leaves north~
+]
+
+}
+
+{
+12200
+Name On the path to Schaffenfest.~
+Desc You are stood on the muddy, well-treked path to the infamous
+Schaffenfest, a place for swapping tells and money, buying and selling,
+exploring the wonders of the world, and slaughtering innocents.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12201
+Exit_string leaves south~
+]
+
+}
+
+{
+12201
+Name Main path through the schaffenfest.~
+Desc You are walking along the muddy path that runs through the heart of the
+busy schaffenfest.  The sounds of laughter and cries of pain are deafening. 
+You senses are assaulted on all fronts.  
+ 
+North of you is the Main Road, and to the west a small pond.
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12200
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12203
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12202
+Exit_string leaves west~
+]
+
+}
+
+{
+12202
+Name By a small duckpond.~
+Desc You are stood near the midgaard city wall, where a small ornimental duck
+pond has been dug.  Children's footprints scuffle the dirt all around the
+pond, and there is a conspicuous lack of stones here.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12201
+Exit_string leaves east~
+]
+
+}
+
+{
+12203
+Name Main path through schaffenfest.~
+Desc You are walking along the muddy path that runs through the heart of the busy schaffenfest.  The sounds of laughter and cries of pain are deafening.  Your senses are assaulted on all fronts.
+ 
+The path branches east to the livestalk markets, south to the festival
+s most popular tents, and back west is the main road.
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12204
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12205
+Exit_string leaves east~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12201
+Exit_string leaves west~
+]
+
+}
+
+{
+12204
+Name The Jelly and Icecream Stall~
+Desc Here on the long grass, someone has set up a rough wooden fold-away
+table, and is using it to sell his wares.  There is a large box filled with
+ice under the table, used to chill the jelly and stop the wonderfull
+ice-cream from melting.  
+~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12203
+Exit_string leaves south~
+]
+
+}
+
+{
+12205
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12206
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12208
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12207
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12203
+Exit_string leaves west~
+]
+
+}
+
+{
+12206
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12205
+Exit_string leaves south~
+]
+
+}
+
+{
+12207
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12205
+Exit_string leaves north~
+]
+
+}
+
+{
+12208
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12209
+Exit_string leaves north~
+]
+
+[
+Orig_door 1
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12211
+Exit_string leaves east~
+]
+
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12210
+Exit_string leaves south~
+]
+
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12205
+Exit_string leaves west~
+]
+
+}
+
+{
+12209
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 2
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12208
+Exit_string leaves south~
+]
+
+}
+
+{
+12210
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 0
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12208
+Exit_string leaves north~
+]
+
+}
+
+{
+12211
+Name ~
+Desc ~
+Room_flags 0 Sector_type 0
+[
+Orig_door 3
+Exit_desc ~
+Exit_keyword ~
+Locks 0
+Key 0
+To_room 12208
+Exit_string leaves west~
+]
+
+}
+
+{
+12280
+Name {RQuaden's{x {WRoom{x of {RC{ch{wa{bo{Rs{x~
+Desc You are in Quaden's Room of Chaos.  You can tell just by the looks of
+this place that you wouldn't want to be here alone.  You hear sounds of
+battles in the distance, and sounds of torture.  All you know is that you
+want to leave.  
+~
+Room_flags 4 Sector_type 0
+}
+
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

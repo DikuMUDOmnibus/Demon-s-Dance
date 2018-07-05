@@ -1,0 +1,1564 @@
+#AREADATA
+Name The Desolate Temple~
+Builders Belgarion~
+VNUMs 10200 10299
+Credits { 101 } Belgarion    Desolate Temple~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 10200
+Name temple defender~
+Short a Zealous Temple Defender~
+Long A Temple Defender stands here praying to its god.
+~
+Description It's eyes practically glow with holy inspiration.  It seems apparent that
+a god has possesed it.  
+~
+Race human~
+Act_flags ABFG
+Aff HVa
+Aff2 0
+Align -750
+Group 0
+Level 100
+Hitroll 250
+Hit_dice 200d700+1000
+Mana_dice 100d50+100
+Dam_dice 8d15+22
+Dam_type divine
+Armor -200 -200 -200 -200
+Off 0
+Teach A
+Imm B
+Res BNP
+Vuln XY
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 10202
+Name light keeper~
+Short the Keeper of the Light~
+Long The Keeper of the Light pulses elemental force here.
+~
+Description You can't make out any specific features of this creature except that it
+is larger than most humans.  It is surronded in a glowing nimbus and the
+aura it exerts seems as if it keeps the torches lit.  
+~
+Race ogre~
+Act_flags ABG
+Aff HJVac
+Aff2 0
+Align -1000
+Group 0
+Level 90
+Hitroll 300
+Hit_dice 200d600+1000
+Mana_dice 10d1000+20
+Dam_dice 10d18+17
+Dam_type flame
+Armor -120 -120 -120 -120
+Off DEO
+Teach A
+Imm B
+Res EH
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Fimm P
+Fres L
+Fvul G
+EndMob
+
+#MOB
+Vnum 10203
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags AP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 10204
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags AP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 10205
+Name crumbling statue~
+Short a crumbling statue~
+Long A statue crumbles away into dust here.
+~
+Description This is a statue of some long forgotten god.  It's face has no expression
+and is missing quite a bit of stone.  All over the statue is covered in
+cracks and it appears it won't take too much out of you to banish it.  
+~
+Race gargoyle~
+Act_flags ABGT
+Aff EHTVa
+Aff2 0
+Align 0
+Group 0
+Level 85
+Hitroll 350
+Hit_dice 200d400+500
+Mana_dice 100d20+50
+Dam_dice 10d16+14
+Dam_type wrath
+Armor -100 -100 -100 -100
+Off C
+Teach A
+Imm L
+Res EHIQ
+Vuln FKNY
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 2304
+Form ACGHMV
+Parts ABCDEFGHIJKUWYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 10210
+Name guardian ice~
+Short Guardian of Ice~
+Long The Guardian of Ice stares coldly at you.
+~
+Description This hulking figure appears perfectly at peace in the cold.  Of course,
+it was at peace until you came in.  It's ice blue eyes stare directly at
+you, locking gazes, it takes it as a challenge.  You must choose fight or
+run quickly.  
+~
+Race ogre~
+Act_flags ABG
+Aff HJVa
+Aff2 0
+Align -500
+Group 0
+Level 90
+Hitroll 400
+Hit_dice 100d200+534
+Mana_dice 10d100+500
+Dam_dice 16d30+24
+Dam_type chill
+Armor 0 0 0 0
+Off DHIN
+Teach A
+Imm B
+Res EIL
+Vuln GH
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 2035
+Form AEHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Faff1 c
+Fimm P
+Fres H
+Fvul I
+EndMob
+
+#MOB
+Vnum 10218
+Name fire elemental~
+Short a greater Fire Elemental~
+Long A Greater Fire Elemental is here burning.
+~
+Description You can certainly make out a burning creature here.  Almost like an ogre
+encompassed in fire.  As he steps the ground is scorched.  Suddenly, he sees
+you and the fire around him begins to get larger.  
+~
+Race ogre~
+Act_flags ABG
+Aff Jc
+Aff2 0
+Align -200
+Group 0
+Level 92
+Hitroll 300
+Hit_dice 500d100+500
+Mana_dice 10d100+100
+Dam_dice 15d25+30
+Dam_type flame
+Armor 0 0 0 0
+Off CDEJ
+Teach A
+Imm B
+Res EHL
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Fimm P
+Fvul G
+EndMob
+
+#MOB
+Vnum 10226
+Name guardian electricity~
+Short Guardian of Electricity~
+Long The Guardian of Electricity is glowing brilliantly
+~
+Description This immense being is surronded by some form of a nimbus.  The blue arua
+scorches everything around it and you feel you may need to avoid it. 
+Suddenly it's eyes turn towards you and begin to glow red.  
+~
+Race ogre~
+Act_flags ABG
+Aff Jc
+Aff2 0
+Align 0
+Group 0
+Level 95
+Hitroll 350
+Hit_dice 700d400+100
+Mana_dice 10d100+500
+Dam_dice 18d20+15
+Dam_type blast
+Armor 0 0 0 0
+Off CDEFIO
+Teach A
+Imm B
+Res EHL
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Fimm P
+Fvul G
+EndMob
+
+#MOB
+Vnum 10229
+Name queen~
+Short The Acid Queen~
+Long The Acid Queen sits here fuming
+~
+Description The queens eyes blaze a pale color of green.  She is wearing what looks
+like acid in a cloth form and she reeks of the ages.  Her eyes turn toward
+you and she begins to mouth a spell.  
+~
+Race ogre~
+Act_flags ABG
+Aff Jc
+Aff2 0
+Align 0
+Group 0
+Level 95
+Hitroll 400
+Hit_dice 500d500+500
+Mana_dice 10d100+5
+Dam_dice 20d20+20
+Dam_type acbite
+Armor 0 0 0 0
+Off DEFI
+Teach A
+Imm B
+Res EHLP
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 2005
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+Fimm P
+Fvul GI
+EndMob
+
+#MOB
+Vnum 10234
+Name elemental king~
+Short The {RE{Bl{Re{Bm{Re{Bn{Rt{Ba{Rl{x {YKing{x~
+Long The {RE{Bl{Re{Bm{Re{Bn{Rt{Ba{Rl{x {YKing{x sits here basking in treasure.
+~
+Description Quite apparently a dragon, it shows all signs of the elements.  Its tail
+glows with the power of acid, its breath fire, its armor electricity and its
+teeth ice.  The scales on this mammoth beast glow a dark blue and prevade an
+idea of neutrality.  The dragons green eyes turn toward you.  
+~
+Race dragon~
+Act_flags ABGP
+Aff JT
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 1000d800+10000
+Mana_dice 1000d10+50
+Dam_dice 10d20+100
+Dam_type chomp
+Armor 0 0 0 0
+Off EFHMO
+Teach A
+Imm B
+Res BEFGHIK
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 8000
+Form AHZ
+Parts ACDEFGHIJKPQUVXZ
+Size huge
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 10210
+Name key~
+Short Key of {BIce{x~
+Orig_short Key of {BIce{x~
+Desc Key of {BIce{x~
+Material unknown~
+Item_type key
+Extra AY
+Wear AO
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 10218
+Name key~
+Short Key of {RFire{x~
+Orig_short Key of {RFire{x~
+Desc Key of {RFire{x~
+Material unknown~
+Item_type key
+Extra AY
+Wear AO
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 10226
+Name key~
+Short Key of {CE{Yl{Ce{Yc{Ct{Yr{Ci{Yc{Ci{Yt{Cy{x~
+Orig_short Key of {CE{Yl{Ce{Yc{Ct{Yr{Ci{Yc{Ci{Yt{Cy{x~
+Desc Key of {CE{Yl{Ce{Yc{Ct{Yr{Ci{Yc{Ci{Yt{Cy{x~
+Material unknown~
+Item_type key
+Extra AY
+Wear AH
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 10229
+Name key~
+Short Key of {GAcid{x~
+Orig_short Key of {GAcid{x~
+Desc Key of {GAcid{x~
+Material unknown~
+Item_type key
+Extra AY
+Wear AH
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#OBJ
+Vnum 10234
+Name girth of elements~
+Short a girth of the {RE{Bl{Ye{Gm{Re{Bn{Yt{Gs{x~
+Orig_short a girth of the {RE{Bl{Ye{Gm{Re{Bn{Yt{Gs{x~
+Desc A girth of the {RE{Bl{Ye{Gm{Re{Bn{Yt{Gs{x~
+Material unknown~
+Item_type armor
+Extra ABY
+Wear AL
+Values CDEF CDEF CDEF CDEF 0
+Level 101
+Weight 1
+Cost 0
+Condition P
+AffectObj
+18 10
+AffectObj
+12 50
+AffectObj
+3 2
+AffectObj
+4 4
+AffectObj
+19 10
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 10235
+Name riva sword~
+Short The {BS{bw{Bo{br{Bd{x of {CR{ci{Cv{ca{x~
+Orig_short The {BS{bw{Bo{br{Bd{x of {CR{ci{Cv{ca{x~
+Desc A massive Two-handed sword lays here.~
+Material unknown~
+Item_type weapon
+Extra BY
+Wear ANQ
+Values sword 20 20 slash ADEF
+Level 1
+Weight 0
+Cost 1
+Condition P
+AffectObj
+19 500
+AffectObj
+18 500
+EndObj
+
+#OBJ
+Vnum 10236
+Name orb aldur~
+Short The {CO{cr{Cb{x of {BA{cl{Bd{cu{Br{x~
+Orig_short The {CO{cr{Cb{x of {BA{cl{Bd{cu{Br{x~
+Desc A light blue orb hovers here.~
+Material unknown~
+Item_type armor
+Extra ABJKY
+Wear AQ
+Values CFG CFG CFG CFG 0
+Level 107
+Weight 0
+Cost 1
+Condition P
+AffectObj
+18 10
+AffectObj
+19 10
+EndObj
+
+#OBJ
+Vnum 10237
+Name chainmail~
+Short Shimmering {WSilver{x {WC{wh{Wa{wi{Wn{wm{Wa{wi{Wl{x~
+Orig_short Shimmering {WSilver{x {WC{wh{Wa{wi{Wn{wm{Wa{wi{Wl{x~
+Desc A magnificent suit of chainmail lays neglected here.~
+Material unknown~
+Item_type armor
+Extra ABISY
+Wear ADNO
+Values EIJKN EIJKN EIJKN EIJKN 0
+Level 107
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 10200
+Name A crumbling entrance into a Temple.~
+Desc You stand on a long flight of stairs led to a desecrated and desolate
+temple.  The archways are crumbling and columns lay in ruins all around. 
+You believe there was once a roof over this area but, right now you are
+standing on it.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10201
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10201
+Name A dusty corridor.~
+Desc Light still streams in through cracks in the ceiling here and you seem to
+feel a draft.  You feel as if you've stepped on what might be acient ruins. 
+Who knows what treasure lays inside?  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10202
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10200
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10202
+Name A Brightly Lit Junction.~
+Desc The junction seems small in comparison with how vast the temple is. 
+Though, unlike the entrance to the temple this area is surprisingly well
+kept.  Torches line the walls and seem as if always burning.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10206
+leaves north~
+Exit
+1
+~
+~
+0
+0
+10203
+leaves east~
+Exit
+2
+~
+~
+0
+0
+10201
+leaves south~
+Exit
+3
+~
+~
+0
+0
+10205
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10203
+Name A Dimly Lit Corridor.~
+Desc This corridor seems if it has been in recent use.  The light seeps into
+this room barely.  It's hard to make out specific shapes and such but, you
+can distincly hear a humming sound and the walls have runes glowing dimly
+inlaid in them.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10207
+leaves east~
+Exit
+3
+~
+~
+0
+0
+10202
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10204
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10204
+leaves east~
+Exit
+2
+~
+~
+0
+0
+10201
+leaves south~
+Exit
+3
+~
+~
+0
+0
+10204
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10205
+Name A long forgotten shrine.~
+Desc You step into a shrine that is perfectly undisturbed as if for centuries.
+Statues stand around the altar all depicting different gods.  Did one just
+move?  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10202
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10206
+Name A Corridor just north of a Junction.~
+Desc This room is one of the few with any sign of the outside world.  Looking
+up you can see the sky and also feel a gentle breeze.  All around ivy runs
+rampant from centuries of mis-care and broken flagstones lead to the south
+and the north.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10225
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10202
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10207
+Name A Frozen Corridor.~
+Desc The corridor is lit better than most but, you are beginning to feel a
+chill coming from the east.  A cold wind blows in and on it there are snow
+flakes.  Dusting off your shoulders you take your course.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10208
+leaves east~
+Exit
+3
+~
+~
+0
+0
+10203
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10208
+Name A Frozen Chamber.~
+Desc You shiver slightly.  Looking around you see ice everywhere.  Rubbing
+your hands together you wonder how this could be.  In the center of the room
+you see a rune depicting Ice.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10211
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10209
+leaves south~
+Exit
+3
+~
+~
+0
+0
+10207
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10209
+Name A Snowy Corridor.~
+Desc Snow forms in large heeps and you find yourself wading in it from the
+waste down.  It is beginning to become hard to see and you find your self
+constantly brushing snow off your face.  The corridor continues north and
+south.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10208
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10210
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10210
+Name Chamber of the Ice Guardian.~
+Desc Cold eminates from everything in this room.  You have trouble keeping
+your feet planted because of the ice everywhere...  Perhaps you can find the
+key you seek.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10209
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10211
+Name A Frozen Hallway.~
+Desc This long hallway eminates the essecense of cold.  You can feel it
+pulsing and along the walls runes of ice are shown.  They begin to glow
+brighter as you go south.  The hallway continues north and south.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10212
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10208
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10212
+Name A Temperate Corridor.~
+Desc Overall you feel very comfortable considering the Hall of Fire lies to
+the north and the Hall of Ice to the south.  The temperature is almost
+perfect for sitting and drinking glasses of iced tea.  What more could you
+ask for?  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10213
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10211
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10213
+Name A Slowly Heating Corridor.~
+Desc You feel the sweat begin to trickle down your brow.  A lamp is not needed
+because frequent spurts of fire from the north provide light.  As a gust of
+wind blows by you smell a strong scent of sulfur.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10214
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10212
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10214
+Name A Hall of Fire.~
+Desc The hall vaults to the ceiling and it's a good thing.  If not for how
+high the ceiling was you wouldn't be able to see or breathe for that matter.
+Smoke clogs everything and in the center of the room you see the rune for
+Fire.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10215
+leaves east~
+Exit
+2
+~
+~
+0
+0
+10213
+leaves south~
+Exit
+3
+~
+~
+0
+0
+10219
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10215
+Name A Chamber of Fire.~
+Desc It is hard to see clearly due to the heat distorting objects.  You step
+lively to avoid burning your feet.  All around you see fire and lava. 
+Directly to the east there is a hall of purely lava except for a platform
+and it's bridge.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10218
+leaves east~
+Exit
+3
+~
+~
+0
+0
+10214
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10216
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10217
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10218
+Name An Elemental Hall of Fire.~
+Desc Stepping quickly over the bridge you find yourself on a platform.  All
+around fire swirls almost as if it were in clouds.  Above you a Fire Storm
+rages.  You can almost feel the water being dragged out of your body and you
+feel much more in this climate and you will die.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+10215
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10219
+Name A Smoking Hall.~
+Desc Smoke it seems comes from all directions.  You can feel the temperature
+raising and you can also see the waves of heat flowing on the floor.  A gust
+of wind blows in from the east and you smell sulfer on it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10214
+leaves east~
+Exit
+3
+~
+~
+0
+0
+10220
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10220
+Name A Hall.~
+Desc The hall is unaffected by any elements.  You sigh in relief and sit to
+rest in the one normal room in the whole temple but, your hopes are
+shattered as you see a rune of ice on a door to the north.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+10210
+10231
+leaves north~
+Exit
+1
+~
+~
+0
+0
+10219
+leaves east~
+Exit
+3
+~
+~
+0
+0
+10221
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10221
+Name A Hall Discharging Electricity.~
+Desc Lightning shoots down at random times, looking up it appears a storm is
+brewing...  Your body begins to tingle from static as you notice the rune
+symbol of electricity on the floor.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10224
+leaves north~
+Exit
+1
+~
+~
+0
+0
+10220
+leaves east~
+Exit
+2
+~
+~
+0
+0
+10223
+leaves south~
+Exit
+3
+~
+~
+0
+0
+10222
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10222
+Name A Hall of Preperation.~
+Desc This room is full of what feels to be power.  As you step you see static
+discharges around everything and the metal items in your inventory are
+beginning to conduct the electricity much to your misfortune.  You feel you
+need to step lively.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10221
+leaves east~
+Exit
+3
+~
+~
+0
+0
+10226
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10223
+Name A Static Room.~
+Desc You cry out in pain every few seconds as static collects and discharges
+all over you.  Sparks fall from the celing giving the illusion of glowing
+rain.  The sparks also seem a bit painful, time to move on.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10221
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10225
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10224
+Name A Glowing Room.~
+Desc Upon entering the room you can feel power coursing through your veins. 
+Light eminates from the walls of the room and runes blaze on the floor.  You
+feel ready for anything.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10227
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10221
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10225
+Name An Echoing Corridor.~
+Desc This chamber is long and empty.  A radius of silent seems to eminate from
+it and you begin to walk.  The sound of your steps resound down the hall and
+back.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10223
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10206
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10226
+Name Abode of Electrical Fury~
+Desc The lightning is making it quite unsafe to be in your posistion.  The
+ground is scorched from repeated strikes and you feel you must make what is
+to come quick for your own safety.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+10222
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10227
+Name A Arromatic Room.~
+Desc With a blast of wind you smell various sludges and acids coming from the
+north.  You can smell what seems like a cesspool and many other things that
+you can't put a name to.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10228
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10224
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10228
+Name A Cesspool of Slime and Acid.~
+Desc Looking straight to the floor you notice the rune glowing showing that
+this room is the acid room.  The air is thick with the stench of rot and
+decay and many other unplesant odors you can't put a name to.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+10229
+leaves north~
+Exit
+2
+~
+~
+0
+0
+10227
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10229
+Name Chamber of Sludge.~
+Desc The stench in this room is almost unbearable...  Covering your mouth to
+keep from wretching you desperately search for the key though looking toward
+a mass on the floor, you think you've found it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+10228
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10230
+Name A room of Preperation.~
+Desc Yet another room of preperation...  You can feel, literally, a burning
+sensation.  Looking down you pull your feet out of the acid.  
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10231
+Name The Fire Room.~
+Desc A heated door has been placed ahead of you.  The temperature is kept even
+though, by the ice room to the south of here.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+10218
+10232
+leaves north~
+Exit
+2
+~
+~
+0
+10210
+10220
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10232
+Name The Electricity Room.~
+Desc A rusty old door rests north of here inscribed on it is the electrical
+rune.  To the south lies the fire door.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+10226
+10233
+leaves north~
+Exit
+2
+~
+~
+0
+10218
+10231
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10233
+Name The Acid Room.~
+Desc A large golden door sits to the north with the acid rune on it.  You can
+almost feel power flowing from behind that door.  Back to the south is the
+electricity door.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+10229
+10234
+leaves north~
+Exit
+2
+~
+~
+0
+10226
+10232
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10234
+Name A Grand Hall of Elements.~
+Desc The walls arch to the sky shooting various reds and blues of different
+elements upwards.  The room practically throbs with elemental power. 
+Looking around you feel dwarfed.  Even worse, you look to the center of the
+room and see a throne at least 50 feet high...  You begin to wonder what
+you've gotten yourself into.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+10229
+10233
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10235
+Name Arena of DEATH!~
+Desc This appears to be a big arena of DEATH! You feel like you just might die while in it. Strange.
+People all around chant FIGHT FIGHT FIGHT! Hey, where did they come from?
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 10200 2 10200 2
+M 0 10200 2 10200 2
+M 0 10200 1 10200 2
+M 0 10200 1 10200 1
+M 0 10202 1 10202 1
+M 0 10205 1 10205 1
+M 0 10210 1 10210 1
+G 0 10210 0
+M 0 10218 1 10218 1
+G 0 10218 0
+M 0 10226 1 10226 1
+G 0 10226 0
+M 0 10229 1 10229 1
+G 0 10229 0
+M 0 10234 1 10234 1
+E 0 10234 0 13
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

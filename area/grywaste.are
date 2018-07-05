@@ -1,0 +1,1611 @@
+#AREADATA
+Name Gray Wastes~
+Builders None~
+VNUMs 16700 16799
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#16701
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16702
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16703
+guardian son flame man~
+{RG{Dua{Rrd{Dia{Rn {Do{Wf {Dt{Whe {YS{yu{wn{x~
+A man composed of living flame stand barring your path.
+~
+~
+human~
+ABT DFHNOTUc 0 0
+101 20 1d1+23999 0d0+0 2d200+300 flbite
+-95 -95 -95 -95
+ADEFIKMN E GJK IP
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#16704
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16705
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16706
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16707
+mists dawn~
+{WM{Dists {Wo{Df {YD{ya{ww{Wn{x~
+The vapors of dawn mix with the rays of light to assault you.
+~
+~
+human~
+ABT DFHJNOUV 0 0
+101 10 12d8+11321 0d0+0 3d200+200 warp
+0 0 0 0
+AGH BF EGHJO 0
+stand stand none 10000
+BCHKL 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#16708
+flaming skyrider demonic horse~
+{RF{Yl{Ra{Ym{Ri{Yn{Rg {YS{Rk{Yy{Rr{Yi{Rd{Ye{Rr{x~
+A {Rd{yemonic {xhorse is charging at you
+~
+~
+modron~
+ABT CFGHNOTUZac 0 0
+101 20 1d4+11289 0d0+0 12d50+200 thwack
+-100 -100 -100 -100
+AEFGHIK 0 JKMQ IN
+stand stand none 200000
+H ABCGHJK medium unknown
+F aff J
+F off QR
+F imm BMNPQ
+F res HI
+#16709
+demon tumbleweed~
+{RD{Demon {RT{Dumbleweed{x~
+Just a bunch of dried up weeds blowing in the wind.
+~
+~
+centipede~
+ABT CDEFGHUVZ 0 0
+101 10 10d10000+40000 0d0+0 2d250+200 pierce
+-100 -70 -70 -70
+CGHO FM 0 EGHK
+stand stand none 10000
+ABGO ACK medium unknown
+F res FI
+#16710
+wolf moon dark wolves~
+{WWolf {Dof the {WMoon{x~
+Dark, sleek shapes seem to be surrounding you.
+~
+~
+wolf~
+ABT CDFGHPUVZac 0 0
+101 10 1d4+8976 0d0+0 10d60+200 pierce
+-96 -96 -96 -96
+FGHIMN M FHIJKLQ JN
+stand stand none 10000
+AGV ACDEFJKQV medium unknown
+#16711
+sun dragon~
+{YS{yun Drago{Yn~
+Brilliant golden beams of sunlight dance off the hide of this magnificant creature.
+~
+~
+dragon~
+ABT CDEFGHTVac 0 0
+101 30 1d4+29876 0d0+0 10d10+200 flame
+-80 -75 -80 -65
+ACEFGHIJKMO BO FGHIJLMNP EFI
+stand stand none 100000
+AHZ ACDEFGHIJKPQUVX large unknown
+F aff J
+F res BE
+#16712
+moon dragon light weaves~
+{BM{Doon {BD{Dragon{x~
+The weave of moonlight comes together in a striking resembles of a winged serpent.
+~
+~
+dragon~
+ABT CDEFGHTVac 0 0
+101 30 1d4+21090 1d4+1996 10d10+200 chill
+0 0 0 0
+ACDEFGHIJKMO 0 EFHIJLMP FGIK
+stand stand none 200000
+AHZ ACDEFGHIJKPQUVX large unknown
+F aff J
+F res B
+#16713
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16714
+silver dragon~
+{WS{Di{Wl{Dv{We{Dr {WD{Dr{Wa{Dg{Wo{Dn{x~
+A {WS{Di{Wl{Dv{We{Dr {WD{Dr{Wa{Dg{Wo{Dn{x lies here amongst the silver
+~
+~
+dragon~
+ABT CDEFGHNOTUZc 0 0
+101 10 1d4+21546 10d10+120 10d12+200 acbite
+-65 -65 -65 -47
+ACDFGHILMNO 0 FIJKMNOP EJ
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX large unknown
+F aff J
+F res BEH
+F vul FI
+#16715
+man judgement~
+{WO{Dld {WM{Dan {WJ{Dudgmenmt{x~
+An elderly man rocks quietly waiting to administer justice.
+~
+~
+human~
+ABT CDEFGHNOUV 0 0
+101 20 14d13+14932 0d0+0 2d300+200 slash
+-100 -100 -100 -100
+0 ABLQ EGHKMN J
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#16716
+crystal dragon~
+{CC{Wr{Cy{Ws{Ct{Wa{Cl {WD{Cr{Wa{Cg{Wo{Cn{x~
+A {CC{Wr{Cy{Ws{Ct{Wa{Cl {WD{Cr{Wa{Cg{Wo{Cn{x looks to add you to its collection
+~
+~
+dragon~
+ABT CDEFGHJNOTUZc 0 0
+101 10 1d4+22786 0d0+0 10d12+210 drain
+-100 -100 -100 -100
+AFGHIMNO 0 GHIJK E
+stand stand none 100000
+AHMVZ ABCDEFGHIJKPQUVX large unknown
+F res BE
+F vul FI
+#16717
+master golden path~
+{WMaster {xof the {YG{yolden {YP{yath{x~
+The {WMaster {xof the {YG{yolden {YP{yath{x prepares to do battle
+~
+~
+fox~
+ABT CFGHJNVZc 0 0
+101 20 1d1+11999 0d0+0 2d200+200 claw
+0 0 0 0
+DEGIK AB E HK
+stand stand male 10000
+AGHMV ABCDEFGHIJKQV medium unknown
+F off FH
+#16718
+amethyst dragon~
+{MA{Dmethyst {MD{Dragon{x~
+The sparkling Amethyst catch you eyes as they take on a serpentine figure
+~
+~
+dragon~
+ABT CDEFGHTVac 0 0
+101 10 1d10+29678 0d0+0 10d100+600 frbite
+-100 -100 -100 -100
+AFGHIMNO J EIKLMNP FH
+stand stand none 200000
+AHZ ACDEFGHIJKPQUVX large unknown
+F aff J
+F res BH
+F vul I
+#16719
+jade emporer~
+{GJ{Dade {GE{Dmporer{x~
+The {GJ{gade {GE{gmporer{x sits before you.
+~
+~
+elf~
+ABT DEFHNOUVZc 0 0
+101 20 1d4+30196 0d0+0 10d10+200 pierce
+-100 -100 -100 -100
+ACEFGHIKN 0 BHIMN EJ
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F vul Z
+#16720
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16721
+irradescent dragon~
+{CI{Wrradescen{Ct D{Wrago{Cn{x~
+{CS{Wwirling {Ci{Wncadescent {Cm{Wist {xlashes out at you.
+~
+~
+dragon~
+ABT CDEFGHUVZc 0 0
+101 20 1d4+23198 0d0+0 3d100+250 whip
+-100 -100 -100 -100
+ACEFGHIJMO B FIJMN EFHI
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX large unknown
+F aff JT
+F res BEH
+#16722
+opal dragon~
+{DO{wpal Drago{Dn{x~
+A large, black opal carved into the likeness of a Dragon.
+~
+~
+dragon~
+ABT DEFGHNOUVZc 0 0
+101 20 1d4+27856 0d0+0 5d100+200 shock
+-80 -70 -80 -50
+ACEGHIJNO F HIJM EK
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX large unknown
+F aff JT
+F res BE
+F vul FI
+#16723
+bahamut golden dragon wise~
+{YB{Wahamut {Dthe {YW{Wise{x~
+A Golden Dragon of immense size and age is here keeping a steadfast watch.
+~
+~
+dragon~
+ABT CDEFGHNOTUVc 0 0
+101 25 1d4+31093 10d100+300 5d150+200 wrath
+-150 -150 -150 -150
+ACDFGHIJMNO AB HIJLMN KP
+stand stand none 100000
+AHZ ACDEFGHIJKPQUVX giant unknown
+F aff J
+F res BE
+F vul FI
+#16724
+murdock~
+{RM{Durdock {Wthe {RD{Destroyer{x~
+Here stands {RM{Durdock {Wthe {RD{Destroyer{x
+~
+~
+giant~
+ABT CDEFGHJUVZac 0 0
+101 30 1d4+31096 0d0+0 2d400+100 wrath
+-200 -200 -200 -200
+CDEFGHIJKMO AB EFGHIJQ KNP
+stand stand none 200000
+AHMV ABCDEFGHIJK huge unknown
+F vul J
+#16725
+master gray path~
+{WMaster {xof the {DGray Path{x~
+The {WMaster {xof the {DGray Path{x prepares to do battle
+~
+~
+bear~
+ABT CFGHJNVZc 0 0
+101 20 1d1+11999 0d0+0 2d200+200 chomp
+-100 -100 -100 -100
+DEFGHIKO B EFGIP H
+stand stand male 10000
+AGV ABCDEFHJKUV medium unknown
+#16726
+master red path~
+{WMaster {xof the {RR{red {RP{rath{x~
+The {WMaster {xof the {RR{red {RP{rath{x prepares to do battle
+~
+~
+cat~
+ABT CFGHJNVZc 0 0
+101 20 1d1+11999 0d0+0 2d200+200 magic
+-100 -100 -100 -100
+CEFGHI AB EFIJM G
+stand stand male 10000
+AGV ACDEFHJKQUV medium unknown
+#16727
+wraith of murdock~
+{WW{Dr{Wa{Di{Wt{Dh {wof {BM{Du{Br{Dd{Bo{Dc{Bk{x~
+The spectral essence of Murdock has come to the place of his undoing.
+~
+~
+giant~
+ABT CDFGHJOTUVZ 0 0
+101 30 1d5+18634 0d0+0 2d200+300 drain
+-150 -150 -150 -150
+EGHI BILMQR HN JY
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res I
+F vul P
+#16728
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16729
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16730
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#16700
+crown dragon king~
+{RC{Drown {xof the {RD{Dragonking {x~
+A intricately craefted crown rests before you. Upon inspection you note that the crown is seemingly made from that of one huge scale of a creature.~
+unknown~
+armor ABIJK AE
+ACDE ACDE ACDE ABDE 0
+101 3 12000 P
+A
+19 6
+A
+18 6
+A
+13 100
+A
+12 100
+#16701
+chromatic glow~
+{CC{Rh{Mr{Yo{Wm{Ga{Bt{Di{mc {RG{Wlow {x~
+A scintillating coat of dragon scales lies there.~
+unknown~
+light ABIJK AQ
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+101 2 20000 P
+A
+20 -10
+A
+2 5
+A
+13 100
+A
+12 75
+#16702
+gold dragon tattoo~
+{YG{Dold {YD{Dragon {YT{Dattoo {x~
+A symbol of power lies before you.~
+unknown~
+armor ABIJK AMN
+BDE BDE BDE BDE 0
+101 1 0 P
+#16703
+fan of war~
+{RF{Wa{Rn {Dof {RW{Wa{Rr{x~
+A mighty war fan lies at your feet.~
+silver~
+weapon ABEI AN
+exotic 12 12 slap D
+101 1 1000 P
+A
+18 5
+A
+19 7
+#16704
+golden buddha style~
+{YG{Wolden {YB{Wuddha {YS{Wtyle{x~
+A book of martial arts lies here~
+crystal~
+weapon AGIY AN
+exotic 12 12 beating AB
+101 1 1000 P
+A
+18 5
+A
+19 7
+#16705
+orb dragonkin~
+{MO{Drb {xof {MD{Dragonkin {x~
+A beautifully carved pearl is before you. Carved on this basketball sized pearl are scenes of dragons at play with a elven race.~
+unknown~
+armor ABIJK AQ
+ACDE BDE CDE ADE 0
+101 1 23000 P
+A
+19 8
+A
+18 8
+A
+13 100
+A
+12 75
+A
+1 4
+A
+2 8
+#16706
+style of the bear~
+{WStyle {xof the {RB{Dear{x~
+A book of martial arts lies here waiting to be read.~
+oldstyle~
+weapon ABGIY AN
+exotic 12 12 charge G
+101 1 1000 P
+A
+18 5
+A
+19 7
+#16707
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#16708
+jade cocoon~
+{GJ{Dade {GC{Docoon{x~
+It's the legendary Cocoon of the Jade Emperor~
+unknown~
+weapon ABGIY AN
+exotic 14 14 flame A
+101 1 1000 P
+A
+12 100
+A
+18 12
+A
+19 10
+#16709
+rays of dawn~
+{YR{yays {Wof {YD{yawn{x~
+Glittering rays of sunlight coalese to form a ring before you.~
+light~
+armor ABGI AB
+ADE ADE ADE ABCE 0
+101 1 10000 P
+A
+18 10
+A
+19 20
+A
+13 75
+A
+20 -5
+#16710
+living flame~
+{RL{yi{Rv{yi{Rn{yg {RF{yl{Ra{ym{Re{x~
+Living flames take the shape of armor.~
+flame~
+armor ABEIY AD
+ABDE ABDE ABDE ACDE 0
+0 1 1000 P
+A
+18 4
+A
+19 6
+#16711
+ankh of judgement~
+{MA{Wnkh {Dof {MJ{Wudgement{x~
+A powerful talisman waits to distribute justice.~
+unknown~
+armor ABGI AO
+CE CE CE CE 0
+101 1 1000 P
+A
+13 60
+A
+12 100
+#16712
+globe of insight~
+{BG{Wlobe {Wof {BI{Wnsight{x~
+A crystaline sphere the size of a softball is at rest. Sparkling with an inner light all its own.~
+sunrise~
+armor ABI AQ
+AE CE BE BE 0
+101 1 1000 P
+A
+12 300
+A
+3 4
+A
+4 4
+A
+14 300
+#16713
+twilights first ray~
+{BT{Dwilight's {BF{Dirst {BR{Day{x~
+A beam of the first stars of night coalese into a ring.~
+moon~
+armor ABCI AB
+ADE ADE ADE ABCE 0
+101 1 1000 P
+A
+18 10
+A
+19 10
+A
+13 125
+A
+12 125
+#16714
+eye of murdock~
+{RE{Dye {RO{Df {RM{Durdock{x~
+A eye of the fallen Murdock lies here.~
+crystal~
+armor ABCGI AO
+CDE CDE CDE CDE 0
+0 1 10000 P
+A
+18 8
+A
+19 12
+A
+12 150
+A
+13 100
+#16715
+flaming hooves of dusk~
+{RF{ylaming {RH{yooves {Ro{yf {RD{yusk{x~
+Horseshoes forged of the sun itself.~
+flame~
+armor ABCEG AG
+ACDE ACDE ABDE BDE 0
+0 1 10000 P
+A
+14 400
+A
+18 6
+A
+19 5
+A
+13 100
+#16716
+crescent moon~
+{YC{yrescent {BM{boon{x~
+A dagger shaped in that of a crescent moon~
+moon~
+weapon ABCEI AN
+dagger 15 9 slice 0
+101 1 10000 P
+A
+18 5
+A
+19 7
+#16717
+coat of darkness~
+{BC{Doat {Bo{Df {BD{Darkness{x~
+An animal skin lies here absorbing light.~
+darkness~
+armor ABCFG AK
+CDE CDE CDE CDE 0
+101 1 10000 P
+A
+18 5
+A
+19 5
+#0
+
+
+
+#ROOMS
+#16700
+Before Mt. Celestia~
+Coming up the rocky path you gaze upon a mountain.  As you gaze up you
+notice that the mountain reaches far above the cloudline.  If you squint
+really hard, you make out shadowy forms in the clouds.  Winged ones at that.
+Your path continues north towards the base of the mountain or back south.
+~
+0 0 0
+D0
+~
+~
+0 0 16701
+D2
+~
+~
+0 0 16750
+S
+#16701
+Foot of the Mount~
+Upon reaching the base of the mountain, you finally get a feel for the
+greatnes that it possesses.  Before you stand a huge door of gold carved
+with the likeness of numerous dragons in graceful flight.  To the east and
+west paths weave up the mountain towards several caves.
+~
+0 0 0
+D0
+~
+~
+0 0 16702
+D1
+~
+~
+0 0 16703
+D2
+~
+~
+0 0 16700
+D3
+~
+~
+0 0 16704
+S
+#16702
+The Center Spire~
+You have entered the center spire of the mountain.  The climb shall be
+long and tedious. Your pathway continues spiraling up. After a few hours
+of walking, you come upon an irradescent door that leads you further up
+your path.
+~
+0 0 0
+D2
+~
+~
+0 0 16701
+D4
+~
+~
+0 0 16721
+S
+#16703
+Paths of the Sun~
+Above this entrance you can make out the various rises of the sun.
+Ranging from Dawn, High Noon, Dusk, and even a solar eclipse.  An individual
+in flames stands guarding the enterance.  Behind him you can see a bright
+landscape waiting to be explored.
+~
+0 0 0
+D0
+~
+~
+0 0 16707
+D1
+~
+~
+0 0 16705
+D3
+~
+~
+0 0 16701
+S
+#16704
+Pathways of the Moon~
+You gaze upward amazed at the multitude of stars that are out tonight.
+The beauty is absolutely breath taking.  Searching the sky, you see that the
+moon is out and shifting through all of its phases.  Before you a path leads
+north towards the moon, back east, or further west.
+~
+0 0 0
+D0
+~
+~
+0 0 16708
+D1
+~
+~
+0 0 16701
+D3
+~
+~
+0 0 16706
+S
+#16705
+Broken Path~
+This path widens somewhat. It looks like at one time you used to be able
+to take mining carts down to the base of the mountain. You only have
+to continue east a little more to reach you final destination.
+Or you can continue back west from were you came.
+~
+0 0 0
+D1
+~
+~
+0 0 16713
+D3
+~
+~
+0 0 16703
+S
+#16706
+Broken Path~
+This path widens somewhat.  It looks like at one time you used to be able
+to take mining carts down to the base of the mountain.  You only have to
+continue west a little more to reach you final destination.  Or you can
+continue back east from were you came.
+~
+0 0 0
+D1
+~
+~
+0 0 16704
+D3
+~
+~
+0 0 16714
+S
+#16707
+The Coming of Dawn~
+After your battle with the living flame, you can't believe the sight that
+lies infront of you.  The most breath taking Dawn you've ever seen.  Though
+it looks like its going to be interrupted by...  An elemental?  From the
+rays of dawn, coaleses a being of light.
+~
+0 0 0
+D0
+~
+~
+0 0 16709
+D2
+~
+~
+0 0 16703
+S
+#16708
+Enter Dusk~
+As you continue forward, your journey continues through the day till dusk.
+You stop to camp marveling at the colors of the horizon.  The warm colors
+that seem to embrace the coming of night. On the horizon, you see a shape
+that vaguely resembles a horse.  It seems to be fast approaching, you can
+hear the thunderous hoof beats. Quickly scanning the area you can head back
+south, or try to manuever north around it.
+~
+0 0 0
+D0
+~
+~
+0 0 16710
+D2
+~
+~
+0 0 16704
+S
+#16709
+High Noon~
+You peer at a huge desert infront of you.  It seems to go on and on.  The
+only thing that can be seen are tumbleweed.  A dry, dusty gulch continues to
+the north.
+~
+0 0 0
+D0
+~
+~
+0 0 16711
+D2
+~
+~
+0 0 16707
+S
+#16710
+New Moon~
+Above you is nothing ,but darkness.  It seems all enveloping.  By what
+little starlight that there is you can piece together the facts.  Silently
+you whisper , "Damn!"  .  As you recall that the hounds hunt only during the
+full moon.  Searching frantically you find the path you were on.  It
+continues north or back south towards assured safety.
+~
+0 0 0
+D0
+~
+~
+0 0 16712
+D2
+~
+~
+0 0 16708
+S
+#16711
+The Chamber's of the Morning Lord~
+This room seems to be teaming with life as the sun splashes about
+everything.  You can feel the rays soaking through your armor, warming your
+skin and even your very soul.  As you get accustomed to the light, you can
+see a magnificant creature basking in the golden rays.  You can't believe it
+tis the legendary dragon of the sun. You wouldn't have believed it
+unless you saw it.
+~
+0 0 0
+D2
+~
+~
+0 0 16709
+S
+#16712
+The Celestia Equinox~
+As you enter the chamber you marvel at the way the moon light plays over
+the surfaces of the room.  How it seems to coalesce into a living being.
+Before your eyes a creature of exquisite beauty turns shows itself to you.
+You stand there amazed at the sight.  You would have never believed the
+legends if you hadn't seen this for yourself.
+~
+0 0 0
+D2
+~
+~
+0 0 16710
+S
+#16713
+Entrance to the Chamber of the Wheel~
+Peering into the cave entrance, you can make out the sounds of a turning
+wheel.  Going further in, you come to the chamber of the wheel.  Thousands
+of people seem to be standing in line waiting for something.  Suddenly you
+gasp in realization.  You think can this be true, the Wheel of incarnation?
+As if to answer your question a burly horned giant begins to approach you.
+Your options are to continue through the cavern northward, face the beast
+head on or run for the hills from the direction you just came.
+~
+0 0 0
+D0
+~
+~
+0 0 16715
+D3
+~
+~
+0 0 16705
+S
+#16714
+Silver Mine~
+From the mouth of the cave you can just make out some type of metal
+glistening from your light.  As you enter the cave you see veins of silver
+splayed all through out the walls.  Passing your light around the mine, you
+uncover a pile of silver.  Wait did that silver just move.  Staring in awe
+and amazement, a serpentine form takes shape.  You think to yourself,
+";Damn, I'm in trouble!"  
+~
+0 0 0
+D0
+~
+~
+0 0 16716
+D1
+~
+~
+0 0 16706
+S
+#16715
+Chamber of Judgement~
+After leaving the wheel, you follow the lines of eternity.
+Upon its end you meet with a little old man sitting in a rocking chair.
+He seems to be humming to himself. Totally unaware that you've decided
+to intrude upon his thoughts. Just as you thought you'd slip by,
+he turns and gives you a look of death. His gaze penetrates your
+very being. YOU ARE BEING JUDGED!
+~
+0 0 0
+D0
+~
+~
+0 0 16717
+D2
+~
+~
+0 0 16713
+S
+#16716
+Cavern of Quartz~
+Upon exiting the silver mine, you notice that the walls start to take on
+a more crystaline structure.  Definitely some type of large crystal or
+quartz vein.  Entering into a vast chamber, you can see that this place is
+unscathed by the hands of man (or other creatures). Being careful not to
+disturb this natural beauty, you spy a chunk of crystal coming to life.  As
+the mound starts to take shape, you notice it to be a very delicate
+serpentine creature of beauty.
+~
+0 0 0
+D0
+~
+~
+0 0 16718
+D2
+~
+~
+0 0 16714
+S
+#16717
+Study of Cloud and Tree~
+After being judged, you are sent to contemplate life.  Before you is a
+garden of eden.  Trees full of fruit, animals of all types playing with each
+other, and a large tree in the center of it all beckons you forth.  Standing
+by the tree are three figures.  Three elderly men, one dress in Gold, one in
+Grey, the other in Red.  All three, in unision, say:
+"To leave this place you must conquer each of us."
+A path continues behind them toward a structure of jade.
+~
+0 0 0
+D0
+~
+~
+0 0 16719
+D2
+~
+~
+0 0 16715
+S
+#16718
+Chamber of Percious Stones~
+Entering this room you can't help, but notice Gems!   They are
+everywhere.  You can't believe it.  Oh the beauty of mounds of raw gem
+stones.  What is that you see.  A pile of gems just moved.  A hoard of
+Amethyst rises up.  My god!  You'd never thought you'd ever see a real live
+Amethyst Dragon ever.
+~
+0 0 0
+D2
+~
+~
+0 0 16716
+S
+#16719
+The Jade Emporer's Throne Room~
+This vast chamber seems to be carved out of a huge piece of jade.  In the
+center of the chamber is a human figure clothed in ameythyst, diamonds, and
+jade.  As you approach the figure you can see that he has green skin.  No
+hes not a troll.  His skin is jade.  His are as black as Opals.  You never
+would have thought the legends true of the Man of Jade. Unless you'd seen it
+with your own eyes.
+~
+0 0 0
+D2
+~
+~
+0 0 16717
+S
+#16720
+~
+~
+0 4 0
+S
+#16721
+Shimmering Plateau~
+Climbing up the infinite spiral, you come finally to the first plateau.
+Here the plateau is covered in mists.  Temperatures and smells of variety
+assault your senses.  Moving deeper into the mists, one has eyes.  Checking
+again, you see that those definitely are eyes, moving closer to you.
+~
+0 0 0
+D4
+~
+~
+0 0 16722
+D5
+~
+~
+0 0 16702
+S
+#16722
+Plateau of Darkest Nights~
+After leaving the bright lights of the plains behind, your eyes are
+happy to see the black of perpetual night.  Unfortunately, you aren't
+pleased in the least.  You know that preditors of all shapes and sizes hunt
+at night.  Here it is a virtual field day for them.  As you set up camp for
+the night, you notice a large, black void moving towards you.  Well you
+could head back to eye strain city or continue your climb upward?
+~
+0 0 0
+D4
+~
+~
+0 0 16723
+D5
+~
+~
+0 0 16721
+S
+#16723
+Plateau Of Glory~
+You are starting to get the feeling of forboding, as you've yet to see
+signs of the top of the mountain.  Yet you feel somewhat secure in the fact
+that you are 3 quarters of the way there.  You've reached a vast plateau.
+It seems to stretch in all directions to the horizon.  You have never really
+notice before, but now you notice that your muscles are killing you. As you
+break out your camping gear, a warm feeling of peace and easiness flows
+through you.  Looking across the camp at you, is Dragon of immense beauty
+and power.  You get the feeling though that no harm shall come to you.
+~
+0 0 0
+D4
+~
+~
+0 0 16724
+D5
+~
+~
+0 0 16722
+S
+#16724
+The Stand Of Murdock~
+Upon reaching the top of the mountain, you see carnage everywhere.  You
+think to yourself, I climbed all this way to see a battlefield of blood and
+corpses.  As you start picking your was through the mess, a figure rises out
+of the dust and blood.  Getting a good look at him you see a titan of a man
+with eight arms.  In each of his mighty arms, he wields weapons of unearthly
+make.  You can feel the fear rising, as you realize he is heading your way.
+~
+0 0 0
+D0
+~
+~
+0 0 16725
+D5
+~
+~
+0 0 16723
+S
+#16725
+Treasure Room of the Fallen~
+After the many battles that have been waged through the centuries here.
+Murdock has amassed quite a collection of assorted weapons,armours, and
+miscellaneous pieces of equipment.  But the thing that catches your eye the
+most is the piles of gems and coins of various amounts.
+~
+0 0 0
+D2
+~
+~
+0 0 16724
+S
+#16726
+~
+~
+0 4 0
+S
+#16727
+~
+~
+0 4 0
+S
+#16728
+~
+~
+0 4 0
+S
+#16729
+~
+~
+0 4 0
+S
+#16730
+~
+~
+0 4 0
+S
+#16731
+~
+~
+0 4 0
+S
+#16732
+~
+~
+0 4 0
+S
+#16733
+~
+~
+0 4 0
+S
+#16734
+~
+~
+0 4 0
+S
+#16735
+~
+~
+0 4 0
+S
+#16736
+~
+~
+0 4 0
+S
+#16737
+~
+~
+0 4 0
+S
+#16738
+~
+~
+0 4 0
+S
+#16739
+~
+~
+0 4 0
+S
+#16740
+~
+~
+0 4 0
+S
+#16741
+~
+~
+0 4 0
+S
+#16742
+~
+~
+0 4 0
+S
+#16743
+~
+~
+0 4 0
+S
+#16744
+~
+~
+0 4 0
+S
+#16745
+~
+~
+0 4 0
+S
+#16746
+~
+~
+0 4 0
+S
+#16747
+~
+~
+0 4 0
+S
+#16748
+~
+~
+0 4 0
+S
+#16749
+~
+~
+0 4 0
+S
+#16750
+An Airborne Mountain Range~
+You have reached the top of your climb, and now you can see just what
+your goal was, Mount Celestia, rumored to be the abode of all the great
+dragons, and the demi-god, the Jade Emporer.  Somewhat winded from your
+trek, you seem to be drawn towards the mountain, which only lies a few steps
+ahead of you.  
+~
+0 4 0
+D0
+~
+~
+0 0 16700
+D5
+~
+~
+0 0 1037
+S
+#16751
+~
+~
+0 4 0
+S
+#16752
+~
+~
+0 4 0
+S
+#16753
+~
+~
+0 4 0
+S
+#16754
+~
+~
+0 4 0
+S
+#16755
+~
+~
+0 4 0
+S
+#16756
+~
+~
+0 4 0
+S
+#16757
+~
+~
+0 4 0
+S
+#16758
+~
+~
+0 4 0
+S
+#16759
+~
+~
+0 4 0
+S
+#16760
+~
+~
+0 4 0
+S
+#16761
+~
+~
+0 4 0
+S
+#16762
+~
+~
+0 4 0
+S
+#16763
+~
+~
+0 4 0
+S
+#16764
+~
+~
+0 4 0
+S
+#16765
+~
+~
+0 4 0
+S
+#16766
+~
+~
+0 4 0
+S
+#16767
+~
+~
+0 4 0
+S
+#16768
+~
+~
+0 4 0
+S
+#16769
+~
+~
+0 4 0
+S
+#16770
+~
+~
+0 4 0
+S
+#16771
+~
+~
+0 4 0
+S
+#16772
+~
+~
+0 4 0
+S
+#16773
+~
+~
+0 4 0
+S
+#16774
+~
+~
+0 4 0
+S
+#16775
+~
+~
+0 4 0
+S
+#16776
+~
+~
+0 4 0
+S
+#16777
+~
+~
+0 4 0
+S
+#16778
+~
+~
+0 4 0
+S
+#16779
+~
+~
+0 4 0
+S
+#16780
+~
+~
+0 4 0
+S
+#16781
+~
+~
+0 4 0
+S
+#16782
+~
+~
+0 4 0
+S
+#16783
+~
+~
+0 4 0
+S
+#16784
+~
+~
+0 4 0
+S
+#16785
+~
+~
+0 4 0
+S
+#16786
+~
+~
+0 4 0
+S
+#16787
+~
+~
+0 4 0
+S
+#16788
+~
+~
+0 4 0
+S
+#16789
+~
+~
+0 4 0
+S
+#16790
+~
+~
+0 4 0
+S
+#16791
+~
+~
+0 4 0
+S
+#16792
+~
+~
+0 4 0
+S
+#16793
+~
+~
+0 4 0
+S
+#16794
+~
+~
+0 4 0
+S
+#16795
+~
+~
+0 4 0
+S
+#16796
+~
+~
+0 4 0
+S
+#16797
+~
+~
+0 4 0
+S
+#16798
+~
+~
+0 4 0
+S
+#16799
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 16703 1 16703 1
+E 0 16710 0 5
+M 0 16707 2 16707 2
+M 0 16707 2 16707 2
+M 0 16708 2 16708 2
+E 0 16715 0 8
+M 0 16708 2 16708 2
+E 0 16715 0 8
+M 0 16709 1 16709 1
+M 0 16710 2 16710 2
+E 0 16717 0 12
+M 0 16710 2 16710 2
+E 0 16717 0 12
+M 0 16711 1 16711 1
+M 0 16712 1 16712 1
+E 0 16713 0 2
+E 0 16716 0 16
+M 0 16714 1 16714 1
+M 0 16715 1 16715 1
+M 0 16716 1 16716 1
+M 0 16726 1 16717 1
+E 0 16703 0 16
+M 0 16725 1 16717 1
+E 0 16706 0 16
+M 0 16717 1 16717 1
+E 0 16704 0 16
+M 0 16718 1 16718 1
+M 0 16719 1 16719 1
+E 0 16708 0 16
+M 0 16721 1 16721 1
+E 0 16701 0 19
+M 0 16722 1 16722 1
+M 0 16723 1 16723 1
+E 0 16702 0 15
+E 0 16705 0 19
+E 0 16709 0 2
+M 0 16724 1 16724 1
+E 0 16700 0 6
+E 0 16714 0 18
+M 0 16727 1 16725 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,511 @@
+#AREADATA
+Name Questor Stuff~
+Builders None~
+VNUMs 8320 8340
+Credits { ALL } Vassago Quest Stuff~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 8320
+Name oldstyle giant~
+Short a marsh giant~
+Long A marsh giant stomps towards you.
+~
+Description This huge monster of a man has green gnarly teeth and a BIG stick.
+~
+Race giant~
+Act_flags ABCDFG
+Aff DF
+Aff2 0
+Align -100
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Off EFNR
+Teach A
+Imm 0
+Res HI
+Vuln JP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 600
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 8321
+Name oldstyle gargoyle~
+Short a gargoyle~
+Long A large gargoyle lands next to you, baring his fangs at you.
+~
+Description This creepy fellow looks like he could use you as a meal.
+~
+Race human~
+Act_flags ABCDFG
+Aff DF
+Aff2 0
+Align -100
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Off EFNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 8322
+Name golden cow figurine~
+Short a {Yg{yo{Yl{yd{Ye{yn {Yc{yo{Yw{x~
+Orig_short a {Yg{yo{Yl{yd{Ye{yn {Yc{yo{Yw{x~
+Desc A golden cow figurine lies here, collecting dust.~
+Material unknown~
+Item_type trash
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8323
+Name clothes queen~
+Short the Queen's clothes~
+Orig_short the Queen's clothes~
+Desc Ahh, the Queen's mysterious disapearing clothes~
+Material candy~
+Item_type trash
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8324
+Name shrunken head~
+Short a shrunken head~
+Orig_short a shrunken head~
+Desc A shrunken head lies here, left behind by a Head Shrinker no doubt~
+Material flesh~
+Item_type trash
+Extra 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8325
+Name no name~
+Short (no short description)~
+Orig_short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8326
+Name tear of the gods~
+Short {CT{Bea{Cr {xof the {YG{rod{Ys{x~
+Orig_short {CT{Bea{Cr {xof the {YG{rod{Ys{x~
+Desc A long forgotten drop of water puddles at your feet~
+Material crystal~
+Item_type armor
+Extra ABGY
+Wear AC
+Values BEF BEF BEF BEF 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+12 150
+AffectObj
+13 150
+AffectObj
+19 15
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 8327
+Name swordback hold~
+Short the {ySw{wor{Dd{wba{yck {wH{Dol{wd{x~
+Orig_short the {ySw{wor{Dd{wba{yck {wH{Dol{wd{x~
+Desc An exotic shield made from the back of the vicious killer swordbacks of the Taminuran Wastes~
+Material unknown~
+Item_type armor
+Extra ABCEGI
+Wear AJ
+Values CDEF CDEF CDEF CDEF 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 15
+AffectObj
+18 15
+AffectObj
+1 4
+AffectObj
+2 4
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 8328
+Name sword chaldahog demon slayer~
+Short {YC{Dh{Ra{Yl{Dd{Ra{Yh{Do{Rg {xthe "{rD{De{rm{Do{rn {DS{rl{Da{ry{De{rr{x"~
+Orig_short {YC{Dh{Ra{Yl{Dd{Ra{Yh{Do{Rg {xthe "{rD{De{rm{Do{rn {DS{rl{Da{ry{De{rr{x"~
+Desc A wicked sword forged in the deepest pits of hell lies here waiting for you~
+Material ruby~
+Item_type weapon
+Extra ABCE
+Wear ANO
+Values sword 15 17 slice AEGJ
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+5 10
+AffectObj
+1 8
+AffectObj
+13 15
+AffectObj
+18 20
+AffectObj
+19 20
+EndObj
+
+#OBJ
+Vnum 8329
+Name folgers in your cup~
+Short a bottomless cup of {YF{yo{Wl{Dg{We{yr{Ys{x~
+Orig_short a bottomless cup of {YF{yo{Wl{Dg{We{yr{Ys{x~
+Desc A whiff of coffee carress your smellbuds as your lean over this ceramic cup~
+Material ceramic~
+Item_type drink
+Extra ABI
+Wear AO
+Values -1 -1 'coffee' 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8330
+Name spear bloodlance lance~
+Short the {DB{Rl{Do{Ro{Dd-{yL{Ya{yn{Yc{ye{x~
+Orig_short the {DB{Rl{Do{Ro{Dd-{yL{Ya{yn{Yc{ye{x~
+Desc An ancient lance draws your attention because of the veinlike red lines running its length~
+Material bloodstone~
+Item_type weapon
+Extra ABCEG
+Wear AN
+Values staff 18 23 thrust BEF
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+13 250
+AffectObj
+19 30
+AffectObj
+18 30
+EndObj
+
+#OBJ
+Vnum 8331
+Name mark of the beast ring~
+Short the {YM{Da{Yr{Dk {xof the {RB{me{Ra{ms{Rt{x~
+Orig_short the {YM{Da{Yr{Dk {xof the {RB{me{Ra{ms{Rt{x~
+Desc A silver tiger ring lies on the ground here~
+Material tiger~
+Item_type armor
+Extra ABCEGY
+Wear AB
+Values DF DF DF DF 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+1 8
+AffectObj
+5 8
+AffectObj
+19 28
+AffectObj
+18 28
+AffectObj
+13 100
+EndObj
+
+#OBJ
+Vnum 8332
+Name axe goreshovel shovel~
+Short the {rG{Do{rr{De{rS{Dh{ro{Dv{re{Dl{x~
+Orig_short the {rG{Do{rr{De{rS{Dh{ro{Dv{re{Dl{x~
+Desc A crudely made battle axe has been embeded in the ground here~
+Material unknown~
+Item_type weapon
+Extra CEY
+Wear AN
+Values axe 18 23 cleave ACEF
+Level 1
+Weight 1
+Cost 10
+Condition P
+AffectObj
+18 30
+AffectObj
+19 30
+AffectObj
+13 250
+EndObj
+
+#OBJ
+Vnum 8333
+Name cranial cranium nemesis~
+Short the {WC{Dr{Wa{Dn{Wi{Da{Wl {RN{ce{Rm{ce{Rs{ci{Rs{x~
+Orig_short the {WC{Dr{Wa{Dn{Wi{Da{Wl {RN{ce{Rm{ce{Rs{ci{Rs{x~
+Desc A brain splattered mace itches for you to pick it up~
+Material bones~
+Item_type weapon
+Extra EG
+Wear AN
+Values mace 15 19 crush BDHJ
+Level 1
+Weight 1
+Cost 10
+Condition P
+AffectObj
+13 100
+AffectObj
+19 20
+AffectObj
+18 20
+EndObj
+
+#OBJ
+Vnum 8334
+Name spineripper dagger ripper~
+Short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{x~
+Orig_short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{x~
+Desc A plain old dagger lies in the dust here.~
+Material unknown~
+Item_type weapon
+Extra EG
+Wear AN
+Values dagger 15 17 stab AJ
+Level 1
+Weight 1
+Cost 0
+Condition P
+AffectObj
+12 100
+AffectObj
+13 75
+AffectObj
+19 15
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 8335
+Name stormstrike strike bow~
+Short the {GS{ct{go{cr{Gm{Cs{Gt{cr{gi{ck{Ge{x~
+Orig_short the {GS{ct{go{cr{Gm{Cs{Gt{cr{gi{ck{Ge{x~
+Desc A deftly crafted compound bow sings to the heavens~
+Material unknown~
+Item_type weapon
+Extra GI
+Wear AN
+Values bow 19 22 pound ABF
+Level 1
+Weight 0
+Cost 0
+Condition P
+AffectObj
+13 250
+AffectObj
+19 30
+AffectObj
+18 30
+EndObj
+
+#OBJ
+Vnum 8336
+Name a torch~
+Short a {Rt{yo{Yr{yc{Rh{x~
+Orig_short a {Rt{yo{Yr{yc{Rh{x~
+Desc A long forgotten, almost burnt out torch has been dropped here~
+Material wood~
+Item_type light
+Extra 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 22
+AffectObj
+18 20
+AffectObj
+14 125
+AffectObj
+12 100
+AffectObj
+13 150
+AffectObj
+3 5
+AffectObj
+4 5
+EndObj
+
+#OBJ
+Vnum 8337
+Name viper coil quest whip~
+Short the {GV{gi{Rp{re{Gr{y'{Rs {gC{Go{yi{Rl{x~
+Orig_short the {GV{gi{Rp{re{Gr{y'{Rs {gC{Go{yi{Rl{x~
+Desc A hideous looking whip smels of venom.~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values whip 15 17 bite DEGJ
+Level 1
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 25
+AffectObj
+18 15
+AffectObj
+13 15
+AffectObj
+1 8
+AffectObj
+5 10
+EndObj
+
+#OBJ
+Vnum 8338
+Name mask of agony~
+Short a {WMask {wof {GA{Yg{Do{Yn{Gy{x~
+Orig_short a {WMask {wof {GA{Yg{Do{Yn{Gy{x~
+Desc A {WMask {wof {GA{Yg{Do{Yn{Gy{x is here~
+Material unknown~
+Item_type armor
+Extra AG
+Wear AW
+Values EHI EHI EHI EHI 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+AffectObj
+19 30
+AffectObj
+18 25
+AffectObj
+13 250
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,332 @@
+#CLASS
+Name sensei~
+WhoN Sen
+Prime 0
+Weapon 3702
+Guild1 3022
+Guild2 9633
+Skill 80
+Thac00 50
+Thac32 10
+HPMin 11
+HPMax 15
+FMana 1
+Remort 1
+Base sensei basics~
+Default sensei default~
+End
+#SKILLS
+deadly fingertips~
+85 6
+mind thrust~
+101 0
+mind blast~
+101 0
+mind crush~
+101 0
+thermonuclear blast~
+110 1
+reserved~
+0 0
+acid blast~
+101 0
+burning hands~
+101 0
+call lightning~
+101 0
+cause critical~
+101 0
+cause light~
+101 0
+cause serious~
+101 0
+chain lightning~
+101 0
+change sex~
+101 0
+chill touch~
+101 0
+colour spray~
+101 0
+cure critical~
+101 0
+demonfire~
+101 0
+enchant armor~
+101 0
+enchant weapon~
+101 0
+energy drain~
+101 0
+harm~
+101 0
+heal~
+101 0
+heat metal~
+101 0
+holy word~
+101 0
+lightning bolt~
+101 0
+magic missile~
+101 0
+mass healing~
+101 0
+ray of truth~
+101 0
+recharge~
+101 0
+shocking grasp~
+101 0
+ventriloquate~
+101 0
+acid breath~
+101 0
+fire breath~
+101 0
+lightning breath~
+101 0
+gas breath~
+101 0
+frost breath~
+101 0
+whirlwind~
+101 0
+second cast~
+101 0
+armor~
+12 2
+bless~
+10 2
+blindness~
+58 2
+calm~
+45 2
+cancellation~
+41 2
+charm person~
+50 2
+continual light~
+14 2
+control weather~
+19 1
+cure blindness~
+13 2
+cure disease~
+18 2
+cure light~
+21 1
+cure poison~
+16 2
+cure serious~
+35 1
+curse~
+30 2
+detect evil~
+6 2
+detect good~
+6 2
+detect hidden~
+3 2
+detect invis~
+4 2
+detect magic~
+8 2
+detect poison~
+11 2
+dispel evil~
+21 2
+dispel good~
+21 2
+dispel magic~
+61 2
+earthquake~
+10 0
+faerie fire~
+17 2
+faerie fog~
+52 2
+farsight~
+28 2
+fireball~
+18 1
+fireproof~
+15 2
+flamestrike~
+20 1
+fly~
+10 2
+floating disc~
+22 2
+frenzy~
+16 2
+gate~
+63 2
+giant strength~
+24 2
+harm~
+23 1
+haste~
+75 2
+identify~
+4 2
+infravision~
+6 2
+invisibility~
+12 1
+know alignment~
+56 2
+locate object~
+45 2
+mass invis~
+25 1
+nexus~
+79 2
+pass door~
+27 2
+plague~
+35 2
+poison~
+17 2
+portal~
+60 2
+protection evil~
+22 2
+protection good~
+22 2
+refresh~
+13 2
+remove curse~
+21 2
+sanctuary~
+10 2
+shield~
+3 2
+sleep~
+15 2
+slow~
+11 2
+stone skin~
+12 2
+summon~
+35 2
+teleport~
+20 2
+weaken~
+50 2
+precover~
+0 0
+mrecover~
+0 0
+erecover~
+0 0
+phase~
+18 3
+fireshield~
+50 2
+discern weakness~
+9 2
+minsc power~
+0 0
+venom lance~
+0 0
+thermonuclear blast~
+0 0
+haduken~
+70 5
+triple kick~
+24 3
+shadowslip~
+40 5
+fatality~
+90 6
+general purpose~
+0 0
+high explosive~
+0 0
+axe~
+1 6
+dagger~
+1 3
+flail~
+1 3
+mace~
+1 3
+polearm~
+1 4
+shield block~
+1 3
+spear~
+1 4
+sword~
+1 2
+whip~
+1 4
+bow~
+1 5
+backstab~
+20 0
+counter~
+14 8
+bash~
+10 3
+berserk~
+12 3
+strike~
+0 0
+shield wall~
+0 0
+fortify~
+0 0
+dirt kicking~
+4 3
+disarm~
+12 3
+dodge~
+1 2
+enhanced damage~
+1 4
+envenom~
+15 0
+hand to hand~
+1 3
+kick~
+5 2
+parry~
+8 3
+rescue~
+40 4
+trip~
+4 2
+second attack~
+10 3
+third attack~
+30 4
+fourth attack~
+55 5
+fifth attack~
+80 6
+third cast~
+101 0
+fast healing~
+6 3
+haggle~
+20 5
+forging~
+20 5
+hide~
+4 2
+peek~
+20 5
+sneak~
+20 2
+scrolls~
+1 2
+staves~
+1 2
+wands~
+1 2
+recall~
+1 2
+End~
+#END

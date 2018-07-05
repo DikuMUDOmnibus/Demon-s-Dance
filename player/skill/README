@@ -1,0 +1,6 @@
+This is the player's skill directory, 
+defined in merc.h by SKILL_DIR.  Each
+player will get a file named <plr_name>.skill.
+This file is for storing talent info.
+
+DO NOT DELETE

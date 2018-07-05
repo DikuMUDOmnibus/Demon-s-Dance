@@ -1,0 +1,617 @@
+#AREADATA
+Name {GEl{gv{Gen {gF{Go{gre{Gs{gt{n~
+Builders Zenori~
+VNUMs 28400 28599
+Credits { ALL } Zenori The Gardens~
+Security 56
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 28400
+Name scimitar~
+Short {R<{r:{CZenori{c|{c|{W>{BS{W>{BC{W>{BI{W>{BM{W>{BI{W>{BT{W>{BA{W>{BR{W>>>>>>>>>{r>>{n~
+Orig_short {R<{r:{CZenori{c|{c|{W>{BS{W>{BC{W>{BI{W>{BM{W>{BI{W>{BT{W>{BA{W>{BR{W>>>>>>>>>{r>>{n~
+Desc A weapon has fallen to the ground~
+Material enchanted metal~
+Item_type weapon
+Extra ACGIU
+Wear AN
+Values dagger 1000 1000 thrust DHI
+Weapon_spell acid blast
+Level 102
+Weight 1
+Cost 1
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 28400
+Name {GThe {gE{Gd{gg{Ge of t{gh{Ge For{ge{Gst{n~
+Desc {gYou find yourself on the edge of a thick forest, inhabited with
+towering tees that seem to stand straight up into the {cclouds{g.  {g As the
+new sun peeks from the heavens the brilliant light shimmers down upon the
+ever moist leaves of the beautiful statuesque woods of the forest.  
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+28401
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28401
+Name A Path~
+Desc {GAfter pushing your way through the {ythick{g forest's edge{G, you
+notice that a primitive {ypath{G seems to mark a direction leading further
+into the {gforest{G.  
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+28402
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28400
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28402
+Name A Path~
+Desc {GAfter pushing your way through the {ythick{g forest's edge{G, you
+notice that a primitive {ypath{G seems to mark a direction leading further
+into the {gforest{G.  {n The {ypath{G takes an almost missed turn to the
+east{n.  
+~
+Room_flags 0
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+28403
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28401
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28403
+Name {yA Forest Trail~
+Desc {GTHe {ypath{G of trodden {ydirt{G is beginning to appear more used at
+this point in the {gforest{G. The {Ys{yu{Yn{G pierces through the tops of
+the {gt{Gr{gee{Gs down to the ground.  {n 
+~
+Room_flags 0
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+28404
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28402
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28404
+Name {yA Forest Trail~
+Desc {GThe {ypath{G of trodden {ydirt{G is beginning to appear more used at
+this point in the {gforest{G.  The {Ys{yu{Yn{G pierces through the tops of
+the {gt{Gr{gee{Gs down to the ground.  The primitive trail is easily
+followable now and leads further to the {gnorth{G.  {n 
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+28405
+leaves north~
+Exit
+3
+~
+~
+0
+0
+28403
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28405
+Name {yA Forest Trail~
+Desc {GProgressing deeper into the forest, you notice little {wscurries{G of
+activity along the sides of the {ytrail{G.  This {gforest{G is called the
+Elven Forest, because it is ruled by tree and woodland elves.  It is said
+that although the elves are commonly nice folk, they do not like intruders. 
+{gTread lightly{G.  {n 
+ 
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+~
+~
+0
+0
+28406
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28404
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28406
+Name {yA Forest Trail~
+Desc {GProgressing deeper into the {gforest{G, you notice little {wscurries{G
+of activity along the sides of the {ytrail{G.  A collection of {Cscents{G
+swirl past your senses as you feel {Moverwhelmed{G by the {gforest{G'{gs{G
+delicate and powerful characteristics.  {n {GThe trail forks now, both to
+the east and the west.  {n 
+~
+Room_flags 0
+Sector_type 3
+Exit
+1
+~
+~
+0
+0
+28408
+leaves east~
+Exit
+2
+~
+~
+0
+0
+28405
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28407
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28408
+Name {yA Forest Trail{n~
+Desc {GHere the trail is packed hard into the ground.  Almost enough to
+suggest daily use.  The tr{ne{Ge{ns{G stand majestically around all sides of
+you.  {n 
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28409
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28406
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28409
+Name {yA Forest Trail{n~
+Desc {GHere the trail is packed hard into the ground.  Almost enough to
+suggest daily use.  The tr{ne{Ge{ns{G stand majestically around all sides of
+you.  {n 
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28410
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28408
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28410
+Name {yA Forest Trail~
+Desc {GHere the trail is packed hard into the ground.  Almost enough to
+suggest daily use.  The tr{ne{Ge{ns{G stand majestically around all sides of
+you.  {n {GThe {ytrail{G takes a turn to the south.  {n 
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+28411
+leaves south~
+Exit
+3
+~
+~
+0
+0
+28409
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28411
+Name {yA Forest Trail~
+Desc {GHere the trail is packed hard into the ground.  Almost enough to
+suggest daily use.  The tr{ne{Ge{ns{G stand majestically around all sides of
+you.  {n 
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28410
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28412
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28412
+Name {yA Forest Trail~
+Desc {GHere the trail is packed hard into the ground.  Almost enough to
+suggest daily use.  The tr{ne{Ge{ns{G stand majestically around all sides of
+you.  {n {GThe trail takes a slight turn to the {yeast.  {n 
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28411
+leaves north~
+Exit
+1
+~
+~
+0
+0
+28413
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28413
+Name {yA Forest Trail~
+Desc {GHere the trail is packed hard into the ground.  Almost enough to
+suggest daily use.  The tr{ne{Ge{ns{G stand majestically around all sides of
+you.  {n 
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28414
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28412
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28414
+Name {yA Forest Trail~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28415
+leaves east~
+Exit
+3
+~
+~
+0
+0
+28413
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28415
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28416
+leaves north~
+Exit
+3
+~
+~
+0
+0
+28414
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28416
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28417
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28415
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28417
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28418
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28416
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28418
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+28419
+leaves north~
+Exit
+2
+~
+~
+0
+0
+28417
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28419
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+28418
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28420
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+28421
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 28421
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+28420
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

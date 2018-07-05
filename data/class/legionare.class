@@ -1,0 +1,284 @@
+#CLASS
+Name legionare~
+WhoN Leg
+Prime 0
+Weapon 3702
+Guild1 3022
+Guild2 9633
+Skill 80
+Thac00 60
+Thac32 10
+HPMin 11
+HPMax 15
+FMana 1
+Remort 1
+Base legionare basics~
+Default legionare default~
+End
+#SKILLS
+create golem~
+101 0
+mind thrust~
+101 0
+mind blast~
+101 0
+mind crush~
+101 0
+thermonuclear blast~
+110 1
+acid blast~
+101 0
+burning hands~
+101 0
+call lightning~
+101 0
+cause critical~
+101 0
+cause light~
+101 0
+cause serious~
+101 0
+chain lightning~
+101 0
+change sex~
+101 0
+chill touch~
+101 0
+colour spray~
+101 0
+control weather~
+101 0
+cure critical~
+101 0
+cure light~
+101 0
+cure serious~
+101 0
+demonfire~
+101 0
+earthquake~
+101 0
+enchant armor~
+101 0
+enchant weapon~
+101 0
+energy drain~
+101 0
+fireball~
+101 0
+fireshield~
+101 0
+flamestrike~
+101 0
+harm~
+101 0
+heal~
+101 0
+second cast~
+101 0
+lightning bolt~
+101 0
+fire breath~
+101 0
+gas breath~
+101 0
+lightning breath~
+101 0
+frost breath~
+101 0
+backstab~
+101 0
+armor~
+10 2
+bless~
+48 2
+blindness~
+15 2
+calm~
+20 2
+cancellation~
+34 2
+charm person~
+25 2
+continual light~
+9 2
+create food~
+12 2
+create spring~
+23 2
+create water~
+11 2
+cure blindness~
+50 2
+cure disease~
+50 2
+cure poison~
+16 2
+curse~
+22 2
+detect evil~
+12 2
+detect good~
+12 2
+detect hidden~
+12 2
+detect invis~
+6 2
+detect magic~
+5 2
+detect poison~
+5 2
+dispel evil~
+21 2
+dispel good~
+21 2
+dispel magic~
+30 2
+faerie fire~
+8 2
+faerie fog~
+24 2
+fireproof~
+18 2
+fly~
+14 2
+floating disc~
+33 2
+frenzy~
+13 2
+gate~
+50 2
+giant strength~
+20 2
+haste~
+29 2
+identify~
+18 2
+infravision~
+16 2
+invisibility~
+90 1
+know alignment~
+6 2
+locate object~
+10 2
+nexus~
+101 2
+pass door~
+20 2
+plague~
+20 2
+poison~
+20 2
+portal~
+70 2
+precision~
+85 6
+protection evil~
+42 2
+protection good~
+42 2
+refresh~
+15 2
+remove curse~
+27 2
+sanctuary~
+50 2
+shield~
+1 2
+sleep~
+11 2
+slow~
+11 2
+stone skin~
+60 2
+summon~
+40 2
+teleport~
+45 2
+weaken~
+20 2
+phase~
+20 4
+axe~
+1 4
+dagger~
+1 2
+flail~
+1 4
+mace~
+1 4
+polearm~
+1 2
+shield block~
+1 3
+spear~
+1 2
+sword~
+1 2
+whip~
+1 4
+bow~
+1 4
+counter~
+20 6
+bash~
+1 4
+berserk~
+18 2
+phalanx~
+20 5
+strike~
+50 5
+shield wall~
+35 5
+fortify~
+75 5
+dirt kicking~
+3 3
+disarm~
+1 4
+dodge~
+1 3
+enhanced damage~
+1 2
+hand to hand~
+1 3
+kick~
+5 3
+parry~
+1 4
+rescue~
+1 4
+trip~
+15 4
+second attack~
+10 3
+third attack~
+34 8
+fourth attack~
+52 4
+fifth attack~
+70 6
+sneak~
+12 8
+hide~
+12 8
+haggle~
+55 0
+whirlwind~
+12 4
+fast healing~
+1 2
+forging~
+14 2
+scrolls~
+1 2
+staves~
+1 2
+wands~
+1 2
+recall~
+1 2
+End~
+#END

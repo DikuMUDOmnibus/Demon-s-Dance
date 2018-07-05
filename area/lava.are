@@ -1,0 +1,60 @@
+#AREADATA
+Name lava~
+Builders Morpheus~
+VNUMs 26300 26499
+Credits { 80+ } Morpheus Lava ~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 26300
+Name {RM{rorpheus's {RB{redroom{x~
+Desc moo
+~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

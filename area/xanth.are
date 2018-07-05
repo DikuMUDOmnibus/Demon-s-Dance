@@ -1,0 +1,3781 @@
+#AREADATA
+Name Xanth~
+Builders None~
+VNUMs 21100 21299
+Credits { 101 } Rand    Xanth~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 21100
+Name The Demon Xan/th~
+Short Xan'th~
+Long The Demon Xan/th is standing here, contemplating reality
+~
+Description Xan/th has a very powerful aura about him.  He does NOT like to be
+disturbed.  
+~
+Race vampire~
+Act_flags ABP
+Aff CDGHJac
+Aff2 AH
+Align 0
+Group 0
+Level 101
+Hitroll 400
+Hit_dice 500d500+70000
+Mana_dice 0d0+0
+Dam_dice 8d7+30
+Dam_type smash
+Armor -430 -430 -430 -430
+Off EFGHK
+Teach A
+Imm ABLMZ
+Res CFIT
+Vuln EHN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 900
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 21101
+Name a tangle tree~
+Short A Tangle Tree~
+Long A plain looking tree is here.
+~
+Description ~
+Race plant~
+Act_flags ABFP
+Aff DFJV
+Aff2 0
+Align -500
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type acbite
+Armor 0 0 0 0
+Off EFGHK
+Teach A
+Imm AB
+Res FMN
+Vuln GHJ
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size giant
+Material unknown
+EndMob
+
+#MOB
+Vnum 21102
+Name Brain Coral~
+Short {WThe {cB{Cr{ca{Ci{cn {WCoral{x~
+Long {WThe {cB{Cr{ca{Ci{cn {WCoral{x is here, watching.
+~
+Description The Coral is sitting here, omniscient like.  Watching all and knowing
+all.  This is a VERY LARGE coral.  Messing with it would probably not be a
+good idea.  
+~
+Race plant~
+Act_flags ABP
+Aff DFJ
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 475
+Hit_dice 500d500+70000
+Mana_dice 0d0+0
+Dam_dice 12d11+32
+Dam_type shbite
+Armor -450 -450 -450 -450
+Off FK
+Teach A
+Imm ABCLQ
+Res G
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 21103
+Name smash the ogre~
+Short {DS{wm{Da{ws{Dh {wT{Dh{we {DO{wg{Dr{we{x~
+Long {DS{wm{Da{ws{Dh {wT{Dh{we {DO{wg{Dr{we{x is here looking for bones to crunch.
+~
+Description This is one very large ogre.  Ogres, being the strongest creatures for
+their size on Xanth, were not creatures to be taken lightly.  With tufts of
+hair growing all over his body, and a sort of innocence, this ogre does not
+seem to be fully mature.  Yet considering its size, that is hard to beleive.
+~
+Race ogre~
+Act_flags ABP
+Aff BCJc
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 500d500+70000
+Mana_dice 0d0+0
+Dam_dice 8d7+26
+Dam_type smash
+Armor -400 -400 -400 -400
+Off CDIKOR
+Teach A
+Imm AEKP
+Res EHL
+Vuln GI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 11000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size large
+Material unknown
+EndMob
+
+#MOB
+Vnum 21104
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags AP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 21105
+Name chet the centaur~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 21106
+Name helen~
+Short {DH{we{Da{wv{De{wn{Dl{wy {DH{we{Dl{we{Dn{x~
+Long {DH{we{Da{wv{De{wn{Dl{wy {DH{we{Dl{we{Dn{x is here, screaching royally.
+~
+Description This is a harpy, can't say much other than that.  However, this harpy is
+actually kind of clean, but still a harpy.  
+~
+Race angel~
+Act_flags ABP
+Aff CET
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 550d550+75000
+Mana_dice 0d0+0
+Dam_dice 10d9+27
+Dam_type claw
+Armor -400 -600 -400 -400
+Off DHK
+Teach A
+Imm AN
+Res IJ
+Vuln HM
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 90000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 21107
+Name cletus the chef~
+Short Cletus the Chef~
+Long Cletus the Chef is here, frying up some shredded intestines.
+~
+Description Just a normal chef here.  The white coat and jacket, hes singing like he
+doesn't think anybody is around.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 90
+Hitroll 350
+Hit_dice 300d300+50000
+Mana_dice 0d0+0
+Dam_dice 4d5+15
+Dam_type pound
+Armor -200 -200 -200 -200
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30000
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 21108
+Name prisoner~
+Short a prisoner~
+Long A prisoner is here, all shackled up.
+~
+Description A long scraggily beard covers this old mans face.  He has scars and cuts
+all over his body from countless tortures.  However, there is a sparkle in
+his eye like he knows more than he lets on.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 80
+Hitroll 250
+Hit_dice 400d400+20000
+Mana_dice 0d0+0
+Dam_dice 3d4+10
+Dam_type pound
+Armor -200 -200 -200 -200
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 3000
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 21109
+Name a slave~
+Short a slave~
+Long Just a plain ole slave here, slaving along.
+~
+Description Ragged clothes, dirty skin, this person sure suits the description of a
+slave.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 70
+Hitroll 0
+Hit_dice 350d350+20000
+Mana_dice 0d0+0
+Dam_dice 4d5+15
+Dam_type pound
+Armor -300 -300 -300 -300
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 21110
+Name a slave~
+Short no ordinary slave~
+Long Just a plain ole slave here, slaving along.
+~
+Description Ragged clothes, dirty skin, this person sure suits the description of a
+slave.  
+~
+Race human~
+Act_flags ABP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 400
+Hit_dice 475d475+70000
+Mana_dice 0d0+0
+Dam_dice 8d9+24
+Dam_type crush
+Armor -400 -400 -400 -400
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 7000
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 21111
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags AP
+Aff 0
+Aff2 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 21100
+Name a torian scimitar~
+Short {wA {bT{wo{br{wi{bs{wn {bS{wc{bi{wm{bi{wt{ba{wr{x~
+Orig_short {wA {bT{wo{br{wi{bs{wn {bS{wc{bi{wm{bi{wt{ba{wr{x~
+Desc {wA {bT{wo{br{wi{bs{wn {bS{wc{bi{wm{bi{wt{ba{wr {xis lying here, half buried in sand.~
+Material unknown~
+Item_type weapon
+Extra GI
+Wear AN
+Values sword 8 9 slice D
+Level 101
+Weight 0
+Cost 30000
+Condition P
+AffectObj
+13 50
+AffectObj
+19 10
+AffectObj
+18 10
+EndObj
+
+#OBJ
+Vnum 21101
+Name a demons claw~
+Short {rA {RD{rE{RM{rO{RN{rS {RC{rL{RA{rW{x~
+Orig_short {rA {RD{rE{RM{rO{RN{rS {RC{rL{RA{rW{x~
+Desc {rA {RD{rE{RM{rO{RN{rS {RC{rL{RA{rW{x is resting here.~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear ANO
+Values exotic 9 8 claw CDHJ
+Level 101
+Weight 0
+Cost 300000
+Condition P
+AffectObj
+18 40
+AffectObj
+19 60
+AffectObj
+1 4
+AffectObj
+2 1
+AffectObj
+13 150
+EndObj
+
+#OBJ
+Vnum 21102
+Name demons helm~
+Short {rA {RD{rE{RM{rO{RN{rS {DH{we{Dl{wm{x ~
+Orig_short {rA {RD{rE{RM{rO{RN{rS {DH{we{Dl{wm{x ~
+Desc {rA {RD{rE{RM{rO{RN{rS {DH{we{Dl{wm{x is lying here.~
+Material unknown~
+Item_type armor
+Extra D
+Wear AE
+Values CFG CFG CFG CFG 0
+Level 101
+Weight 0
+Cost 300000
+Condition P
+AffectObj
+3 -3
+AffectObj
+2 5
+AffectObj
+13 90
+AffectObj
+18 70
+AffectObj
+19 80
+EndObj
+
+#OBJ
+Vnum 21103
+Name smash the ogre~
+Short (no short description)~
+Orig_short (null)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 21104
+Name centaurian gauntlets~
+Short {RC{we{Rn{wt{Ra{wu{Rr{wi{Ra{wn {RG{wa{Ru{wn{Rt{wl{Re{wt{Rs{x~
+Orig_short {RC{we{Rn{wt{Ra{wu{Rr{wi{Ra{wn {RG{wa{Ru{wn{Rt{wl{Re{wt{Rs{x~
+Desc A pair of plain gauntlets are lying here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AH
+Values CFG CFG CFG CFG 0
+Level 101
+Weight 0
+Cost 300000
+Condition P
+EndObj
+
+#OBJ
+Vnum 21105
+Name a blade of grass~
+Short {GA {gB{Gl{ga{Gd{ge {GO{gf {GG{gr{Ga{gs{Gs~
+Orig_short {GA {gB{Gl{ga{Gd{ge {GO{gf {GG{gr{Ga{gs{Gs~
+Desc A piece of grass is here, sticking out of the ground.~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values sword 10 9 slash DJ
+Level 101
+Weight 0
+Cost 300000
+Condition P
+AffectObj
+19 75
+AffectObj
+18 75
+AffectObj
+13 50
+AffectObj
+2 3
+EndObj
+
+#OBJ
+Vnum 21106
+Name a rock~
+Short a rock~
+Orig_short a rock~
+Desc A rock is here~
+Material unknown~
+Item_type portal
+Extra 0
+Wear 0
+Values 0 0 A BEFGJMO 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 21107
+Name coral boots~
+Short {cC{Co{cr{Ca{cl{x Boots~
+Orig_short {cC{Co{cr{Ca{cl{x Boots~
+Desc Co{cr{Ca{cl{x Boots are lying here.~
+Material unknown~
+Item_type armor
+Extra 0
+Wear AG
+Values DEFG DEFG DEFG DEFG 0
+Level 101
+Weight 0
+Cost 400000
+Condition P
+AffectObj
+2 6
+AffectObj
+4 -6
+AffectObj
+19 100
+AffectObj
+18 76
+EndObj
+
+#OBJ
+Vnum 21108
+Name frying pan~
+Short A Frying Pan~
+Orig_short A Frying Pan~
+Desc A Frying Pan is here, sizzling.~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear AN
+Values exotic 6 5 pound 0
+Level 90
+Weight 0
+Cost 15000
+Condition P
+EndObj
+
+#OBJ
+Vnum 21109
+Name no name~
+Short Some SiZzLiNg Intestings~
+Orig_short Some SiZzLiNg Intestings~
+Desc Some SiZzLiNg Intestings are lying here.~
+Material unknown~
+Item_type food
+Extra 0
+Wear AO
+Values 0 0 0 A 0
+Level 1
+Weight 0
+Cost 150
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 21100
+Name A Path Through The Forest~
+Desc This is a path leading deeper into the forest.  There are green trees and
+green grass everywhere, it is actually a rather nice place.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21101
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21101
+Name A Path Through The Forest~
+Desc This is a path leading deeper into the forest.  There are green trees and
+green grass everywhere, it is actually a rather nice place.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21102
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21100
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21102
+Name A Path Through The Forest~
+Desc This is a path leading deeper into the forest.  There are green trees and
+green grass everywhere, it is actually a rather nice place.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21103
+leaves north~
+Exit
+3
+~
+~
+0
+0
+21101
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21103
+Name A Path Through The Forest~
+Desc This is a path leading out of the forest.  The trees are thinning, and
+the grass is getting more worn down.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21104
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21102
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21104
+Name Almost of of the Forest~
+Desc This is almost out of the forest.  T trees are very scarce now, and the
+grass went from a brilliant green, to a dying brown.  There are also gopher
+holes on the path now.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21105
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21103
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21105
+Name Out of the Forest~
+Desc This is out of the forest.  The grass is all dead, and there are no
+tree's, its a big, flat, empty plain.  Off in the distance, the towers of a
+great city can be seen.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21106
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21104
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21106
+Name The Plain~
+Desc This is the empty plain.  No living things can be seen, however, that
+does not mean, that there are none.  It is best to be cautious.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21107
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21105
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21107
+Name The Plain~
+Desc This is the empty plain.  A moment ago there was no sign of life,
+however, here there is a HUGE tree.  It just came out of nowhere.  It looks
+angry, better not mess with it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21108
+leaves north~
+Exit
+3
+~
+~
+0
+0
+21106
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21108
+Name Leaving the Plain~
+Desc The plain is almost gone, just a little father.  However, in the
+distance, there is a large shape moving.  It could be dangerous.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21107
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21109
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21109
+Name Outside {bT{wo{br{x~
+Desc This is outsidet he great city of {bT{wo{br{w.  There is a gate to the
+city to the north, and a path leading around is to the east.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21110
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21108
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21110
+Name Entrance to {bT{wo{br{w.~
+Desc This is the gate to the greatest city ever.  The noise coming from within
+the walls is madness.  There are people and shops everywhere.  However,
+where there are lots of people, there are lots of rogues.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21111
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21109
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21111
+Name Inside the City~
+Desc This city is crowded with people.  There are all sorts of people and
+races wandering around from booth, to shop, to booth.  It would probably be
+best to keep moving before the rogues become aware of a new presence.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21112
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21110
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21112
+Name Warlock Lane~
+Desc This is one of the few streets in the city.  To the north is the City
+Square.  To the west and the east are some small shops.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21113
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21114
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21111
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21115
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21113
+Name City Square~
+Desc This is deeper into the cave.  The air is more stale, and it has a damp
+feeling to it.  Down leads under the surface, and south leads to the outside
+world.  What monsters could possibly live in such a dark place?  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21112
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21114
+Name A Bakery~
+Desc This is just a plain old bakery.  Old being the key word, there is mold
+on almost every piece of bread.  Hell, most of the bread is just a pile of
+crumbs, this is just a reminder of just how old this city is.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21112
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21115
+Name Slice, Dice, and CHOP!~
+Desc There are swords, daggers, mace's, every sort of weapon imaginable is
+here, hanging on the walls.  However, not all are for sale, BUT some are, so
+enojy the ones that are.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21112
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21116
+Name Underground Tunnel~
+Desc This is a simple underground tunnel.  There are no engravings, no
+nothing, just plain, rough, rock walls.  East of here the sound of water can
+be heard.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21117
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21117
+Name An Underground Lake~
+Desc This is a small underground lake.  There is no wildlife, no fish,
+nothing, its as if something has scared them off.  As if there is a powerful
+force at work here.  However, nothing can be seen breaking the shining blue
+surface of the lake.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21118
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21116
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21118
+Name Underground Tunnel~
+Desc This is a simple underground tunnel.  There are no engravings, no
+nothing, just plain, rough, rock walls.  Ahead you see a faint light, and
+behind, the sound of water can heard.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21117
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21119
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21119
+Name Lair of the Demon Xan/th~
+Desc This is the lair of the famed, Demon Xan/th, the source of all magic in
+Xanth.  There are a few torches lining the walls, but being god-like as the
+Demon is, he hardly needs like to see.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21118
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21120
+Name On the path to the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21130
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21126
+Name The Queen's Servants Room~
+Desc This is a small room with bunk beds where the servants sleep.  Nobody is
+here right now but when full this room looks like it could hold about 15
+servants.  There is a small bathroom attached to the east wall.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21226
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21218
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21127
+Name The Kitchen~
+Desc This is the harpy kitchen.  As can be expected, it is FILTHY!  However
+the harpies don't seem to mind.  There are chunks of bloody meat just lying
+on the ground.  There seems to be no other exits other than the one leading
+east back to the hallway.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21218
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21130
+Name Path to the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21131
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21120
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21131
+Name Edge of the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21130
+leaves south~
+Exit
+5
+~
+~
+0
+0
+21132
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21132
+Name Path into the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21133
+leaves east~
+Exit
+4
+~
+~
+0
+0
+21131
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21133
+Name name Path into the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21132
+leaves west~
+Exit
+5
+~
+~
+0
+0
+21134
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21134
+Name Path into the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21135
+leaves west~
+Exit
+4
+~
+~
+0
+0
+21133
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21135
+Name Path into the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21134
+leaves east~
+Exit
+5
+~
+~
+0
+0
+21136
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21136
+Name Into the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21137
+leaves north~
+Exit
+4
+~
+~
+0
+0
+21135
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21137
+Name In the Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21138
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21136
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21140
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21138
+Name The Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21139
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21137
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21139
+Name The Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21138
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21140
+Name The Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21137
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21141
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21141
+Name The Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21140
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21142
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21142
+Name The Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21141
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21143
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21143
+Name The Gap~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21142
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21144
+Name On a magic protected path~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21145
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21145
+Name on a magic protected path~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21146
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21144
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21146
+Name On a magic protected path~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21146
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21147
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21146
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21145
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21147
+Name Path to Humfrey's Castle~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21148
+leaves north~
+Exit
+3
+~
+~
+0
+0
+21146
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21148
+Name Entrance to Humfrey's Castle~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21149
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21147
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21149
+Name Inside the Castle~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21150
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21148
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21150
+Name A hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21151
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21161
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21149
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21151
+Name A hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21150
+leaves south~
+Exit
+4
+~
+~
+0
+0
+21152
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21152
+Name On the Stairs~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21153
+leaves north~
+Exit
+5
+~
+~
+0
+0
+21151
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21153
+Name Guardian's Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21154
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21152
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21154
+Name A Small Hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21155
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21153
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21160
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21155
+Name Outside Magician Humfrey's Chamber~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21156
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21154
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21156
+Name Magician Humfrey's Chamber~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21158
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21157
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21155
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21157
+Name The Summoning Chamber~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21156
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21159
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21158
+Name The Magician's Private Chamber~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21156
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21159
+Name The Storage Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21157
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21160
+Name A Guest Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21154
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21161
+Name A hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21162
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21150
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21162
+Name A hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21163
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21161
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21163
+Name The Kitchen~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21162
+leaves north~
+Exit
+5
+~
+~
+0
+0
+21164
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21164
+Name The Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21163
+leaves up~
+Exit
+5
+~
+~
+0
+0
+21165
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21165
+Name Under the Castle~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21166
+leaves east~
+Exit
+4
+~
+~
+0
+0
+21164
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21166
+Name Under the Castle~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21167
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21168
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21169
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21165
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21167
+Name Harpy's Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21166
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21168
+Name Ogre's Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21166
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21169
+Name Dragon's Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21166
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21170
+Name On a magic protected path~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21171
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21171
+Name On a magic protected path~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21170
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21172
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21172
+Name On a magic protected path~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21171
+leaves north~
+Exit
+3
+~
+~
+0
+0
+21173
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21173
+Name Path to Roogna~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21172
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21174
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21174
+Name Path to Roogna~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21175
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21173
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21175
+Name Path to Roogna~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21174
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21176
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21176
+Name Outside Castle Roogna~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21175
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21177
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21177
+Name The Entrance to Castle Roogna~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21176
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21178
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21178
+Name Inside Castle Roogna~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21177
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21179
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21179
+Name Entry Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21180
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21178
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21180
+Name Entry Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21182
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21193
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21179
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21181
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21181
+Name Tapestry Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21180
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21182
+Name Stairwell~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21180
+leaves south~
+Exit
+4
+~
+~
+0
+0
+21183
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21183
+Name Middle of the Stairs~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21184
+leaves up~
+Exit
+5
+~
+~
+0
+0
+21182
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21184
+Name Top of the Stairs~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21185
+leaves north~
+Exit
+5
+~
+~
+0
+0
+21183
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21185
+Name Bright Hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21186
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21184
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21186
+Name Bright Hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21187
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21185
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21187
+Name Bright Hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21186
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21188
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21188
+Name Magician King Trent's Chamber~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21191
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21187
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21190
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21189
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21189
+Name Magician King Trent's Library~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21188
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21190
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21190
+Name Magician King Trent's Library~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21188
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21189
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21191
+Name Magician King Trent's PRIVATE Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21188
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21193
+Name Stairwell~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21180
+leaves west~
+Exit
+5
+~
+~
+0
+0
+21194
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21194
+Name Almost There~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21193
+leaves up~
+Exit
+5
+~
+~
+0
+0
+21195
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21195
+Name So Close~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21194
+leaves up~
+Exit
+5
+~
+~
+0
+0
+21196
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21196
+Name Uh Oh!~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21195
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21197
+Name A Floating Island~
+Desc This is exactly what the name says.  This is a floating island.  From
+here, you can see most of Xanth.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21198
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21198
+Name A Floating Island~
+Desc This is exactly what the name says.  This is a floating island.  From
+here, you can see most of Xanth.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21197
+leaves west~
+Exit
+4
+~
+~
+0
+0
+21199
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21199
+Name Airway to the Harpy Kingdom~
+Desc This is a very magical part of Xanth.  The magic in this place allows
+anybody to fly, as long as they stay on the path.  It leads to the harpy
+kingdom.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21200
+leaves north~
+Exit
+5
+~
+~
+0
+0
+21198
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21200
+Name Airway to the Harpy Kingdom~
+Desc This is a very magical part of Xanth.  The magic in this place allows
+anybody to fly, as long as they stay on the path.  It leads to the harpy
+kingdom.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21201
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21199
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21201
+Name Airway to the Harpy Kingdom~
+Desc This is a very magical part of Xanth.  The magic in this place allows
+anybody to fly, as long as they stay on the path.  It leads to the harpy
+kingdom.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21202
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21200
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21202
+Name Entering the Harpy Cliffs~
+Desc This is entering the kingdom of the Harpy's.  A steep, impassable rock
+cliff.  There are little cracks and holes all the way up, almost like they
+are guard posts.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21203
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21201
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21203
+Name The Harpy Cliffs~
+Desc This is inside the lair.  There are harpy droppings everywhere.  The
+occasional feather is lying on the ground as well.  The tunnel goes deeper. 
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21204
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21202
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21204
+Name Inside the Harpy Cliffs~
+Desc This is inside the lair.  There are harpy droppings everywhere.  The
+occasional feather is lying on the ground as well.  The tunnel goes deeper. 
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21205
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21206
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21207
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21203
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21205
+Name The tunnels~
+Desc This is quite deep into the Harpy Lair.  From what is visible, the walls
+are very rough and the floor is damp.  There are very few torches spread out
+so it is very hard to see.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21210
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21204
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21206
+Name The tunnels~
+Desc This is deep into the lair.  The tunnels are so dark the only way to get
+around is to feel the walls, and hope no traps are ahead.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21208
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21204
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21207
+Name The tunnels~
+Desc This is quite deep into the Harpy Lair.  From what is visible, the walls
+are very rough and the floor is damp.  There are very few torches spread out
+so it is very hard to see.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21204
+leaves north~
+Exit
+2
+~
+~
+0
+0
+21212
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21208
+Name The tunnels~
+Desc This is deep into the lair.  The tunnels are so dark the only way to get
+around is to feel the walls, and hope no traps are ahead.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21209
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21206
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21209
+Name Harpy Lair~
+Desc This is the main section of the harpy stronghold.  This is getting pretty
+deep into the lair.  The faint flicker of firelight is ahead.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21216
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21208
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21210
+Name The tunnels~
+Desc This is quite deep into the Harpy Lair.  From what is visible, the walls
+are very rough and the floor is damp.  There are very few torches spread out
+so it is very hard to see.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21211
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21205
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21211
+Name A living chamber~
+Desc This is a room for the slaves.  There are just a few blankets sprawled on
+the ground, with scraps of food casually tossed on the ground.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21210
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21212
+Name The tunnels~
+Desc This is quite deep into the Harpy Lair.  From what is visible, the walls
+are very rough and the floor is damp.  There are very few torches spread out
+so it is very hard to see.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21207
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21213
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21215
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21214
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21213
+Name A living chamber~
+Desc Yet another room of the Harpy Lords.  This room is extremly boring, it
+must not be occupied.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21212
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21214
+Name A living chamber~
+Desc This is the room of one of the Harpy Lords.  Unlike the others, this is
+amazingly clean.  Therere no bones and the like littering the ground. 
+Against the left wall, there is a table, with different kinds of treasure
+layed out on it.  It probably would not be a good idea to mess with it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21212
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21215
+Name A living chamber~
+Desc This is the personal chamber for one of the Harpy Lords.  As could be
+expected, its filthy.  There are bones, and feathers everywhere.  However,
+in the far right corner, there is a pile of treasure.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21212
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21216
+Name a hallway~
+Desc This is REALLY into the lair.  At least there are torches that produce
+some light.  Surprisingly the floors are a smooth and polished stone.  The
+Queen's Room is east, and the hallway continues north.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21218
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21217
+leaves east~
+Exit
+3
+~
+~
+0
+0
+21209
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21217
+Name Heavenly Helen, Harpy Queen's Room~
+Desc This is the Queen's Room.  It is unnaturally clean.  Even though it is
+clean, there are still bones and feathers and droppings on the ground.  The
+harpy that lives here must not be like the others.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21216
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21218
+Name a hallway~
+Desc This is a plain hallway.  No lights, no fancy stones, no tapestries,
+nothing.  East is the Queen's Servant's Room, and West is the Kitchen.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21219
+leaves north~
+Exit
+1
+~
+~
+0
+0
+21126
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21216
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21127
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21219
+Name a hallway~
+Desc This is a plain hallway.  No lights, no fancy stones, no tapestries,
+nothing.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21220
+leaves east~
+Exit
+2
+~
+~
+0
+0
+21218
+leaves south~
+Exit
+3
+~
+~
+0
+0
+21221
+leaves west~
+Exit
+4
+~
+~
+0
+0
+21222
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21220
+Name a prisoner's room~
+Desc This is one of those old, damp, stone rooms, with iron shackles hanging
+from the walls, and rats skittering across the floor like in the movies. 
+Its pretty damn dark in here.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21219
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21221
+Name a prisoner's room~
+Desc This is one of those old, damp, stone rooms, with iron shackles hanging
+from the walls, and rats skittering across the floor like in the movies. 
+Its pretty damn dark in here.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+21219
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21222
+Name a secret passage~
+Desc This is a secret passage, so shhhhh, don't tell anybody.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21223
+leaves up~
+Exit
+5
+~
+~
+0
+0
+21219
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21223
+Name a secret passage~
+Desc This is a secret passage, so shhhhh, don't tell anybody.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+4
+~
+~
+0
+0
+21224
+leaves up~
+Exit
+5
+~
+~
+0
+0
+21222
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21224
+Name end of the passage~
+Desc This is the end of the secret passage, the north leads outside, down
+leads back into the lair.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+21225
+leaves north~
+Exit
+5
+~
+~
+0
+0
+21223
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21225
+Name Outside the Harpy Lair~
+Desc This is a small field up on the middle of a mountain?!?  Its a rather
+nice field, nice green grass, however there is a large rock right in the
+center.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+21224
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 21226
+Name The Can~
+Desc This is a small bathroom, nothing special here.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+21126
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 21101 1 21107 1
+E 0 21105 0 16
+M 0 21103 1 21109 1
+E 0 21104 0 9
+M 0 21102 1 21117 1
+E 0 21107 0 8
+M 0 21100 1 21119 1
+E 0 21100 0 18
+E 0 21101 0 16
+E 0 21102 0 6
+M 0 21107 1 21127 1
+E 0 21108 0 16
+E 0 21109 0 18
+M 0 21109 3 21211 3
+M 0 21109 3 21211 3
+M 0 21110 1 21211 1
+M 0 21109 3 21211 3
+M 0 21106 1 21217 1
+M 0 21108 2 21220 1
+M 0 21108 2 21221 1
+O 0 21106 0 21225
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

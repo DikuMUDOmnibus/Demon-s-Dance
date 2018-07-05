@@ -1,0 +1,2209 @@
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Darchan: delete
+Log Darchan: delete
+Log Darchan: delete
+Log Enzo: set skill leeg runic 1
+Log Enzo: set skill leeg rune 1
+Log Enzo: snoop leeg
+Log Enzo: force leeg prac
+Log Enzo: snoop enzo
+Log Kdsiemgl: delete
+Log Kdsiemgl: delete
+Log Darchan: delete
+Log Darchan: delete
+Log talos: murder Leegerio
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: force silvan members
+Log Enzo: snoop silvan
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: snoop enzo
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: force fury report
+Log Enzo: purge
+Log Enzo: trans teddie
+Log Enzo: restore teddie
+Log Enzo: reboot
+Log Enzo: disable
+Log Enzo: disable shutdown
+Log Enzo: disable check
+Log Enzo: reboot
+Log Azura: note
+Log Azura: note
+Log Azura: note
+Log Azura: note
+Log Azura: gossip hi
+Log Azura: who
+Log Azura: whois anz
+Log Azura: quit
+Log Avrande: delete
+Log Avrande: delete
+Log Ulsicor: trans troll
+Log Ulsicor: gecho {DDark stormheads roll across the sky in the north
+Log Ulsicor: gecho {yA deep thundering shakes the earth about your feet.
+Log Ulsicor: gecho {YLightning flashes, brightening the sky for an instant.{x
+Log Ulsicor: gecho {CA gentle rain falls from above washing away Ulsicor's mistakes.{x
+Log Purinial: clone monkey
+Log Purinial: force monkey give mask pur 
+Log Purinial: force monkey get mask
+Log Purinial: force monkey east
+Log Purinial: force monkey recal
+Log Purinial: force monkey east
+Log Purinial: force king west
+Log Purinial: force monkey west
+Log Purinial: purge
+Log Purinial: force king east
+Log Enzo: restore all
+Log Keza: delete
+Log Keza: delete
+Log Genx: delete
+Log Genx: delete
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Garion: delete garion
+Log Garion: delete garion
+Log Garion: delete
+Log Garion: delete
+Log Purinial: clone 1000 gold
+Log Purinial: clone gold
+Log Purinial: clone pile
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone gold
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: clone token
+Log Purinial: force figby give ore pur
+Log Purinial: force figby sell starfire pur
+Zoe is buying a MASK!
+
+Log Purinial: purge
+Log Azura: who
+Log Azura: quit
+Log Enzo: restore keldor
+Log Keldorn: murder fal
+Log Enzo: snoop starco
+Log Enzo: set char enzo gold 1000000
+Log Enzo: force star wield great
+Log Enzo: force star k wood
+Log Enzo: snoop enzo
+Log talos: murder Leegerio
+Log talos: murder Leegerio
+Log talos: murder Leegerio
+Log Enzo: reload MOTD
+Log Enzo: reload MOTD
+Log Enzo: reload MOTD
+Log Enzo: reload MOTD
+Log Enzo: reload MOTD
+Log Carth: delete
+Log Carth: delete
+Log Enzo: trans absu
+Log Ashuri: delete
+Log Ashuri: delete
+Log Ulsicor: restore xrin
+Log Masoj: delete
+Log Masoj: delete
+Log Saik: load
+Log Saik: load obj 27011 1
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Enzo: disable load
+Log Enzo: disable load
+Log Enzo: load obj 11014 1
+Log Enzo: reboot
+Log Saik: load obj 27011
+Log Saik: purge
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Icebreaker: delete
+Log Icebreaker: delete
+Log Once: delete
+Log Once: delete
+Log Drixom: delete
+Log Drixom: delete
+Log Drixom: delete
+Log Drixom: delete
+Log Drixom: delete
+Log Drixom: delete
+Log Deleirn: delete
+Log Deleirn: delete
+Log Enzo: force all save
+Log Enzo: reboot
+Log Bannon: delete
+Log Bannon: delete
+Log Enzo: trans augustus
+Log Enzo: advance aug 101
+Log Enzo: force aug remort
+Log Augustus: remort
+Log Enzo: force aug remort
+Log Augustus: remort
+Log Enzo: trans aug
+Log Enzo: advance aug 106
+Log Enzo: force aug save
+Log Enzo: snoop aug
+Log Enzo: snoop teddie
+Log Enzo: force aug save
+Log Enzo: snoop enzo
+Log Augustus: restore
+Log Augustus: load fury
+Log Augustus: load obj
+Log Augustus: load obj 1 99
+Log Augustus: load obj 99
+Log Augustus: load obj 11138
+Log Augustus: load obj 11035 101
+Log Augustus: load obj 11034 101
+Log Augustus: load 6308
+Log Augustus: load obj 6308
+Log Augustus: load 8328
+Log Augustus: load obj 8328
+Log Augustus: restore
+Log Augustus: restore
+Log Augustus: load
+Log Augustus: load 161
+Log Augustus: load obj spine
+Log Augustus: load obj spine 101
+Log Augustus: load 8334
+Log Augustus: load obj 8334
+Log Augustus: load obj 3049
+Log Augustus: load obj 3049 101
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Augustus: load obj 10006 
+Log Alieas: restore
+Log Purinial: load obj 27801
+Log Purinial: load obj 101
+Log Purinial: load obj 3001
+Log Purinial: load obj 11000
+Log Purinial: load 11001
+Log Purinial: load obj 11001
+Log Purinial: load obj 11005
+Log Purinial: load obj 11007
+Log Purinial: load obj 11008
+Log Purinial: clone star
+Log Purinial: snoop
+Log Purinial: snoop purinial
+Log Purinial: snoop talion
+Log Purinial: snoop purinial
+Log Alieas: load obj 11007
+Log Alieas: purge
+Log Purinial: load 11007
+Log Purinial: load 11007
+Log Purinial: load obj 11007
+Log Purinial: load obj 20001
+Log Deathstalker: remort
+Log Augustus: switch minsc
+Log Augustus: switch shub
+Log Augustus: restore augustus
+Log Augustus: load 16715 101
+Log Augustus: load obj16715 101
+Log Augustus: load obj 16715 101
+Log Augustus: restore augustus
+Log Augustus: clone starfire
+Log Augustus: force tal report
+Log mystery: murder Augustus
+Log Augustus: restore augustus
+Log Augustus: restore augustus
+Log Augustus: restore augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log Augustus: restore augustus
+Log Augustus: restore tal
+Log Augustus: load obj 16627
+Log Augustus: load obj 16627
+Log Ulsicor: gecho It suddenly begins to rain {Dchocolate milk{w.{x
+Log Ulsicor: gecho The party has just gotten started.
+Log Ulsicor: gecho {RThe demons swoon: {WWhen the moon hits your eye like a big pizza pie, thats Amore...{x
+Log Ulsicor: restore all
+Log Augustus: load agony 100
+Log Augustus: load obj agony 100
+Log Augustus: load obj 8338 100
+Log Augustus: load fruit
+Log Augustus: load obj fruit
+Log Augustus: load obj fruit 1
+Log Augustus: load obj 16667 1
+Log Augustus: load obj 16667 1
+Log Augustus: load obj 16667 1
+Log Augustus: load obj 16725 102
+Log Augustus: load obj 16735 102
+Log Augustus: load 10123 1
+Log Augustus: load obj 10123 1
+Log Augustus: switch healer
+Log Augustus: load obj 25300 102
+Log Augustus: flag
+Log Augustus: teleport teddie 28200
+Log Augustus: load obj 28200
+Log Verdelet: delete
+Log Verdelet: delete
+Log Verdelet: delete
+Log Augustus: switch healer
+Log Augustus: load obj 3008 1
+Log Augustus: teleport teddie 3013
+Log Augustus: teleport tedd
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Enzo: purge
+Log Talion: remort
+Log Talion: remort
+Log Enzo: snoop teddie
+Log Enzo: reload CLAN
+Log Teddie: guild keldorn phoenix
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: restore augu
+Log Augustus: load obj 8328
+Log Augustus: load obj 3008
+Log Augustus: load obj 26002
+Log Augustus: load obj 26005
+Log Augustus: load obj 26235
+Log Augustus: load obj 26235
+Log Augustus: load obj 26235
+Log Augustus: load obj 26235
+Log Augustus: load obj 26235
+Log Augustus: load obj 26236
+Log Augustus: load obj 26233
+Log Augustus: clone sanct
+Log Augustus: clone sanct
+Log Augustus: clone sanct
+Log Augustus: clone sanct
+Log Augustus: clone fre
+Log Augustus: clone fre
+Log Augustus: clone fre
+Log Augustus: clone fre
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Saik: load obj 27011
+Log Kelnozz: delete
+Log Kelnozz: delete
+Log Saik: flag
+Log Saik: opedit
+Log Saik: opedit 3000
+Log Saik: opedit 27002
+Log Saik: string
+Log Saik: load obj 27005 1
+Masoj is buying a MASK!
+
+Log Enzo: snoop starco
+Log Enzo: snoop starco
+Log Enzo: disable bash
+Log Enzo: disable bash
+Log Enzo: snoop enzo
+Log Asturiel: delete
+Log Asturiel: delete
+Log Asturiel: delete
+Log Asturiel: delete
+Log Teddie: guild talion phoenix
+Log Augustus: teleport teddie anz
+Log Enzo: snoop keldorn
+Log Enzo: trans keldor
+Log Enzo: force keldorn prac fourth
+Log Enzo: force keldorn cast nexus dyril
+Log Enzo: trans dyril
+Log Enzo: trans dyrli
+Log Enzo: restore all
+Log Enzo: force kel k dyl
+Log Enzo: force kel k dyr
+Log Enzo: force kel flee
+Log Enzo: restore all
+Log Enzo: adjust char icabod qp 5000
+Log Enzo: set char icabod hp 12300
+Log Enzo: guild icabod avengers
+Log Enzo: snoop enzo
+Log Enzo: adjust char icabod qp 5000
+Log Enzo: adjust char icabod qp 5000
+Log Xanek: delete
+Log Xanek: delete
+Log Draconik: delete draconik
+Log Draconik: delete
+Log Draconik: delete
+Log Byron: delete
+Log Byron: delete
+Log Enzo: snoop starco
+Log Enzo: snoop enzo
+Log Enzo: restore anzlie
+Log Enzo: ban jarule
+Log Enzo: ban jarule spamming notes
+Log Enzo: ban jarule spamming all
+Log Enzo: ban
+Log Enzo: ban jarule all
+Log Enzo: ban jarule all spamming
+Log Enzo: ban
+Log Enzo: ban jarule
+Log Enzo: ban JaRule@dpc6682160001.direcpc.com all spamming
+Log Enzo: ban dpc6682160001.direcpc.com new player all spamming
+Log Enzo: reboot
+Log Enzo: ban
+Log Enzo: ban save
+Log Enzo: disable note
+Log Enzo: disable idea
+Log Enzo: disable news
+Log Enzo: disable changes
+Log Enzo: disable penalties
+Log Enzo: disable penalty
+Log Augustus: load
+Log Augustus: load mob 28200
+Log Augustus: switch skel
+Log Zenori: remort
+Log Zenori: delete zenori
+Log Zenori: delete
+Log Zenori: delete
+Log Teddie: guild nisshoku phoenix
+Log Augustus: restore z
+Log Augustus: restore z
+Log Augustus: restore z
+Log Augustus: restore z
+Log talos: murder Talion
+Log Augustus: restore z
+Log Ulsicor: restore all
+Log Ulsicor: restore shock
+Log Ulsicor: restore min
+Log Ulsicor: restore minsc
+Log Ulsicor: restore zen
+Log Ulsicor: restore kel
+Log Augustus: load obj 28200
+Log Ulsicor: restore kel
+Log Augustus: load obj 28200
+Log Augustus: purge
+Log Augustus: load obj 3008
+Log Keldorn: remort
+Log Keldorn: remort
+Log Enzo: reboot
+Log Vsazr: delete
+Log Vsazr: delete
+Log Vsazr: delete
+Log Vsazr: delete
+Log Ardyh: delete
+Log Ardyh: delete eowyn
+Log Ardyh: delete eowyn
+Log Ardyh: delete
+Log Ardyh: delete scrox
+Log Ardyh: delete
+Log Ardyh: delete
+Log Enzo: adva zenori
+Log Enzo: adva zenori 106
+Log Enzo: set char zenori sec 56
+Log Enzo: set char zenori security 56
+Log Enzo: restore zenori
+Log Zenori: clone
+Log Zenori: load
+Log Zenori: load obj light 1
+Log Menelak: delete
+Log Menelak: delete
+Log Augustus: load obj 28200
+Log Augustus: load obj 11030
+Log Augustus: load obj 12367
+Log Enzo: reboot
+Log Zenori: restore all
+Log Zenori: remort cleric
+Log Zenori: load
+Log Zenori: load obj
+Log Zenori: load obj 1 1
+Log Zenori: load obj 10 1
+Log Zenori: load obj 100
+Log Zenori: load obj 12800
+Log Zenori: load obj 128
+Log Zenori: load obj 28200
+Log Zenori: load obj 28201
+Log Zenori: load obj 28202
+Log Zenori: load obj 28203
+Log Zenori: load obj 28204
+Log Zenori: load obj 25200
+Log Zenori: load obj 25201
+Log Zenori: remort
+Log Zenori: remort ah
+Log Zenori: remort
+Log Zenori: remort heh
+Log Zenori: switch minsc
+Log Minsc: switch
+Log Minsc: switch zenori
+Log Minsc: switch
+Log Minsc: switch out
+Log Minsc: switch stop
+Log Minsc: switch
+Log Zenori: switch minsc
+Log Zenori: restore minsc
+Log Zenori: purge
+Log Zenori: load obj 25900
+Log Zenori: load obj 25300
+Log Zenori: load obj 25100
+Log Zenori: load obj 25400
+Log Zenori: load obj 25201
+Log Zenori: load obj 25201
+Log Zenori: load obj 25202
+Log Zenori: load obj 25204
+Log Zenori: load obj 25205
+Log Zenori: load obj 25206
+Log Zenori: load obj 25207
+Log Zenori: load obj 25208
+Log Zenori: load obj 25208
+Log Zenori: load obj 25207
+Log Zenori: load obj 2520
+Log Zenori: load obj 25209
+Log Zenori: load obj 25206
+Log Zenori: load obj 25206
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: load obj 9218
+Log Zenori: purge
+Log Zenori: restore draconik
+Log Enzo: disable note
+Log Enzo: disable
+Log Enzo: disable idea
+Log Enzo: disable news
+Log Enzo: disable changes
+Log Enzo: disable penalty
+Log Zenori: delete west
+Log DarkSeer: slay anz
+Log DarkSeer: trans anzlie
+Log DarkSeer: restore anzlie
+Log Ganelon: delete
+Log Ganelon: delete
+Log Ganelon: delete
+Log Ganelon: delete
+Log Zenori: restore self
+Log Zenori: switch minsc
+Log Zenori: switch minsc
+Log Zenori: load 3005 106
+Log Zenori: load obj 3005 106
+Log Zenori: load obj 3005 106
+Log Zenori: switch minsc
+Log Zenori: switch fido
+Log Zenori: load obj 25800
+Log Zenori: load obj 25300
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: switch minsc
+Log Zenori: force minsc wear al
+Log Zenori: force minsc wear all
+Log Zenori: restore templar
+Log Zenori: restore templar
+Log Zenori: restore templar
+Log Zenori: restore templar
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: purge minsc
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: switch minsc
+Log Zenori: restore minsc
+Log Zenori: transfer augustus
+Log Zenori: string
+Log Zenori: string obj short Mother's Lasagna
+Log Zenori: string sci short Mother's Lasagna
+Log Zenori: string obj sci short Mother's Lasagna
+Log Zenori: string obj sci, hey short sci,
+Log Zenori: string obj sci hey short sci
+Log Zenori: string obj sci.hrm short sci.hrm
+Log Zenori: string obj sci short Augustus' Underwear
+Log Zenori: load obj 28400
+Log Zenori: string
+Log Zenori: transfer midgaard
+Log Zenori: transfer trooper
+Log Zenori: transfer 2.trooper
+Log Zenori: transfer trooper
+Log Zenori: transfer 2.trooper
+Log Zenori: transfer 3=.trooper
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Augustus: restore z
+Log Zenori: string
+Log Augustus: restore zenori
+Log Zenori: flag
+Log Zenori: force
+Log Zenori: switch minsc
+Log Minsc: transfer zenori
+Log Zenori: switch minsc
+Log Minsc: restore zenori
+Log Minsc: load obj 28400
+Log Zenori: switch minsc
+Log Zenori: switch minsc
+Log Enzo: set char zenori hp 20000
+Log Enzo: restore zenori
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: snoop aug
+Log Zenori: switch minsc
+Log Zenori: switch minsc
+Log Zenori: restore aug
+Log Zenori: murder self
+Log Zenori: string obj light short {WG{wl{Wo{wb{We {Dof {DD{wa{Dr{Wk{Dn{wes{Ds{n
+Log Zenori: string obj ring {MR{Wing{m of {MI{Wntelligence{n
+Log Zenori: string obj ring short {MR{Wing{m of {MI{Wntelligence{n
+Log Zenori: string obj short {CC{cl{Co{ca{Ck {Yo{yf {wthe {CG{co{Cd{cs{n
+Log Zenori: string obj cloak short {CC{cl{Co{ca{Ck {Yo{yf {wthe {CG{co{Cd{cs{n
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: purge
+Log Zenori: switch shaman
+Log Zenori: switch monkey
+Log Zenori: restore self
+Log Zenori: string
+Log Keldorn: murder z
+Log Zenori: restore keldorn
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: switch minsc
+Log Zenori: restore self
+Log Zenori: rpedit
+Log Zenori: string
+Log Zenori: string
+Log Zenori: echo
+Log Zenori: gecho
+Log Zenori: gecho {CThe winds blow past you, and you feel refreshed!
+Log Zenori: restore all
+Log Zenori: load obj 1
+Log Zenori: string obj coin short a dollar bill
+Log Zenori: purge
+Log Zenori: purge minsc
+Log Zenori: load obj 18069
+Log Zenori: load obj 18069
+Log Zenori: remort cleric
+Log Zenori: remort
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: load obj 25300
+Log Zenori: restore self
+Log Zenori: load obj 25200
+Log Zenori: restore zoe
+Log Zenori: load obj 25400
+Log Zenori: load obj 25300
+Log Zenori: load obj 25200
+Log Zenori: load obj 25100
+Log Zenori: restore self
+Log Zenori: transfer zow
+Log Zenori: transfer zoe
+Log Ulsicor: trans zoe
+Log Zenori: load obj 25208
+Log Zenori: string obj justice short {RA {Wl{wi{Wg{wh{wt {Yb{Wr{Ri{Yt{We{n
+Log Zenori: murder self
+Log Zenori: transfer zoe
+Log Zenori: purge
+Log Zenori: load obj 25202
+Log Zenori: load obj 25202
+Log Zenori: load obj 28400
+Log Zenori: load obj 25305
+Log Zenori: load obj 25305
+Log Zenori: load obj 25305
+Log Zenori: load obj 11045
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: load 25202
+Log Zenori: load obj 25202
+Log Zenori: load obj 28400
+Log Zenori: load obj 1
+Log Zenori: load obj 1
+Log Zenori: load obj 1
+Log Zenori: load obj 1
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 2
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: switch lord
+Log Zenori: switch man
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Ulsicor: load obj 25704
+Log Zenori: restore lord
+Log Ulsicor: load obj 25704
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: transfer ferris
+Log Zenori: transfer ferris
+Log Ulsicor: trans ferr
+Log Ulsicor: load 25704
+Log Zenori: load obj 25702
+Log Ulsicor: load obj 25704
+Log Zenori: transfer minsc
+Log Zenori: transfer minsc
+Log Zenori: restore self
+Log Ulsicor: trans minsc
+Log Ulsicor: restore self
+Log Zenori: transfer minsc
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25710
+Log Ulsicor: load obj 25711
+Log Ulsicor: load obj 25712
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25704
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25709
+Log Ulsicor: load obj 25710
+Log Ulsicor: load obj 25710
+Log Ulsicor: load obj 25710
+Log Ulsicor: load obj 25710
+Log Ulsicor: load obj 25710
+Log Ulsicor: load obj 25711
+Log Ulsicor: load obj 25711
+Log Ulsicor: load obj 25711
+Log Ulsicor: load obj 25711
+Log Ulsicor: load obj 25711
+Log Ulsicor: gecho Ulsicor causes the seas to boil and the water to run red with blood.
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone acorn
+Log Ulsicor: clone acorn
+Log Ulsicor: clone acorn
+Log Ulsicor: clone acorn
+Log Ulsicor: clone scroll
+Log Ulsicor: clone scroll
+Log Ulsicor: clone scroll
+Log Ulsicor: clone scroll
+Log Ulsicor: clone vial
+Log Ulsicor: clone vial
+Log Ulsicor: clone vial
+Log Ulsicor: clone vial
+Log Ulsicor: clone chal
+Log Ulsicor: clone chal
+Log Ulsicor: clone chal
+Log Ulsicor: clone chal
+Log Ulsicor: echo : powertrip
+Log Ulsicor: gecho {RUlsicor screams 'The PPppppPOOOOoooWWWwwwErrRRR!' and writhes.{x 
+Log Ulsicor: restore zor
+Log Ulsicor: restore draconik
+Log Ulsicor: restore all
+Log Ulsicor: restore self
+Log Ulsicor: trans zor 10550
+Log Ulsicor: trans zor 10500
+Log Ulsicor: trans zor
+Log Zoran: guild
+Log Nisshoku: remort
+Log Nisshoku: remort
+Log Ulsicor: restore all
+Log Purinial: restore
+Log Purinial: load 27803
+Log Purinial: load obj 27803
+Log Saik: opedit
+Log Saik: clone
+Log Saik: clone token
+Log Saik: clone token
+Log Saik: clone token
+Log Saik: clone token
+Log Saik: clone token
+Log Saik: load
+Log Saik: load 11033 101
+Log Saik: load obj 11033 101
+Log Saik: opedit
+Log Saik: opedit sword
+Log Saik: opedit 11033
+Log Saik: flag
+Log Ponnet: remort
+Log Valtinex: delet
+Log Valtinex: delete
+Log Valtinex: delete
+Log Bryson: delete
+Log Bryson: delete
+Log Saik: load
+Log Saik: load
+Log Saik: load obj 
+Log Saik: load obj 8326
+Log Saik: load obj 8324
+Log Saik: load obj 8329
+Log Saik: load obj 8328
+Log Saik: load obj 8327
+Log Saik: load obj 8326
+Log Saik: load obj 8321
+Log Saik: load obj 8330
+Log Saik: load obj 8329
+Log Saik: load obj 8331
+Log Saik: load obj 8332
+Log Saik: load obj 8334
+Log Saik: flag
+Log Saik: opedit
+Log Saik: string
+Log Ulsicor: restore draconik
+Log Saik: load
+Log Saik: load obj 25000
+Log Saik: load boj 250007
+Log Saik: load obj 25007
+Log Saik: load obj 25006
+Log Saik: load obj 250010
+Log Saik: load obj 25010
+Log Saik: load obj 25011
+Log Saik: purge
+Log Saik: load obj 250004
+Log Saik: load obj 25004
+Log Saik: load obj 25005
+Log Saik: purge
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: load obj 26814
+Log Zenori: load obj 26814
+Log Zenori: load obj 26814
+Log Zenori: load obj 25208
+Log Zenori: restore self
+Log Zenori: string
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: force minsc tell zenori hi
+Log Zenori: force minsc smile
+Log Zenori: force minsc chat umm
+Log Zenori: force minsc goto zenori
+Log Zenori: force minsc giggle
+Log Zenori: switch minsc
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: load obj 28400
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: restore self
+Log Zenori: switch minsc
+Log Zenori: switch minsc
+Log Zenori: restore alieas
+Log Zenori: switch minsc
+Log Zenori: force minsc south
+Log Zenori: force healer sleep
+Log Zenori: force minsc sleep
+Log Zenori: force city sleep
+Log Zenori: force jan sleep
+Log Zenori: force umber sleep
+Log Zenori: force sea sle
+Log Zenori: force self
+Log Zenori: restore self
+Log Zenori: force alieas sleep
+Log Zenori: force minsc sleep
+Log Zenori: load obj 1379
+Log Zenori: load obj 1313
+Log Zenori: load obj 9543
+Log Zenori: restore self
+Log Zenori: restore self
+Log Ulsicor: restore all
+Log Saik: flag
+Log Saik: flag saik aff sanc
+Log Saik: load obj 27005 1
+Log Saik: load obj 25202
+Log Saik: string
+Log Saik: string  obj crystal  name name spineripper dagger ripper
+Log Saik: string ripper name short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{w. {X
+Log Saik: string OBJ ripper name short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{w. {X
+Log Saik: string obj ripper name short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{w. {X
+Log Saik: string obj spin name short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{w. {X
+Log Saik: string
+Log Saik: load obj 25202
+Log Saik: string obj dagger name short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{w. {X
+Log Saik: string eat c
+Log Saik: load obj 25202
+Log Saik: string obj dagger short the {RS{rp{yi{rn{Re{yR{Ri{rpp{Re{yr{w. {X
+Log Saik: load obj 25202
+Log Saik: load obj 8330
+Log Saik: load obj 8326
+Log Saik: load obj 8323
+Log Saik: load obj 8327
+Log Saik: load obj 8328
+Log Saik: load obj 8328
+Log Saik: load obj 8329
+Log Saik: load obj 8322
+Log Saik: load obj 8324
+Log Saik: load obj 8325
+Log Saik: load obj 8331
+Log Saik: load obj 8332
+Log Saik: load obj 8334
+Log Saik: purge
+Log Menelak: delete
+Log Menelak: delete
+Log Menelak: delete
+Log Menelak: delete
+Log talos: murder Ulsicor
+Log Ulsicor: restore all
+Log Ulsicor: restore self
+Log Ulsicor: restore keldorn
+Log Ulsicor: trans kel
+Log Ulsicor: trans kel
+Log Ulsicor: trans sil
+Log Ulsicor: restore silvan
+Log Ulsicor: restore all
+Log Purinial: clone gau
+Log Purinial: purge
+Log Purinial: clone ore
+Log Purinial: clone ore
+Log Purinial: clone ore
+Log Purinial: clone ore
+Log Purinial: clone ore
+Log Purinial: clone ore
+Log Purinial: clone ore
+Xanax is buying a MASK!
+
+Log Akasha: delete
+Log Akasha: delete
+Log Dampyiel: delete
+Log Dampyiel: delete
+Log talos: murder Talion
+Log Ulsicor: restore tal
+Log Ulsicor: restore tal
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: clone bag
+Log Ulsicor: gecho Ulsicor is very confused this early in the morn...
+Log Ulsicor: restore self
+Log Ulsicor: trans draconik
+Log Ulsicor: restore draconik
+Log Alieas: restore tal
+Log Alieas: restore tal
+Log Akasha: delete
+Log Akasha: delete
+Log Akasha: delete
+Log Akasha: delete
+Talion is buying a MASK!
+
+Log talos: murder Keldorn
+Log talos: murder Keldorn
+Log Ulsicor: restore artemis
+Log Artemis: murder
+Log Enzo: guild keldorn phoenix
+Log Enzo: snoop keldorn
+Log Enzo: force keldorn restring
+Log Enzo: snoop enzo
+Log Garion: remort
+Log Garion: remort
+Log Teddie: guild niss phoenix
+Log Augustus: load obj 16700
+Log Augustus: load obj 16999
+Log Augustus: load obj 16699
+Log Augustus: load obj 28200
+Log Augustus: restore
+Log Augustus: restore
+Log Augustus: restore a
+Log Augustus: restore a
+Log Augustus: purge
+Log Augustus: restore a
+Log Augustus: load obj 16686
+Log Augustus: clone combat
+Log talos: murder Draconik
+Log Lilly: murder par
+Log Alieas: load object 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Paragrin is buying a MASK!
+
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Enzo: log alieas
+Log Enzo: pload alieas
+Log Enzo: log alieas
+Log Enzo: punload alieas
+Log Enzo: reboot
+Log Czixt: remort
+Log Purinial: load obj 27804
+Log Purinial: load obj 27804
+Log Purinial: load onj 27804
+Log Purinial: load obj 27804
+Log Purinial: load obj 27804
+Log Purinial: restore
+Log Ryide: delete
+Log Ryide: delete
+Log DarkSeer: disconnect arkane
+Log Koros: delete
+Log Koros: delete
+Log Beowulf: delete
+Log Beowulf: delete
+Log Beowulf: delete
+Log Alieas: goto 27608
+Log Alieas: stand
+Log Alieas: look
+Log Alieas: redit
+Log Alieas: edit object 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: load obj 27608
+Log Alieas: goto li
+Log Alieas: i
+Log Alieas: give l token
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: give token l
+Log Alieas: sleep
+Log Alieas: save
+Log Alieas: quit
+Log Enzo: reboot
+Log Enzo: snoop xanax
+Log Enzo: trans xanax
+Log Enzo: slay tiamut
+Log Enzo: purge
+Log Enzo: force xanax cast 'detect invis'
+Log Enzo: force xanax i
+Log Enzo: pload purinial
+Log Enzo: force xanax
+Log Enzo: force xanax look pur
+Log Enzo: trans xanax 3001
+Log Enzo: force purinial quit
+Log Xanax: delete
+Log Xanax: delete
+Log Zoe: delete
+Log Zoe: delete 
+Log Zoe: delete
+Log Zoe: delete
+Log Nono: delete
+Log Nono: delete
+Keldorn is buying a MASK!
+
+Log Falkcar: remort
+Log Falkcar: remort
+Log Azura: note
+Log Azura: who
+Log Azura: reply hi
+Log Azura: wizlist
+Log Azura: quit
+Log DarkSeer: trans arkane
+Log Maximos: delete
+Log Maximos: delete
+Log Enzo: reboot
+Log Enzo: load obj 1100
+Log Enzo: force aira wear staff
+Log Enzo: restore aira
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: gecho Polo....
+Log Enzo: reload HISTORIC MOMENTS
+Log Enzo: reload "HISTORIC MOMENTS"
+Log Enzo: reload "HISTORIC MOMENTS"
+Log Enzo: reboot
+Log Augustus: restore tal
+Log Augustus: echo : yawn
+Log Augustus: echo emote tilts his head  back and unleashes a mighty roar
+Log Augustus: flag
+Log Enzo: reboot
+Log Enzo: reboot
+Log talos: murder Enzo
+Log talos: murder Enzo
+Log Enzo: reboot
+Log talos: murder Enzo
+Log talos: murder Enzo
+Log talos: murder Enzo
+Log talos: murder Enzo
+Log Enzo: reboot
+Log Enzo: reboot
+Log DarkSeer: restore minsc
+Log Enzo: restore talia
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: trans remor
+Log Enzo: reboot
+Log Enzo: trans remor
+Log Enzo: reboot
+Log Enzo: trans remo
+Log Enzo: force daniel report
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: set char enzo sp 1437053
+Log Enzo: set char enzo sp 5000000
+Log Enzo: set char enzo sp 500000
+Log Enzo: set char enzo sp 500000
+Log Enzo: reboot
+Log Enzo: restore all
+Log Enzo: restore all
+Log Enzo: load obj 11033
+Log Enzo: snoop keldorn
+Log Enzo: force keldorn prac
+Log Enzo: force keldorn
+Log Enzo: force keldorn prac
+Log Enzo: snoop falckar
+Log Enzo: snoop falk
+Log Enzo: force fal prac
+Log Enzo: snoop fal
+Log Enzo: force fal prac
+Log Enzo: force falk save
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: force all save
+Log Zaltar: delete
+Log Zaltar: delete
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: snoop keldorn
+Log Enzo: restore keldorn
+Log Enzo: snoop enzo
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: set char enzo class taomaster
+Log Enzo: set skill enzo all 100
+Log Enzo: debug
+Log Enzo: restore zaltar
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: adv remortdude 101
+Log Enzo: set char remortdude class taomaster
+Log Enzo: set skill remortdude all 100
+Log Enzo: trans remort
+Log Enzo: reboot
+Log Enzo: snoop zal
+Log Enzo: force zal talents combat
+Log Enzo: snoop enzo
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: debug
+Log Enzo: snoop talia
+Log Enzo: force all
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: set char enzo sp 500000
+Log Enzo: set char enzo sp 500000
+Log Enzo: set char enzo sp 90000000
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: force all save
+Log Enzo: copyover
+Log Enzo: snoop silvan
+Log Enzo: restore all
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: load obj 10006
+Log Enzo: copyover
+Log Enzo: load obj 10006
+Log Enzo: set obj "starfire ore" weight 10000
+Log Enzo: snoop leegerio
+Log Enzo: force leegerio quest info
+Log Enzo: force leegerio quest status
+Log Enzo: force leegerio quest info
+Log Enzo: force leegerio quest gigveup
+Log Enzo: force leegerio quest giveup
+Log Enzo: adjust char leegerio qp 20
+Log Enzo: snoop enzo
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: pload morpheus
+Log Enzo: advance morpheus 101
+Log Enzo: trans morpheus 3001
+Log Enzo: force morpheus save
+Log Enzo: force morpheus quit
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: guild remort viceroy
+Log Enzo: copyover
+Log Enzo: reboot
+Log Enzo: debug
+Log Enzo: copyover
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: snoop keldorn
+Log Enzo: snoop enzo
+Log Enzo: debug
+Log Enzo: debug
+Log Enzo: pload draconik
+Log Enzo: punload draconik
+Log Enzo: reboot
+Log Enzo: pload draconik
+Log Enzo: force drac save
+Log Enzo: force drac quit
+Log Augustus: load obj 3007
+Log Augustus: load obj 3007 100
+Log Enzo: reboot
+Log Azura: news
+Log Azura: note read
+Log Azura: note read
+Log Azura: note read
+Log Azura: note read
+Log Azura: note read
+Log Azura: note read
+Log Azura: who
+Log Azura: note to enzo
+Log Azura: note subject taking over the mud, if you want
+Log Azura: note write
+Log Azura: note edit
+Log Azura: note post
+Log Azura: who
+Log Azura: quit
+Log talos: murder Augustus
+Log sensate: murder Augustus
+Log deathheads: murder Augustus
+Log deathheads: murder Augustus
+Log deathheads: murder Augustus
+Log banite: murder Augustus
+Log banite: murder Augustus
+Log banite: murder Augustus
+Log banite: murder Augustus
+Log banite: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log Augustus: load obj 16729
+Log mystery: murder Augustus
+Log mystery: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log berserkers: murder Augustus
+Log guardian: murder Augustus
+Log guardian: murder Augustus
+Log guardian: murder Augustus
+Log guardian: murder Augustus
+Log guardian: murder Augustus
+Log Augustus: load obj 16746
+Log Augustus: load obj 16746
+Log guardian: murder Augustus
+Log guardian: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log tomb warden: murder Augustus
+Log talos: murder Augustus
+Log Arzlin: delete
+Log Arzlin: delete
+Log Augustus: flag
+Log Augustus: flag ?
+Log Augustus: flag
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: copyover
+Log Enzo: snoop teddie
+Log Enzo: snoop enzo
+Log Augustus: purge
+Log Augustus: load mob 11025
+Log Augustus: load obj 11025
+Log Augustus: load obj 11036
+Log Azura: note read
+Log Azura: quit
+Log Augustus: load obj 11036
+Log Augustus: load obj 11036
+Log Augustus: switch valentine wolf
+Log Augustus: switch valentine wolf
+Log Augustus: purge
+Log Augustus: load mob 11025
+Log Augustus: load obj 11036
+Log Augustus: switch valentine wolf
+Log Augustus: purge
+Log Augustus: load mob val
+Log Augustus: load mob 11025
+Log Augustus: load obj 11035
+Log Augustus: load obj 11036
+Log Augustus: switch val
+Log Augustus: switch val
+Log Augustus: switch val
+Log Augustus: switch val
+Log Augustus: load obj 28210
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: load obj 28200
+Log Augustus: flag
+Log Augustus: flag no_gate
+Log Augustus: flag areano_gate
+Log Augustus: flag area no_gate
+Log Enzo: restore doryn
+Log Azura: who
+Log Azura: quit
+Log Akmaro: debug
+Log Akmaro: debug
+Log Akmaro: set skill akmro all 100
+Log Akmaro: set akmaro skill all 100
+Log Akmaro: set skill akmaro 100
+Log Akmaro: set skill akmaro all 100
+Log Akmaro: set char akmaro align 1000
+Log Akmaro: set char akmaro align -1000
+Log Augustus: guild falkcar phoenix
+Log Teddie: guild falkor phoenix
+Log Teddie: guild falkcar phoenix
+Log Teddie: guild falkcar phoenix
+Log Teddie: guild falkcar phoenix
+Log Teddie: guild falkcar phoenix
+Log Teddie: guild falkcar phoenix
+Log Teddie: guild falkcar phoenix
+Log Teddie: guild falkcar phoenix
+Log Talia: remort
+Log Talia: remort
+Log Talia: remort
+Log Teddie: guild falkcar phoenix
+Log Enzo: force fal ok
+Log Enzo: force fal ok
+Log Enzo: force fal pk
+Log Enzo: force fal pk
+Log Enzo: force all save
+Log Enzo: reboot
+Log Azura: who
+Log Azura: quit
+Log Enzo: reboot
+Log Augustus: snoop drak
+Log Augustus: snoop drac
+Log Augustus: snoop drac
+Log Augustus: snoop
+Log Augustus: snoop aug
+Log Augustus: snoop drac
+Log Augustus: snoop au
+Log Augustus: transfer draconik healer
+Log Augustus: transfer draconik minsc
+Log Enzo: snoop draconik
+Log Enzo: force draconik talents combat
+Log Enzo: trans drac
+Log Enzo: trans city
+Log Enzo: trans drac
+Log Enzo: trans cityguard
+Log Enzo: force drac wear all
+Log Enzo: trans drac
+Log Enzo: load obj 8331
+Log Enzo: force drac wear mark
+Log Enzo: force drac k noriek
+Log Enzo: force drac remove mark
+Log Enzo: force drac give mark enzo
+Log Augustus: load obj 16637
+Log Augustus: load obj 16636
+Log Augustus: load obj 16635
+Log Augustus: clone charm
+Log Augustus: clone snow
+Log Enzo: force drac wield sword
+Log Enzo: force drac k noriek
+Log Augustus: load obj 28200
+Log Enzo: snoop pinky
+Log Enzo: snoop enzo
+Log Pinky: delete
+Log Pinky: delete
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: snoop draconik
+Log Enzo: pload akmaro
+Log Enzo: trans akmaro
+Log Enzo: punload akmaro
+Log Enzo: snoop draconik
+Log Enzo: trans drak
+Log Enzo: trans drac
+Log Enzo: force drac wear all
+Log Enzo: debug
+Log Enzo: trans drac
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: trans drac
+Log Enzo: trans drac
+Log Enzo: trans drac
+Log Enzo: force drac wak
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: purge
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: snoop drac
+Log Enzo: force drac k norie
+Log Enzo: trans drac
+Log Enzo: force drac wake
+Log Enzo: force drac k nor
+Log Enzo: snoop drac
+Log Enzo: force drac skills all
+Log Enzo: force all save
+Log Enzo: force all save
+Log Enzo: reboot
+Log Enzo: debug
+Log Enzo: guild falkcar none
+Log Nirad: guild falkcar demonic
+Log Azura: note read
+Log Azura: who
+Log Azura: quit
+Log Azura: who
+Log Azura: quit
+Log Enzo: reboot
+Log Enzo: trans teddie
+Log Enzo: purge
+Log Enzo: restore teddie
+Log Enzo: purge
+Log Enzo: restore all
+Log Enzo: restore teddie
+Log Enzo: snoop teddie
+Log Enzo: restore teddie
+Log Enzo: force teddie remove all
+Log Enzo: set char enzo hp 8534
+Log Akmaro: trans quasar
+Log Enzo: set char enzo mana 3537
+Log Enzo: set char enzo move 774
+Log Enzo: set char enzo hp 8534
+Log Enzo: set char enzo mana 3537
+Log Enzo: set char enzo move 774
+Log Akmaro: trans quasar
+Log Enzo: slay quasar
+Log Akmaro: trans quasar
+Log Enzo: purge
+Log Enzo: clone character teddie
+Log Enzo: load obj 11033
+Log Enzo: load obj 11033
+Log Enzo: load obj 11787
+Log Enzo: load obj 11787
+Log Enzo: load obj 11790
+Log Enzo: load obj 11790
+Log Enzo: load obj 11790
+Log Enzo: load obj 11790
+Log Enzo: load obj 11045
+Log Enzo: load obj 11045
+Log Enzo: purge
+Log Enzo: snoop enzo
+Log Enzo: load obj 11004
+Log Enzo: load obj 11004
+Log Akmaro: trans quasar
+Log Enzo: load obj 16708
+Log Enzo: slay quasar
+Log Enzo: purge
+Log Enzo: clone vambrace
+Log Enzo: clone vambrace
+Log Enzo: clone vambrace
+Log Enzo: clone vambrace
+Log Enzo: clone crown
+Log Enzo: clone crown
+Log Enzo: load obj 10234
+Log Enzo: load obj 10234
+Log Enzo: load obj 11035
+Log Enzo: load obj 11035
+Log Enzo: load obj 11021
+Log Enzo: load obj 11021
+Log Akmaro: trans quasar
+Log Enzo: load obj 11030
+Log Enzo: load obj 8336
+Log Enzo: load obj 8336
+Log Enzo: clone shub
+Log Enzo: pardon quasar thief
+Log Enzo: pardon quasar killer
+Log Enzo: force quasar remove all
+Log Enzo: force quasar put all golem
+Log Enzo: force quasar give golem enzo
+Log Enzo: clone blood
+Log Enzo: clone blood
+Log Enzo: clone mark
+Log Enzo: clone mark
+Log Enzo: force quasar get all
+Log Enzo: force quasar wear all
+Log Enzo: restore quasar
+Log Enzo: set char quasar hp 8534
+Log Enzo: set char mana 3537
+Log Enzo: set char quasar mana 3537
+Log Enzo: force quasar remove all
+Log Enzo: set char quasar hp 8534
+Log Enzo: set char quasar mana 3537
+Log Enzo: force quasar wear all
+Log Enzo: load obj 11750
+Log Enzo: load obj 11750
+Log Enzo: load obj 30499
+Log Enzo: load obj 3049
+Log Enzo: load obj 3049
+Log Enzo: load obj 11022
+Log Enzo: load obj 11022
+Log Enzo: force qua wear arm
+Log Enzo: purge
+Log Enzo: purge
+Log Enzo: purge
+Log Enzo: purge
+Log Enzo: restore all
+Log Akmaro: load obj 10006
+Log Akmaro: set char akmaro all 100 all
+Log Akmaro: set char akmaro all 100
+Log Akmaro: set skill akmaro all 100
+Log Quasar: delete
+Log Quasar: delete
+Log Augustus: restore
+Log Augustus: load obj 3005
+Log Augustus: load obj 3005 100
+Log Augustus: restore
+Log Augustus: restore tal
+Log Augustus: transfer talia bodyguard
+Log Augustus: load obj 25208
+Log Augustus: load obj 25203
+Log Augustus: clone ring
+Log Augustus: load obj 19914
+Log Augustus: clone tre
+Log Augustus: clone tre
+Log Augustus: clone tre
+Log Augustus: load obj 10006
+Log Augustus: clone star
+Log Augustus: clone star
+Log Augustus: clone star
+Log Augustus: clone star
+Log Augustus: clone star
+Log Augustus: clone star
+Log Enzo: snoop doryn
+Log Enzo: force doryn note list
+Log Enzo: force doryn note read 3
+Log Enzo: snoop enzo
+Log Enzo: snoop davion
+Log Enzo: force davion talents combat
+Log Enzo: snoop enzo
+Log Azura: note read
+Log Azura: note read
+Log Azura: note read
+Log Azura: news
+Log Azura: quit
+Log Augustus: load teddie
+Log Augustus: transfer nirad hanz
+Log Augustus: load obj 10006
+Log Augustus: clone star
+Log Augustus: clone star
+Log Augustus: clone star
+Log Augustus: clone star
+Log Azura: note read
+Log Azura: news
+Log Azura: who
+Log Azura: bow
+Log Azura: 'i'm gonna dl the code and open it back up
+Log Azura: 'I'm asking enzo to send me a copy of the pfiles
+Log Azura: 'no, but people won't wanna lose their pfiles either
+Log Azura: 'so i'll save the pfiles, but rename the mud
+Log Azura: sni
+Log Azura: 'enzo's a genius
+Log Azura: nod
+Log Azura: wizlist
+Log Azura: 'that akmaro?
+Log Azura: 'i told enzo i'd run it
+Log Azura: shrug
+Log Azura: who
+Log Azura: 'anyways i'm off to bed, i'm on aim redfang469 if you need me
+Log Azura: wave
+Log Azura: quit
+Log Augustus: restore au
+Log Azura: who
+Log Azura: quit
+Log Augustus: load obj 28201
+Log Augustus: load obj 28201
+Log Augustus: clone dia
+Log Augustus: clone dia
+Log Augustus: clone dia
+Log Augustus: clone dia
+Log Augustus: clone dia
+Log Augustus: load o 3008
+Log Augustus: load ob 3008
+Log Augustus: load obj 3008
+Log Augustus: load obj gold coin
+Log Augustus: load obj 6308
+Log Augustus: load obj 6308
+Log Augustus: load obj 6308
+Log Augustus: load obj 6308
+Log Augustus: load obj 6308
+Log Augustus: load obj 9575
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: transfer silvan 3054
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: load obj 9575
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: clone sc
+Log Augustus: load 16627
+Log Augustus: load obj 16627
+Log Augustus: load obj 16627
+Log Augustus: load obj 16627
+Log Augustus: purge
+Log Augustus: switch gina
+Log Augustus: load obj 16629
+Log Enzo: shutdown

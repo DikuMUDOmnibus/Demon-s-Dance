@@ -1,0 +1,166 @@
+
+Guild	Viceroy~
+Who	{D[{RVi{Yc{Wer{Yo{Rys{D]{x~
+Rooms	25000	25007	25001
+Threshold 25000
+Prep 25008
+Maze 25009 25010 25011
+Balance 77385
+QP -5
+Clan_points 10516
+File viceroy.cln~
+Rank	1	Fanatic~
+Rank	2	Zealot~
+Rank	3	Master~
+Rank	4	Grand Master~
+Rank	5	Grand Funk Master~
+Rank	6	Zanzibotch~
+Skill	1	Story Teller~
+Skill	2	Master of Arms~
+Skill	6	Remake Pattern~
+ML	1  1  1  1
+Memb 110 4 0 Akmaro~
+Memb 110 5 1 Enzo~
+Flags 0 
+
+
+Guild	Death Monkeys~
+Who	{D[{DD{We{wa{Wt{Dh {yMo{Yn{Wk{Ye{yys{D]{x~
+Rooms	25300	25301	25301
+Threshold 25300
+Prep 25300
+Maze 13110 13115 13119
+Balance 0
+QP 0
+Clan_points 0
+File dthmnky.cln~
+Rank	1	Primate~
+Rank	2	Monkey~
+Rank	3	Ape~
+Rank	4	Gorilla~
+Rank	5	Silverback~
+Rank	6	Three Headed Monkey~
+ML	1  1  1  1
+Memb 110 5 1 Kenny~
+Flags 0 
+
+
+Guild	Avengers~
+Who	{D[{GA{Rv{Ye{Gn{Rg{Ge{Yr{Gs{D]{x~
+Rooms	25100	25102	25104
+Threshold 25100
+Prep 25103
+Maze 13110 13115 13119
+Balance 0
+QP 0
+Clan_points 190
+File avengers.cln~
+Rank	1	{CApprentice{x~
+Rank	2	{YTrained{x~
+Rank	3	{DAdept{x~
+Rank	4	{MZealot~
+Rank	5	{RDragoon{x~
+Rank	6	{r-({GE{gl{Gv{ge{Gn {gB{Gl{ga{Gd{ge{r)-{x~
+ML	1  1  1  1
+Memb 101 2 0 Sayvion~
+Memb 101 5 1 Icabod~
+Flags 0 
+
+
+Guild	Fortitude~
+Who	{D[{WF{Bo{brt{Wi{btu{Bd{We{D]{x~
+Rooms	25200	25206	25202
+Threshold 25200
+Prep 25204
+Maze 25210 25215 25219
+Balance -100
+QP 151012
+Clan_points 74
+File fortitud.cln~
+Rank	1	Foot Soldier~
+Rank	2	Samurai~
+Rank	3	Storm Leader~
+Rank	4	Strike Leader~
+Rank	5	Assistant~
+Rank	6	Wolf Slayer~
+ML	1  1  1  1
+Memb 101 0 0 Galaphile~
+Memb 101 3 0 Laike~
+Memb 101 3 0 Azura~
+Memb 101 2 0 Kymberli~
+Memb 101 0 0 Silvan~
+Memb 101 5 1 Quasar~
+Flags 0 
+
+
+Guild	Phoenix~
+Who	{D[{RP{Yh{Ro{De{Rn{Yi{Rx{D]{x~
+Rooms	25500	25502	25503
+Threshold 25500
+Prep 25504
+Maze 25505 25510 25515
+Balance 0
+QP 0
+Clan_points 137
+File phoenix.cln~
+Rank	1	Hatchling~
+Rank	2	Tiny Flame~
+Rank	3	Aerial Fighter~
+Rank	4	Fire Ward~
+Rank	5	Flame Dancer~
+Rank	6	Phoenix Familiar~
+ML	1  1  1  1
+Memb 101 5 0 Anzlie~
+Memb 101 5 0 Keldorn~
+Memb 64 0 0 Drang~
+Memb 101 5 1 Teddie~
+Flags 0 
+
+
+Guild	Mystery~
+Who	{D[??{w?{W?{w?{D??]{x~
+Rooms	25400	25403	25402
+Threshold 25400
+Prep 25401
+Maze 13110 13115 13119
+Balance 100
+QP 0
+Clan_points 0
+File mystery.cln~
+Rank	1	Shadow Grunt~
+Rank	2	Shadow Soldier~
+Rank	3	Shadow Warrior~
+Rank	4	Shadow Captain~
+Rank	5	Shadow General~
+Rank	6	{DS{wh{Wad{wo{Dw {DM{wa{Wst{we{Dr{x~
+ML	1  1  1  1
+Memb 101 0 0 KeeL~
+Flags 0 
+
+
+Guild	Demonic Slayerz~
+Who	{D[{rD{Re{Dm{wo{Dn{Ri{rc{D]{x~
+Rooms	25600	25602	25601
+Threshold 25600
+Prep 25603
+Maze 13110 0 13115
+Balance 0
+QP 0
+Clan_points 272
+File demonic.cln~
+Rank	1	{WL{wo{ws{Wt {CS{co{cu{Cl{x~
+Rank	2	{RD{ra{wm{Wn{we{rd {CS{co{cu{Cl{x~
+Rank	3	{RD{ra{we{Dm{wo{rn{x~
+Rank	4	{DG{Dr{we{Da{wt{De{wr {RD{ra{we{Dm{wo{rn{x~
+Rank	5	{RD{re{Rv{ri{Rl {wI{Dn{wc{Da{wr{Dn{wa{Dt{we{x~
+Rank	6	{RL{ro{rr{Rd {Dof the {DD{ra{Dm{rn{De{rd {x~
+ML	1  1  1  1
+Memb 101 2 0 Leegerio~
+Memb 101 4 0 Falkcar~
+Memb 101 5 1 Nirad~
+Memb 101 3 0 Keterah~
+Memb 64 1 0 Kaylee~
+Flags 0 
+
+
+End

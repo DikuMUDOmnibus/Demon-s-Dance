@@ -1,0 +1,1637 @@
+#AREADATA
+Name Smurfville~
+Builders None~
+VNUMs 100 199
+Credits { 1 10} Generic Smurf Village~
+Security 9
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 101
+Name oldstyle smurf~
+Short a smurf~
+Long A smurf is singing and walking along.
+~
+Description A cute little blue smurf with a white hat and white boots.  You have a sudden
+urge to crush him.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d4+2
+Mana_dice 0d9+100
+Dam_dice 1d2+0
+Dam_type none
+Armor 10 10 10 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 102
+Name oldstyle smurf~
+Short a smurf~
+Long A smurf is here, picking berries.
+~
+Description A small smurf is quietly picking berries.  He seems to hardly notice you.
+~
+Race human~
+Act_flags ABHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d4+2
+Mana_dice 0d9+100
+Dam_dice 1d2+0
+Dam_type none
+Armor 10 10 10 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 103
+Name oldstyle brainy smurf~
+Short Brainy Smurf~
+Long Brainy Smurf is here, mumbling something to himself.
+~
+Description Brainy Smurf has on his usual glasses.  Brainy Smurf isn't liked much by the
+other smurfs.  They fear his knowledge.  Knowledge is power!
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 104
+Name oldstyle handy smurf~
+Short Handy Smurf~
+Long Handy Smurf is building something here.
+~
+Description Handy is always building something.  He never takes a break.  Why don't you
+give him a break, like all of his bones.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 105
+Name oldstyle sleepy smurf~
+Short Sleepy Smurf~
+Long Sleepy Smurf is sleep walking here.
+~
+Description Sleepy never gets enough sleep.  You would think he goes to college.  I wonder
+if he has ever stayed up a whole night without sleeping.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 106
+Name oldstyle hefty smurf~
+Short Hefty Smurf~
+Long Hefty Smurf is lifting weights here.
+~
+Description Hefty is a total health nut.  He lifts weights, eats right, and exercises all
+the time.  Won't do him much good when he's DEAD.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 107
+Name oldstyle grumpy smurf~
+Short Grumpy Smurf~
+Long Grumpy Smurf is here, swearing.
+~
+Description Grumpy has never been happy in his whole life.  So why don't you just end it?
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 108
+Name oldstyle jokey smurf~
+Short Jokey Smurf~
+Long Jokey Smurf is here, holding a present.
+~
+Description Jokey loves to give people presents.  Too bad the present explodes when opened.
+Oh well, to each his own.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 109
+Name oldstyle smurfette~
+Short Smurfette~
+Long Smurfette is here, looking beautiful.
+~
+Description Smurfette is the cutest little smurf you've ever seen.  If only she were your
+size.  I wonder how much she charges the other smurfs.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Aff2 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Off BEFJNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 110
+Name oldstyle papa smurf~
+Short Papa Smurf~
+Long Papa Smurf is practicing magic here.
+~
+Description Yep, its Papa Smurf all right.  Red hat and boots and the funny little white
+beard.  Papa Smurf treats his fellow smurfs with dignity and respect.  That
+is why Papa Smurf is so popular among the ladies.
+~
+Race human~
+Act_flags AGHR
+Aff 0
+Aff2 0
+Align 100
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 10d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 2 2 2 6
+Off FU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 111
+Name oldstyle gargamel~
+Short Gargamel~
+Long Gargamel is here, cursing out the smurfs.
+~
+Description Gargamel has never done anything right in his life.  He has caught smurfs
+before but always lets them escape.  He brings true meaning to the word moron.
+~
+Race human~
+Act_flags ABHQ
+Aff 0
+Aff2 0
+Align -100
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 10d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 1 1 1 7
+Off EIKU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 112
+Name oldstyle azreal cat~
+Short Azreal~
+Long Azreal is here, licking himself.
+~
+Description Gargamel's worthless cat.  He is just about as dumb as Gargamel.  He should
+just grab a smurf in his teeth and chew away.
+~
+Race human~
+Act_flags ABH
+Aff 0
+Aff2 0
+Align -100
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Off EFNU
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 100
+Name bunch berries smurfberries~
+Short a bunch of smurfberries~
+Orig_short a bunch of smurfberries~
+Desc A bunch of delicious looking smurfberries lie here.~
+Material oldstyle~
+Item_type pill
+Extra 0
+Wear A
+Values 8 '' '' 'change sex' ''
+Level 0
+Weight 20
+Cost 180
+Condition P
+EndObj
+
+#OBJ
+Vnum 101
+Name glasses~
+Short a pair of glasses~
+Orig_short a pair of glasses~
+Desc An odd pair of glasses has been left here.~
+Material oldstyle~
+Item_type clothing
+Extra A
+Wear AE
+Values 0 0 0 0 0
+Level 3
+Weight 20
+Cost 270
+Condition P
+AffectObj
+2 -1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 102
+Name smurf hat~
+Short a smurf hat~
+Orig_short a smurf hat~
+Desc A smurf hat has been left here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Wear AE
+Values AB AB AB 0 0
+Level 3
+Weight 20
+Cost 310
+Condition P
+EndObj
+
+#OBJ
+Vnum 103
+Name axe small~
+Short a small axe~
+Orig_short a small axe~
+Desc A small axe has been dropped here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Wear AN
+Values axe 1 7 slash J
+Level 3
+Weight 20
+Cost 370
+Condition P
+EndObj
+
+#OBJ
+Vnum 104
+Name necklace~
+Short a small necklace~
+Orig_short a small necklace~
+Desc A small necklace is lying on the ground.~
+Material oldstyle~
+Item_type jewelry
+Extra A
+Wear AC
+Values 0 0 0 0 0
+Level 5
+Weight 20
+Cost 550
+Condition P
+AffectObj
+3 1
+EndObj
+
+#OBJ
+Vnum 105
+Name pink potion~
+Short a pink potion~
+Orig_short a pink potion~
+Desc A pink potion is barely visible on the ground.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Wear A
+Values 6 'armor' 'cure blindness' '' ''
+Level 0
+Weight 20
+Cost 160
+Condition P
+EndObj
+
+#OBJ
+Vnum 106
+Name wand~
+Short a small wand~
+Orig_short a small wand~
+Desc A small wand lies on the ground.~
+Material oldstyle~
+Item_type wand
+Extra 0
+Wear AO
+Values 5 1 1 'burning hands' 0
+Level 3
+Weight 20
+Cost 540
+Condition P
+EndObj
+
+#OBJ
+Vnum 107
+Name key~
+Short a tiny key~
+Orig_short a tiny key~
+Desc A tiny key is lying on the ground.~
+Material oldstyle~
+Item_type key
+Extra 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 20
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 108
+Name well~
+Short a smurf well~
+Orig_short a smurf well~
+Desc A small smurfy well is here.~
+Material oldstyle~
+Item_type fountain
+Extra 0
+Wear 0
+Values 50 50 'water' 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 109
+Name key~
+Short a small key~
+Orig_short a small key~
+Desc A key to Gargamel's door lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 20
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 101
+Name Dimly Lit Path~
+Desc This path is made of crushed granite with curious blue streaks in it.
+The path continues north to a village, or south to the eastern road.
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+The path continues toward the village.
+~
+~
+0
+-1
+102
+leaves north~
+Exit
+2
+The path heads back toward the eastern road.
+~
+~
+0
+-1
+3525
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 102
+Name Dimly Lit Path~
+Desc This section of the road is badly worn and frequently traversed.  There is
+faint singing to the north.  The path back to the road lies to the south.
+~
+Room_flags 4
+Sector_type 3
+Exit
+0
+The path continues toward the village.
+~
+~
+0
+-1
+103
+leaves north~
+Exit
+2
+The dimly lit path.
+~
+~
+0
+-1
+101
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 103
+Name Dimly Lit Path~
+Desc This section of the road is badly worn and frequently traversed.  Singing is
+getting stronger to the north.  The path back to the road lies to the south.
+~
+Room_flags 0
+Sector_type 3
+Exit
+0
+The entrance to smurf village.
+~
+~
+0
+-1
+104
+leaves north~
+Exit
+2
+The dimly lit path.
+~
+~
+0
+-1
+102
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 104
+Name Entrance to Smurf Village~
+Desc You stand at the entrance to a tiny village.  You can see across the whole
+village easily.  Little blue creatures with white hats and boots and little 
+fluffy tails scamper about.  They sing continuously.  The singing is getting
+on your nerves and you have the urge to squash them.
+~
+Room_flags 0
+Sector_type 2
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+105
+leaves north~
+Exit
+2
+Dimly Lit Path
+~
+~
+0
+-1
+103
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 105
+Name Smurfy Road~
+Desc You are way too big to be using this road.  But who cares.  Who's gonna stop
+you?  These little blue smurfs?  The singing is growing intense.  Your ears
+are starting to ring.  Smurfy Road continues to the north, west, and east.
+There is still time to turn back and go south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+106
+leaves north~
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+110
+leaves east~
+Exit
+2
+Entrance to smurf village
+~
+~
+0
+-1
+104
+leaves south~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+111
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 106
+Name Smurfy Road~
+Desc You continue to travel down Smurfy Road.  Isn't it just smurfy?  Smurfy road
+continues its smurfy path to the smurfy north, smurfy west, and smurfy south.
+A smurfy home lies to the smurfy east.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+107
+leaves north~
+Exit
+1
+Smurfy Home
+~
+~
+0
+-1
+120
+leaves east~
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+105
+leaves south~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+112
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 107
+Name Smurfy Road~
+Desc Oh boy, another smurfy road!  Smurfy Road goes north and south here.  There
+is a smurfy, mushroom home to the west.  A beautiful smurfberry patch is to
+the east.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+108
+leaves north~
+Exit
+1
+Smurfberry Patch
+~
+~
+0
+-1
+116
+leaves east~
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+106
+leaves south~
+Exit
+3
+A Smurfy Home
+~
+~
+0
+-1
+129
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 108
+Name Smurfy Road~
+Desc Smurfy Road continues to smurf here.  It smurfs to the south and smurfs to
+an end to the north.  A smurfberry patch is to the east.  A stone path lies
+to the west.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+109
+leaves north~
+Exit
+1
+Smurfberry patch
+~
+~
+0
+-1
+117
+leaves east~
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+107
+leaves south~
+Exit
+3
+A stone path
+~
+~
+0
+-1
+113
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 109
+Name Smurfy Road~
+Desc A smurfy well lies here in the middle of Smurfy Road.  A fence separates
+the smurfs from harm to the north.  A berry patch is to the east.  Smurfy
+Road continues to to the south and west.
+~
+Room_flags 0
+Sector_type 1
+ExtraDesc
+smurfy well~
+A small well is here.  Just the right size if you're a smurf.  But big
+enough for you to get some water from.  I'm sure the smurfs wont mind.
+~
+Exit
+1
+Smurfberry Patch
+~
+~
+0
+-1
+118
+leaves east~
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+108
+leaves south~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+114
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 110
+Name Smurfy Road~
+Desc A corner of smurfy road is where you stand.  A smurfy fence blocks passage
+to the east or south.  A smurfy home is to the north.  Smurfy Road goes back
+to the west.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Home
+~
+~
+0
+-1
+119
+leaves north~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+105
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 111
+Name Smurfy Road~
+Desc Western corner of Smurfy Road.  You can continue to smurf down the road
+to the east and north.  You can also smurf into a smurfy home to the south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+112
+leaves north~
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+105
+leaves east~
+Exit
+2
+Smurfy Home
+~
+~
+0
+-1
+121
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 112
+Name Smurfy Road~
+Desc There's no place like smurf.  There's no place like smurf.  Sorry wrong
+movie.  A smurfy home is to the west.  Papa Smurf's backyard is to the
+north but you can't go there.  Smurfy Road continues to the south and
+east.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+106
+leaves east~
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+111
+leaves south~
+Exit
+3
+Smurfy Home
+~
+~
+0
+-1
+122
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 113
+Name Stone Path~
+Desc You are walking along a cute little stone path.  To the south lies Papa
+Smurf's house.  A Smurfy house is to the west.  Smurfy road is to the east.
+Everything is so peaceful here.  You could stay forever.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+108
+leaves east~
+Exit
+2
+Papa Smurf's House
+~
+door~
+1
+107
+125
+leaves south~
+Exit
+3
+Smurfy House
+~
+~
+0
+-1
+123
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 114
+Name Smurfy Road~
+Desc Yet another part of Smurfy Road.  Hey if you go west its the last
+section of Smurfy Road.  You can go back to the smurfy well to the east.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+109
+leaves east~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+115
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 115
+Name Smurfy Road~
+Desc The last piece of Smurfy Road.  You can go back to Smurfy Road to the east.
+A nice, beautiful, smurfy, mushroom home is to the south.  In the distance to
+the north you can see Gargamel's Castle.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Path to Gargamel's Castle
+~
+~
+0
+-1
+126
+leaves north~
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+114
+leaves east~
+Exit
+2
+Smurfy Home
+~
+~
+0
+-1
+124
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 116
+Name Smurfberry Patch~
+Desc Delicious smurfberries grow here.  You could probably eat a year's worth of
+smurfberries in one sitting.  Smurfy Road is back to the west.  Another
+smurfberry patch is to the north.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfberry Patch
+~
+~
+0
+-1
+117
+leaves north~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+107
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 117
+Name Smurfberry Patch~
+Desc Another patch of smurfberries is growing here.  The smell is driving your
+nostrils crazy.  It almost, ALMOST, makes you forget all the singing going
+on.  Smurfy Road is to the west, while smurfberry patches are to the north
+and south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfberry Patch
+~
+~
+0
+-1
+118
+leaves north~
+Exit
+2
+Smurfberry Patch
+~
+~
+0
+-1
+116
+leaves south~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+108
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 118
+Name Smurfberry Patch~
+Desc The northernmost of the smurfberry patches grows here.  It looks just
+as scrumptious as all the rest.  Just take a few; they'll never know.  Smurfy
+Road is to the west.  A smurfberry patch is to the south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+2
+Smurfberry Patch
+~
+~
+0
+-1
+117
+leaves south~
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+109
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 119
+Name Brainy Smurf's Home~
+Desc You rip the roof of the home to get a good look inside.  You see
+many smurfy books.  The print is so small you couldn't even read it
+with a magnifying glass.  I wonder if Brainy Smurf minds if you
+destroy his home?  Smurfy Road is back to the south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+110
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 120
+Name Handy Smurf's Home~
+Desc This home was well built.  Of course, until you rip it apart you big meany
+you.  Tools are all over the place.  Too small for you to use.  Smurfy Road is
+back to the west.
+~
+Room_flags 0
+Sector_type 1
+Exit
+3
+Smurfy Road
+~
+~
+0
+-1
+106
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 121
+Name Hefty Smurf's Home~
+Desc Hefty is anything but wimpy.  So is his house.  It actually took you a 
+couple of minutes to destroy his house.  Better watch out -- he might be
+a little mad at you.  Smurfy Road is back to the north.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+111
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 122
+Name Sleepy Smurf's Home~
+Desc Be vewy vewy quiet.  Sleepy Smurf is probably sleeping.  You see so many
+beds you can't even tell if he is here.  Maybe you should quietly go back to
+Smurfy Road to the east.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+112
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 123
+Name Grumpy Smurf's Home~
+Desc This is Grumpy Smurf's home.  He is pissed at you.  Of course, he is pissed
+at everyone.  So don't take it bad.  Maybe you'd better leave before he really
+gets mad.  Smurfy Road to the east is your only salvation.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+113
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 124
+Name Jokey Smurf's Home~
+Desc You pull the top of his house and it explodes in your face.  That Jokey
+Smurf, what a kidder.  You can hear his laughter as you wipe the ashes off
+your face.  You better get even.  Smurfy Road is to the north.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Smurfy Road
+~
+~
+0
+-1
+115
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 125
+Name Papa Smurf's Home~
+Desc It's the home of the leader of the smurfs.  Papa Smurf has a nicely decorated
+home.  He takes pride in his work.  You could get to know him or just squash
+him.  If Papa Smurf is not here he is probably at Smurfette's putting the
+moves on her.  A stone path lies to the north.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Stone Path
+~
+door~
+1
+107
+113
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 126
+Name Path to Gargamel's Castle~
+Desc You are walking along a path to Gargamel's Castle to the North.
+Smurfy Road lies to the south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Outside Gargamel's Castle
+~
+~
+0
+-1
+127
+leaves north~
+Exit
+2
+Smurfy Road
+~
+~
+0
+-1
+115
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 127
+Name Outside Gargamel's Castle~
+Desc You are standing outside Gargamel's Castle.  You can hear him screaming at
+Azreal from inside.  You can also him cursing out those wretched smurfs.
+His Castle is to the north while Smurfy Road is to the south.
+~
+Room_flags 0
+Sector_type 1
+Exit
+0
+Gargamel's Castle
+~
+door~
+1
+109
+128
+leaves north~
+Exit
+2
+Path to Gargamel's Castle
+~
+~
+0
+-1
+126
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 128
+Name Gargamel's Castle~
+Desc This is Gargamel's Castle.  His big black kettle is in the middle of the room.
+Where else would he put it?  The place has only one room.
+~
+Room_flags 0
+Sector_type 1
+Exit
+2
+Outside Gargamel's Castle
+~
+door~
+1
+109
+127
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 129
+Name Smurfette's House~
+Desc This house is conveniently next to Papa Smurfs.  Makes it easier for Papa
+Smurf to sneak over at night.  I hope he uses protection.  I would hate to
+have little smurfs running around.  The only exit is to the east.
+~
+Room_flags 0
+Sector_type 1
+Exit
+1
+Smurfy Road
+~
+~
+0
+-1
+107
+leaves east~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 101 spec_thief
+M 102 spec_thief
+M 103 spec_thief
+M 104 spec_thief
+M 105 spec_thief
+M 106 spec_thief
+M 107 spec_thief
+M 108 spec_thief
+M 109 spec_thief
+M 110 spec_cast_mage
+M 111 spec_cast_cleric
+M 112 spec_poison
+S
+
+
+
+#RESETS
+M 0 101 8 104 1
+G 0 102 0
+M 0 101 8 105 1
+M 0 101 8 107 1
+M 0 101 8 108 1
+G 0 102 0
+O 0 108 0 109
+M 0 101 8 109 1
+M 0 101 8 110 1
+G 0 102 0
+M 0 101 8 111 1
+M 0 101 8 112 1
+G 0 102 0
+M 0 102 3 116 1
+G 0 100 0
+M 0 102 3 117 1
+G 0 100 0
+M 0 102 3 118 1
+G 0 100 0
+M 0 103 1 119 1
+E 0 101 0 6
+M 0 104 1 120 1
+E 0 103 0 16
+M 0 106 1 121 1
+E 0 103 0 16
+M 0 105 1 122 1
+M 0 107 1 123 1
+M 0 108 1 124 1
+M 0 110 1 125 1
+G 0 105 0
+G 0 109 0
+M 0 111 1 128 1
+E 0 106 0 17
+M 0 112 1 128 1
+M 0 109 1 129 1
+E 0 104 0 3
+G 0 107 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

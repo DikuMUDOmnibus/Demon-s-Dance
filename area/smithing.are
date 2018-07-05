@@ -1,0 +1,723 @@
+#AREADATA
+Name Smithing~
+Builders Kenny Enzo~
+VNUMs 10000 10099
+Credits { ALL } Enzo    Smithing~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 10000
+Name hanzou master smith~
+Short Hanzou the Master Smith~
+Long Hanzou, Master Smith Extrodinare, is selling some raw materials here
+~
+Description ~
+Race human~
+Act_flags ABT
+Aff DFH
+Aff2 0
+Align 0
+Group 0
+Level 110
+Hitroll 2000
+Hit_dice 4000d4000+4000000
+Mana_dice 0d0+0
+Dam_dice 4000d4000+4000
+Dam_type grep
+Armor 500 500 500 500
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 10001
+Name forgemaster smith Maas shopkeeper~
+Short forging master Maas~
+Long Maas, Enrel's master blacksmith, is selling various forging materials
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff HV
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 999
+Hit_dice 1000d1000+1000
+Mana_dice 1000d1000+1000
+Dam_dice 1000d1000+1000
+Dam_type grep
+Armor -200 -200 -200 -200
+Off 0
+Teach A
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+MobTrig GRALL 10001 100~
+MobTrig GIVE 10002 9603~
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 10000
+Name gold ore nugget~
+Short a nugget of gold ore~
+Orig_short a nugget of gold ore~
+Desc A lumpy nugget of gold collects dust here~
+Material unknown~
+Item_type smith_ore
+Extra 0
+Wear A
+Values 0
+Level 0
+Weight 5
+Cost 7500
+Condition P
+EndObj
+
+#OBJ
+Vnum 10001
+Name furnace~
+Short a cast iron furnace~
+Orig_short a cast iron furnace~
+Desc A hulking furnace radiates intense heat here~
+Material unknown~
+Item_type smith_furnace
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10002
+Name hammer~
+Short a serviceable hammer~
+Orig_short a serviceable hammer~
+Desc A hammer hangs on the wall here, waiting to be used~
+Material unknown~
+Item_type smith_hammer
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10003
+Name barrel~
+Short a stout wooden barrel~
+Orig_short a stout wooden barrel~
+Desc A stout wooden barrel filled with cold water is here~
+Material unknown~
+Item_type smith_barrel
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10004
+Name grinder~
+Short a grind stone~
+Orig_short a grind stone~
+Desc A stone grinder shows signs of recent use~
+Material unknown~
+Item_type smith_grinder
+Extra O
+Wear P
+Values 0 0 0 0 0
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10005
+Name anvil~
+Short a solid iron anvil~
+Orig_short a solid iron anvil~
+Desc An immense iron anvil has seen countless smithing failures and successes~
+Material unknown~
+Item_type smith_anvil
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10006
+Name starfire ore~
+Short a lump of {cst{Ca{Yr{Cfi{cre {xore~
+Orig_short a lump of {cst{Ca{Yr{Cfi{cre {xore~
+Desc Some {cst{Ca{Yrf{Ci{cre{x ore is here~
+Material unknown~
+Item_type smith_ore
+Extra 0
+Wear A
+Values 0
+Level 0
+Weight 5
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10007
+Name steel lump refined~
+Short a lump of raw steel~
+Orig_short a lump of raw steel~
+Desc A dull lump of steel needs only a skilled craftsman to make it beautiful~
+Material unknown~
+Item_type smith_ore
+Extra 0
+Wear A
+Values 0
+Level 0
+Weight 5
+Cost 1500
+Condition P
+EndObj
+
+#OBJ
+Vnum 10008
+Name silver nugget~
+Short a nugget of silver~
+Orig_short a nugget of silver~
+Desc A bluish rock reminds you faintly of unrefined silver~
+Material unknown~
+Item_type smith_ore
+Extra 0
+Wear A
+Values 0
+Level 0
+Weight 5
+Cost 5000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10009
+Name bronze bar~
+Short a bar of bronze~
+Orig_short a bar of bronze~
+Desc A foot long bar of bronze is propped against the wall~
+Material unknown~
+Item_type smith_ore
+Extra 0
+Wear A
+Values 0
+Level 0
+Weight 5
+Cost 3000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10010
+Name platinum ingot~
+Short a platinum ingot~
+Orig_short a platinum ingot~
+Desc A valuable platinum ingot has been carelessly left here~
+Material unknown~
+Item_type smith_ore
+Extra 0
+Wear A
+Values 0
+Level 0
+Weight 5
+Cost 100000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10011
+Name elite harness~
+Short an Elite Harness~
+Orig_short an Elite Harness~
+Desc A metal girded harness lies here, belonging to a powerful warrior~
+Material unknown~
+Item_type sheath
+Extra 0
+Wear 0
+Values 1
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10012
+Name battle rig~
+Short a battle rig~
+Orig_short a battle rig~
+Desc A old, worn in battle rig is lying here~
+Material unknown~
+Item_type sheath
+Extra 0
+Wear 0
+Values 1
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10013
+Name steel arrow~
+Short a steel arrow~
+Orig_short a steel arrow~
+Desc A steel arrow is here, lying on the ground~
+Material unknown~
+Item_type arrow
+Extra 0
+Wear AO
+Values 0 5 8 0 0
+Level 1
+Weight 0
+Cost 100
+Condition P
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 10014
+Name bronze arrow~
+Short a bronze arrow~
+Orig_short a bronze arrow~
+Desc A bronze arrow lies on the ground, gleaming in the light~
+Material bronze~
+Item_type arrow
+Extra 0
+Wear AO
+Values 0 6 9 0 0
+Level 0
+Weight 0
+Cost 150
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 10015
+Name silver arrow~
+Short a silver arrow~
+Orig_short a silver arrow~
+Desc A silver arrow lies here, reflecting light from it's dull silver tip~
+Material unknown~
+Item_type arrow
+Extra 0
+Wear AO
+Values 0 8 11 0 0
+Level 0
+Weight 0
+Cost 200
+Condition P
+AffectObj
+18 2
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 10016
+Name gold arrow~
+Short a gold arrow~
+Orig_short a gold arrow~
+Desc A gold arrow is here, lying on the ground~
+Material unknown~
+Item_type arrow
+Extra 0
+Wear AO
+Values 0 10 13 0 0
+Level 0
+Weight 0
+Cost 300
+Condition P
+AffectObj
+18 3
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 10017
+Name platinum arrow~
+Short a platinum arrow~
+Orig_short a platinum arrow~
+Desc A platinum arrow lies on the ground, carelessly discarded~
+Material unknown~
+Item_type arrow
+Extra 0
+Wear AO
+Values 0 16 17 0 0
+Level 0
+Weight 0
+Cost 500
+Condition P
+EndObj
+
+#OBJ
+Vnum 10018
+Name starfire arrow~
+Short {cst{Ca{Yrf{Ci{cre{x arrow~
+Orig_short {cst{Ca{Yrf{Ci{cre{x arrow~
+Desc A {cst{Ca{Yrf{Ci{cre{x arrow has been left here~
+Material unknown~
+Item_type arrow
+Extra 0
+Wear AO
+Values 0 18 23 0 0
+Level 0
+Weight 0
+Cost 2500
+Condition P
+AffectObj
+18 5
+AffectObj
+19 5
+EndObj
+
+#OBJ
+Vnum 10019
+Name steel quiver~
+Short a quiver of steel arrows~
+Orig_short a quiver of steel arrows~
+Desc A quiver fulls of steel arrows is here~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 50 10013 5 0 0
+Level 0
+Weight 0
+Cost 6000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10020
+Name quiver bronze arrows~
+Short a quiver of bronze arrows~
+Orig_short a quiver of bronze arrows~
+Desc A quiver full of bronze arrows lies here~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 90 10014 6 0 0
+Level 0
+Weight 0
+Cost 15000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10021
+Name silver quiver~
+Short a quiver of silver arrows~
+Orig_short a quiver of silver arrows~
+Desc A quiver full of silver arrows is here~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 130 10015 7 0 0
+Level 0
+Weight 0
+Cost 27500
+Condition P
+EndObj
+
+#OBJ
+Vnum 10022
+Name quiver gold~
+Short a quiver of gold arrows~
+Orig_short a quiver of gold arrows~
+Desc A quiver full of gold arrows is lying here~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 170 10016 8 0 0
+Level 0
+Weight 0
+Cost 55000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10023
+Name platinum quiver~
+Short a quiver of platinum arrows~
+Orig_short a quiver of platinum arrows~
+Desc A quiver fulls of platinum arrows lies discarded on the ground~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 210 10017 9 0 0
+Level 0
+Weight 0
+Cost 120000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10024
+Name starfire quiver~
+Short a quiver of {cst{Ca{Yrf{Ci{cre{x arrows~
+Orig_short a quiver of {cst{Ca{Yrf{Ci{cre{x arrows~
+Desc A quiver full of {cst{Ca{Yrf{Ci{cre{x arrows~
+Material unknown~
+Item_type quiver
+Extra 0
+Wear AL
+Values 250 10018 10 0 0
+Level 0
+Weight 0
+Cost 650000
+Condition P
+EndObj
+
+#OBJ
+Vnum 10025
+Name moonstone sword stone~
+Short {CM{co{Co{wn{Ws{wt{Co{cn{Ce {cS{Cw{Wo{Cr{cd{x~
+Orig_short {CM{co{Co{wn{Ws{wt{Co{cn{Ce {cS{Cw{Wo{Cr{cd{x~
+Desc A moonstone lies on the ground, glowing slightly~
+Material moonstone~
+Item_type weapon
+Extra ACGI
+Wear AN
+Values sword 12 8 slash BJ
+Level 30
+Weight 4
+Cost 500000
+Condition P
+AffectObj
+18 8
+AffectObj
+19 8
+AffectObj
+3 3
+AffectObj
+4 3
+EndObj
+
+#OBJ
+Vnum 10026
+Name gold wedding ring~
+Short a demure golden wedding band~
+Orig_short a demure golden wedding band~
+Desc A precious golden wedding ring has fallen here, OH NO!~
+Material gold~
+Item_type armor
+Extra ABI
+Wear AB
+Values ADE ADE ADE ADE 0
+Level 1
+Weight 0
+Cost 1
+Condition P
+AffectObj
+115 5
+AffectObj
+103 5
+AffectObj
+19 10
+AffectObj
+18 15
+EndObj
+
+#OBJ
+Vnum 10099
+Name a small bunny~
+Short a small bunny, forged from shimmering {cst{Ca{Yrf{Ci{cre{x~
+Orig_short a small bunny, forged from shimmering {cst{Ca{Yrf{Ci{cre{x~
+Desc A small bunny hops playfully here~
+Material unknown~
+Item_type weapon
+Extra E
+Wear AN
+Values exotic 2000 20 lunge GJ
+Level 110
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 400
+AffectObj
+19 200
+AffectObj
+19 200
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 10000
+Name Smithing Workshop~
+Desc ~
+Room_flags 42500
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10001
+Name Midgaard Smithy~
+Desc This is the forge of Midgaard.  If you do NOT clean up after yourself,
+the forge will be closed.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+3257
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 10002
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+12336
+leaves south~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 10006 0 10000
+O 0 10004 0 10000
+O 0 10002 0 10000
+O 0 10005 0 10000
+O 0 10003 0 10000
+O 0 10001 0 10000
+M 0 10000 1 10001 1
+G 0 10010 0
+G 0 10009 0
+G 0 10008 0
+G 0 10007 0
+G 0 10000 0
+O 0 10005 0 10001
+O 0 10004 0 10001
+O 0 10003 0 10001
+O 0 10002 0 10001
+O 0 10001 0 10001
+O 0 10001 0 10002
+O 0 10002 0 10002
+O 0 10003 0 10002
+O 0 10004 0 10002
+O 0 10005 0 10002
+M 0 10001 1 10002 1
+S
+
+
+
+#SHOPS
+10000 46 46 46 46 46 100 30 0 23
+0
+
+
+
+#MOBPROGS
+#10001
+say Welcome, $n.
+I seem to be out of moonstone...
+say If you could bring me some to work with...
+say I would gladly pay you for your trouble.
+~
+#10002
+say Ahh, thank you $n!
+em heats up the furnace!
+em begins working with the moonstone.
+em has created a weapon from the moonstone!
+drop moonstone
+mob oload 10025
+give moonstone $n
+say Use it well.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

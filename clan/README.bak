@@ -1,0 +1,7 @@
+This is the clan directory, defined in merc.h
+by CLAN_DIR.  Clan files are stored in 2 places,
+here and in guild.dat.  I'm not sure which one
+is actually being used, but switching it to either
+one to suit your needs should be simple.
+
+DO NOT DELETE

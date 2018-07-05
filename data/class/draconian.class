@@ -1,0 +1,316 @@
+#CLASS
+Name draconian~
+WhoN Drc
+Prime 1
+Weapon 3701
+Guild1 3018
+Guild2 9618
+Skill 80
+Thac00 50
+Thac32 10
+HPMin 11
+HPMax 15
+FMana 1
+Remort 1
+Base draconian basics~
+Default draconian default~
+End
+#SKILLS
+skeleton dance~
+100 5
+runic scribing~
+70 3
+rune of warding~
+70 3
+exodus~
+90 5
+elemental wrath~
+80 2
+mind thrust~
+101 0
+mind blast~
+101 0
+mind crush~
+101 0
+thermonuclear blast~
+110 1
+reserved~
+0 0
+sneak~
+101 0
+hide~
+101 0
+acid blast~
+101 0
+cause critical~
+101 0
+cause light~
+101 0
+cause serious~
+101 0
+chain lightning~
+101 0
+chill touch~
+101 0
+colour spray~
+101 0
+control weather~
+101 0
+cure critical~
+101 0
+demonfire~
+101 0
+earthquake~
+101 0
+fireball~
+101 0
+flamestrike~
+101 0
+heal~
+101 0
+holy word~
+101 0
+mass healing~
+101 0
+ray of truth~
+101 0
+shocking grasp~
+101 0
+ventriloquate~
+101 0
+armor~
+10 1
+dragonfury~
+78 1
+bless~
+10 1
+blindness~
+101 1
+burning hands~
+7 1
+call lightning~
+20 1
+calm~
+50 1
+cancellation~
+40 1
+change sex~
+90 1
+charm person~
+50 1
+continual light~
+60 1
+cure blindness~
+10 1
+cure disease~
+20 1
+cure light~
+30 0
+cure poison~
+16 1
+cure serious~
+40 0
+curse~
+30 1
+create golem~
+90 3
+detect evil~
+11 1
+detect good~
+11 1
+detect hidden~
+11 1
+detect invis~
+11 1
+discern weakness~
+34 1
+dispel evil~
+30 1
+dispel good~
+30 1
+dispel magic~
+25 1
+enchant armor~
+50 1
+enchant weapon~
+70 1
+energy drain~
+17 1
+faerie fire~
+6 1
+faerie fog~
+50 1
+fireproof~
+15 1
+fly~
+20 1
+frenzy~
+20 1
+gate~
+15 1
+giant strength~
+2 1
+haste~
+10 1
+identify~
+4 1
+infravision~
+6 1
+invisibility~
+101 1
+know alignment~
+15 1
+lightning bolt~
+13 1
+locate object~
+32 1
+magic missile~
+1 1
+mass invis~
+56 1
+mystic sight~
+34 1
+nexus~
+78 1
+pass door~
+19 1
+plague~
+82 1
+portal~
+60 1
+protection evil~
+10 1
+protection good~
+10 1
+recharge~
+12 1
+refresh~
+12 1
+remove curse~
+14 1
+sanctuary~
+28 1
+shield~
+3 1
+sleep~
+11 1
+slow~
+11 1
+stone skin~
+26 1
+summon~
+54 1
+teleport~
+46 1
+weaken~
+11 1
+phase~
+18 4
+fireshield~
+20 2
+discern weakness~
+30 2
+find dragon~
+30 6
+sever~
+80 5
+venom lance~
+45 1
+thermonuclear blast~
+0 0
+acid breath~
+31 1
+fire breath~
+40 1
+frost breath~
+34 1
+gas breath~
+39 1
+lightning breath~
+37 1
+axe~
+1 0
+dagger~
+1 3
+flail~
+1 0
+mace~
+1 4
+polearm~
+1 0
+shield block~
+1 3
+spear~
+1 6
+sword~
+1 5
+axe~
+1 5
+flail~
+1 5
+polearm~
+1 5
+whip~
+1 4
+bow~
+1 0
+counter~
+40 6
+bash~
+10 3
+berserk~
+15 3
+dirt kicking~
+3 3
+disarm~
+22 4
+dodge~
+13 3
+enhanced damage~
+25 5
+envenom~
+20 4
+hand to hand~
+1 4
+kick~
+6 3
+parry~
+14 4
+rescue~
+30 3
+trip~
+12 4
+second attack~
+40 6
+third attack~
+74 8
+fourth attack~
+101 0
+whirlwind~
+50  0
+second cast~
+20 3
+third cast~
+75 5
+haggle~
+20 2
+forging~
+20 6
+meditation~
+1 3
+peek~
+101 0
+scrolls~
+1 2
+staves~
+1 2
+wands~
+1 2
+recall~
+1 2
+backstab~
+101 0
+elemental wrath~
+80 1
+End~
+#END

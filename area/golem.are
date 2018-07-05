@@ -1,0 +1,467 @@
+#AREADATA
+Name Golem~
+Builders Enzo~
+VNUMs 10100 10199
+Credits { ALL } Enzo    Golems~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 10100
+Name demon heart golem~
+Short a demon's heart~
+Orig_short a demon's heart~
+Desc A demon's heart lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values heart
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10101
+Name demon head golem~
+Short a demon's head~
+Orig_short a demon's head~
+Desc A demon's head lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values head
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10102
+Name demon leg golem~
+Short a demon's leg~
+Orig_short a demon's leg~
+Desc A demon's leg lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values leg
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10103
+Name demon arm golem~
+Short a demon's arm~
+Orig_short a demon's arm~
+Desc A demon's arm lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values arm
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10104
+Name knight heart golem~
+Short a knight's heart~
+Orig_short a knight's heart~
+Desc A knight's heart lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values heart
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10105
+Name knight head golem~
+Short a knight's head~
+Orig_short a knight's head~
+Desc A knight's head lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values head
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10106
+Name knight leg golem~
+Short a knight's leg~
+Orig_short a knight's leg~
+Desc A knight's leg lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values leg
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10107
+Name knight arm golem~
+Short a knight's arm~
+Orig_short a knight's arm~
+Desc A knight's arm lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values arm
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10108
+Name human heart golem~
+Short a human's heart~
+Orig_short a human's heart~
+Desc A human's heart lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values heart
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10109
+Name human head golem~
+Short a human's head~
+Orig_short a human's head~
+Desc A human's head lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values head
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10110
+Name human arm golem~
+Short a human's arm~
+Orig_short a human's arm~
+Desc A human's arm~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values arm
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10111
+Name human leg golem~
+Short a human's leg~
+Orig_short a human's leg~
+Desc A human's leg lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values leg
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10112
+Name harpy heart golem~
+Short a harpy's heart~
+Orig_short a harpy's heart~
+Desc A harpy's heart lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values heart
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10113
+Name harpy head golem~
+Short a harpy's head~
+Orig_short a harpy's head~
+Desc A harpy's head lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values head
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10114
+Name harpy leg golem~
+Short a harpy's leg~
+Orig_short a harpy's leg~
+Desc A harpy's leg lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values leg
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10115
+Name harpy arm golem~
+Short a harpy's arm~
+Orig_short a harpy's arm~
+Desc A harpy's arm is here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values arm
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10116
+Name dragon heart golem~
+Short a dragon's heart~
+Orig_short a dragon's heart~
+Desc A dragon's heart lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values heart
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10117
+Name dragon head golem~
+Short a dragon's head~
+Orig_short a dragon's head~
+Desc A dragon's head lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values head
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10118
+Name dragon leg golem~
+Short a dragon's leg~
+Orig_short a dragon's leg~
+Desc A dragon's leg lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values leg
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10119
+Name dragon arm golem~
+Short a dragon's arm~
+Orig_short a dragon's arm~
+Desc A dragon's arm lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values arm
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10120
+Name goblin heart golem~
+Short goblin heart~
+Orig_short goblin heart~
+Desc A goblin's heart lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values heart
+Level 1
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10121
+Name goblin head golem~
+Short goblin head~
+Orig_short goblin head~
+Desc A goblin's head lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values head
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10122
+Name goblin leg golem~
+Short goblin leg~
+Orig_short goblin leg~
+Desc A goblin's leg lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values leg
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10123
+Name goblin arm golem~
+Short goblin arm~
+Orig_short goblin arm~
+Desc A goblin's arm lies here~
+Material unknown~
+Item_type golem_part
+Extra 0
+Wear A
+Values arm
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 10100
+Name Golem Storage~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

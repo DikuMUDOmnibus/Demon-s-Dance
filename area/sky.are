@@ -1,0 +1,417 @@
+#AREADATA
+Name Sky~
+Builders None~
+VNUMs 20000 20150
+Credits (null)~
+Security 0
+End
+
+
+
+#MOBILES
+#20000
+Evil Cameraman~
+The Evil Cameraman~
+The Evil Cameraman zooms around crazily!
+~
+This cameraman seems normal at first, but all of a sudden he'll start
+shaking violently as he runs after random moving things while playing with
+the zoom.  
+~
+human~
+AGT 0 0 0
+100 160 150d150+9999 0d0+0 2d1000+0 thwack
+-50 -50 -50 -50
+DGHKN A 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJKZ medium unknown
+#20001
+screaming deadite undead~
+a screaming Deadite~
+A howling deadite wanders the forest in search of you!
+~
+Brought back by the evil book, the Necronomicon, this deadite is the
+undead soul of some hapless victim, tortured after death just as he was in
+life 
+~
+human~
+ACGT DF -700 0
+70 250 100d100+7500 0d0+0 20d20+75 chomp
+-40 -40 -40 -40
+EFIKN AM LQ N
+stand stand none 500
+AHMV ABCDEFGHIJKZ medium unknown
+#20002
+demonic possessed tree~
+A possessed tree~
+A demonic looking tree glares at you demonically
+~
+As you look, the evil tree looks up from the girl it was raping, then
+gets an angry look in his eye.  He starts waving his branches around and
+looks ready to fight.  Spooky.  
+~
+plant~
+AB J -500 0
+76 300 150d150+8000 0d0+0 75d20+80 beating
+-50 -25 -50 -15
+CDO 0 0 H
+stand stand none 0
+AH 0 large unknown
+F for MV
+F par ABCDEFGHIJKZ
+#0
+
+
+
+#OBJECTS
+#20000
+uber smasher~
+the {MU{Bb{ge{Gr{yS{Ym{ra{Rs{ch{Re{mr{x~
+The Ubersmasher is here. Isn't that special?~
+wood~
+weapon ABCGY AN
+mace 200 20 smash ABCE
+108 0 0 P
+#20001
+uberarmor uber armor~
+the {RU{bb{Ge{rr{BA{gr{Rm{bo{Gr{w~
+Behold the Uberarmor! Tremble before its might!~
+wood~
+armor ABCG AD
+CEFGHI CEFGHI CEFGHI CEFGHI 0
+108 0 0 P
+A
+17 -500
+#0
+
+
+
+#ROOMS
+#20000
+THE EVIL DEAD LAND (in progress)~
+Turn back!  TURN BACK!  The darkness and tortures of hell await you
+beyond this bridge!  
+~
+0 4 3
+D0
+~
+~
+0 0 20001
+D2
+~
+~
+0 0 6002
+S
+#20001
+A Dead Forest~
+An overwhelming sense of ill will permeates this wood.  The trees, tall
+and menacing, are all dead.  A cold wind blows all around.  The dead leaves
+and twigs crunch beneath you.  Ever so often, what sounds like a faint moan
+or scream reaches you, but is probably just your imagination.  Something
+about this place just seems wrong, as there are no signs of anything living
+visible anywhere.  
+~
+0 0 3
+D2
+~
+~
+0 0 20000
+S
+#20002
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20009
+D1
+~
+~
+0 0 20006
+D3
+~
+~
+0 0 20005
+S
+#20003
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20006
+D1
+~
+~
+0 0 20013
+S
+#20004
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20005
+S
+#20005
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20008
+D1
+~
+~
+0 0 20002
+D2
+~
+~
+0 0 20004
+S
+#20006
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20010
+D1
+~
+~
+0 0 20012
+D2
+~
+~
+0 0 20003
+D3
+~
+~
+0 0 20002
+S
+#20008
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20014
+D1
+~
+~
+0 0 20009
+D2
+~
+~
+0 0 20005
+S
+#20009
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20015
+D1
+~
+~
+0 0 20010
+D2
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20008
+S
+#20010
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20016
+D1
+~
+~
+0 0 20011
+D2
+~
+~
+0 0 20006
+D3
+~
+~
+0 0 20009
+S
+#20011
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20017
+D2
+~
+~
+0 0 20012
+D3
+~
+~
+0 0 20010
+S
+#20012
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20011
+D2
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20006
+S
+#20013
+~
+~
+0 0 0
+D0
+~
+~
+0 0 20012
+D3
+~
+~
+0 0 20003
+S
+#20014
+~
+~
+0 0 0
+D1
+~
+~
+0 0 20015
+D2
+~
+~
+0 0 20008
+S
+#20015
+~
+~
+0 0 0
+D1
+~
+~
+0 0 20016
+D2
+~
+~
+0 0 20009
+D3
+~
+~
+0 0 20014
+S
+#20016
+~
+~
+0 0 0
+D1
+~
+~
+0 0 20017
+D2
+~
+~
+0 0 20010
+D3
+~
+~
+0 0 20015
+S
+#20017
+~
+~
+0 0 0
+D2
+~
+~
+0 0 20011
+D3
+~
+~
+0 0 20016
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20001 40 20001 10
+M 0 20001 40 20001 10
+M 0 20001 40 20002 10
+M 0 20001 40 20002 10
+M 0 20001 40 20002 10
+M 0 20001 40 20003 10
+M 0 20001 40 20004 10
+M 0 20001 40 20004 10
+M 0 20001 40 20004 10
+M 0 20001 40 20005 10
+M 0 20001 40 20005 10
+M 0 20001 40 20006 10
+M 0 20001 40 20006 10
+M 0 20001 40 20008 10
+M 0 20001 40 20008 10
+M 0 20000 1 20009 1
+M 0 20001 40 20010 10
+M 0 20001 40 20010 10
+M 0 20001 40 20011 10
+M 0 20001 40 20012 10
+M 0 20001 40 20012 10
+M 0 20001 40 20013 10
+M 0 20001 40 20013 10
+M 0 20001 40 20013 10
+M 0 20001 40 20015 10
+M 0 20001 40 20015 10
+M 0 20001 40 20016 10
+M 0 20001 40 20016 10
+M 0 20001 40 20016 10
+M 0 20001 40 20016 10
+M 0 20001 40 20017 10
+M 0 20001 40 20017 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

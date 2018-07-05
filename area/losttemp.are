@@ -1,0 +1,2470 @@
+#AREADATA
+Name Lost Temple~
+Builders Akmaro~
+VNUMs 27100 27200
+Credits { 101 } Akmaro Lost Temple~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 27100
+Name statue apollo~
+Short a statue of Apollo~
+Long A crumbling statue of Apollo stands before you
+~
+Description This statue is ancient, and crumbling before you.  As you approach it,
+red eyes light up in the statue, and glare at you.  Some wizardry must be at
+work.  
+~
+Race gargoyle~
+Act_flags ABP
+Aff ET
+Aff2 0
+Align 500
+Group 0
+Level 50
+Hitroll 300
+Hit_dice 25d10+3000
+Mana_dice 100d100+100
+Dam_dice 3d10+12
+Dam_type claw
+Armor -100 -100 -100 -100
+Off 0
+Teach A
+Imm AL
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27101
+Name statue athena~
+Short a statue of Athena~
+Long A crumbling statue of Athena stands before you
+~
+Description ~
+Race gargoyle~
+Act_flags ABP
+Aff ET
+Aff2 0
+Align 500
+Group 0
+Level 50
+Hitroll 300
+Hit_dice 25d10+3000
+Mana_dice 100d100+100
+Dam_dice 3d10+12
+Dam_type claw
+Armor -100 -100 -100 -100
+Off 0
+Teach A
+Imm AL
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27102
+Name statue hermes~
+Short a statue of Hermes~
+Long A crumbling statue of Hermes stands before you
+~
+Description ~
+Race gargoyle~
+Act_flags ABP
+Aff ET
+Aff2 0
+Align 500
+Group 0
+Level 50
+Hitroll 300
+Hit_dice 25d10+3000
+Mana_dice 100d100+100
+Dam_dice 3d10+12
+Dam_type claw
+Armor -100 -100 -100 -100
+Off 0
+Teach A
+Imm AL
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27103
+Name statue aphrodite~
+Short a statue of Aphrodite~
+Long A crumbling statue of Aphrodite stands before you
+~
+Description ~
+Race gargoyle~
+Act_flags ABP
+Aff ET
+Aff2 0
+Align 500
+Group 0
+Level 50
+Hitroll 300
+Hit_dice 25d10+3000
+Mana_dice 100d100+100
+Dam_dice 3d10+12
+Dam_type claw
+Armor -100 -100 -100 -100
+Off 0
+Teach A
+Imm AL
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27104
+Name statue zeus~
+Short a statue of Zeus~
+Long A crumbling statue of Zeus stands before you
+~
+Description ~
+Race gargoyle~
+Act_flags ABP
+Aff ET
+Aff2 0
+Align 500
+Group 0
+Level 52
+Hitroll 320
+Hit_dice 30d10+3500
+Mana_dice 100d100+100
+Dam_dice 3d10+14
+Dam_type claw
+Armor -120 -120 -120 -120
+Off 0
+Teach A
+Imm AL
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27105
+Name statue hera~
+Short a statue of Hera~
+Long A crumbling statue of Hera stands before you
+~
+Description ~
+Race gargoyle~
+Act_flags ABP
+Aff ET
+Aff2 0
+Align 500
+Group 0
+Level 51
+Hitroll 310
+Hit_dice 30d10+3300
+Mana_dice 100d100+100
+Dam_dice 3d10+13
+Dam_type claw
+Armor -110 -110 -110 -110
+Off 0
+Teach A
+Imm AL
+Res EIQ
+Vuln FK
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 4500
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27106
+Name priest hooded dark figure zeus~
+Short a priest of Zeus~
+Long A priest of Zeus is here, shrouded in dark robes
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff O
+Aff2 0
+Align 700
+Group 0
+Level 65
+Hitroll 500
+Hit_dice 35d10+4000
+Mana_dice 1000d1000+1000
+Dam_dice 4d10+16
+Dam_type punch
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res J
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27107
+Name priestess hera~
+Short a priestess of Hera~
+Long A priestess of Hera is here, shrouded in dark robes
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff O
+Aff2 0
+Align 700
+Group 0
+Level 65
+Hitroll 500
+Hit_dice 35d10+4000
+Mana_dice 100d100+1000
+Dam_dice 4d10+16
+Dam_type punch
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27108
+Name priest hermes~
+Short a priest of Hermes~
+Long A priest of Hermes is here, shrouded in dark robes
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff O
+Aff2 0
+Align 700
+Group 0
+Level 65
+Hitroll 500
+Hit_dice 35d10+4000
+Mana_dice 100d100+1000
+Dam_dice 4d10+16
+Dam_type punch
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27109
+Name priestess aphrodite~
+Short a priestess of Aphrodite~
+Long A priestess of Aphrodite is here, shrouded in dark robes
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff O
+Aff2 0
+Align 700
+Group 0
+Level 65
+Hitroll 500
+Hit_dice 35d10+4000
+Mana_dice 100d100+1000
+Dam_dice 4d10+16
+Dam_type punch
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res B
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27110
+Name priest apollo~
+Short a priest of Apollo~
+Long A priest of Apollo is here, shrouded in dark robes
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff O
+Aff2 0
+Align 700
+Group 0
+Level 65
+Hitroll 500
+Hit_dice 35d10+4000
+Mana_dice 100d100+1000
+Dam_dice 4d10+16
+Dam_type punch
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 27111
+Name priestess athena~
+Short a priestess of athena~
+Long A priestess of Athena is here, shrouded in dark robes
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff O
+Aff2 0
+Align 700
+Group 0
+Level 65
+Hitroll 500
+Hit_dice 35d10+4000
+Mana_dice 100d100+1000
+Dam_dice 4d10+16
+Dam_type punch
+Armor -150 -150 -150 -150
+Off 0
+Teach A
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKZ
+Size medium
+Material unknown
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 27100
+Name shimmering blue portal gate~
+Short a {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x portal~
+Orig_short a {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x portal~
+Desc A {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x portal lies in the middle of the room~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EIJKN 0 0 DFGHILNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27101
+Name shimmering blue portal gate~
+Short a {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x portal~
+Orig_short a {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x portal~
+Desc A {Bs{bh{Bi{bm{Bm{be{Br{bi{Bn{bg {Bb{bl{Bu{be{x portal lies in the middle of the room~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EIJKN 0 0 ABCFGHILNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27102
+Name red portal shimmering~
+Short {Wa shimmering {Rr{re{Rd {rp{Ro{rr{Rt{ra{Rl{x~
+Orig_short {Wa shimmering {Rr{re{Rd {rp{Ro{rr{Rt{ra{Rl{x~
+Desc A shimmering {Rr{re{Rd {rp{Ro{rr{Rt{ra{Rl{x lies here in the middle of the room~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EIJKN 0 0 ACEFGHILNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27103
+Name shimmering red portal~
+Short {Wa shimmering {Rr{re{Rd {rp{Ro{rr{Rt{ra{Rl{x~
+Orig_short {Wa shimmering {Rr{re{Rd {rp{Ro{rr{Rt{ra{Rl{x~
+Desc A shimmering {Rr{re{Rd {rp{Ro{rr{Rt{ra{Rl{x lies here in the middle of the room~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EIJKN 0 0 CEFGHILNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27104
+Name priest holy robe zeus~
+Short holy robes of Zeus~
+Orig_short holy robes of Zeus~
+Desc The holy robes of Zeus lie here on the ground~
+Material unknown~
+Item_type armor
+Extra I
+Wear AK
+Values CE CE CE CE 0
+Level 65
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+4 2
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 27105
+Name robes holy hera~
+Short holy robes of Hera~
+Orig_short holy robes of Hera~
+Desc The holy robes of Hera are here, lying on the ground~
+Material unknown~
+Item_type armor
+Extra I
+Wear AK
+Values CE CE CE CE 0
+Level 65
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+3 2
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 27106
+Name robes hermes holy~
+Short holy robes of Hermes~
+Orig_short holy robes of Hermes~
+Desc The holy robes of Hermes lie on the ground~
+Material unknown~
+Item_type armor
+Extra I
+Wear AK
+Values CE CE CE CE 0
+Level 65
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+2 2
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 27107
+Name robes holy aphrodite~
+Short holy robes of Aphrodite~
+Orig_short holy robes of Aphrodite~
+Desc The holy robes of Aphrodite are here, lying on the ground~
+Material unknown~
+Item_type armor
+Extra I
+Wear AK
+Values CE CE CE CE 0
+Level 65
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+3 1
+AffectObj
+4 1
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 27108
+Name holy robe apollo~
+Short holy robes of Apollo~
+Orig_short holy robes of Apollo~
+Desc The holy robes of Apollo are here, lying on the ground~
+Material unknown~
+Item_type armor
+Extra I
+Wear AK
+Values CE CE CE CE 0
+Level 65
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+3 4
+EndObj
+
+#OBJ
+Vnum 27109
+Name holy robes athena~
+Short holy robes of Athena~
+Orig_short holy robes of Athena~
+Desc The holy robes of Athena are here, lying on the ground~
+Material unknown~
+Item_type armor
+Extra I
+Wear AK
+Values CE CE CE CE 0
+Level 65
+Weight 1
+Cost 10000
+Condition P
+AffectObj
+4 4
+EndObj
+
+#OBJ
+Vnum 27110
+Name portal olympus yellow shimmering~
+Short {Wa shimmering {Yy{ye{Yl{yl{Yo{yw {Yp{yo{Yr{yt{Ya{yl{x~
+Orig_short {Wa shimmering {Yy{ye{Yl{yl{Yo{yw {Yp{yo{Yr{yt{Ya{yl{x~
+Desc {Wa shimmering {Yy{ye{Yl{yl{Yo{yw {Yp{yo{Yr{yt{Ya{yl {Wlies here in the middle of the room~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EIJKN 0 0 CDEFGHILNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 27111
+Name shimmering yellow portal~
+Short {Wa shimmering {Yy{ye{Yl{yl{Yo{yw {Yp{yo{Yr{yt{Ya{yl{x~
+Orig_short {Wa shimmering {Yy{ye{Yl{yl{Yo{yw {Yp{yo{Yr{yt{Ya{yl{x~
+Desc {Wa shimmering {Yy{ye{Yl{yl{Yo{yw {Yp{yo{Yr{yt{Ya{yl {Wlies here in the middle of the room~
+Material unknown~
+Item_type portal
+Extra 0
+Wear P
+Values EIJKN 0 0 BDEFGHILNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 27100
+Name Entrance to the Lost Temple~
+Desc Before you is an ancient temple in the middle of the desert, of an age
+that you can't even begin to guess.  North leads into the temple.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27101
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27101
+Name Before the Hall of Forgotten Gods~
+Desc To the east and west are magnificent marble pillars, of a craftsmanship
+unrivalled even by the architecture of the Crystal Tower of Enrel.  The hall
+is bedecked with pictures of ancient, forgotten gods.  The entire hall has a
+timeless quality.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27102
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27100
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27102
+Name Hall of Forgotten Gods~
+Desc There are many statues of various forgotten gods here, covered in thick
+dust.  They are crumbling and in very bad shape, but still manage to portray
+the grandeur of their forgotten age.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27105
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27104
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27101
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27103
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27103
+Name Crumbling Altar of Apollo~
+Desc Before you is an altar for the Olympian God of Truth, Apollo.  It is now
+in disrepair, and obviously hasn't been used in many, many years.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27102
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27104
+Name Crumbling Altar of Athena~
+Desc Before you is the altar of the Goddess of Wisdom, Athena.  There are many
+layers of dust coating this altar.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27102
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27105
+Name Hall of Forgotten Gods~
+Desc Hanging on the walls are many beautiful tapestries, woven with intricate
+detail.  You are amazed that this place hasn't been looted by others
+visiting this place...  Some tragedy must have taken place to make it very
+quickly unused.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27108
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27107
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27102
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27106
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27106
+Name Crumbling Altar of Hermes~
+Desc Before you is the altar of the Messenger of the Gods, Hermes.  There is
+dried blood on the altar, but it's age is indeterminate, but clearly very
+old.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27105
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27107
+Name Crumbling Altar of Aphrodite~
+Desc Before you is the altar of Aphrodite, Goddess of Love.  It's in very bad
+shape.  Remnants of flowers left long ago are now merely piles of dust.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27105
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27108
+Name Hall of Forgotten Gods~
+Desc There are many finely sculted busts of the various Olympian Gods here,
+offering tribute to their strength and glory.  Part of the ceiling has
+fallen in here, allowing a glimpse of the sky in this dark place.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27111
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27110
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27105
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27109
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27109
+Name Crumbling Altar of Zeus~
+Desc Before you is the altar of Zeus, Lord of the Gods.  It was once very
+widely used, but now has gone unused for perhaps many centuries.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27108
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27110
+Name Crumbling Altar of Hera~
+Desc Before you is the altar of Hera, Goddess of the Hearth.  She is
+accredited with being the one that watches over the home, being the wife of
+Zeus.  Sadly, her altar has not been used in many centuries.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27108
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27111
+Name Obsidian Dome~
+Desc This room is a giant obsidian dome, with no visible markings on the
+jet-black walls at all...  Until suddenly fiery letters appear.  They are in
+an unknown language, and yet you are surprised that you know what they mean.
+Enter if you seek the home of the gods, but there is no turning back except
+for the path on which you came.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27108
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27112
+Name Obsidian Dome~
+Desc Further to the south lies the way to the gods, while the portal in the
+middle of this room while allow you to escape back to the Planes of Mortals.
+~
+Room_flags 4
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27113
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27113
+Name Before the Hall of Priests~
+Desc Candles are lined on the wall, casting eerie shadows into the hallway
+before you.  The Hall of Priests continues to the south, and there is a
+domed room to your north.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27112
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27114
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27114
+Name Hall of Priests~
+Desc You are standing at the beginning of the Hall of Priests.  Many pictures
+and sculptures of the gods line the walls of this room, and it appears as
+though no cost were spared in furnishing it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27113
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27121
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27115
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27118
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27115
+Name Hall of Priests~
+Desc Rich tapestries line the walls, depicting the historic battle of the gods
+against the Titans.  The tapestries are gold-trimmed but moth-eaten, and
+probably nowhere near their former value.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27114
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27122
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27116
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27119
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27116
+Name Hall of Priests~
+Desc Statues of the various gods of Olympus stand before you, carved from a
+beautiful dark blue marble.  Zeus stands above the other gods, wielding the
+legendary Aegis shield, and his lightning bolt.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27115
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27123
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27124
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27120
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27118
+Name Altar of Zeus~
+Desc Before you is the Altar of Zeus, Lord of the Gods.  A strange aura fills
+this room, and you can almost sense the presence of the god himself,
+accepting libations at his altar.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27114
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27119
+Name Altar of Hermes~
+Desc Before you is the altar of Hermes, messenger of the gods.  There is blood
+trickling down from the altar, as though a sacrifice were made recently.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27115
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27120
+Name Altar of Apollo~
+Desc Before you is the altar of Apollo, God of Truth.  You feel
+self-conscience, as though there is an entity in the room with you reading
+your inner-most thoughts.  There is congealed blood on the altar.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27116
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27121
+Name Altar of Hera~
+Desc Before you is the altar of Hera, Wife of Zeus.  There is a strange
+presence in this room, almost as though there are eyes boring into the back
+of your neck.  It is very unsettling.  The altar has fresh blood on it, as
+though a sacrifice were made recently.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27114
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27122
+Name Altar of Aphrodite~
+Desc Before you is the altar of Aphrodite, Goddess of Love.  You seem a
+strange sense of peace and love in this room, but also feel strangely vain
+and selfish.  There is a bouquet of flowers lying on the altar before you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27115
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27123
+Name Altar of Athena~
+Desc Before you is the altar of Athena, Goddess of Wisdom.  You feel a strange
+wisdom permeating throughout you, as though there is some unseen source of
+knowledge filling your mind.  Blood slowly congeals in a pool on the ground
+as it drips off the altar.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27116
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27124
+Name Crystal Dome~
+Desc Your reflection is twisted and distorted into thousands of different
+shapes in this room.  The dome is made of a white, reflective crystal
+material.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27116
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27125
+Name Crystal Dome~
+Desc The light flickers and dances in this room as the thousands of crystals
+on the wall warp and bend the light.  This room is shaped like a dome, and
+made of a reflective white crystal material.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27126
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27126
+Name Hallway to the Gods~
+Desc Whispers can be heard directly behind you, and yet nobody is there.  The
+hall is made of a stone with a bluish hue, and all light reflected down the
+hall also returns back as a light blue.  Exits lie to the north and south.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27127
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27125
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27127
+Name Hallway to the Gods~
+Desc Engraved on the wall here is the epic battle between the Frost Giants and
+the gods of Asgard.  The hall continues to the north and south.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27128
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27126
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27128
+Name Hallway to the Gods~
+Desc Engraved on the wall here is the legendary battle between the Titans and
+the gods of Olympus.  The hall continues to the north and south.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27129
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27127
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27129
+Name Branch in the Hallway~
+Desc Before you is the branch in the Hallway of the Gods, each leading to
+different homes of the gods.  Mount Olympus lies to the west, and Asgard
+lies to the east.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27131
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27128
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27130
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27130
+Name Portal to Mount Olympus~
+Desc Before you lies a portal to Olympus, home of the Greek gods.  Caution is
+advised to the weary traveller, the gods do not appreciate intruders into
+their home.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27129
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27131
+Name Portal to Valhalla~
+Desc Before you lies a portal to Asgard home of the Norse Gods, the Aesir. 
+Caution is advised to the weary traveller, the gods do not appreciate
+intruders into their home.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+27129
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27132
+Name Entrance to Mount Olympus~
+Desc Before you is Mount Olympus, home of the Gods.  It sounds like there is a
+grand party going on ahead.  The only way back is through the portal which
+you entered.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27133
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27133
+Name Main Hall of Olympus~
+Desc This is the main hall of Olympus.  It is finely decorated with gold and
+gems, and the floor seems to be made of glass, allowing you to see the world
+below you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27138
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27136
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27132
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27134
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27134
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27139
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27133
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27135
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27135
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27140
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27134
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27136
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27141
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27137
+leaves east~
+Exit
+3
+~
+~
+0
+0
+27133
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27137
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27142
+leaves north~
+Exit
+3
+~
+~
+0
+0
+27136
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27138
+Name Main Hall of Olympus~
+Desc You continue along the main hall.  The ceiling and floors both seem to be
+made of a very solid glass, allowing you to see in every direction.  The
+skies are blue, and the sun is shining overhead.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27143
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27141
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27133
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27139
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27139
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27144
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27138
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27134
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27140
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27140
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27145
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27139
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27135
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27141
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27149
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27142
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27136
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27138
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27142
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27150
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27137
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27141
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27143
+Name Main Hall of Olympus~
+Desc This is the main hall of Olympus.  A painting of the epic battle between
+the Titans and the gods is embedded into the glass walls, making it appear
+to be floating in mid-air.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27148
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27149
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27138
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27144
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27144
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27147
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27143
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27139
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27145
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27145
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27146
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27144
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27140
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27146
+Name Western Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27156
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27147
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27145
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27147
+Name Western Halls of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27155
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27148
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27144
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27146
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27148
+Name Main Hall of Olympus~
+Desc You are following the main hall of Olympus.  Sounds of laughter and
+partying can be heard all around you.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27154
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27153
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27143
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27147
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27149
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27153
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27150
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27141
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27143
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27150
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27152
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27142
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27149
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27151
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27152
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27158
+leaves north~
+Exit
+2
+~
+~
+0
+0
+27150
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27153
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27153
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+27157
+leaves north~
+Exit
+1
+~
+~
+0
+0
+27152
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27149
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27148
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27154
+Name Main Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27157
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27148
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27155
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27155
+Name Western Halls of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27154
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27147
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27156
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27156
+Name Western Halls of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27155
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27146
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27157
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+27158
+leaves east~
+Exit
+2
+~
+~
+0
+0
+27153
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27154
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 27158
+Name Eastern Hall of Olympus~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+27152
+leaves south~
+Exit
+3
+~
+~
+0
+0
+27157
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 27100 spec_cast_undead
+M 27101 spec_cast_undead
+M 27102 spec_cast_undead
+M 27103 spec_cast_undead
+M 27104 spec_cast_undead
+M 27105 spec_cast_undead
+M 27106 spec_cast_mage
+M 27108 spec_cast_mage
+M 27109 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 27100 1 27103 1
+M 0 27101 1 27104 1
+M 0 27102 1 27106 1
+M 0 27103 1 27107 1
+M 0 27104 1 27109 1
+M 0 27105 1 27110 1
+O 0 27100 0 27111
+O 0 27101 0 27112
+M 0 27106 1 27118 1
+E 0 27104 0 12
+M 0 27108 1 27119 1
+E 0 27106 0 12
+M 0 27110 1 27120 1
+E 0 27108 0 12
+M 0 27107 1 27121 1
+E 0 27105 0 12
+M 0 27109 1 27122 1
+E 0 27107 0 12
+M 0 27111 1 27123 1
+E 0 27109 0 12
+O 0 27102 0 27124
+O 0 27103 0 27125
+O 0 27110 0 27130
+O 0 27111 0 27132
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,2178 @@
+#AREADATA
+Name Darkness Spire~
+Builders Darkseer~
+VNUMs 26800 26999
+Credits { 101 } DarkSeer Darkness Spire~
+Security 1
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 26800
+Name Imp evil ~
+Short An imp~
+Long An evil little imp runs about operating the machinery
+~
+Description A little imp runs back and forth here, watching over the machinery to make sure nothing happens.
+~
+Race hobgoblin~
+Act_flags ABPRS
+Aff JVc
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 450
+Hit_dice 500d550+450000
+Mana_dice 20d20+4000
+Dam_dice 25d23+69
+Dam_type warp
+Armor 255 255 270 300
+Off FH
+Teach A
+Imm AM
+Res HLQ
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26801
+Name vampire exist non nonexist~
+Short Vampyr~
+Long A vampire that no longer exists floats here, watching you with bloodthirsty eyes
+~
+Description ~
+Race vampire~
+Act_flags AP
+Aff CGHJTV
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type warp
+Armor 0 0 0 0
+Off FHK
+Teach A
+Imm AM
+Res FIT
+Vuln EHN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJKYZ
+Size medium
+Material unknown
+EndMob
+
+#MOB
+Vnum 26802
+Name fallen angel~
+Short The {OF{Oa{Ol{Ol{Oe{On {OA{On{Og{Oe{Ol{x~
+Long A {OF{Oa{Ol{Ol{Oe{On {OA{On{Og{Oe{Ol{x is floating here with its bloody wings.
+~
+Description It watches you with an eerie glance, as if trying to force you to a conflict...
+~
+Race human~
+Act_flags ABP
+Aff HVZ
+Aff2 0
+Align 0
+Group 0
+Level 101
+Hitroll 700
+Hit_dice 50d50+10000000
+Mana_dice 0d0+0
+Dam_dice 16d24+4
+Dam_type wrath
+Armor 200 200 200 200
+Off FGHK
+Teach A
+Imm AM
+Res GH
+Vuln FN
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 40000
+Form 0
+Parts 0
+Size large
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 26803
+Name cruel binded soul experiment~
+Short The {OB{Oi{On{Od{Oe{Od {OS{Oo{Ou{Ol{x~
+Long The result of a cruel experiment is here, bound to the room.
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff HV
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 500
+Hit_dice 50d500+7000000
+Mana_dice 0d0+0
+Dam_dice 10d15+20
+Dam_type digestion
+Armor 140 130 140 200
+Off DFGH
+Teach A
+Imm AM
+Res G
+Vuln F
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 26804
+Name demented mage~
+Short The {OD{Oe{Om{Oe{On{Ot{Oe{Od {OM{Oa{Og{Oe{x~
+Long A {OD{Oe{Om{Oe{On{Ot{Oe{Od {OM{Oa{Og{Oe{x is here, trying to bring about Apocalypse.
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff HV
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 700
+Hit_dice 50d500+12000000
+Mana_dice 0d0+0
+Dam_dice 15d25+2
+Dam_type magic
+Armor 100 150 170 200
+Off DFGH
+Teach A
+Imm AHM
+Res GI
+Vuln F
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#MOB
+Vnum 26805
+Name frozen unforeseen eye guardian~
+Short The {OG{Ou{Oa{Or{Od{Oi{Oa{On{x~
+Long A guardian of the Unforeseen Eye is here, wielding his frozen blade.
+~
+Description ~
+Race human~
+Act_flags ABP
+Aff HV
+Aff2 0
+Align -1000
+Group 0
+Level 101
+Hitroll 700
+Hit_dice 50d500+14000000
+Mana_dice 0d0+0
+Dam_dice 25d20+5
+Dam_type wrath
+Armor 150 160 170 200
+Off FHK
+Teach A
+Imm AIM
+Res G
+Vuln FH
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Ffor AHMV
+Fpar ABCDEFGHIJKZ
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 26800
+Name fountain dried ~
+Short A dried up fountain~
+Orig_short A dried up fountain~
+Desc A dried up fountain is here, eroded from the flow it used to produce.~
+Material stone~
+Item_type container
+Extra 0
+Wear 0
+Values 30 E 0 10 10
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26801
+Name twisted key~
+Short a twisted key~
+Orig_short a twisted key~
+Desc A key, twisted and bent, lies here.~
+Material steel~
+Item_type key
+Extra A
+Wear A
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26802
+Name machine~
+Short a machine~
+Orig_short a machine~
+Desc A machine is here, spewing out equipment every few minutes.~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26803
+Name fire pit ~
+Short fire pit~
+Orig_short fire pit~
+Desc A pit of fire is here, heating the equipment which is forged in the machinery.~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26804
+Name recycle useless bin~
+Short a large bin~
+Orig_short a large bin~
+Desc A large bin is here, which the failed equipment from the machines is dumped for later usage.~
+Material unknown~
+Item_type container
+Extra 0
+Wear 0
+Values 10000 0 0 10 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26805
+Name Alien Blade~
+Short The {GA{glien {RB{rlade{x~
+Orig_short The {GA{glien {RB{rlade{x~
+Desc The {GA{glien {RB{rlade{W of Myth is here, dripping its poison{x~
+Material unknown~
+Item_type weapon
+Extra Y
+Wear AN
+Values sword 11 12 slice EHK
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+AffectObj
+110 1
+EndObj
+
+#OBJ
+Vnum 26806
+Name no name~
+Short (no short description)~
+Orig_short (null)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26807
+Name statue exist non aura dark~
+Short Statue of Non-existence~
+Orig_short Statue of Non-existence~
+Desc The statue, depicting a robed figure which bathes in the aura of non-existance, and the dripping blood.~
+Material unknown~
+Item_type fountain
+Extra C
+Wear 0
+Values 0 0 'blood' 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26808
+Name bent arcane archaic portal red evil~
+Short The Arcane Portal~
+Orig_short The Arcane Portal~
+Desc The Arcane Portal, of 2 spikes bent in a crossing pattern, with a red shimmer in the center.~
+Material unknown~
+Item_type portal
+Extra AC
+Wear 0
+Values 0 0 A CDEFHLNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26809
+Name arcane bent spikes portal red evil~
+Short The Arcane Portal~
+Orig_short The Arcane Portal~
+Desc The Arcane Portal, of 2 spikes bent in a crossing pattern, with a red shimmer in the center.~
+Material unknown~
+Item_type portal
+Extra AC
+Wear 0
+Values 0 0 A ACGHLNO 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26810
+Name quest token~
+Short a {Y200 {CQP {MQ{Gu{Re{Bs{Yt {Dt{Wo{wk{ye{bn{x~
+Orig_short a {Y200 {CQP {MQ{Gu{Re{Bs{Yt {Dt{Wo{wk{ye{bn{x~
+Desc Someone dropped a quest token!! GET IT!!!~
+Material unknown~
+Item_type pill
+Extra 0
+Wear A
+Values 101 'change sex' 'plague' 'blindness' 'acid blast'
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26811
+Name Apocalypse Apocalyptic Belt~
+Short {RT{rh{Re {rB{Re{rl{Rt {rO{Rf {rA{Rp{ro{Rc{ra{Rl{ry{Rp{rs{Re{x~
+Orig_short {RT{rh{Re {rB{Re{rl{Rt {rO{Rf {rA{Rp{ro{Rc{ra{Rl{ry{Rp{rs{Re{x~
+Desc {RT{rh{Re {rB{Re{rl{Rt {rO{Rf {rA{Rp{ro{Rc{ra{Rl{ry{Rp{rs{Re{x  lies here, soaking in its own aura of darkness...~
+Material unknown~
+Item_type armor
+Extra AE
+Wear AL
+Values DGH DGH DGH DGH 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 15
+AffectObj
+19 15
+AffectObj
+13 -50
+AffectObj
+19 30
+EndObj
+
+#OBJ
+Vnum 26812
+Name well portal red glimmer~
+Short A Portal~
+Orig_short A Portal~
+Desc A glowing well is here, drenched in a aura of darkness.~
+Material unknown~
+Item_type portal
+Extra A
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26813
+Name frostmourne~
+Short {CFr{cos{Btm{bou{Brn{ce{x~
+Orig_short {CFr{cos{Btm{bou{Brn{ce{x~
+Desc The accursed {CFr{cos{Btm{bou{Brn{ce{x lies here...~
+Material cursed steel~
+Item_type weapon
+Extra EJ
+Wear AN
+Values sword 16 20 slash BEJ
+Level 101
+Weight 30
+Cost 10000
+Condition P
+AffectObj
+13 100
+AffectObj
+19 20
+AffectObj
+18 20
+AffectObj
+101 5
+EndObj
+
+#OBJ
+Vnum 26814
+Name soul bind ring~
+Short {OR{Oi{On{Og {OO{Of {OA {OB{Oi{On{Od{Oe{Od {OS{Oo{Ou{Ol{x~
+Orig_short {OR{Oi{On{Og {OO{Of {OA {OB{Oi{On{Od{Oe{Od {OS{Oo{Ou{Ol{x~
+Desc The {OR{Oi{On{Og {OO{Of {OA {OB{Oi{On{Od{Oe{Od {OS{Oo{Ou{Ol{x lies here, waiting its next victim.~
+Material unknown~
+Item_type armor
+Extra EM
+Wear AB
+Values BCDE BCDE BCDE BEF 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+18 15
+AffectObj
+19 15
+AffectObj
+13 50
+EndObj
+
+#OBJ
+Vnum 26815
+Name no name~
+Short (no short description)~
+Orig_short (null)~
+Desc (no description)~
+Material unknown~
+Item_type weapon
+Extra 0
+Wear 0
+Values exotic 0 0 none 0
+Level 0
+Weight 0
+Cost 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 26816
+Name flesh fallen angel~
+Short {OT{Oh{Oe {OF{Ol{Oe{Os{Oh {OO{Of {OA {OF{Oa{Ol{Ol{Oe{On {OA{On{Og{Oe{Ol{x~
+Orig_short {OT{Oh{Oe {OF{Ol{Oe{Os{Oh {OO{Of {OA {OF{Oa{Ol{Ol{Oe{On {OA{On{Og{Oe{Ol{x~
+Desc {OT{Oh{Oe {OF{Ol{Oe{Os{Oh {OO{Of {OA {OF{Oa{Ol{Ol{Oe{On {OA{On{Og{Oe{Ol{x lies here, rotting.~
+Material unknown~
+Item_type armor
+Extra W
+Wear AK
+Values CDEFHJ CDEFHJ CDEFHJ CDEFHJ 0
+Level 101
+Weight 0
+Cost 0
+Condition P
+AffectObj
+104 6
+AffectObj
+5 6
+AffectObj
+1 6
+AffectObj
+12 500
+AffectObj
+14 500
+AffectObj
+18 45
+AffectObj
+19 45
+AffectObj
+13 200
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 26800
+Name Before The {RS{rpire {RO{rf {RD{rarkness{x~
+Desc After a long journey through the unknown, you have stumbled into an
+ancient tower.  A feeling of evil and malice surround this darkened place,
+filling you with dread.  The smell of decay is present, but not very strong,
+but it is almost certain to become potent Upon entering this forboding
+place.  The Spire reaches tall into the sky, filling the heavens with a dark
+sensation.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26801
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26801
+Name Archway~
+Desc You stand before a large archway, embroidered with skulls of would-be
+explorers.  The walls are a dark, basalt like color, making this tower seem
+as if it came from the very bowels of the earth.  You sense the presence of
+evil, the presence of the demonic forces, and the presence of the undead. 
+Something about this tower makes you wish to turn back, but a feeling of
+what lies inside overcomes you.  The gateway in the arch swings in the wind,
+making you realize the gates unlocked.  Almost as if inviting you in.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+26802
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26800
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26802
+Name The Garden Path Before The Spire~
+Desc The pathway is made from concrete, as in any other place, but the fauna around is dead, decayed, 
+yet, still seemingly alive. The Spire looms just ahead, and another pathway leads off along the
+side of the Spire.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+26801
+26805
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26803
+leaves east~
+Exit
+2
+~
+~
+1
+0
+26801
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26803
+Name Garden Path Along The Spire~
+Desc The grass, weeds and twigs from the nearby dead trees crunch under your
+feet.  The Spire is round, no windows can be seen, and the pathway continues
+through the hedges and bushs , even though they are dead, they still provide
+a challenge to get through.  A long dried up fountain resides in the center
+of the path, no longer useful.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26804
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26802
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26804
+Name Garden Path~
+Desc The pathway ends here, a pile of dead bushes and trees has been tossed
+here, blocking you from passing by.  Nothing is left but to turn back
+towards the front of this forboding terror.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26803
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26805
+Name The Foyer~
+Desc The moment you step inside this nightmare, you gag on the smell of
+rotting flesh.  After a few seconds you come to resist it, and notice your
+surroundings.  Straight ahead of you is a Stairway, twisting and turning up
+to a higher floor that is probbaly just as rancid and disgusting as this
+one.  Blood stains on the floor, walls, and ceiling.  Old peeling skin,
+probably maintained by magic to keep it from decaying is used as wallpaper. 
+Whoever built this terror, whoever is responsible for the carnage that took
+place...  Is a very sick person.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26806
+leaves east~
+Exit
+2
+~
+~
+1
+0
+26802
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26807
+leaves west~
+Exit
+4
+~
+~
+0
+0
+26821
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26806
+Name Hall~
+Desc A hallway stretches out along the lower east part of the Spire. Skin still lines the wall, and blood is 
+present here also. The hallway has a carpet though, barely stained by the spilt blood.
+Oil lamps line the walls, keeping the place well lit, but still gloomy and damp.
+the hall continues east, with some doors along the walls.
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26818
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26819
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26805
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26807
+Name Hall~
+Desc The decorations, of peeling skin and blood drenched nightmares, till
+slide along the walls.  Fear consumes you as you contemplate on what could
+have caused this much carnage.  The hall stretches on in either direction,
+along a red, tattered, carpet which seems to last eternally.  The hall
+branches to the north under a rust-red steel archway, from which an immense
+heat can be felt slowly creeping from the path.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26808
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26805
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26813
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26808
+Name Foundry of Kyt'Lu~
+Desc After passing the archway, you stand before a large factory, machinery
+churning out weapons, armor, shields line the walls, little imps run back
+and forth, managing the machines.  It glows from the open fire in the center
+of the room, of which the objects are heated, tempered, on the forge.  The
+heat here is enough to make you hallucinate, but you persevere, to enter the
+forge?  Or to turn back?  
+~
+Room_flags 0
+Sector_type 0
+ExtraDesc
+machine~
+You look at the machine, which is busy producing mass quantities of
+equipment for the foul inhabitants of this Spire.  You peek around it,
+trying to learn it secrets, but to no avail.  You open a hatch and look
+inside of the contraption.  You see the heated steel slide down a belt, then
+poured into a mold.  After a few minutes the mold tilts, dropping the newly
+created equipment onto the belt, which is then carried to the bin outside. 
+Fascinating machinery.  
+~
+Exit
+0
+~
+~
+0
+0
+26811
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26809
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26807
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26810
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26809
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+3
+~
+~
+0
+0
+26808
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26810
+Name Storage~
+Desc You have entered the storage warehouse, in which the equipment from the
+forge nearby is stored.  Crates line the walls of this high-cieling room,
+most likely filled with powerful equipment.  But, alas, it would be
+impossible to break the crates, since they were forged from shimmering
+{cst{Ca{Yrf{Ci{cre{w.  One crate stands out though, it has a padlock, also
+forged from {cst{Ca{Yrf{Ci{cre{w.  Go figure, eh? 
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26808
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26811
+Name Kyt'Lu's Office~
+Desc You are standing in Kyt'Lu's Office, which is cluttered with forms, stock
+lists, and other stuff to keep track of the equipment in the foundry. 
+Torturing implements lie scattered around, use on the imps who slack off
+during work, or just whenever Kyt'Lu gets bored.  A cluttered desk sits in
+the back of his office.  And of course, the skin-decorated walls line this
+office, showing that perhaps everything has a sick sense of style and
+decoration.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26808
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26812
+Name Archaic Portal~
+Desc After a nice, strangely relaxing and quick teleportation from the
+portals, you appear in another pathway suspended in the darkness.  A basalt
+floor, with the same glowing symbols as the last room, its almost exactly
+the same.  Except for one noticeable difference, you can hear muttering,
+chanting, rhythmic beats from farther down the pathway.  It appears this
+floor is used for the study of the rituals of evil.  You are now deeper in
+the heart of the Spire, the dread and fear creep over you, as you anticipate
+whats next to come.  
+~
+Room_flags 4
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26822
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26813
+Name Farther into the Hallway~
+Desc You seem to be following the carpet for an eternity, each minute passes
+by slowly, and the darkness that envelops this place slowly creeps over you.
+Another carpet, rolled over the old, tattered one, goes under a chandelier
+of skin, bone, blood, and an unnerving smell.  The carpet follows a small
+hall to the north, then rolls under a doorway, a steel door with a small
+window, which is blocked by bars.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+1
+0
+26814
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26807
+leaves east~
+Exit
+3
+~
+~
+0
+0
+26815
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26814
+Name Room of Non-Existance~
+Desc The moment you enter this room, you have this highly unnerving feeling. 
+As if, you are no longer.  Darkness as far as you can see, the carpet you
+came in on seems to spread out into the space.  Its saddening, to think that
+everything you have killed in your quest for power, ends up like this. 
+Floating in nothing, with the sense that you are no longer, that you'll
+never see anything you cherish.  You float, endlessly into the space, the
+void creeps over you and grasps you.  But, then you realize, you are not
+dead, you still exist and just wandered into the wrong place.  Just as you
+think this, you exist, on the carpet, just before the void.  It's a chilling
+thought to think that everything ends up like this, but its settling to know
+that everything was also created from this.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+1
+0
+26813
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26815
+Name Darkened Hallway~
+Desc The hallway is continued like the rest, carpet, skin walls, but the walls
+seem to give off a radiation.  It's like the opposite of something glowing,
+anything around it grows darker, instead of brighter.  It covers the
+hallway, to the point where you can barely see in front of you.  You stare
+down, slowly moving forward and watching the carpet, so that you know if
+theres a trap, or it ends.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26813
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26816
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26817
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26816
+Name Archaic Dome~
+Desc You stumble out of the darkness into a large, well-lit dome-styled
+structure.  The architecture, design, decorations, its all brilliantly done!
+The cieling of the dome is elevated an approximate 300 feet from the floor. 
+It is mostly stained glass depicting the burning hells, and its minions
+pouring forth into the realm of Midgaard, siezing the population, and
+destroying them in a sacrificial manor, its gruesome, the demons, which seem
+to have been spawned from the darkest of your nightmares flood the streets,
+the city lies in ruins, and the world is engulfed in a burning flame.  The
+picture was perfectly drawn, and its only flaw are the old pieces, which
+have crumbled over time.  The walls, lined with pictures much of the same
+style of the stained glass on the cieling, but also stained with blood,
+bodies, preserved by magic, are nailed to the wall, and bones, arranged into
+many archaic and satanic styles, hang from hooks imbedded in the walls.  The
+floor is a black, smooth basalt floor, which lacks decoration, but was
+perfectly carved.  The center of the dome is the most awe-inspiring piece of
+this room as of yet, a large statue, with blood pouring from crevices along
+it, show the gruesome form shown in many of the pictures that surround you,
+of a robed figure which seems to have an aura of the non-existing
+surrounding it.  Its amazing, and very unsettling.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26815
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26817
+Name End of The West Hall~
+Desc Everything just abruptly stops right here.  The carpet, even though
+tattered and old, that covered the floor is against the wall in a bundle,
+the skin wallpaper ends at the dead end, everything, is just stopped by a
+huge basalt wall in front of you.  Its lodged in tight in and won't budge. 
+As you turn though, the wall slightly glows, and for a brief instant, a red
+blazing pentagram appears in the center of the wall, then vanishes.  Just
+another mystery to add to this forsaken Spire.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26815
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26818
+Name Room of Cages~
+Desc You notice one thing about this room right off, its lined with cages. Snarling beasts, wicked monsters, and
+violent experiments are caged here, only to be released if the Spire was invaded. Since, you count as no
+threat to the evils that surround this darkened Spire of Hell, the cages remain sealed. Rust has crept
+over the bars, but they still hold strong. Except for one, which is rattling and shaking.
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26806
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26819
+Name Eastern Hall~
+Desc The tattered, worn carpet still covers the floor, illuminated by the glow
+of the torches along the wall.  The skin wallpaper is in direct heat, but is
+not even being distorted by it.  The hallway is long and large, yet creepy
+and lonely.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26820
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26806
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26820
+Name Spire Garden~
+Desc You step outside of the Spire for a brief moment to find an old decayed
+Garden.  Flowerbeds have long since died and dried up.  The pathway from
+each section of plants has eroded and worn away over time.  It appears that
+at sometime there was someone here who tended to these plants, at last!  A
+sign of goodness in this godforsaken Spire?  Nope, the plants may be dead,
+but their original form is still visible.  Bloodthirsty plants, poisonous
+roses, even large patches of poison oak.  The fountain in the middle, which
+has long since dried up, depicts a flaming plant, burning in a suspended,
+stone fire.  The sun overhead, even though it has a clear path open to shine
+forth on these wretched plants, seems to bare its rays away from the Spire,
+leaving it in perpetual darkness.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26819
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26821
+Name Arcane Portal~
+Desc After walking up the twisting, turning stairway, you enter a room unlike
+the rest.  Its like a glass tube suspened in the darkness that consumes it,
+a pathway of basalt seems to float silently in the sea of darkness.  Arcane
+symbols, imprinted on banners, float around, glowing brightly, then
+stopping, only to glow again a few seconds later.  The most impressive of
+this though, is the portal.  Two bents spikes, crossing each other at the
+top, leaving a small archway open, in which a luminescent red shimmer seems
+to be stuck.  The shimmer spins, as if drawing you in, as if, enticing you
+to enter.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+5
+~
+~
+0
+0
+26805
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26822
+Name Southern Hall of the Unforeseen Eye~
+Desc You stand in a dimmer hallway, the lights, even though the change from
+the bone chandeliers, these are more disturbing.  Each chandelier is in the
+shape of a body that has been deformed, twisted, turned into some kind of
+horrid beast.  Many of them hang from the cieling, each one depicting
+another hideous beast.  The carpet is somewhat new, intricately designed
+with several strands of purple, black, crimson, and dark blue.  It stretches
+long and far, splitting into the other hallways.  You can hear the rhythmic
+chanting of evil incantations in the distance...  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26823
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26812
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26823
+Name Intersection of Hallways~
+Desc The hallway splits in 4 directions, the nice elegant carpet flows
+perfectly around the corners leading off into the unnerving darkness.  Each
+direction, movement, chanting, spells, and even the usual screams of the
+anguished that seem to come with every source of evil.  To the east and
+west, lie more of the hallways, leading off into the darkness and
+incantations.  The north however, leads into a large meeting hall, which
+appears to be empty at this time.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26827
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26824
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26822
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26830
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26824
+Name East Wing of the Unforeseen Eye~
+Desc You stand on the elegant carpet, listening to the sounds.  You are very
+close to the source of the chantings.  A few doors line the hallway, and the
+carpet, walls, and ceiling are burnt black from misfired spells.  The
+chanting is furious, breath-taking, and very long.  And you cannot
+understand any of it.  Broken chandeliers of the gruesome beasts lie in
+shatters on the floor, either someone has a very aggresive mood, or they
+launch spells at the nearing target.  Whatever the answer, both are equally
+as dangerous.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26825
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26828
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26826
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26823
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26825
+Name Room of Enchantments~
+Desc This room is used for enchanting various things.  Creatures in which to
+test their cruel spells on, or equipment so it is more powerful then before.
+The room is small, and the floor is covered by a simple quilted carpet. 
+There was no need to decorate this room, since its only use is casting
+simple spells.  The walls are barren of decoration, and the ceiling has a
+single chandelier hanging from it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26824
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26826
+Name Room of Experimentation~
+Desc A gruesome room indeed, widely used for the experiments of spells on
+various objects and creatures.  Several tables, in which creatures were
+disected and subject to numerous spells that nothing should ever be put
+through, are spread out along the room.  Diagrams of creatures insides are
+nailed to the walls, blood stains and several body parts are spread across
+the floor.  Broken wands, melted swords, and crushed helmets are scattered
+in a disorganized fashion.  Even in a place of evil, education takes place,
+but probably the worse kind, of the Arcane arts.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26824
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26827
+Name Unforeseen Eye Meeting Hall~
+Desc You walk slowly forward on the carpet, peering into the meeting room. 
+Several benches, aligned in straight rows facing forward, towards a ominous
+bloody sacrifice altar.  The altar has been used numerous times in
+sacrificing victims to the burning hells.  Statues of demons, wanderers, and
+warriors are lined along the walls.  The carpet flows forward, and around to
+a set of stepping platforms up to the Altar.  A pair of robes and a dagger
+lie on the altar.  But the evil magics worshipped and studied here have
+allowed them to bind the sacrificial equipment to the altar until needed,
+meaning even you cannot lift them from it.  Bodies of the more recent
+victims are nailed to the wall behind the altar, rotting away, unpreserved. 
+The sight is chilling and all to disgusting.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26835
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26823
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26828
+Name East Wing of the Unforeseen eye~
+Desc The chanting is louder, and more mysterious then before.  The essence of
+evil, greed, death, can be sensed within these halls.  Its enough to make
+one faint.  The carpet has been burnt bad beyond here, so much that it is
+nowhere near even resembling the carpet further west.  There is no lighting
+here, only glow coming from the adjacent rooms, along with the sense of evil
+that fills this hallway.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26829
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26824
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26829
+Name Chamber of The Arcane Magic~
+Desc The room is like a bubble, its circular in shape, and transparent, so
+that you can see out into an endless sea of the void.  Faces seem to stretch
+out from the bubbles lining, emit a loud, howling scream then melt back into
+the lining.  The chanting is also produced this way, to preserve the room
+and creep it like this.  You float silently around, as if in water.  Along
+with a strange object, which has the shape of a statue.  But on one side,
+next to a chair of elegant design attached to the base of the statue, is a
+simple orb.  Its attached to the statue, but glows brilliantly.  You get
+close to it, only to be repelled by the overwhelming desire to kill
+something, anything, then yourself.  You resist and back away, it seems to
+contain the very essence of mana itself, but corrupted in a sort of way,
+that anything within its reach is almost instantly driven insane.  The
+desires are so strong, you almost surrendered to it.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26828
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26830
+Name West Wing of the Unforeseen Eye~
+Desc The carpet is long, and stretches down the length of this hall.  A few
+rooms line the walls.  The hallways aren't very decorated, the carpet, the
+deformed chandeliers, and the occasional bloodstain.  Its quiet,
+occasionally the sound of movement can be heard.  You peek around the two
+nearby rooms.  Books!  A library!  A treasure trove of knowledge, and, if
+lucky, of arcane magic, so that you could learn the arts.  You have no clue
+what lies within the library, but the thought of more power is tempting.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26831
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26823
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26832
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26834
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26831
+Name Forbidden Library~
+Desc As with any source of evil, a treasure trove of knowledge remains.  Books
+covered in the symbols of the Arcane magicks, Pentagrams, and several marks
+that you have yet to decipher.  The knowledge in here is invaluable, but it
+may take to long to decipher the language, which you most likely don't have
+time for.  Shelves go back as far as you can see, in a path leading into the
+back, of the dimmed portion of the library.  The books are in an organized
+style, whatever inhabits this tower takes pride in their skills.  No matter
+how vile or twisted they may be.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26833
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26830
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26832
+Name Dining Hall~
+Desc A nice large dining hall, its use is obvious, even the evil incarnations
+of this place of evil need nourishment.  Tables, chairs, bars, all arranged
+in a nice fashion, it would be quite a surprise to see something like this
+here, had the room not been covered in trash, bloodstains, rotten food and
+such.  Graffiti and obvious scars of magical spells cover the walls.  The
+room stinks horribly, with that sickly sense of decay.  Perhaps the old
+rotting food has todo with it?  Or maybe its just the bodies.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26830
+leaves north~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26833
+Name Magic Chamber~
+Desc The room is modelled much like a observatory.  Seats line the side walls,
+all facing in towards the scared pentagram etched in the center of the room,
+glowing with the radiant fire of the evil essence that surrounds this
+ghastly tower.  The walls are cracked, blood-stained, and scarred black,
+showing signs that this use has been used, whether or not the results have
+been satisfactory.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26831
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26834
+Name Uneven Dead end~
+Desc Strange, the hallway just kind of stops right here.  The wall right in
+front of you shows signs of digging, mining and such.  Perhaps they were
+adding onto the Halls?  It's kind of odd though, you'd have thought this
+Spire was complete considering the seeming age of it, but this is obviously
+unfinished.  Maybe this Spire was more recently risen?  If so, who knows
+what kind of sick twisted place this will become?  
+~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26830
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26835
+Name Crystalline Stairway~
+Desc This is obviously the result of some serious magic work.  The moment you
+enter this room, everything goes dim.  You can't see anything, except for
+one staircase.  Its brilliantly designed, it glows in a red fury, even
+though its translucent and apparently hovering in spot.  Its narrow and
+twists sharply upwards for quite some way.  Off in the distance, you can see
+several small floating crystals, much like what the staircase is made from
+except that they glow amazingly in several colors, they seem so close, but
+you just cannot reach them.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26827
+leaves south~
+Exit
+4
+~
+~
+0
+0
+26836
+leaves up~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26836
+Name Top of The Crystalline Staircase~
+Desc Amazing!  The staircase, sharply turning upwards, while glowing with its
+red fury, seems to lose its anger and glow a lighter shade of blue.  The
+staircase expands, stretching farther from its opposing sides making a large
+base in front of you.  Straight ahead of it though, lies a large archway,
+which is in the shape of a grinning skull with fangs, its eyes seem to peer
+into your very soul.  The mouth is open wide, and a pathway can be seen down
+what would have been its throat had it not been killed.  Whether this skull
+was the result of some brilliant craftsmen, or some horrific beast, still
+remains a question however.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26837
+leaves north~
+Exit
+5
+~
+~
+0
+0
+26835
+leaves down~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26837
+Name Dried Throat~
+Desc Ugh, disgusting, this hallway is made from the same horrific beast that
+the skull head at the beginning is from Sickening, its the long dried
+throat, preserved, as usual, by magic, of the beast.  Its dim in here,
+traces of old rotting food that it must have eaten are scattered around, the
+smell of decay, ugh, horrible.  Its a tight and cramped place, leading back
+into what could be, simply explained, one of the most disgusting experiences
+of your life.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26838
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26836
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26838
+Name South Worship Hall~
+Desc The throat and skull must have just been a walkway, because it ended
+here.  The throat was linked to a large hall.  The hall is large and
+ominous, its more of a large party room then a hall, but it is not used for
+parties.  From the looks of things, altars, statues, decorations...  This is
+a hall of worship, to whatever pagan god these horrible abdominations to the
+world are worshipping.  The cieling is up around 30 feet from the floor, and
+looks like it could fall at any moment.  Much like everything else here, its
+most likely sustained by magic.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26842
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26845
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26837
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26840
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26839
+Name Northwest Worship Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26849
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26841
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26840
+Name Southwest Worship Hall~
+Desc Much like the rest of the worship hall, this area is open and full of
+altars and such.  Why so many tools of worship are needed in such a place,
+is yet to be known.  Strange though, this area of the tower, is clean.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26841
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26838
+leaves east~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26841
+Name West Worship Hall~
+Desc This part of the worship hall has several bowls filled with stagnent
+water.  They probably bath themselves here before worshipping.  Such
+behavior from these creatures is strange.  The bowls are lined in a
+triangular order.  Every few steps, a triangle of bowls as at your feet,
+each one filled with a different color liquid.  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26839
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26842
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26840
+leaves south~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26842
+Name Center of The Worship Hall~
+Desc This is the center of the worship hall, the creatures and abdominations
+of this forsaken Spire gather here to worship their pagan gods, statues of
+pagan gods line the hall, but one simple statue lies centered in this very
+part, a statue of a robed figure stands before you, the very presence of it
+is chilling.  A simple pit lies before the statue, most likely for rituals
+or sacrifices...  
+~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26849
+leaves north~
+Exit
+1
+~
+~
+0
+0
+26843
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26838
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26841
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26843
+Name East Worship Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26844
+leaves north~
+Exit
+2
+~
+~
+0
+0
+26845
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26842
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26844
+Name Northeast Worship Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+2
+~
+~
+0
+0
+26843
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26849
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26845
+Name Southeast Worship Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+0
+~
+~
+0
+0
+26843
+leaves north~
+Exit
+3
+~
+~
+0
+0
+26838
+leaves west~
+HealRate 100
+EndRoom
+
+#ROOM
+Vnum 26849
+Name North Worship Hall~
+Desc ~
+Room_flags 0
+Sector_type 0
+Exit
+1
+~
+~
+0
+0
+26844
+leaves east~
+Exit
+2
+~
+~
+0
+0
+26842
+leaves south~
+Exit
+3
+~
+~
+0
+0
+26839
+leaves west~
+HealRate 100
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 26801 0 1
+D 0 26802 0 2
+D 0 26802 2 1
+D 0 26805 2 2
+D 0 26813 0 1
+D 0 26814 2 1
+O 0 26800 0 26803
+P 0 26801 1 26800 1
+M 0 26800 1 26808 1
+E 0 26805 0 16
+O 0 26802 0 26808
+O 0 26803 0 26808
+O 0 26804 0 26808
+O 0 26809 0 26812
+O 0 26807 0 26816
+O 0 26808 0 26821
+M 0 26803 1 26826 1
+E 0 26814 0 2
+E 0 26813 0 16
+M 0 26805 1 26827 1
+M 0 26804 1 26833 1
+E 0 26811 0 13
+M 0 26802 1 26842 1
+E 0 26816 0 12
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#26800
+mob echoat $n TEST1 glares at you, chilling you to the bone.
+mob echoat $n Slowly, it gets up and wields its weapon, -As of yet unnamed and created-
+mob echoat $n it watches you intently, waiting for your move.
+say Ah, I see you've entered Dark's Test Area...
+say You should be very proud, but it ends now.
+say you have terrorized my minions enough, we duel now!
+say ...or...you may bow before me, and I shall yet have mercy upon you.
+say 'tis your choice, mortal.
+mob echoat $n {WActions note: 2 actions can be done. 'bow' to him, or 'say Fight' to fight him.{x
+~
+#26801
+grin
+say You are a coward, and not worth my time.
+say Out of my face! NOW!
+mob echoat $n before you could react, Test closes his eyes and starts muttering.
+mob echoat $n a bright {Rred{x portal appears behind you, shimmering with a furious aura.
+mob echoat $n just before you could react, Test slams against you, bashing you into the portal.
+mob echoat $n You fly back, against the surface of the portal and sink in.
+mob echoat $n Its painful, your ripped to shreds, and you think your going to die...
+mob echoat $n Suddenly, your alive, standing elsewhere.
+mob transfer $n 3001
+mob force $n look
+~
+#26802
+nod
+say You are brave, let us see if you have the skill it takes to best me.
+mob echoat $n Test turns around and begins humming.
+mob echoat $n You feel a mental presence, some kind of supernatural force..
+mob echoat $n Everything starts rippling...
+mob echoat $n And suddenly...you find yourself...
+mob echoat $n In the same place because the mprog isnt finished because Dark was to lazy.
+mob echoat $n Hope you enjoyed :)
+mob echoat $n NOW GET THE HELL OUT!
+mob transfer $n 3001
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#26800
+mob echoat $n You step on a loose stone...
+mob echoat $n A Dart flies out!!
+mob echoat $n {ROWCH!{x it hit you..
+~
+#0
+
+#$
